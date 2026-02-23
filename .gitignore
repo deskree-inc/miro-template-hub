@@ -1,0 +1,14 @@
+# Sensitive files
+settings.json
+*.env
+.env*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo

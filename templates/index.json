@@ -1,0 +1,18 @@
+{
+  "templates": [
+    {
+      "name": "kanban-framework-ai-template",
+      "category": "miroverse",
+      "board_id": "uXjVJ7gbAlI=",
+      "board_name": "Kanban Framework AI Template",
+      "file": "miroverse/kanban-framework-ai-template.json",
+      "extracted_at": "2026-02-23T11:02:52.457913",
+      "frames": 2,
+      "nodes": 18,
+      "edges": 0
+    }
+  ],
+  "categories": [
+    "miroverse"
+  ]
+}
