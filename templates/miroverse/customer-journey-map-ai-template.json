@@ -1,0 +1,2168 @@
+{
+  "frames": [
+    {
+      "id": "f-0",
+      "title": "Proto-Persona",
+      "position": {
+        "x": -2063.012099825466,
+        "y": -1433.100246927956
+      },
+      "size": {
+        "width": 605.8770747453992,
+        "height": 963.0013168279636
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-1",
+      "title": "Customer Journey Map",
+      "position": {
+        "x": -559.128245878772,
+        "y": 623.8866228310162
+      },
+      "size": {
+        "width": 3617.5238752038927,
+        "height": 2456.131690021842
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-2",
+      "title": "",
+      "position": {
+        "x": -1388.0889750038932,
+        "y": -1787.5416548711203
+      },
+      "size": {
+        "width": 359.9691748977464,
+        "height": 254.11850094163498
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-3",
+      "title": "",
+      "position": {
+        "x": -2609.1072928439226,
+        "y": 1484.1263207537786
+      },
+      "size": {
+        "width": 359.9691748977464,
+        "height": 735.6522941763164
+      },
+      "style": {
+        "fillColor": "#f0f0f0"
+      }
+    },
+    {
+      "id": "f-4",
+      "title": "",
+      "position": {
+        "x": -2611.359660268165,
+        "y": -22.01174150418956
+      },
+      "size": {
+        "width": 359.9691748977464,
+        "height": 384.933586823131
+      },
+      "style": {
+        "fillColor": "#f0f0f0"
+      }
+    },
+    {
+      "id": "f-5",
+      "title": "",
+      "position": {
+        "x": -2608.4197928439226,
+        "y": -1803.5416548711205
+      },
+      "size": {
+        "width": 359.9691748977464,
+        "height": 222.118500941635
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-6",
+      "title": "",
+      "position": {
+        "x": 1621.6182791720476,
+        "y": -444.9080248066175
+      },
+      "size": {
+        "width": 359.9691748977464,
+        "height": 318.5423947465749
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-7",
+      "title": "",
+      "position": {
+        "x": -2611.868528646957,
+        "y": -430.612017698355
+      },
+      "size": {
+        "width": 359.9691748977464,
+        "height": 339.67893245344675
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-8",
+      "title": "",
+      "position": {
+        "x": -3260.404380292796,
+        "y": -1697.301426175271
+      },
+      "size": {
+        "width": 559.9999999999999,
+        "height": 434.59895833333405
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-9",
+      "title": "",
+      "position": {
+        "x": -2611.359660268165,
+        "y": -1541.5871744910658
+      },
+      "size": {
+        "width": 359.9691748977464,
+        "height": 237.79045981847463
+      },
+      "style": {
+        "fillColor": "#f0f0f0"
+      }
+    },
+    {
+      "id": "f-10",
+      "title": "",
+      "position": {
+        "x": -1386.1238283598402,
+        "y": -1555.360698477363
+      },
+      "size": {
+        "width": 359.9691748977464,
+        "height": 146.24341184587945
+      },
+      "style": {
+        "fillColor": "#f0f0f0"
+      }
+    }
+  ],
+  "nodes": [
+    {
+      "id": "n-0",
+      "position": {
+        "x": 168.02805423332535,
+        "y": 216.75326489365978
+      },
+      "size": {
+        "width": 255.63434086616397,
+        "height": 166.52751347852967
+      },
+      "style": {
+        "fillColor": "dark_blue",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "stickyNote",
+      "title": ""
+    },
+    {
+      "id": "n-1",
+      "position": {
+        "x": 445.69992923332535,
+        "y": 638.4594019886521
+      },
+      "size": {
+        "width": 255.63434086616397,
+        "height": 166.52751347852967
+      },
+      "style": {
+        "fillColor": "red",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "stickyNote",
+      "title": ""
+    },
+    {
+      "id": "n-2",
+      "position": {
+        "x": 445.69992923332535,
+        "y": 213.86659917737268
+      },
+      "size": {
+        "width": 255.63434086616397,
+        "height": 166.52751347852967
+      },
+      "style": {
+        "fillColor": "dark_blue",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "stickyNote",
+      "title": ""
+    },
+    {
+      "id": "n-3",
+      "position": {
+        "x": 160.04048424663557,
+        "y": 848.068267104982
+      },
+      "size": {
+        "width": 255.63434086616397,
+        "height": 166.52751347852967
+      },
+      "style": {
+        "fillColor": "dark_green",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "stickyNote",
+      "title": ""
+    },
+    {
+      "id": "n-4",
+      "position": {
+        "x": 178.24437828987135,
+        "y": 49.8813966802021
+      },
+      "size": {
+        "width": 287.8645385142857
+      },
+      "style": {
+        "fontSize": 32,
+        "textColor": "#1a1a1a",
+        "fontFamily": "roobert",
+        "align": "left"
+      },
+      "frameId": "f-0",
+      "visualKind": "text",
+      "title": "<p>Proto-Persona</p>"
+    },
+    {
+      "id": "n-5",
+      "position": {
+        "x": 160.04048424663557,
+        "y": 640.3984890486776
+      },
+      "size": {
+        "width": 255.63434086616397,
+        "height": 166.52751347852967
+      },
+      "style": {
+        "fillColor": "yellow",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "stickyNote",
+      "title": ""
+    },
+    {
+      "id": "n-6",
+      "position": {
+        "x": 445.69992923332535,
+        "y": 848.068267104982
+      },
+      "size": {
+        "width": 255.63434086616397,
+        "height": 166.52751347852967
+      },
+      "style": {
+        "fillColor": "dark_green",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "stickyNote",
+      "title": ""
+    },
+    {
+      "id": "n-7",
+      "position": {
+        "x": 166.74367223421865,
+        "y": 120.52394618706455
+      },
+      "size": {
+        "width": 258.2031048685714
+      },
+      "style": {
+        "fontSize": 24,
+        "textColor": "#1a1a1a",
+        "fontFamily": "roobert",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "text",
+      "title": "<p>Name</p>"
+    },
+    {
+      "id": "n-8",
+      "position": {
+        "x": 445.69992923332535,
+        "y": 113.45998529525184
+      },
+      "size": {
+        "width": 243.87779285142858
+      },
+      "style": {
+        "fontSize": 24,
+        "textColor": "#1a1a1a",
+        "fontFamily": "roobert",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "text",
+      "title": "<p>About me</p>"
+    },
+    {
+      "id": "n-9",
+      "position": {
+        "x": 160.04048424663557,
+        "y": 539.9918751665567
+      },
+      "size": {
+        "width": 239.30628078857143
+      },
+      "style": {
+        "fontSize": 24,
+        "textColor": "#1a1a1a",
+        "fontFamily": "roobert",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "text",
+      "title": "<p>Needs</p>"
+    },
+    {
+      "id": "n-10",
+      "position": {
+        "x": 446.7776140776237,
+        "y": 538.0527881065312
+      },
+      "size": {
+        "width": 257.78971056
+      },
+      "style": {
+        "fontSize": 24,
+        "textColor": "#1a1a1a",
+        "fontFamily": "roobert",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "text",
+      "title": "<p>Pain points</p>"
+    },
+    {
+      "id": "n-11",
+      "position": {
+        "x": 159.088396683515,
+        "y": 747.6616532228576
+      },
+      "size": {
+        "width": 241.88579314285712
+      },
+      "style": {
+        "fontSize": 24,
+        "textColor": "#1a1a1a",
+        "fontFamily": "roobert",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "text",
+      "title": "<p>Goals</p>"
+    },
+    {
+      "id": "n-12",
+      "position": {
+        "x": 441.42721201489036,
+        "y": 747.6616532228612
+      },
+      "size": {
+        "width": 247.08890643428572
+      },
+      "style": {
+        "fontSize": 24,
+        "textColor": "#1a1a1a",
+        "fontFamily": "roobert",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "text",
+      "title": "<p>Tools</p>"
+    },
+    {
+      "id": "n-13",
+      "position": {
+        "x": -1144.10438755502,
+        "y": -1914.600905341938
+      },
+      "size": {
+        "width": 784.0,
+        "height": 1105.4399999999998
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "<h1></h1>"
+    },
+    {
+      "id": "n-14",
+      "position": {
+        "x": 1794.206495654938,
+        "y": 1288.415735306539
+      },
+      "size": {
+        "width": 3340.217965858468,
+        "height": 2214.349768278593
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "frameId": "f-1",
+      "visualKind": "shape",
+      "title": "[table]"
+    },
+    {
+      "id": "n-15",
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "size": {
+        "width": 678.226963588517,
+        "height": 86.49851129824565
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[table_text]"
+    },
+    {
+      "id": "n-16",
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "size": {
+        "width": 324.3694173684212,
+        "height": 125.81601643381185
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[table_text]"
+    },
+    {
+      "id": "n-17",
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "size": {
+        "width": 324.3694173684212,
+        "height": 62.90800821690593
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[table_text]"
+    },
+    {
+      "id": "n-18",
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "size": {
+        "width": 324.3694173684212,
+        "height": 62.90800821690593
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[table_text]"
+    },
+    {
+      "id": "n-19",
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "size": {
+        "width": 324.3694173684212,
+        "height": 62.90800821690593
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[table_text]"
+    },
+    {
+      "id": "n-20",
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "size": {
+        "width": 324.3694173684212,
+        "height": 62.90800821690593
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[table_text]"
+    },
+    {
+      "id": "n-21",
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "size": {
+        "width": 165.60821421117066,
+        "height": 189.74207457360257
+      },
+      "style": {
+        "fillColor": "light_blue",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "<p>Time-consuming process of connecting multiple accounts</p>"
+    },
+    {
+      "id": "n-22",
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "size": {
+        "width": 678.226963588517,
+        "height": 86.49851129824565
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[table_text]"
+    },
+    {
+      "id": "n-23",
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "size": {
+        "width": 664.4658367910688,
+        "height": 86.49851129824565
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[table_text]"
+    },
+    {
+      "id": "n-24",
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "size": {
+        "width": 165.60821421117066,
+        "height": 189.74207457360257
+      },
+      "style": {
+        "fillColor": "gray",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": ""
+    },
+    {
+      "id": "n-25",
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "size": {
+        "width": 165.60821421117066,
+        "height": 189.74207457360257
+      },
+      "style": {
+        "fillColor": "gray",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": ""
+    },
+    {
+      "id": "n-26",
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "size": {
+        "width": 494.22792837371986,
+        "height": 112.93252482306285
+      },
+      "style": {
+        "borderColor": "#6edb8c"
+      },
+      "visualKind": "card",
+      "title": "<p>Personalized onboarding based on user priorities</p>",
+      "body": "<p><br /></p>"
+    },
+    {
+      "id": "n-27",
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "size": {
+        "width": 165.60821421117066,
+        "height": 189.74207457360257
+      },
+      "style": {
+        "fillColor": "light_blue",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "<p>Limited time to research options thoroughly</p>"
+    },
+    {
+      "id": "n-28",
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "size": {
+        "width": 484.4677715822908,
+        "height": 112.93252482306285
+      },
+      "style": {
+        "borderColor": "#6edb8c"
+      },
+      "visualKind": "card",
+      "title": "<p>Highlight time-saving features in marketing materials</p>",
+      "body": "<p><br /></p>"
+    },
+    {
+      "id": "n-29",
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "size": {
+        "width": 484.4677715822908,
+        "height": 87.99936999199703
+      },
+      "style": {
+        "borderColor": "#6edb8c"
+      },
+      "visualKind": "card",
+      "title": "<p>Streamline authentication</p>",
+      "body": "<p><br /></p>"
+    },
+    {
+      "id": "n-30",
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "size": {
+        "width": 494.22792837371986,
+        "height": 112.93252482306285
+      },
+      "style": {
+        "borderColor": "#6edb8c"
+      },
+      "visualKind": "card",
+      "title": "<p>Offer quick-connect options with major financial institutions</p>",
+      "body": "<p><br /></p>"
+    },
+    {
+      "id": "n-31",
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "size": {
+        "width": 664.4658367910688,
+        "height": 86.49851129824565
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[table_text]"
+    },
+    {
+      "id": "n-32",
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "size": {
+        "width": 324.3694173684212,
+        "height": 62.90800821690593
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[table_text]"
+    },
+    {
+      "id": "n-33",
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "size": {
+        "width": 324.3694173684212,
+        "height": 62.90800821690593
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[table_text]"
+    },
+    {
+      "id": "n-34",
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "size": {
+        "width": 324.3694173684212,
+        "height": 62.90800821690593
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[table_text]"
+    },
+    {
+      "id": "n-35",
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "size": {
+        "width": 165.60821421117066,
+        "height": 189.74207457360257
+      },
+      "style": {
+        "fillColor": "light_blue",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "<p>Information overload with too many features at once</p>"
+    },
+    {
+      "id": "n-36",
+      "position": {
+        "x": 160.04048424663557,
+        "y": 423.84119738201105
+      },
+      "size": {
+        "width": 255.63434086616397,
+        "height": 166.52751347852967
+      },
+      "style": {
+        "fillColor": "yellow",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "stickyNote",
+      "title": ""
+    },
+    {
+      "id": "n-37",
+      "position": {
+        "x": 160.04048424663557,
+        "y": 323.4345834998902
+      },
+      "size": {
+        "width": 239.30628078857143
+      },
+      "style": {
+        "fontSize": 24,
+        "textColor": "#1a1a1a",
+        "fontFamily": "roobert",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "text",
+      "title": "<p>Needs</p>"
+    },
+    {
+      "id": "n-38",
+      "position": {
+        "x": 445.69992923332535,
+        "y": 421.52711032198556
+      },
+      "size": {
+        "width": 255.63434086616397,
+        "height": 166.52751347852967
+      },
+      "style": {
+        "fillColor": "red",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "stickyNote",
+      "title": ""
+    },
+    {
+      "id": "n-39",
+      "position": {
+        "x": 446.7776140776237,
+        "y": 321.1204964398647
+      },
+      "size": {
+        "width": 257.78971056
+      },
+      "style": {
+        "fontSize": 24,
+        "textColor": "#1a1a1a",
+        "fontFamily": "roobert",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "text",
+      "title": "<p>Pain points</p>"
+    },
+    {
+      "id": "n-40",
+      "position": {
+        "x": 142.98844058665637,
+        "y": 122.68992951306362
+      },
+      "size": {
+        "width": 221.97688117714281
+      },
+      "style": {
+        "fontSize": 24,
+        "textColor": "#1a1a1a",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-2",
+      "visualKind": "text",
+      "title": "<p><strong>Build out the Proto Persona</strong></p>"
+    },
+    {
+      "id": "n-41",
+      "position": {
+        "x": 179.9845874488732,
+        "y": 195.42857142857363
+      },
+      "size": {
+        "width": 295.96917489428574
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#595959",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "frameId": "f-2",
+      "visualKind": "text",
+      "title": "<p>Bring your persona to life by using Miro AI</p>"
+    },
+    {
+      "id": "n-42",
+      "position": {
+        "x": 52.20210761367562,
+        "y": 52.202107613675054
+      },
+      "size": {
+        "width": 40.404215227348686,
+        "height": 40.404215227349596
+      },
+      "style": {
+        "fillColor": "#1c1c1e",
+        "borderColor": "#ffffff",
+        "textColor": "#ffffff",
+        "fontSize": 18,
+        "fontFamily": "roobert_pro",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "circle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-2",
+      "visualKind": "shape",
+      "title": "<p><strong>2</strong></p>"
+    },
+    {
+      "id": "n-43",
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "size": {
+        "width": 135.32000000000002,
+        "height": 155.04000000000002
+      },
+      "style": {
+        "fillColor": "light_blue",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "<p>Complex authentication processes</p>"
+    },
+    {
+      "id": "n-44",
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "size": {
+        "width": 487.87569385084754,
+        "height": 87.99936999199703
+      },
+      "style": {
+        "borderColor": "#6edb8c"
+      },
+      "visualKind": "card",
+      "title": "<p>While maintaining security</p>",
+      "body": ""
+    },
+    {
+      "id": "n-45",
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "size": {
+        "width": 139.44752342228458,
+        "height": 139.44752342228458
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ8wMSEU%3D/resources/images/3458764517259015642?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-46",
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "size": {
+        "width": 199.33183104456268,
+        "height": 199.33183104456268
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ8wMSEU%3D/resources/images/3458764517259015643?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-47",
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "size": {
+        "width": 175.00146372267315,
+        "height": 175.00146372267315
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ8wMSEU%3D/resources/images/3458764517259015644?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-48",
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[widgets_stack]"
+    },
+    {
+      "id": "n-49",
+      "position": {
+        "x": 82.5,
+        "y": 114.0
+      },
+      "size": {
+        "width": 135.32000000000002,
+        "height": 155.04000000000002
+      },
+      "style": {
+        "fillColor": "yellow",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": ""
+    },
+    {
+      "id": "n-50",
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "size": {
+        "width": 135.32000000000002,
+        "height": 155.04000000000002
+      },
+      "style": {
+        "fillColor": "yellow",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": ""
+    },
+    {
+      "id": "n-51",
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "size": {
+        "width": 135.32000000000002,
+        "height": 155.04000000000002
+      },
+      "style": {
+        "fillColor": "yellow",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": ""
+    },
+    {
+      "id": "n-52",
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "size": {
+        "width": 135.32000000000002,
+        "height": 155.04000000000002
+      },
+      "style": {
+        "fillColor": "yellow",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": ""
+    },
+    {
+      "id": "n-53",
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "size": {
+        "width": 135.32000000000002,
+        "height": 155.04000000000002
+      },
+      "style": {
+        "fillColor": "yellow",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": ""
+    },
+    {
+      "id": "n-54",
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "size": {
+        "width": 135.32000000000002,
+        "height": 155.04000000000002
+      },
+      "style": {
+        "fillColor": "yellow",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": ""
+    },
+    {
+      "id": "n-55",
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "size": {
+        "width": 135.32000000000002,
+        "height": 155.04000000000002
+      },
+      "style": {
+        "fillColor": "yellow",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": ""
+    },
+    {
+      "id": "n-56",
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "size": {
+        "width": 135.32000000000002,
+        "height": 155.04000000000002
+      },
+      "style": {
+        "fillColor": "yellow",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": ""
+    },
+    {
+      "id": "n-57",
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "size": {
+        "width": 135.32000000000002,
+        "height": 155.04000000000002
+      },
+      "style": {
+        "fillColor": "yellow",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": ""
+    },
+    {
+      "id": "n-58",
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "size": {
+        "width": 165.60821421117066,
+        "height": 189.74207457360257
+      },
+      "style": {
+        "fillColor": "gray",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": ""
+    },
+    {
+      "id": "n-59",
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "size": {
+        "width": 165.60821421117066,
+        "height": 189.74207457360257
+      },
+      "style": {
+        "fillColor": "gray",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": ""
+    },
+    {
+      "id": "n-60",
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[widgets_stack]"
+    },
+    {
+      "id": "n-61",
+      "position": {
+        "x": 82.5,
+        "y": 114.0
+      },
+      "size": {
+        "width": 135.32000000000002,
+        "height": 155.04000000000002
+      },
+      "style": {
+        "fillColor": "light_blue",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": ""
+    },
+    {
+      "id": "n-62",
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[widgets_stack]"
+    },
+    {
+      "id": "n-63",
+      "position": {
+        "x": 82.5,
+        "y": 114.0
+      },
+      "size": {
+        "width": 135.32000000000002,
+        "height": 155.04000000000002
+      },
+      "style": {
+        "fillColor": "gray",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": ""
+    },
+    {
+      "id": "n-64",
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[unknown]"
+    },
+    {
+      "id": "n-65",
+      "position": {
+        "x": 172.54318560639732,
+        "y": 168.9804652865655
+      },
+      "size": {
+        "width": 303.38324621
+      },
+      "style": {
+        "fontSize": 14,
+        "textColor": "#595959",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "frameId": "f-4",
+      "visualKind": "text",
+      "title": "<ol><li data-list=\"ordered\"><span class=\"ql-ui\"></span>Populate the &#39;Actions&#39; row</li><li data-list=\"ordered\"><span class=\"ql-ui\"></span>Select all the stickies in the &#39;Actions&#39; row</li><li data-list=\"ordered\"><span class=\"ql-ui\"></span>Open Sidekick         and use the example prompt below</li></ol>"
+    },
+    {
+      "id": "n-66",
+      "position": {
+        "x": 179.9845874488732,
+        "y": 268.5286571916381
+      },
+      "size": {
+        "width": 288.09419253
+      },
+      "style": {
+        "fontSize": 14,
+        "textColor": "#222428",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "frameId": "f-4",
+      "visualKind": "text",
+      "title": "<p><em style=\"background-color:rgb(222,218,255);color:rgb(34,36,40)\">Use the selected stickies to generate 4 separate images for a storyboard in a low-fi sketched style with colour. Include a woman with a neutral expression using her mobile in each.</em></p>"
+    },
+    {
+      "id": "n-67",
+      "position": {
+        "x": 154.84750776989532,
+        "y": 103.83520293080937
+      },
+      "size": {
+        "width": 245.69501554285716
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#1a1a1a",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-4",
+      "visualKind": "text",
+      "title": "<p><strong>Generate Story images</strong></p>"
+    },
+    {
+      "id": "n-68",
+      "position": {
+        "x": 159.45464457647395,
+        "y": 180.36974644521388
+      },
+      "size": {
+        "width": 29.54018768270323,
+        "height": 29.54018768270323
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ8wMSEU%3D/resources/images/3458764517259015645?format=preview&redirect=false"
+        }
+      },
+      "frameId": "f-4",
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-69",
+      "position": {
+        "x": 175.30786819827009,
+        "y": 115.87240719163606
+      },
+      "size": {
+        "width": 283.8200155457143
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#1a1a1a",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-3",
+      "visualKind": "text",
+      "title": "<p>Drag people to an opportunity to assign them</p>"
+    },
+    {
+      "id": "n-70",
+      "position": {
+        "x": 32.00000000000037,
+        "y": 169.396348518678
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "frameId": "f-3",
+      "visualKind": "shape",
+      "title": "[people]"
+    },
+    {
+      "id": "n-71",
+      "position": {
+        "x": 139.43749118495398,
+        "y": 343.501649213114
+      },
+      "size": {
+        "width": 207.0
+      },
+      "style": {
+        "fontSize": 14,
+        "textColor": "#595959",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "frameId": "f-4",
+      "visualKind": "text",
+      "title": "<p><em>Adjust the prompt for best results</em></p>"
+    },
+    {
+      "id": "n-72",
+      "position": {
+        "x": 64.27372219700774,
+        "y": 51.4890300368329
+      },
+      "size": {
+        "width": 64.54744439401536,
+        "height": 38.97806007366671
+      },
+      "style": {
+        "fillColor": "#1c1c1e",
+        "borderColor": "#ffffff",
+        "textColor": "#ffffff",
+        "fontSize": 14,
+        "fontFamily": "roobert_pro",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-4",
+      "visualKind": "shape",
+      "title": "<p><strong>Tip </strong></p>"
+    },
+    {
+      "id": "n-73",
+      "position": {
+        "x": 64.27372219700774,
+        "y": 51.48903003683358
+      },
+      "size": {
+        "width": 64.54744439401536,
+        "height": 38.97806007366671
+      },
+      "style": {
+        "fillColor": "#1c1c1e",
+        "borderColor": "#ffffff",
+        "textColor": "#ffffff",
+        "fontSize": 14,
+        "fontFamily": "roobert_pro",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-3",
+      "visualKind": "shape",
+      "title": "<p><strong>Tip </strong></p>"
+    },
+    {
+      "id": "n-74",
+      "position": {
+        "x": 171.66812808665637,
+        "y": 105.54707237020652
+      },
+      "size": {
+        "width": 279.33625616571425
+      },
+      "style": {
+        "fontSize": 24,
+        "textColor": "#1a1a1a",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-5",
+      "visualKind": "text",
+      "title": "<p><strong>Draft a Proto-Persona</strong></p>"
+    },
+    {
+      "id": "n-75",
+      "position": {
+        "x": 179.9845874488732,
+        "y": 164.4042152273492
+      },
+      "size": {
+        "width": 295.96917489428574
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#595959",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "frameId": "f-5",
+      "visualKind": "text",
+      "title": "<p>Write down what information you already know about this profile</p>"
+    },
+    {
+      "id": "n-76",
+      "position": {
+        "x": 52.20210761367562,
+        "y": 52.202107613675295
+      },
+      "size": {
+        "width": 40.404215227348686,
+        "height": 40.404215227349596
+      },
+      "style": {
+        "fillColor": "#1c1c1e",
+        "borderColor": "#ffffff",
+        "textColor": "#ffffff",
+        "fontSize": 18,
+        "fontFamily": "roobert_pro",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "circle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-5",
+      "visualKind": "shape",
+      "title": "<p><strong>1</strong></p>"
+    },
+    {
+      "id": "n-77",
+      "position": {
+        "x": 52.20210761367562,
+        "y": 52.20210761367514
+      },
+      "size": {
+        "width": 40.404215227348686,
+        "height": 40.404215227349596
+      },
+      "style": {
+        "fillColor": "#1c1c1e",
+        "borderColor": "#ffffff",
+        "textColor": "#ffffff",
+        "fontSize": 18,
+        "fontFamily": "roobert_pro",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "circle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-6",
+      "visualKind": "shape",
+      "title": "<p><strong>4</strong></p>"
+    },
+    {
+      "id": "n-78",
+      "position": {
+        "x": 137.9339898290804,
+        "y": 118.82629314942812
+      },
+      "size": {
+        "width": 221.97688117714281
+      },
+      "style": {
+        "fontSize": 24,
+        "textColor": "#1a1a1a",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-6",
+      "visualKind": "text",
+      "title": "<p><strong>Make it easy to share </strong></p>"
+    },
+    {
+      "id": "n-79",
+      "position": {
+        "x": 174.93013669129724,
+        "y": 204.42207792208126
+      },
+      "size": {
+        "width": 295.96917489428574
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#595959",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "frameId": "f-6",
+      "visualKind": "text",
+      "title": "<p>Let the AI flow repackage this detailed asset into an executive summary</p>"
+    },
+    {
+      "id": "n-80",
+      "position": {
+        "x": 161.51109593693255,
+        "y": 280.14547023584225
+      },
+      "size": {
+        "width": 268.0
+      },
+      "style": {
+        "fontSize": 14,
+        "textColor": "#595959",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "frameId": "f-6",
+      "visualKind": "text",
+      "title": "<p><em>Always review AI-generated results carefully</em></p>"
+    },
+    {
+      "id": "n-81",
+      "position": {
+        "x": 1865.6028666209208,
+        "y": -604.1792221799051
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "Slides"
+    },
+    {
+      "id": "n-82",
+      "position": {
+        "x": -110.16281050157261,
+        "y": -1696.6593282884905
+      },
+      "size": {
+        "width": 435.88315410689506,
+        "height": 435.88315410689506
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ8wMSEU%3D/resources/images/0?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-83",
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "size": {
+        "width": 185.5031535379787,
+        "height": 43.47730161046376
+      },
+      "style": {
+        "borderColor": "#6edb8c"
+      },
+      "visualKind": "card",
+      "title": "<p><br /></p>",
+      "body": "<p><br /></p>"
+    },
+    {
+      "id": "n-84",
+      "position": {
+        "x": 160.61499055521918,
+        "y": 128.75882155851795
+      },
+      "size": {
+        "width": 257.22998110285715
+      },
+      "style": {
+        "fontSize": 24,
+        "textColor": "#1a1a1a",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-7",
+      "visualKind": "text",
+      "title": "<p><strong>Draft the Customer Journey map</strong></p>"
+    },
+    {
+      "id": "n-85",
+      "position": {
+        "x": 179.9845874488732,
+        "y": 214.35460633117108
+      },
+      "size": {
+        "width": 295.96917489428574
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#595959",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "frameId": "f-7",
+      "visualKind": "text",
+      "title": "<p>Align your cross functional team  with a customer-centric view of your product or service experience</p>"
+    },
+    {
+      "id": "n-86",
+      "position": {
+        "x": 52.20210761367562,
+        "y": 52.20210761367488
+      },
+      "size": {
+        "width": 40.404215227348686,
+        "height": 40.404215227349596
+      },
+      "style": {
+        "fillColor": "#1c1c1e",
+        "borderColor": "#ffffff",
+        "textColor": "#ffffff",
+        "fontSize": 18,
+        "fontFamily": "roobert_pro",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "circle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-7",
+      "visualKind": "shape",
+      "title": "<p><strong>3</strong></p>"
+    },
+    {
+      "id": "n-87",
+      "position": {
+        "x": 136.06554669450853,
+        "y": 299.662989175236
+      },
+      "size": {
+        "width": 207.0
+      },
+      "style": {
+        "fontSize": 14,
+        "textColor": "#595959",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "frameId": "f-7",
+      "visualKind": "text",
+      "title": "<p><em>Adjust the prompt for best results</em></p>"
+    },
+    {
+      "id": "n-88",
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "size": {
+        "width": 449.6595174120167,
+        "height": 280.1663197311163
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ8wMSEU%3D/resources/images/3458764517259015646?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-89",
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "size": {
+        "width": 449.6595174120167,
+        "height": 280.1663197311163
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ8wMSEU%3D/resources/images/3458764517259015647?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-90",
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "size": {
+        "width": 449.6595174120167,
+        "height": 280.1663197311163
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ8wMSEU%3D/resources/images/3458764517259015648?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-91",
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "size": {
+        "width": 449.6595174120167,
+        "height": 280.1663197311163
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ8wMSEU%3D/resources/images/3458764517259015649?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-92",
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[unknown]"
+    },
+    {
+      "id": "n-93",
+      "position": {
+        "x": 280.0000000000027,
+        "y": 132.5714285714294
+      },
+      "size": {
+        "width": 432.0
+      },
+      "style": {
+        "fontSize": 48,
+        "textColor": "#1c1c1e",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-8",
+      "visualKind": "text",
+      "title": "<p><strong>Customer Journey Map</strong></p>"
+    },
+    {
+      "id": "n-94",
+      "position": {
+        "x": 279.99999999999994,
+        "y": 276.7328869047629
+      },
+      "size": {
+        "width": 432.0
+      },
+      "style": {
+        "fontSize": 24,
+        "textColor": "#595959",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "frameId": "f-8",
+      "visualKind": "text",
+      "title": "<p>Map customer journeys across touchpoints to identify emotions, pain points, and opportunities.</p>"
+    },
+    {
+      "id": "n-95",
+      "position": {
+        "x": 181.45452116099514,
+        "y": 165.7904598184746
+      },
+      "size": {
+        "width": 298.90904232
+      },
+      "style": {
+        "fontSize": 14,
+        "textColor": "#595959",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "frameId": "f-9",
+      "visualKind": "text",
+      "title": "<p>A Proto-Persona is a fictional user profile that teams create from assumptions, rather than research. It’s a quick, collaborative way to align.</p>"
+    },
+    {
+      "id": "n-96",
+      "position": {
+        "x": 154.84750776989532,
+        "y": 103.8352029308094
+      },
+      "size": {
+        "width": 245.69501554285716
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#1a1a1a",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-9",
+      "visualKind": "text",
+      "title": "<p><strong>Generate Story images</strong></p>"
+    },
+    {
+      "id": "n-97",
+      "position": {
+        "x": 64.27372219700774,
+        "y": 51.48903003683293
+      },
+      "size": {
+        "width": 64.54744439401536,
+        "height": 38.97806007366671
+      },
+      "style": {
+        "fillColor": "#1c1c1e",
+        "borderColor": "#ffffff",
+        "textColor": "#ffffff",
+        "fontSize": 14,
+        "fontFamily": "roobert_pro",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-9",
+      "visualKind": "shape",
+      "title": "<p><strong>Tip </strong></p>"
+    },
+    {
+      "id": "n-98",
+      "position": {
+        "x": 179.98458744887412,
+        "y": 104.24341184587928
+      },
+      "size": {
+        "width": 295.9691749
+      },
+      "style": {
+        "fontSize": 14,
+        "textColor": "#595959",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "frameId": "f-10",
+      "visualKind": "text",
+      "title": "<p><em>Adjust the prompt for best results</em></p>"
+    },
+    {
+      "id": "n-99",
+      "position": {
+        "x": 64.08165987443968,
+        "y": 52.1217059229395
+      },
+      "size": {
+        "width": 64.16331974887929,
+        "height": 40.243411845879635
+      },
+      "style": {
+        "fillColor": "#1c1c1e",
+        "borderColor": "#ffffff",
+        "textColor": "#ffffff",
+        "fontSize": 14,
+        "fontFamily": "noto_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-10",
+      "visualKind": "shape",
+      "title": "<p><strong>Tip </strong></p>"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e-0",
+      "sourceNodeId": "n-29",
+      "targetNodeId": "n-44",
+      "style": {
+        "lineStyle": "solid",
+        "arrowHead": "end",
+        "borderColor": "#333333",
+        "strokeWidth": "2.0",
+        "extra": {
+          "connectorShape": "elbowed",
+          "sourcePosition": "auto",
+          "targetPosition": "auto"
+        }
+      }
+    },
+    {
+      "id": "e-1",
+      "sourceNodeId": "f-3",
+      "targetNodeId": "n-28",
+      "style": {
+        "lineStyle": "dashed",
+        "arrowHead": "end",
+        "borderColor": "#b0b0b0",
+        "strokeWidth": "2.0",
+        "extra": {
+          "connectorShape": "curved",
+          "sourcePosition": "auto",
+          "targetPosition": "auto"
+        }
+      }
+    }
+  ],
+  "annotations": [],
+  "_metadata": {
+    "extracted_at": "2026-02-23T13:51:53.458670",
+    "total_items": 111,
+    "total_connectors": 3,
+    "frames": 11,
+    "nodes": 100,
+    "edges": 2
+  },
+  "_template": {
+    "name": "customer-journey-map-ai-template",
+    "category": "miroverse",
+    "source": "miroverse",
+    "source_slug": "customer-journey-map-template-ai",
+    "source_board_id": "uXjVJ8wMSEU=",
+    "tags": [
+      "diagramming & mapping",
+      "marketing",
+      "ux",
+      "market research",
+      "customer journey map",
+      "research & design",
+      "ai accelerated"
+    ],
+    "extracted_at": "2026-02-23T13:51:53.458693"
+  }
+}

@@ -1,0 +1,7630 @@
+{
+  "frames": [
+    {
+      "id": "f-0",
+      "title": "Themes to focus on:",
+      "position": {
+        "x": -4226.328466045161,
+        "y": 403.5278873949759
+      },
+      "size": {
+        "width": 1954.515049216711,
+        "height": 409.38123437574166
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    }
+  ],
+  "nodes": [
+    {
+      "id": "n-0",
+      "position": {
+        "x": -4250.583649996944,
+        "y": -674.1625374092492
+      },
+      "size": {
+        "width": 2218.868425621018,
+        "height": 3238.1442871568634
+      },
+      "style": {
+        "fillColor": "#dedaff",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 15,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 0.3
+      },
+      "visualKind": "shape",
+      "title": "<p>&#xfeff;</p>"
+    },
+    {
+      "id": "n-1",
+      "position": {
+        "x": -2171.6337126395442,
+        "y": -688.0097596690008
+      },
+      "size": {
+        "width": 1621.2098409676018,
+        "height": 3182.27164296044
+      },
+      "style": {
+        "fillColor": "#dedaff",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 15,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 0.3
+      },
+      "visualKind": "shape",
+      "title": "<p>&#xfeff;</p>"
+    },
+    {
+      "id": "n-2",
+      "position": {
+        "x": -3695.7699686419933,
+        "y": -3318.4817192029254
+      },
+      "size": {
+        "width": 3246.947864073548,
+        "height": 948.7435946751611
+      },
+      "style": {
+        "fillColor": "#8f7fee",
+        "borderColor": "#ffffff",
+        "textColor": "#9a9994",
+        "fontSize": 80,
+        "fontFamily": "open_sans",
+        "borderWidth": 24,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 0.4
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-3",
+      "position": {
+        "x": -3736.543930770679,
+        "y": -3348.1228018353463
+      },
+      "size": {
+        "width": 3246.947864073548,
+        "height": 948.743594675161
+      },
+      "style": {
+        "fillColor": "#8f7fee",
+        "borderColor": "#ffffff",
+        "textColor": "#9a9994",
+        "fontSize": 80,
+        "fontFamily": "open_sans",
+        "borderWidth": 24,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-4",
+      "position": {
+        "x": -3399.85094520365,
+        "y": -3542.9410719997254
+      },
+      "size": {
+        "width": 2083.284464455183
+      },
+      "style": {
+        "fontSize": 142,
+        "textColor": "#ffffff",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong style=\"color:rgb(255,255,255)\">Creative Writing with AI</strong></p>"
+    },
+    {
+      "id": "n-5",
+      "position": {
+        "x": -3324.3396534169447,
+        "y": -3133.771567606739
+      },
+      "size": {
+        "width": 1932.2618808884577
+      },
+      "style": {
+        "fontSize": 55,
+        "textColor": "#ffffff",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong style=\"color:rgb(255,255,255)\">Objective: </strong><span style=\"color:rgb(255,255,255)\">Use AI to help you practice your creative writing skills</span></p><p><br /></p><p><strong>Why: </strong>AI should help us become better humans and encourage creativity, not do all of our writing for us. Use this template to flex your imagination.</p><p><br /></p><p><br /></p>"
+    },
+    {
+      "id": "n-6",
+      "position": {
+        "x": -4400.893769898115,
+        "y": -3325.3732556917935
+      },
+      "size": {
+        "width": 67.68172224956834,
+        "height": 67.68172224956834
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mockup]"
+    },
+    {
+      "id": "n-7",
+      "position": {
+        "x": -4400.893769898115,
+        "y": -3175.0225486835893
+      },
+      "size": {
+        "width": 67.68172224956851,
+        "height": 67.68172224956851
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mockup]"
+    },
+    {
+      "id": "n-8",
+      "position": {
+        "x": -2351.5280762808366,
+        "y": -2267.37147353224
+      },
+      "size": {
+        "width": 973.3494053055492,
+        "height": 105.04475151335208
+      },
+      "style": {
+        "fillColor": "#8f7fee",
+        "borderColor": "#ffffff",
+        "textColor": "#ffffff",
+        "fontSize": 52,
+        "fontFamily": "open_sans",
+        "borderWidth": 20,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": "<p><strong></strong></p>"
+    },
+    {
+      "id": "n-9",
+      "position": {
+        "x": -2376.980190530045,
+        "y": -2287.138378406057
+      },
+      "size": {
+        "width": 973.3494053055492,
+        "height": 105.04475151335208
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#ffffff",
+        "textColor": "#8f7fee",
+        "fontSize": 52,
+        "fontFamily": "open_sans",
+        "borderWidth": 20,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": "<p><strong style=\"color:rgb(143,127,238)\">02 Your turn - write away!</strong></p>"
+    },
+    {
+      "id": "n-10",
+      "position": {
+        "x": -4691.459173751531,
+        "y": -2267.37147353224
+      },
+      "size": {
+        "width": 973.3494053055492,
+        "height": 105.04475151335208
+      },
+      "style": {
+        "fillColor": "#8f7fee",
+        "borderColor": "#ffffff",
+        "textColor": "#ffffff",
+        "fontSize": 52,
+        "fontFamily": "open_sans",
+        "borderWidth": 20,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": "<p><strong></strong></p>"
+    },
+    {
+      "id": "n-11",
+      "position": {
+        "x": -4716.911288000747,
+        "y": -2287.138378406057
+      },
+      "size": {
+        "width": 973.3494053055492,
+        "height": 105.04475151335208
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#ffffff",
+        "textColor": "#8f7fee",
+        "fontSize": 52,
+        "fontFamily": "open_sans",
+        "borderWidth": 20,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": "<p><strong style=\"color:rgb(143,127,238)\">01 Pick some themes</strong></p>"
+    },
+    {
+      "id": "n-12",
+      "position": {
+        "x": -2364.2541334054413,
+        "y": -2009.6418943046988
+      },
+      "size": {
+        "width": 998.8015195547575,
+        "height": 261.2302388320251
+      },
+      "style": {
+        "fillColor": "#8f7fee",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 52,
+        "fontFamily": "open_sans",
+        "borderWidth": 20,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-13",
+      "position": {
+        "x": -2254.4467735644944,
+        "y": -2009.6418943046992
+      },
+      "size": {
+        "width": 649.77315211887
+      },
+      "style": {
+        "fontSize": 27,
+        "textColor": "#ffffff",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p>Run this block when you&#39;re ready to generate an AI prompt to help inspire your creative writing. This prompt will focus on the themes you selected in step one.</p>"
+    },
+    {
+      "id": "n-14",
+      "position": {
+        "x": -2702.9450711629715,
+        "y": -2009.6418943046988
+      },
+      "size": {
+        "width": 196.70942045714287
+      },
+      "style": {
+        "fontSize": 80,
+        "textColor": "#ffffff",
+        "fontFamily": "open_sans",
+        "align": "center"
+      },
+      "visualKind": "text",
+      "title": "<p>02</p>"
+    },
+    {
+      "id": "n-15",
+      "position": {
+        "x": -1511.3054878772705,
+        "y": -2202.698988944438
+      },
+      "size": {
+        "width": 576.6657217686341,
+        "height": 105.48467317005952
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 33,
+        "fontFamily": "noto_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": "<p></p>"
+    },
+    {
+      "id": "n-16",
+      "position": {
+        "x": -1461.1926974634757,
+        "y": -2173.52282791781
+      },
+      "size": {
+        "width": 386.85866273741954
+      },
+      "style": {
+        "fontSize": 32,
+        "textColor": "#305bab",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong style=\"color:rgb(48,91,171)\">Cyborg Action (You &#43; AI)</strong></p>"
+    },
+    {
+      "id": "n-17",
+      "position": {
+        "x": -4704.185230876135,
+        "y": -2025.9585772962798
+      },
+      "size": {
+        "width": 998.8015195547575,
+        "height": 261.2302388320251
+      },
+      "style": {
+        "fillColor": "#8f7fee",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 52,
+        "fontFamily": "open_sans",
+        "borderWidth": 20,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-18",
+      "position": {
+        "x": -4595.717272102019,
+        "y": -2025.9585772962798
+      },
+      "size": {
+        "width": 666.8835185793101
+      },
+      "style": {
+        "fontSize": 24,
+        "textColor": "#ffffff",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p>First, explore all of the theme ideas listed below - feel free to add any of your own as well using the blank stickies. Next, drag the areas you want to focus on into the &#34;Themes to focus on&#34; frame. This will help the AI generate a prompt according to your mood.</p>"
+    },
+    {
+      "id": "n-19",
+      "position": {
+        "x": -5042.876168633666,
+        "y": -2025.9585772962798
+      },
+      "size": {
+        "width": 196.70942045714287
+      },
+      "style": {
+        "fontSize": 80,
+        "textColor": "#ffffff",
+        "fontFamily": "open_sans",
+        "align": "center"
+      },
+      "visualKind": "text",
+      "title": "<p>01</p>"
+    },
+    {
+      "id": "n-20",
+      "position": {
+        "x": -4862.719505182283,
+        "y": -3348.1228018353463
+      },
+      "size": {
+        "width": 645.6229916653067,
+        "height": 645.6229916653067
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[stamp]"
+    },
+    {
+      "id": "n-21",
+      "position": {
+        "x": -5132.407924291094,
+        "y": -1639.3707065964813
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Science Fiction"
+    },
+    {
+      "id": "n-22",
+      "position": {
+        "x": -4931.056933569774,
+        "y": -1639.3707065964813
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Romance"
+    },
+    {
+      "id": "n-23",
+      "position": {
+        "x": -4729.705942848456,
+        "y": -1639.3707065964813
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Fantasy"
+    },
+    {
+      "id": "n-24",
+      "position": {
+        "x": -4528.354952127138,
+        "y": -1639.3707065964813
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Mystery"
+    },
+    {
+      "id": "n-25",
+      "position": {
+        "x": -4327.003961405818,
+        "y": -1639.3707065964813
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Historical Fiction"
+    },
+    {
+      "id": "n-26",
+      "position": {
+        "x": -4125.6529706845,
+        "y": -1639.3707065964813
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Dystopian"
+    },
+    {
+      "id": "n-27",
+      "position": {
+        "x": -4729.705942848456,
+        "y": -1109.1762547242383
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Coming of Age"
+    },
+    {
+      "id": "n-28",
+      "position": {
+        "x": -4528.354952127138,
+        "y": -1109.1762547242383
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Adventure"
+    },
+    {
+      "id": "n-29",
+      "position": {
+        "x": -4327.003961405818,
+        "y": -1109.1762547242383
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Psychological Thriller"
+    },
+    {
+      "id": "n-30",
+      "position": {
+        "x": -4125.6529706845,
+        "y": -1109.1762547242383
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Supernatural"
+    },
+    {
+      "id": "n-31",
+      "position": {
+        "x": -3924.301979963182,
+        "y": -1109.1762547242383
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Drama"
+    },
+    {
+      "id": "n-32",
+      "position": {
+        "x": -3722.9509892418637,
+        "y": -1109.1762547242383
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Horror"
+    },
+    {
+      "id": "n-33",
+      "position": {
+        "x": -4327.003961405818,
+        "y": -1462.6392226390672
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Comedy"
+    },
+    {
+      "id": "n-34",
+      "position": {
+        "x": -4125.6529706845,
+        "y": -1462.6392226390672
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Tragedy"
+    },
+    {
+      "id": "n-35",
+      "position": {
+        "x": -3924.301979963182,
+        "y": -1462.6392226390672
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Mythology"
+    },
+    {
+      "id": "n-36",
+      "position": {
+        "x": -3722.9509892418637,
+        "y": -1462.6392226390672
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Crime"
+    },
+    {
+      "id": "n-37",
+      "position": {
+        "x": -3521.5999985205444,
+        "y": -1462.6392226390672
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Survival"
+    },
+    {
+      "id": "n-38",
+      "position": {
+        "x": -3320.249007799226,
+        "y": -1462.6392226390672
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Philosophical"
+    },
+    {
+      "id": "n-39",
+      "position": {
+        "x": -3924.301979963182,
+        "y": -932.4447707668241
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Political Thriller"
+    },
+    {
+      "id": "n-40",
+      "position": {
+        "x": -3722.9509892418637,
+        "y": -932.4447707668241
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Epic"
+    },
+    {
+      "id": "n-41",
+      "position": {
+        "x": -3521.5999985205444,
+        "y": -932.4447707668241
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Urban Fantasy"
+    },
+    {
+      "id": "n-42",
+      "position": {
+        "x": -3320.249007799226,
+        "y": -932.4447707668241
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Cyberpunk"
+    },
+    {
+      "id": "n-43",
+      "position": {
+        "x": -5132.407924291094,
+        "y": -1285.9077386816527
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Post-Apocalyptic"
+    },
+    {
+      "id": "n-44",
+      "position": {
+        "x": -4931.056933569774,
+        "y": -1285.9077386816527
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Gothic"
+    },
+    {
+      "id": "n-45",
+      "position": {
+        "x": -3521.5999985205444,
+        "y": -1285.9077386816527
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Satire"
+    },
+    {
+      "id": "n-46",
+      "position": {
+        "x": -3320.249007799226,
+        "y": -1285.9077386816527
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Quest"
+    },
+    {
+      "id": "n-47",
+      "position": {
+        "x": -5132.407924291094,
+        "y": -755.7132868094099
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Family Saga"
+    },
+    {
+      "id": "n-48",
+      "position": {
+        "x": -4931.056933569774,
+        "y": -755.7132868094099
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Time Travel"
+    },
+    {
+      "id": "n-49",
+      "position": {
+        "x": -4729.705942848456,
+        "y": -755.7132868094099
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Paranormal Romance"
+    },
+    {
+      "id": "n-50",
+      "position": {
+        "x": -4528.354952127138,
+        "y": -755.7132868094099
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Utopian"
+    },
+    {
+      "id": "n-51",
+      "position": {
+        "x": -3924.301979963182,
+        "y": -1639.3707065964813
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Magical Realism"
+    },
+    {
+      "id": "n-52",
+      "position": {
+        "x": -3722.9509892418637,
+        "y": -1639.3707065964813
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Space Opera"
+    },
+    {
+      "id": "n-53",
+      "position": {
+        "x": -3521.5999985205444,
+        "y": -1639.3707065964813
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Alternate History"
+    },
+    {
+      "id": "n-54",
+      "position": {
+        "x": -3320.249007799226,
+        "y": -1639.3707065964813
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Memoir"
+    },
+    {
+      "id": "n-55",
+      "position": {
+        "x": -5132.407924291094,
+        "y": -1109.1762547242383
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Epistolary"
+    },
+    {
+      "id": "n-56",
+      "position": {
+        "x": -4931.056933569774,
+        "y": -1109.1762547242383
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Noir"
+    },
+    {
+      "id": "n-57",
+      "position": {
+        "x": -3521.5999985205444,
+        "y": -1109.1762547242383
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Steampunk"
+    },
+    {
+      "id": "n-58",
+      "position": {
+        "x": -3320.249007799226,
+        "y": -1109.1762547242383
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Fairy Tale"
+    },
+    {
+      "id": "n-59",
+      "position": {
+        "x": -5132.407924291094,
+        "y": -1462.6392226390672
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Western"
+    },
+    {
+      "id": "n-60",
+      "position": {
+        "x": -4931.056933569774,
+        "y": -1462.6392226390672
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Biography"
+    },
+    {
+      "id": "n-61",
+      "position": {
+        "x": -4729.705942848456,
+        "y": -1462.6392226390672
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Creative Nonfiction"
+    },
+    {
+      "id": "n-62",
+      "position": {
+        "x": -4528.354952127138,
+        "y": -1462.6392226390672
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Travelogue"
+    },
+    {
+      "id": "n-63",
+      "position": {
+        "x": -5132.407924291094,
+        "y": -932.4447707668241
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Bildungsroman"
+    },
+    {
+      "id": "n-64",
+      "position": {
+        "x": -4931.056933569774,
+        "y": -932.4447707668241
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Cosmic Horror"
+    },
+    {
+      "id": "n-65",
+      "position": {
+        "x": -4729.705942848456,
+        "y": -932.4447707668241
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Fable"
+    },
+    {
+      "id": "n-66",
+      "position": {
+        "x": -4528.354952127138,
+        "y": -932.4447707668241
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "True Crime"
+    },
+    {
+      "id": "n-67",
+      "position": {
+        "x": -4327.003961405818,
+        "y": -932.4447707668241
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Magical Academy"
+    },
+    {
+      "id": "n-68",
+      "position": {
+        "x": -4125.6529706845,
+        "y": -932.4447707668241
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Suspense"
+    },
+    {
+      "id": "n-69",
+      "position": {
+        "x": -4729.705942848456,
+        "y": -1285.9077386816527
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Techno-thriller"
+    },
+    {
+      "id": "n-70",
+      "position": {
+        "x": -4528.354952127138,
+        "y": -1285.9077386816527
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Folklore"
+    },
+    {
+      "id": "n-71",
+      "position": {
+        "x": -4327.003961405818,
+        "y": -1285.9077386816527
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Military Fiction"
+    },
+    {
+      "id": "n-72",
+      "position": {
+        "x": -4125.6529706845,
+        "y": -1285.9077386816527
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Courtroom Drama"
+    },
+    {
+      "id": "n-73",
+      "position": {
+        "x": -3924.301979963182,
+        "y": -1285.9077386816527
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Speculative Fiction"
+    },
+    {
+      "id": "n-74",
+      "position": {
+        "x": -3722.9509892418637,
+        "y": -1285.9077386816527
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Absurdist"
+    },
+    {
+      "id": "n-75",
+      "position": {
+        "x": -4327.003961405818,
+        "y": -755.7132868094099
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Documentary"
+    },
+    {
+      "id": "n-76",
+      "position": {
+        "x": -4125.6529706845,
+        "y": -755.7132868094099
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Slice of Life"
+    },
+    {
+      "id": "n-77",
+      "position": {
+        "x": -3924.301979963182,
+        "y": -755.7132868094099
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Eco-Fiction"
+    },
+    {
+      "id": "n-78",
+      "position": {
+        "x": -3722.9509892418637,
+        "y": -755.7132868094099
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Spy Thriller"
+    },
+    {
+      "id": "n-79",
+      "position": {
+        "x": -3521.5999985205444,
+        "y": -755.7132868094099
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Metafiction"
+    },
+    {
+      "id": "n-80",
+      "position": {
+        "x": -3320.249007799226,
+        "y": -755.7132868094099
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Climate Fiction"
+    },
+    {
+      "id": "n-81",
+      "position": {
+        "x": -5132.418208298141,
+        "y": -571.4293894123292
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": ""
+    },
+    {
+      "id": "n-82",
+      "position": {
+        "x": -4931.062075573298,
+        "y": -571.4293894123292
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": ""
+    },
+    {
+      "id": "n-83",
+      "position": {
+        "x": -4729.705942848455,
+        "y": -571.4293894123292
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": ""
+    },
+    {
+      "id": "n-84",
+      "position": {
+        "x": -4528.354952127139,
+        "y": -571.4293894123292
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": ""
+    },
+    {
+      "id": "n-85",
+      "position": {
+        "x": -4854.24288050113,
+        "y": -145.3786400121686
+      },
+      "size": {
+        "width": 549.4181796708882,
+        "height": 287.1852997952817
+      },
+      "style": {
+        "fillColor": "#8f7fee",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 47,
+        "fontFamily": "open_sans",
+        "borderWidth": 20,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-86",
+      "position": {
+        "x": -4897.497777044613,
+        "y": -139.05102400925682
+      },
+      "size": {
+        "width": 356.7920649576579
+      },
+      "style": {
+        "fontSize": 22,
+        "textColor": "#ffffff",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p>Take any stickies from above that interest you in exploring today and drag them into the space below. This will ensure you get a good prompt.</p>"
+    },
+    {
+      "id": "n-87",
+      "position": {
+        "x": -4686.999012326058,
+        "y": -186.2409345221485
+      },
+      "size": {
+        "width": 170.79476767521135,
+        "height": 170.79476767521135
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[stamp]"
+    },
+    {
+      "id": "n-88",
+      "position": {
+        "x": -2863.65489318282,
+        "y": -1487.4865655787783
+      },
+      "size": {
+        "width": 1365.7769212322949,
+        "height": 1925.7454589375354
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "<h1></h1>"
+    },
+    {
+      "id": "n-89",
+      "position": {
+        "x": -5132.407924291093,
+        "y": -1639.3707065964813
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Science Fiction"
+    },
+    {
+      "id": "n-90",
+      "position": {
+        "x": -4931.056933569773,
+        "y": -1639.3707065964813
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Romance"
+    },
+    {
+      "id": "n-91",
+      "position": {
+        "x": -4729.705942848455,
+        "y": -1639.3707065964813
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Fantasy"
+    },
+    {
+      "id": "n-92",
+      "position": {
+        "x": -4528.354952127137,
+        "y": -1639.3707065964813
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Mystery"
+    },
+    {
+      "id": "n-93",
+      "position": {
+        "x": -4327.003961405817,
+        "y": -1639.3707065964813
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Historical Fiction"
+    },
+    {
+      "id": "n-94",
+      "position": {
+        "x": -4125.652970684499,
+        "y": -1639.3707065964813
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Dystopian"
+    },
+    {
+      "id": "n-95",
+      "position": {
+        "x": -4729.705942848455,
+        "y": -1109.1762547242383
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Coming of Age"
+    },
+    {
+      "id": "n-96",
+      "position": {
+        "x": -4528.354952127137,
+        "y": -1109.1762547242383
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Adventure"
+    },
+    {
+      "id": "n-97",
+      "position": {
+        "x": -4327.003961405817,
+        "y": -1109.1762547242383
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Psychological Thriller"
+    },
+    {
+      "id": "n-98",
+      "position": {
+        "x": -4125.652970684499,
+        "y": -1109.1762547242383
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Supernatural"
+    },
+    {
+      "id": "n-99",
+      "position": {
+        "x": -3924.301979963181,
+        "y": -1109.1762547242383
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Drama"
+    },
+    {
+      "id": "n-100",
+      "position": {
+        "x": -3722.9509892418628,
+        "y": -1109.1762547242383
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Horror"
+    },
+    {
+      "id": "n-101",
+      "position": {
+        "x": -4327.003961405817,
+        "y": -1462.6392226390672
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Comedy"
+    },
+    {
+      "id": "n-102",
+      "position": {
+        "x": -4125.652970684499,
+        "y": -1462.6392226390672
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Tragedy"
+    },
+    {
+      "id": "n-103",
+      "position": {
+        "x": -3924.301979963181,
+        "y": -1462.6392226390672
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Mythology"
+    },
+    {
+      "id": "n-104",
+      "position": {
+        "x": -3722.9509892418628,
+        "y": -1462.6392226390672
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Crime"
+    },
+    {
+      "id": "n-105",
+      "position": {
+        "x": -3521.5999985205435,
+        "y": -1462.6392226390672
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Survival"
+    },
+    {
+      "id": "n-106",
+      "position": {
+        "x": -3320.249007799225,
+        "y": -1462.6392226390672
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Philosophical"
+    },
+    {
+      "id": "n-107",
+      "position": {
+        "x": -3924.301979963181,
+        "y": -932.4447707668241
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Political Thriller"
+    },
+    {
+      "id": "n-108",
+      "position": {
+        "x": -3722.9509892418628,
+        "y": -932.4447707668241
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Epic"
+    },
+    {
+      "id": "n-109",
+      "position": {
+        "x": -3521.5999985205435,
+        "y": -932.4447707668241
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Urban Fantasy"
+    },
+    {
+      "id": "n-110",
+      "position": {
+        "x": -3320.249007799225,
+        "y": -932.4447707668241
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Cyberpunk"
+    },
+    {
+      "id": "n-111",
+      "position": {
+        "x": -5132.407924291093,
+        "y": -1285.9077386816527
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Post-Apocalyptic"
+    },
+    {
+      "id": "n-112",
+      "position": {
+        "x": -4931.056933569773,
+        "y": -1285.9077386816527
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Gothic"
+    },
+    {
+      "id": "n-113",
+      "position": {
+        "x": -3521.5999985205435,
+        "y": -1285.9077386816527
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Satire"
+    },
+    {
+      "id": "n-114",
+      "position": {
+        "x": -3320.249007799225,
+        "y": -1285.9077386816527
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Quest"
+    },
+    {
+      "id": "n-115",
+      "position": {
+        "x": -5132.407924291093,
+        "y": -755.7132868094099
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Family Saga"
+    },
+    {
+      "id": "n-116",
+      "position": {
+        "x": -4931.056933569773,
+        "y": -755.7132868094099
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Time Travel"
+    },
+    {
+      "id": "n-117",
+      "position": {
+        "x": -4729.705942848455,
+        "y": -755.7132868094099
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Paranormal Romance"
+    },
+    {
+      "id": "n-118",
+      "position": {
+        "x": -4528.354952127137,
+        "y": -755.7132868094099
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Utopian"
+    },
+    {
+      "id": "n-119",
+      "position": {
+        "x": -3924.301979963181,
+        "y": -1639.3707065964813
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Magical Realism"
+    },
+    {
+      "id": "n-120",
+      "position": {
+        "x": -3722.9509892418628,
+        "y": -1639.3707065964813
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Space Opera"
+    },
+    {
+      "id": "n-121",
+      "position": {
+        "x": -3521.5999985205435,
+        "y": -1639.3707065964813
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Alternate History"
+    },
+    {
+      "id": "n-122",
+      "position": {
+        "x": -3320.249007799225,
+        "y": -1639.3707065964813
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Memoir"
+    },
+    {
+      "id": "n-123",
+      "position": {
+        "x": -5132.407924291093,
+        "y": -1109.1762547242383
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Epistolary"
+    },
+    {
+      "id": "n-124",
+      "position": {
+        "x": -4931.056933569773,
+        "y": -1109.1762547242383
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Noir"
+    },
+    {
+      "id": "n-125",
+      "position": {
+        "x": -3521.5999985205435,
+        "y": -1109.1762547242383
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Steampunk"
+    },
+    {
+      "id": "n-126",
+      "position": {
+        "x": -3320.249007799225,
+        "y": -1109.1762547242383
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Fairy Tale"
+    },
+    {
+      "id": "n-127",
+      "position": {
+        "x": -5132.407924291093,
+        "y": -1462.6392226390672
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Western"
+    },
+    {
+      "id": "n-128",
+      "position": {
+        "x": -4931.056933569773,
+        "y": -1462.6392226390672
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Biography"
+    },
+    {
+      "id": "n-129",
+      "position": {
+        "x": -4729.705942848455,
+        "y": -1462.6392226390672
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Creative Nonfiction"
+    },
+    {
+      "id": "n-130",
+      "position": {
+        "x": -4528.354952127137,
+        "y": -1462.6392226390672
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Travelogue"
+    },
+    {
+      "id": "n-131",
+      "position": {
+        "x": -5132.407924291093,
+        "y": -932.4447707668241
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Bildungsroman"
+    },
+    {
+      "id": "n-132",
+      "position": {
+        "x": -4931.056933569773,
+        "y": -932.4447707668241
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Cosmic Horror"
+    },
+    {
+      "id": "n-133",
+      "position": {
+        "x": -4729.705942848455,
+        "y": -932.4447707668241
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Fable"
+    },
+    {
+      "id": "n-134",
+      "position": {
+        "x": -4528.354952127137,
+        "y": -932.4447707668241
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "True Crime"
+    },
+    {
+      "id": "n-135",
+      "position": {
+        "x": -4327.003961405817,
+        "y": -932.4447707668241
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Magical Academy"
+    },
+    {
+      "id": "n-136",
+      "position": {
+        "x": -4125.652970684499,
+        "y": -932.4447707668241
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Suspense"
+    },
+    {
+      "id": "n-137",
+      "position": {
+        "x": -4729.705942848455,
+        "y": -1285.9077386816527
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Techno-thriller"
+    },
+    {
+      "id": "n-138",
+      "position": {
+        "x": -4528.354952127137,
+        "y": -1285.9077386816527
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Folklore"
+    },
+    {
+      "id": "n-139",
+      "position": {
+        "x": -4327.003961405817,
+        "y": -1285.9077386816527
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Military Fiction"
+    },
+    {
+      "id": "n-140",
+      "position": {
+        "x": -4125.652970684499,
+        "y": -1285.9077386816527
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Courtroom Drama"
+    },
+    {
+      "id": "n-141",
+      "position": {
+        "x": -3924.301979963181,
+        "y": -1285.9077386816527
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Speculative Fiction"
+    },
+    {
+      "id": "n-142",
+      "position": {
+        "x": -3722.9509892418628,
+        "y": -1285.9077386816527
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Absurdist"
+    },
+    {
+      "id": "n-143",
+      "position": {
+        "x": -4327.003961405817,
+        "y": -755.7132868094099
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Documentary"
+    },
+    {
+      "id": "n-144",
+      "position": {
+        "x": -4125.652970684499,
+        "y": -755.7132868094099
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Slice of Life"
+    },
+    {
+      "id": "n-145",
+      "position": {
+        "x": -3924.301979963181,
+        "y": -755.7132868094099
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Eco-Fiction"
+    },
+    {
+      "id": "n-146",
+      "position": {
+        "x": -3722.9509892418628,
+        "y": -755.7132868094099
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Spy Thriller"
+    },
+    {
+      "id": "n-147",
+      "position": {
+        "x": -3521.5999985205435,
+        "y": -755.7132868094099
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Metafiction"
+    },
+    {
+      "id": "n-148",
+      "position": {
+        "x": -3320.249007799225,
+        "y": -755.7132868094099
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Climate Fiction"
+    },
+    {
+      "id": "n-149",
+      "position": {
+        "x": -5132.407924291095,
+        "y": -1639.3707065964813
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Science Fiction"
+    },
+    {
+      "id": "n-150",
+      "position": {
+        "x": -4931.056933569774,
+        "y": -1639.3707065964813
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Romance"
+    },
+    {
+      "id": "n-151",
+      "position": {
+        "x": -4528.354952127139,
+        "y": -1639.3707065964813
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Mystery"
+    },
+    {
+      "id": "n-152",
+      "position": {
+        "x": -4327.003961405818,
+        "y": -1639.3707065964813
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Historical Fiction"
+    },
+    {
+      "id": "n-153",
+      "position": {
+        "x": -4125.6529706845,
+        "y": -1639.3707065964813
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Dystopian"
+    },
+    {
+      "id": "n-154",
+      "position": {
+        "x": -4729.705942848456,
+        "y": -1109.1762547242383
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Coming of Age"
+    },
+    {
+      "id": "n-155",
+      "position": {
+        "x": -4528.354952127139,
+        "y": -1109.1762547242383
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Adventure"
+    },
+    {
+      "id": "n-156",
+      "position": {
+        "x": -4327.003961405818,
+        "y": -1109.1762547242383
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Psychological Thriller"
+    },
+    {
+      "id": "n-157",
+      "position": {
+        "x": -4125.6529706845,
+        "y": -1109.1762547242383
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Supernatural"
+    },
+    {
+      "id": "n-158",
+      "position": {
+        "x": -3924.3019799631825,
+        "y": -1109.1762547242383
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Drama"
+    },
+    {
+      "id": "n-159",
+      "position": {
+        "x": -3722.9509892418637,
+        "y": -1109.1762547242383
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Horror"
+    },
+    {
+      "id": "n-160",
+      "position": {
+        "x": -4327.003961405818,
+        "y": -1462.6392226390672
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Comedy"
+    },
+    {
+      "id": "n-161",
+      "position": {
+        "x": -4125.6529706845,
+        "y": -1462.6392226390672
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Tragedy"
+    },
+    {
+      "id": "n-162",
+      "position": {
+        "x": -3924.3019799631825,
+        "y": -1462.6392226390672
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Mythology"
+    },
+    {
+      "id": "n-163",
+      "position": {
+        "x": -3722.950989241864,
+        "y": -1462.6392226390672
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Crime"
+    },
+    {
+      "id": "n-164",
+      "position": {
+        "x": -3521.599998520545,
+        "y": -1462.6392226390672
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Survival"
+    },
+    {
+      "id": "n-165",
+      "position": {
+        "x": -3320.2490077992265,
+        "y": -1462.6392226390672
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Philosophical"
+    },
+    {
+      "id": "n-166",
+      "position": {
+        "x": -3924.3019799631825,
+        "y": -932.4447707668241
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Political Thriller"
+    },
+    {
+      "id": "n-167",
+      "position": {
+        "x": -3722.950989241864,
+        "y": -932.4447707668241
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Epic"
+    },
+    {
+      "id": "n-168",
+      "position": {
+        "x": -3521.599998520545,
+        "y": -932.4447707668241
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Urban Fantasy"
+    },
+    {
+      "id": "n-169",
+      "position": {
+        "x": -5132.407924291095,
+        "y": -1285.9077386816527
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Post-Apocalyptic"
+    },
+    {
+      "id": "n-170",
+      "position": {
+        "x": -4931.056933569774,
+        "y": -1285.9077386816527
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Gothic"
+    },
+    {
+      "id": "n-171",
+      "position": {
+        "x": -3521.599998520545,
+        "y": -1285.9077386816527
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Satire"
+    },
+    {
+      "id": "n-172",
+      "position": {
+        "x": -3320.2490077992265,
+        "y": -1285.9077386816527
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Quest"
+    },
+    {
+      "id": "n-173",
+      "position": {
+        "x": -5132.407924291095,
+        "y": -755.7132868094099
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Family Saga"
+    },
+    {
+      "id": "n-174",
+      "position": {
+        "x": -4931.056933569774,
+        "y": -755.7132868094099
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Time Travel"
+    },
+    {
+      "id": "n-175",
+      "position": {
+        "x": -4729.705942848456,
+        "y": -755.7132868094099
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Paranormal Romance"
+    },
+    {
+      "id": "n-176",
+      "position": {
+        "x": -3924.3019799631825,
+        "y": -1639.3707065964813
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Magical Realism"
+    },
+    {
+      "id": "n-177",
+      "position": {
+        "x": -3722.950989241864,
+        "y": -1639.3707065964813
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Space Opera"
+    },
+    {
+      "id": "n-178",
+      "position": {
+        "x": -3521.599998520545,
+        "y": -1639.3707065964813
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Alternate History"
+    },
+    {
+      "id": "n-179",
+      "position": {
+        "x": -3320.2490077992265,
+        "y": -1639.3707065964813
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Memoir"
+    },
+    {
+      "id": "n-180",
+      "position": {
+        "x": -5132.407924291095,
+        "y": -1109.1762547242383
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Epistolary"
+    },
+    {
+      "id": "n-181",
+      "position": {
+        "x": -4931.056933569774,
+        "y": -1109.1762547242383
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Noir"
+    },
+    {
+      "id": "n-182",
+      "position": {
+        "x": -3521.599998520545,
+        "y": -1109.1762547242383
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Steampunk"
+    },
+    {
+      "id": "n-183",
+      "position": {
+        "x": -3320.2490077992265,
+        "y": -1109.1762547242383
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Fairy Tale"
+    },
+    {
+      "id": "n-184",
+      "position": {
+        "x": -5132.407924291095,
+        "y": -1462.6392226390672
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Western"
+    },
+    {
+      "id": "n-185",
+      "position": {
+        "x": -4931.056933569774,
+        "y": -1462.6392226390672
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Biography"
+    },
+    {
+      "id": "n-186",
+      "position": {
+        "x": -4729.705942848456,
+        "y": -1462.6392226390672
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Creative Nonfiction"
+    },
+    {
+      "id": "n-187",
+      "position": {
+        "x": -4528.354952127139,
+        "y": -1462.6392226390672
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Travelogue"
+    },
+    {
+      "id": "n-188",
+      "position": {
+        "x": -5132.407924291095,
+        "y": -932.4447707668241
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Bildungsroman"
+    },
+    {
+      "id": "n-189",
+      "position": {
+        "x": -4931.056933569774,
+        "y": -932.4447707668241
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Cosmic Horror"
+    },
+    {
+      "id": "n-190",
+      "position": {
+        "x": -4729.705942848456,
+        "y": -932.4447707668241
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Fable"
+    },
+    {
+      "id": "n-191",
+      "position": {
+        "x": -4528.354952127139,
+        "y": -932.4447707668241
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "True Crime"
+    },
+    {
+      "id": "n-192",
+      "position": {
+        "x": -4327.003961405818,
+        "y": -932.4447707668241
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Magical Academy"
+    },
+    {
+      "id": "n-193",
+      "position": {
+        "x": -4125.6529706845,
+        "y": -932.4447707668241
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Suspense"
+    },
+    {
+      "id": "n-194",
+      "position": {
+        "x": -4729.705942848456,
+        "y": -1285.9077386816527
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Techno-thriller"
+    },
+    {
+      "id": "n-195",
+      "position": {
+        "x": -4528.354952127139,
+        "y": -1285.9077386816527
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Folklore"
+    },
+    {
+      "id": "n-196",
+      "position": {
+        "x": -4327.003961405818,
+        "y": -1285.9077386816527
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Military Fiction"
+    },
+    {
+      "id": "n-197",
+      "position": {
+        "x": -4125.6529706845,
+        "y": -1285.9077386816527
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Courtroom Drama"
+    },
+    {
+      "id": "n-198",
+      "position": {
+        "x": -3924.3019799631825,
+        "y": -1285.9077386816527
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Speculative Fiction"
+    },
+    {
+      "id": "n-199",
+      "position": {
+        "x": -3722.950989241864,
+        "y": -1285.9077386816527
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Absurdist"
+    },
+    {
+      "id": "n-200",
+      "position": {
+        "x": -4327.003961405818,
+        "y": -755.7132868094099
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Documentary"
+    },
+    {
+      "id": "n-201",
+      "position": {
+        "x": -3924.3019799631825,
+        "y": -755.7132868094099
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Eco-Fiction"
+    },
+    {
+      "id": "n-202",
+      "position": {
+        "x": -3521.599998520545,
+        "y": -755.7132868094099
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Metafiction"
+    },
+    {
+      "id": "n-203",
+      "position": {
+        "x": 1410.0171059472082,
+        "y": -688.0097596690008
+      },
+      "size": {
+        "width": 1621.2098409676018,
+        "height": 3182.27164296044
+      },
+      "style": {
+        "fillColor": "#dedaff",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 15,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 0.3
+      },
+      "visualKind": "shape",
+      "title": "<p>&#xfeff;</p>"
+    },
+    {
+      "id": "n-204",
+      "position": {
+        "x": 1230.1227423059158,
+        "y": -2267.37147353224
+      },
+      "size": {
+        "width": 973.3494053055492,
+        "height": 105.04475151335208
+      },
+      "style": {
+        "fillColor": "#8f7fee",
+        "borderColor": "#ffffff",
+        "textColor": "#ffffff",
+        "fontSize": 52,
+        "fontFamily": "open_sans",
+        "borderWidth": 20,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": "<p><strong></strong></p>"
+    },
+    {
+      "id": "n-205",
+      "position": {
+        "x": 1204.6706280567073,
+        "y": -2287.138378406057
+      },
+      "size": {
+        "width": 973.3494053055492,
+        "height": 105.04475151335208
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#ffffff",
+        "textColor": "#8f7fee",
+        "fontSize": 52,
+        "fontFamily": "open_sans",
+        "borderWidth": 20,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": "<p><strong style=\"color:rgb(143,127,238)\">04 Now a twist!</strong></p>"
+    },
+    {
+      "id": "n-206",
+      "position": {
+        "x": 1217.3966851813116,
+        "y": -2009.6418943046988
+      },
+      "size": {
+        "width": 998.8015195547575,
+        "height": 261.2302388320251
+      },
+      "style": {
+        "fillColor": "#8f7fee",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 52,
+        "fontFamily": "open_sans",
+        "borderWidth": 20,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-207",
+      "position": {
+        "x": 1326.0452640759374,
+        "y": -2004.8569286392474
+      },
+      "size": {
+        "width": 649.77315211887
+      },
+      "style": {
+        "fontSize": 27,
+        "textColor": "#ffffff",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p>Next, AI will generate a twist for your story. Re-run this prompt when you&#39;ve finished up your story in step 2 so that it can use what you&#39;ve written to generate a relevant new area to explore.</p>"
+    },
+    {
+      "id": "n-208",
+      "position": {
+        "x": 878.7057474237813,
+        "y": -2009.6418943046988
+      },
+      "size": {
+        "width": 196.70942045714287
+      },
+      "style": {
+        "fontSize": 80,
+        "textColor": "#ffffff",
+        "fontFamily": "open_sans",
+        "align": "center"
+      },
+      "visualKind": "text",
+      "title": "<p>04</p>"
+    },
+    {
+      "id": "n-209",
+      "position": {
+        "x": 727.1286453310607,
+        "y": -1487.4865655787783
+      },
+      "size": {
+        "width": 1365.7769212322949,
+        "height": 1925.7454589375354
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "<h1></h1>"
+    },
+    {
+      "id": "n-210",
+      "position": {
+        "x": -398.4238716719424,
+        "y": -688.0097596690008
+      },
+      "size": {
+        "width": 1621.2098409676018,
+        "height": 3182.27164296044
+      },
+      "style": {
+        "fillColor": "#dedaff",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 15,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 0.3
+      },
+      "visualKind": "shape",
+      "title": "<p>&#xfeff;</p>"
+    },
+    {
+      "id": "n-211",
+      "position": {
+        "x": -578.3182353132347,
+        "y": -2267.37147353224
+      },
+      "size": {
+        "width": 973.3494053055492,
+        "height": 105.04475151335208
+      },
+      "style": {
+        "fillColor": "#8f7fee",
+        "borderColor": "#ffffff",
+        "textColor": "#ffffff",
+        "fontSize": 52,
+        "fontFamily": "open_sans",
+        "borderWidth": 20,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": "<p><strong></strong></p>"
+    },
+    {
+      "id": "n-212",
+      "position": {
+        "x": -603.7703495624432,
+        "y": -2287.138378406057
+      },
+      "size": {
+        "width": 973.3494053055492,
+        "height": 105.04475151335208
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#ffffff",
+        "textColor": "#8f7fee",
+        "fontSize": 52,
+        "fontFamily": "open_sans",
+        "borderWidth": 20,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": "<p><strong style=\"color:rgb(143,127,238)\">03 Let&#39;s visualize it!</strong></p>"
+    },
+    {
+      "id": "n-213",
+      "position": {
+        "x": -591.0442924378394,
+        "y": -2009.6418943046988
+      },
+      "size": {
+        "width": 998.8015195547575,
+        "height": 261.2302388320251
+      },
+      "style": {
+        "fillColor": "#8f7fee",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 52,
+        "fontFamily": "open_sans",
+        "borderWidth": 20,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-214",
+      "position": {
+        "x": -492.288113844376,
+        "y": -2009.6418943046988
+      },
+      "size": {
+        "width": 626.4195408937588
+      },
+      "style": {
+        "fontSize": 25,
+        "textColor": "#ffffff",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p>Use the AI generated image as inspiration to help you write. Feel free to adjust the prompt to switch up what type of image you get and hit run as many times as you would like as you write to see how your story changes the output.</p>"
+    },
+    {
+      "id": "n-215",
+      "position": {
+        "x": -929.7352301953697,
+        "y": -2009.6418943046988
+      },
+      "size": {
+        "width": 196.70942045714287
+      },
+      "style": {
+        "fontSize": 80,
+        "textColor": "#ffffff",
+        "fontFamily": "open_sans",
+        "align": "center"
+      },
+      "visualKind": "text",
+      "title": "<p>03</p>"
+    },
+    {
+      "id": "n-216",
+      "position": {
+        "x": 313.8859598953254,
+        "y": -2195.8750877082425
+      },
+      "size": {
+        "width": 334.22734407274015,
+        "height": 103.70438601021233
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 33,
+        "fontFamily": "noto_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-217",
+      "position": {
+        "x": 364.88779007833864,
+        "y": -2165.221040299621
+      },
+      "size": {
+        "width": 147.37472866187412
+      },
+      "style": {
+        "fontSize": 32,
+        "textColor": "#8f7fee",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong style=\"color:rgb(143,127,238)\">AI Action</strong></p>"
+    },
+    {
+      "id": "n-218",
+      "position": {
+        "x": 229.89643716272485,
+        "y": -2246.6480985106787
+      },
+      "size": {
+        "width": 130.30637254317384,
+        "height": 130.30637254317384
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[stamp]"
+    },
+    {
+      "id": "n-219",
+      "position": {
+        "x": -393.5115489008001,
+        "y": -837.6506963255363
+      },
+      "size": {},
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJAZAck0%3D/resources/images/3458764517235761151?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-220",
+      "position": {
+        "x": -3280.0210145724677,
+        "y": -2176.8711952567046
+      },
+      "size": {
+        "width": 427.93645632356555,
+        "height": 105.48467317005952
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 33,
+        "fontFamily": "noto_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": "<p></p>"
+    },
+    {
+      "id": "n-221",
+      "position": {
+        "x": -3395.546497704141,
+        "y": -2238.034123638554
+      },
+      "size": {
+        "width": 150.16755594457976,
+        "height": 150.16755594457976
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[stamp]"
+    },
+    {
+      "id": "n-222",
+      "position": {
+        "x": -3232.362329246817,
+        "y": -2148.99431686174
+      },
+      "size": {
+        "width": 232.57574366952008
+      },
+      "style": {
+        "fontSize": 32,
+        "textColor": "#bd0a0a",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong style=\"color:rgb(189,10,10)\">Human Action</strong></p>"
+    },
+    {
+      "id": "n-223",
+      "position": {
+        "x": -1715.2174130969556,
+        "y": -2312.8056161994386
+      },
+      "size": {
+        "width": 138.2595712570858,
+        "height": 138.2595712570858
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[stamp]"
+    },
+    {
+      "id": "n-224",
+      "position": {
+        "x": 2051.1219387626875,
+        "y": -2200.4112560703693
+      },
+      "size": {
+        "width": 576.6657217686341,
+        "height": 105.48467317005952
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 33,
+        "fontFamily": "noto_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": "<p></p>"
+    },
+    {
+      "id": "n-225",
+      "position": {
+        "x": 2101.2347291764822,
+        "y": -2171.2350950437412
+      },
+      "size": {
+        "width": 386.85866273741954
+      },
+      "style": {
+        "fontSize": 32,
+        "textColor": "#305bab",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong style=\"color:rgb(48,91,171)\">Cyborg Action (You &#43; AI)</strong></p>"
+    },
+    {
+      "id": "n-226",
+      "position": {
+        "x": 1847.2100135430023,
+        "y": -2310.51788332537
+      },
+      "size": {
+        "width": 138.2595712570858,
+        "height": 138.2595712570858
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[stamp]"
+    },
+    {
+      "id": "n-227",
+      "position": {
+        "x": -4326.998819402297,
+        "y": -571.4293894123292
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": ""
+    },
+    {
+      "id": "n-228",
+      "position": {
+        "x": -5132.407924291095,
+        "y": -1639.3707065964813
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Science Fiction"
+    },
+    {
+      "id": "n-229",
+      "position": {
+        "x": -4931.056933569775,
+        "y": -1639.3707065964813
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Romance"
+    },
+    {
+      "id": "n-230",
+      "position": {
+        "x": -4729.705942848457,
+        "y": -1639.3707065964813
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Fantasy"
+    },
+    {
+      "id": "n-231",
+      "position": {
+        "x": -4528.354952127139,
+        "y": -1639.3707065964813
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Mystery"
+    },
+    {
+      "id": "n-232",
+      "position": {
+        "x": -4327.003961405819,
+        "y": -1639.3707065964813
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Historical Fiction"
+    },
+    {
+      "id": "n-233",
+      "position": {
+        "x": -4125.652970684501,
+        "y": -1639.3707065964813
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Dystopian"
+    },
+    {
+      "id": "n-234",
+      "position": {
+        "x": -4729.705942848457,
+        "y": -1109.1762547242383
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Coming of Age"
+    },
+    {
+      "id": "n-235",
+      "position": {
+        "x": -4528.354952127139,
+        "y": -1109.1762547242383
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Adventure"
+    },
+    {
+      "id": "n-236",
+      "position": {
+        "x": -4327.003961405819,
+        "y": -1109.1762547242383
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Psychological Thriller"
+    },
+    {
+      "id": "n-237",
+      "position": {
+        "x": -4125.652970684501,
+        "y": -1109.1762547242383
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Supernatural"
+    },
+    {
+      "id": "n-238",
+      "position": {
+        "x": -3924.301979963183,
+        "y": -1109.1762547242383
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Drama"
+    },
+    {
+      "id": "n-239",
+      "position": {
+        "x": -3722.9509892418646,
+        "y": -1109.1762547242383
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Horror"
+    },
+    {
+      "id": "n-240",
+      "position": {
+        "x": -4327.003961405819,
+        "y": -1462.6392226390672
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Comedy"
+    },
+    {
+      "id": "n-241",
+      "position": {
+        "x": -4125.652970684501,
+        "y": -1462.6392226390672
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Tragedy"
+    },
+    {
+      "id": "n-242",
+      "position": {
+        "x": -3924.301979963183,
+        "y": -1462.6392226390672
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Mythology"
+    },
+    {
+      "id": "n-243",
+      "position": {
+        "x": -3722.9509892418646,
+        "y": -1462.6392226390672
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Crime"
+    },
+    {
+      "id": "n-244",
+      "position": {
+        "x": -3521.5999985205453,
+        "y": -1462.6392226390672
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Survival"
+    },
+    {
+      "id": "n-245",
+      "position": {
+        "x": -3320.249007799227,
+        "y": -1462.6392226390672
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Philosophical"
+    },
+    {
+      "id": "n-246",
+      "position": {
+        "x": -3924.301979963183,
+        "y": -932.444770766824
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Political Thriller"
+    },
+    {
+      "id": "n-247",
+      "position": {
+        "x": -3722.9509892418646,
+        "y": -932.444770766824
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Epic"
+    },
+    {
+      "id": "n-248",
+      "position": {
+        "x": -3521.5999985205453,
+        "y": -932.444770766824
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Urban Fantasy"
+    },
+    {
+      "id": "n-249",
+      "position": {
+        "x": -3320.249007799227,
+        "y": -932.444770766824
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Cyberpunk"
+    },
+    {
+      "id": "n-250",
+      "position": {
+        "x": -5132.407924291095,
+        "y": -1285.9077386816527
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Post-Apocalyptic"
+    },
+    {
+      "id": "n-251",
+      "position": {
+        "x": -4931.056933569775,
+        "y": -1285.9077386816527
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Gothic"
+    },
+    {
+      "id": "n-252",
+      "position": {
+        "x": -3521.5999985205453,
+        "y": -1285.9077386816527
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Satire"
+    },
+    {
+      "id": "n-253",
+      "position": {
+        "x": -3320.249007799227,
+        "y": -1285.9077386816527
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Quest"
+    },
+    {
+      "id": "n-254",
+      "position": {
+        "x": -5132.407924291095,
+        "y": -755.7132868094097
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Family Saga"
+    },
+    {
+      "id": "n-255",
+      "position": {
+        "x": -4931.056933569775,
+        "y": -755.7132868094097
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Time Travel"
+    },
+    {
+      "id": "n-256",
+      "position": {
+        "x": -4729.705942848457,
+        "y": -755.7132868094097
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Paranormal Romance"
+    },
+    {
+      "id": "n-257",
+      "position": {
+        "x": -4528.354952127139,
+        "y": -755.7132868094097
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Utopian"
+    },
+    {
+      "id": "n-258",
+      "position": {
+        "x": -3924.301979963183,
+        "y": -1639.3707065964813
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Magical Realism"
+    },
+    {
+      "id": "n-259",
+      "position": {
+        "x": -3722.9509892418646,
+        "y": -1639.3707065964813
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Space Opera"
+    },
+    {
+      "id": "n-260",
+      "position": {
+        "x": -3521.5999985205453,
+        "y": -1639.3707065964813
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Alternate History"
+    },
+    {
+      "id": "n-261",
+      "position": {
+        "x": -3320.249007799227,
+        "y": -1639.3707065964813
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Memoir"
+    },
+    {
+      "id": "n-262",
+      "position": {
+        "x": -5132.407924291095,
+        "y": -1109.1762547242383
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Epistolary"
+    },
+    {
+      "id": "n-263",
+      "position": {
+        "x": -4931.056933569775,
+        "y": -1109.1762547242383
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Noir"
+    },
+    {
+      "id": "n-264",
+      "position": {
+        "x": -3521.5999985205453,
+        "y": -1109.1762547242383
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Steampunk"
+    },
+    {
+      "id": "n-265",
+      "position": {
+        "x": -3320.249007799227,
+        "y": -1109.1762547242383
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Fairy Tale"
+    },
+    {
+      "id": "n-266",
+      "position": {
+        "x": -5132.407924291095,
+        "y": -1462.6392226390672
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Western"
+    },
+    {
+      "id": "n-267",
+      "position": {
+        "x": -4931.056933569775,
+        "y": -1462.6392226390672
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Biography"
+    },
+    {
+      "id": "n-268",
+      "position": {
+        "x": -4729.705942848457,
+        "y": -1462.6392226390672
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Creative Nonfiction"
+    },
+    {
+      "id": "n-269",
+      "position": {
+        "x": -4528.354952127139,
+        "y": -1462.6392226390672
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Travelogue"
+    },
+    {
+      "id": "n-270",
+      "position": {
+        "x": -5132.407924291095,
+        "y": -932.444770766824
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Bildungsroman"
+    },
+    {
+      "id": "n-271",
+      "position": {
+        "x": -4931.056933569775,
+        "y": -932.444770766824
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Cosmic Horror"
+    },
+    {
+      "id": "n-272",
+      "position": {
+        "x": -4729.705942848457,
+        "y": -932.444770766824
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Fable"
+    },
+    {
+      "id": "n-273",
+      "position": {
+        "x": -4528.354952127139,
+        "y": -932.444770766824
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "True Crime"
+    },
+    {
+      "id": "n-274",
+      "position": {
+        "x": -4327.003961405819,
+        "y": -932.444770766824
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Magical Academy"
+    },
+    {
+      "id": "n-275",
+      "position": {
+        "x": -4125.652970684501,
+        "y": -932.444770766824
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Suspense"
+    },
+    {
+      "id": "n-276",
+      "position": {
+        "x": -4729.705942848457,
+        "y": -1285.9077386816527
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Techno-thriller"
+    },
+    {
+      "id": "n-277",
+      "position": {
+        "x": -4528.354952127139,
+        "y": -1285.9077386816527
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Folklore"
+    },
+    {
+      "id": "n-278",
+      "position": {
+        "x": -4327.003961405819,
+        "y": -1285.9077386816527
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Military Fiction"
+    },
+    {
+      "id": "n-279",
+      "position": {
+        "x": -4125.652970684501,
+        "y": -1285.9077386816527
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Courtroom Drama"
+    },
+    {
+      "id": "n-280",
+      "position": {
+        "x": -3924.301979963183,
+        "y": -1285.9077386816527
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Speculative Fiction"
+    },
+    {
+      "id": "n-281",
+      "position": {
+        "x": -3722.9509892418646,
+        "y": -1285.9077386816527
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Absurdist"
+    },
+    {
+      "id": "n-282",
+      "position": {
+        "x": -4327.003961405819,
+        "y": -755.7132868094097
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Documentary"
+    },
+    {
+      "id": "n-283",
+      "position": {
+        "x": -4125.652970684501,
+        "y": -755.7132868094097
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Slice of Life"
+    },
+    {
+      "id": "n-284",
+      "position": {
+        "x": -3924.301979963183,
+        "y": -755.7132868094097
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Eco-Fiction"
+    },
+    {
+      "id": "n-285",
+      "position": {
+        "x": -3722.9509892418646,
+        "y": -755.7132868094097
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Spy Thriller"
+    },
+    {
+      "id": "n-286",
+      "position": {
+        "x": -3521.5999985205453,
+        "y": -755.7132868094097
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Metafiction"
+    },
+    {
+      "id": "n-287",
+      "position": {
+        "x": -3320.249007799227,
+        "y": -755.7132868094097
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Climate Fiction"
+    },
+    {
+      "id": "n-288",
+      "position": {
+        "x": -5132.4182082981415,
+        "y": -571.4293894123291
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": ""
+    },
+    {
+      "id": "n-289",
+      "position": {
+        "x": -4931.062075573299,
+        "y": -571.4293894123291
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": ""
+    },
+    {
+      "id": "n-290",
+      "position": {
+        "x": -4729.705942848456,
+        "y": -571.4293894123291
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": ""
+    },
+    {
+      "id": "n-291",
+      "position": {
+        "x": -4528.35495212714,
+        "y": -571.4293894123291
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": ""
+    },
+    {
+      "id": "n-292",
+      "position": {
+        "x": -5132.407924291094,
+        "y": -1639.3707065964813
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Science Fiction"
+    },
+    {
+      "id": "n-293",
+      "position": {
+        "x": -4931.056933569774,
+        "y": -1639.3707065964813
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Romance"
+    },
+    {
+      "id": "n-294",
+      "position": {
+        "x": -4729.705942848456,
+        "y": -1639.3707065964813
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Fantasy"
+    },
+    {
+      "id": "n-295",
+      "position": {
+        "x": -4528.354952127138,
+        "y": -1639.3707065964813
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Mystery"
+    },
+    {
+      "id": "n-296",
+      "position": {
+        "x": -4327.003961405818,
+        "y": -1639.3707065964813
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Historical Fiction"
+    },
+    {
+      "id": "n-297",
+      "position": {
+        "x": -4125.6529706845,
+        "y": -1639.3707065964813
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Dystopian"
+    },
+    {
+      "id": "n-298",
+      "position": {
+        "x": -4729.705942848456,
+        "y": -1109.1762547242383
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Coming of Age"
+    },
+    {
+      "id": "n-299",
+      "position": {
+        "x": -4528.354952127138,
+        "y": -1109.1762547242383
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Adventure"
+    },
+    {
+      "id": "n-300",
+      "position": {
+        "x": -4327.003961405818,
+        "y": -1109.1762547242383
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Psychological Thriller"
+    },
+    {
+      "id": "n-301",
+      "position": {
+        "x": -4125.6529706845,
+        "y": -1109.1762547242383
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Supernatural"
+    },
+    {
+      "id": "n-302",
+      "position": {
+        "x": -3924.301979963182,
+        "y": -1109.1762547242383
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Drama"
+    },
+    {
+      "id": "n-303",
+      "position": {
+        "x": -3722.9509892418637,
+        "y": -1109.1762547242383
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Horror"
+    },
+    {
+      "id": "n-304",
+      "position": {
+        "x": -4327.003961405818,
+        "y": -1462.6392226390672
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Comedy"
+    },
+    {
+      "id": "n-305",
+      "position": {
+        "x": -4125.6529706845,
+        "y": -1462.6392226390672
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Tragedy"
+    },
+    {
+      "id": "n-306",
+      "position": {
+        "x": -3924.301979963182,
+        "y": -1462.6392226390672
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Mythology"
+    },
+    {
+      "id": "n-307",
+      "position": {
+        "x": -3722.9509892418637,
+        "y": -1462.6392226390672
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Crime"
+    },
+    {
+      "id": "n-308",
+      "position": {
+        "x": -3521.5999985205444,
+        "y": -1462.6392226390672
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Survival"
+    },
+    {
+      "id": "n-309",
+      "position": {
+        "x": -3320.249007799226,
+        "y": -1462.6392226390672
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Philosophical"
+    },
+    {
+      "id": "n-310",
+      "position": {
+        "x": -3924.301979963182,
+        "y": -932.444770766824
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Political Thriller"
+    },
+    {
+      "id": "n-311",
+      "position": {
+        "x": -3722.9509892418637,
+        "y": -932.444770766824
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Epic"
+    },
+    {
+      "id": "n-312",
+      "position": {
+        "x": -3521.5999985205444,
+        "y": -932.444770766824
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Urban Fantasy"
+    },
+    {
+      "id": "n-313",
+      "position": {
+        "x": -3320.249007799226,
+        "y": -932.444770766824
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Cyberpunk"
+    },
+    {
+      "id": "n-314",
+      "position": {
+        "x": -5132.407924291094,
+        "y": -1285.9077386816527
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Post-Apocalyptic"
+    },
+    {
+      "id": "n-315",
+      "position": {
+        "x": -4931.056933569774,
+        "y": -1285.9077386816527
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Gothic"
+    },
+    {
+      "id": "n-316",
+      "position": {
+        "x": -3521.5999985205444,
+        "y": -1285.9077386816527
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Satire"
+    },
+    {
+      "id": "n-317",
+      "position": {
+        "x": -3320.249007799226,
+        "y": -1285.9077386816527
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Quest"
+    },
+    {
+      "id": "n-318",
+      "position": {
+        "x": -5132.407924291094,
+        "y": -755.7132868094097
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Family Saga"
+    },
+    {
+      "id": "n-319",
+      "position": {
+        "x": -4931.056933569774,
+        "y": -755.7132868094097
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Time Travel"
+    },
+    {
+      "id": "n-320",
+      "position": {
+        "x": -4729.705942848456,
+        "y": -755.7132868094097
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Paranormal Romance"
+    },
+    {
+      "id": "n-321",
+      "position": {
+        "x": -4528.354952127138,
+        "y": -755.7132868094097
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Utopian"
+    },
+    {
+      "id": "n-322",
+      "position": {
+        "x": -3924.301979963182,
+        "y": -1639.3707065964813
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Magical Realism"
+    },
+    {
+      "id": "n-323",
+      "position": {
+        "x": -3722.9509892418637,
+        "y": -1639.3707065964813
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Space Opera"
+    },
+    {
+      "id": "n-324",
+      "position": {
+        "x": -3521.5999985205444,
+        "y": -1639.3707065964813
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Alternate History"
+    },
+    {
+      "id": "n-325",
+      "position": {
+        "x": -3320.249007799226,
+        "y": -1639.3707065964813
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Memoir"
+    },
+    {
+      "id": "n-326",
+      "position": {
+        "x": -5132.407924291094,
+        "y": -1109.1762547242383
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Epistolary"
+    },
+    {
+      "id": "n-327",
+      "position": {
+        "x": -4931.056933569774,
+        "y": -1109.1762547242383
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Noir"
+    },
+    {
+      "id": "n-328",
+      "position": {
+        "x": -3521.5999985205444,
+        "y": -1109.1762547242383
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Steampunk"
+    },
+    {
+      "id": "n-329",
+      "position": {
+        "x": -3320.249007799226,
+        "y": -1109.1762547242383
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Fairy Tale"
+    },
+    {
+      "id": "n-330",
+      "position": {
+        "x": -5132.407924291094,
+        "y": -1462.6392226390672
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Western"
+    },
+    {
+      "id": "n-331",
+      "position": {
+        "x": -4931.056933569774,
+        "y": -1462.6392226390672
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Biography"
+    },
+    {
+      "id": "n-332",
+      "position": {
+        "x": -4729.705942848456,
+        "y": -1462.6392226390672
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Creative Nonfiction"
+    },
+    {
+      "id": "n-333",
+      "position": {
+        "x": -4528.354952127138,
+        "y": -1462.6392226390672
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Travelogue"
+    },
+    {
+      "id": "n-334",
+      "position": {
+        "x": -5132.407924291094,
+        "y": -932.444770766824
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Bildungsroman"
+    },
+    {
+      "id": "n-335",
+      "position": {
+        "x": -4931.056933569774,
+        "y": -932.444770766824
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Cosmic Horror"
+    },
+    {
+      "id": "n-336",
+      "position": {
+        "x": -4729.705942848456,
+        "y": -932.444770766824
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Fable"
+    },
+    {
+      "id": "n-337",
+      "position": {
+        "x": -4528.354952127138,
+        "y": -932.444770766824
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "True Crime"
+    },
+    {
+      "id": "n-338",
+      "position": {
+        "x": -4327.003961405818,
+        "y": -932.444770766824
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Magical Academy"
+    },
+    {
+      "id": "n-339",
+      "position": {
+        "x": -4125.6529706845,
+        "y": -932.444770766824
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Suspense"
+    },
+    {
+      "id": "n-340",
+      "position": {
+        "x": -4729.705942848456,
+        "y": -1285.9077386816527
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Techno-thriller"
+    },
+    {
+      "id": "n-341",
+      "position": {
+        "x": -4528.354952127138,
+        "y": -1285.9077386816527
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Folklore"
+    },
+    {
+      "id": "n-342",
+      "position": {
+        "x": -4327.003961405818,
+        "y": -1285.9077386816527
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Military Fiction"
+    },
+    {
+      "id": "n-343",
+      "position": {
+        "x": -4125.6529706845,
+        "y": -1285.9077386816527
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Courtroom Drama"
+    },
+    {
+      "id": "n-344",
+      "position": {
+        "x": -3924.301979963182,
+        "y": -1285.9077386816527
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Speculative Fiction"
+    },
+    {
+      "id": "n-345",
+      "position": {
+        "x": -3722.9509892418637,
+        "y": -1285.9077386816527
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Absurdist"
+    },
+    {
+      "id": "n-346",
+      "position": {
+        "x": -4327.003961405818,
+        "y": -755.7132868094097
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Documentary"
+    },
+    {
+      "id": "n-347",
+      "position": {
+        "x": -4125.6529706845,
+        "y": -755.7132868094097
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Slice of Life"
+    },
+    {
+      "id": "n-348",
+      "position": {
+        "x": -3924.301979963182,
+        "y": -755.7132868094097
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Eco-Fiction"
+    },
+    {
+      "id": "n-349",
+      "position": {
+        "x": -3722.9509892418637,
+        "y": -755.7132868094097
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Spy Thriller"
+    },
+    {
+      "id": "n-350",
+      "position": {
+        "x": -3521.5999985205444,
+        "y": -755.7132868094097
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Metafiction"
+    },
+    {
+      "id": "n-351",
+      "position": {
+        "x": -3320.249007799226,
+        "y": -755.7132868094097
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Climate Fiction"
+    },
+    {
+      "id": "n-352",
+      "position": {
+        "x": -5132.407924291096,
+        "y": -1639.3707065964813
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Science Fiction"
+    },
+    {
+      "id": "n-353",
+      "position": {
+        "x": -4931.056933569775,
+        "y": -1639.3707065964813
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Romance"
+    },
+    {
+      "id": "n-354",
+      "position": {
+        "x": -4528.35495212714,
+        "y": -1639.3707065964813
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Mystery"
+    },
+    {
+      "id": "n-355",
+      "position": {
+        "x": -4327.003961405819,
+        "y": -1639.3707065964813
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Historical Fiction"
+    },
+    {
+      "id": "n-356",
+      "position": {
+        "x": -4125.652970684501,
+        "y": -1639.3707065964813
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Dystopian"
+    },
+    {
+      "id": "n-357",
+      "position": {
+        "x": -4729.705942848457,
+        "y": -1109.1762547242383
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Coming of Age"
+    },
+    {
+      "id": "n-358",
+      "position": {
+        "x": -4528.35495212714,
+        "y": -1109.1762547242383
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Adventure"
+    },
+    {
+      "id": "n-359",
+      "position": {
+        "x": -4327.003961405819,
+        "y": -1109.1762547242383
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Psychological Thriller"
+    },
+    {
+      "id": "n-360",
+      "position": {
+        "x": -4125.652970684501,
+        "y": -1109.1762547242383
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Supernatural"
+    },
+    {
+      "id": "n-361",
+      "position": {
+        "x": -3924.301979963184,
+        "y": -1109.1762547242383
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Drama"
+    },
+    {
+      "id": "n-362",
+      "position": {
+        "x": -3722.9509892418646,
+        "y": -1109.1762547242383
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Horror"
+    },
+    {
+      "id": "n-363",
+      "position": {
+        "x": -4327.003961405819,
+        "y": -1462.6392226390672
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Comedy"
+    },
+    {
+      "id": "n-364",
+      "position": {
+        "x": -4125.652970684501,
+        "y": -1462.6392226390672
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Tragedy"
+    },
+    {
+      "id": "n-365",
+      "position": {
+        "x": -3924.301979963184,
+        "y": -1462.6392226390672
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Mythology"
+    },
+    {
+      "id": "n-366",
+      "position": {
+        "x": -3722.9509892418646,
+        "y": -1462.6392226390672
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Crime"
+    },
+    {
+      "id": "n-367",
+      "position": {
+        "x": -3521.5999985205453,
+        "y": -1462.6392226390672
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Survival"
+    },
+    {
+      "id": "n-368",
+      "position": {
+        "x": -3320.249007799228,
+        "y": -1462.6392226390672
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Philosophical"
+    },
+    {
+      "id": "n-369",
+      "position": {
+        "x": -3924.301979963184,
+        "y": -932.444770766824
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Political Thriller"
+    },
+    {
+      "id": "n-370",
+      "position": {
+        "x": -3722.9509892418646,
+        "y": -932.444770766824
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Epic"
+    },
+    {
+      "id": "n-371",
+      "position": {
+        "x": -3521.5999985205453,
+        "y": -932.444770766824
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Urban Fantasy"
+    },
+    {
+      "id": "n-372",
+      "position": {
+        "x": -5132.407924291096,
+        "y": -1285.9077386816527
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Post-Apocalyptic"
+    },
+    {
+      "id": "n-373",
+      "position": {
+        "x": -4931.056933569775,
+        "y": -1285.9077386816527
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Gothic"
+    },
+    {
+      "id": "n-374",
+      "position": {
+        "x": -3521.5999985205453,
+        "y": -1285.9077386816527
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Satire"
+    },
+    {
+      "id": "n-375",
+      "position": {
+        "x": -3320.249007799228,
+        "y": -1285.9077386816527
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Quest"
+    },
+    {
+      "id": "n-376",
+      "position": {
+        "x": -5132.407924291096,
+        "y": -755.7132868094097
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Family Saga"
+    },
+    {
+      "id": "n-377",
+      "position": {
+        "x": -4931.056933569775,
+        "y": -755.7132868094097
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Time Travel"
+    },
+    {
+      "id": "n-378",
+      "position": {
+        "x": -4729.705942848457,
+        "y": -755.7132868094097
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Paranormal Romance"
+    },
+    {
+      "id": "n-379",
+      "position": {
+        "x": -3924.301979963184,
+        "y": -1639.3707065964813
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Magical Realism"
+    },
+    {
+      "id": "n-380",
+      "position": {
+        "x": -3722.9509892418646,
+        "y": -1639.3707065964813
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Space Opera"
+    },
+    {
+      "id": "n-381",
+      "position": {
+        "x": -3521.5999985205453,
+        "y": -1639.3707065964813
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Alternate History"
+    },
+    {
+      "id": "n-382",
+      "position": {
+        "x": -3320.249007799228,
+        "y": -1639.3707065964813
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Memoir"
+    },
+    {
+      "id": "n-383",
+      "position": {
+        "x": -5132.407924291096,
+        "y": -1109.1762547242383
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "<p>Epistolary</p>"
+    },
+    {
+      "id": "n-384",
+      "position": {
+        "x": -4931.056933569775,
+        "y": -1109.1762547242383
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "<p>Noir</p>"
+    },
+    {
+      "id": "n-385",
+      "position": {
+        "x": -3521.5999985205453,
+        "y": -1109.1762547242383
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Steampunk"
+    },
+    {
+      "id": "n-386",
+      "position": {
+        "x": -3320.249007799228,
+        "y": -1109.1762547242383
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Fairy Tale"
+    },
+    {
+      "id": "n-387",
+      "position": {
+        "x": -5132.407924291096,
+        "y": -1462.6392226390672
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Western"
+    },
+    {
+      "id": "n-388",
+      "position": {
+        "x": -4931.056933569775,
+        "y": -1462.6392226390672
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Biography"
+    },
+    {
+      "id": "n-389",
+      "position": {
+        "x": -4729.705942848457,
+        "y": -1462.6392226390672
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Creative Nonfiction"
+    },
+    {
+      "id": "n-390",
+      "position": {
+        "x": -4528.35495212714,
+        "y": -1462.6392226390672
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Travelogue"
+    },
+    {
+      "id": "n-391",
+      "position": {
+        "x": -5132.407924291096,
+        "y": -932.444770766824
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Bildungsroman"
+    },
+    {
+      "id": "n-392",
+      "position": {
+        "x": -4931.056933569775,
+        "y": -932.444770766824
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Cosmic Horror"
+    },
+    {
+      "id": "n-393",
+      "position": {
+        "x": -4729.705942848457,
+        "y": -932.444770766824
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Fable"
+    },
+    {
+      "id": "n-394",
+      "position": {
+        "x": -4528.35495212714,
+        "y": -932.444770766824
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "True Crime"
+    },
+    {
+      "id": "n-395",
+      "position": {
+        "x": -4327.003961405819,
+        "y": -932.444770766824
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Magical Academy"
+    },
+    {
+      "id": "n-396",
+      "position": {
+        "x": -4125.652970684501,
+        "y": -932.444770766824
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Suspense"
+    },
+    {
+      "id": "n-397",
+      "position": {
+        "x": -4729.705942848457,
+        "y": -1285.9077386816527
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Techno-thriller"
+    },
+    {
+      "id": "n-398",
+      "position": {
+        "x": -4528.35495212714,
+        "y": -1285.9077386816527
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Folklore"
+    },
+    {
+      "id": "n-399",
+      "position": {
+        "x": -4327.003961405819,
+        "y": -1285.9077386816527
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Military Fiction"
+    },
+    {
+      "id": "n-400",
+      "position": {
+        "x": -4125.652970684501,
+        "y": -1285.9077386816527
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Courtroom Drama"
+    },
+    {
+      "id": "n-401",
+      "position": {
+        "x": -3924.301979963184,
+        "y": -1285.9077386816527
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Speculative Fiction"
+    },
+    {
+      "id": "n-402",
+      "position": {
+        "x": -3722.9509892418646,
+        "y": -1285.9077386816527
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Absurdist"
+    },
+    {
+      "id": "n-403",
+      "position": {
+        "x": -4327.003961405819,
+        "y": -755.7132868094097
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Documentary"
+    },
+    {
+      "id": "n-404",
+      "position": {
+        "x": -3924.301979963184,
+        "y": -755.7132868094097
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Eco-Fiction"
+    },
+    {
+      "id": "n-405",
+      "position": {
+        "x": -3521.5999985205453,
+        "y": -755.7132868094097
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "Metafiction"
+    },
+    {
+      "id": "n-406",
+      "position": {
+        "x": -4326.998819402298,
+        "y": -571.4293894123291
+      },
+      "size": {
+        "width": 142.35613272484173,
+        "height": 163.10149880032117
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": ""
+    },
+    {
+      "id": "n-407",
+      "position": {
+        "x": -1534.56260363494,
+        "y": -1849.4582981274702
+      },
+      "size": {
+        "width": 305.19348993504417,
+        "height": 116.85675337387292
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 27,
+        "fontFamily": "open_sans",
+        "borderWidth": 20,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-408",
+      "position": {
+        "x": -1485.4279882309784,
+        "y": -1859.1635265957207
+      },
+      "size": {
+        "width": 138.71973446733213
+      },
+      "style": {
+        "fontSize": 15,
+        "textColor": "#595959",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><span style=\"color:rgb(89,89,89)\">C</span>lick &#34;run&#34; to start the AI Flow</p>"
+    },
+    {
+      "id": "n-409",
+      "position": {
+        "x": -1597.8011678422554,
+        "y": -1838.5397311423108
+      },
+      "size": {
+        "width": 79.72383791240568,
+        "height": 79.72383791240568
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[stamp]"
+    },
+    {
+      "id": "n-410",
+      "position": {
+        "x": -1339.3026590757313,
+        "y": -3099.3114724411644
+      },
+      "size": {
+        "width": 1044.6110297018554,
+        "height": 454.29617533910607
+      },
+      "style": {
+        "fillColor": "#dedaff",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 35,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 0.5
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-411",
+      "position": {
+        "x": -1367.999973026343,
+        "y": -3129.5825061183855
+      },
+      "size": {
+        "width": 1044.6110297018554,
+        "height": 454.29617533910607
+      },
+      "style": {
+        "fillColor": "#8f7fee",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 35,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 0.5
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-412",
+      "position": {
+        "x": -1313.425272383221,
+        "y": -3158.066365730883
+      },
+      "size": {
+        "width": 423.91534736721064
+      },
+      "style": {
+        "fontSize": 35,
+        "textColor": "#ffffff",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p>Senior Product Manager</p>"
+    },
+    {
+      "id": "n-413",
+      "position": {
+        "x": -1238.9948109088753,
+        "y": -3231.1833531605935
+      },
+      "size": {
+        "width": 572.7762703133775
+      },
+      "style": {
+        "fontSize": 76,
+        "textColor": "#ffffff",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong>Daiana Kaplan</strong></p>"
+    },
+    {
+      "id": "n-414",
+      "position": {
+        "x": -1361.814734113942,
+        "y": -2994.025841165997
+      },
+      "size": {
+        "width": 818.4161167243323
+      },
+      "style": {
+        "fontSize": 23,
+        "textColor": "#ffffff",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p>Hey, thanks for checking out this board. Make sure to check out my other templates on the Miroverse!</p>"
+    },
+    {
+      "id": "n-415",
+      "position": {
+        "x": -1660.164019512105,
+        "y": -3174.874701179229
+      },
+      "size": {
+        "width": 221.71754592718466,
+        "height": 221.71754592718466
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJAZAck0%3D/resources/images/3458764517235761150?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-416",
+      "position": {
+        "x": -1468.7191654107394,
+        "y": -3077.6910159985123
+      },
+      "size": {
+        "width": 113.3275613096474,
+        "height": 27.350175565752618
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#e6e6e6",
+        "textColor": "#1a1a1a",
+        "fontSize": 10,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-417",
+      "position": {
+        "x": -1504.6556397653546,
+        "y": -3077.6910159985123
+      },
+      "size": {
+        "width": 14.601392993154981,
+        "height": 14.601392993154981
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mockup]"
+    },
+    {
+      "id": "n-418",
+      "position": {
+        "x": -1452.2509297943923,
+        "y": -3077.6910159985123
+      },
+      "size": {
+        "width": 72.10855695234464
+      },
+      "style": {
+        "fontSize": 13,
+        "textColor": "#1a1a1a",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong style=\"color:rgb(26,26,26)\"><a href=\"https://www.linkedin.com/in/daianakaplan/\">LinkedIn</a></strong></p>"
+    },
+    {
+      "id": "n-419",
+      "position": {
+        "x": -1337.2987082425716,
+        "y": -3077.6910159985123
+      },
+      "size": {
+        "width": 125.56564553782819,
+        "height": 27.350175565752618
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#e6e6e6",
+        "textColor": "#1a1a1a",
+        "fontSize": 10,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": "<p><br /></p>"
+    },
+    {
+      "id": "n-420",
+      "position": {
+        "x": -1323.5489769247872,
+        "y": -3077.6910159985123
+      },
+      "size": {
+        "width": 78.90963258131065
+      },
+      "style": {
+        "fontSize": 13,
+        "textColor": "#1a1a1a",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong style=\"color:rgb(26,26,26)\"><a href=\"https://miro.com/miroverse/profile/daiana-kaplan/?social&#61;copy-link?social&#61;copy-link?social&#61;copy-link?social&#61;copy-link\">Miroverse</a></strong></p>"
+    },
+    {
+      "id": "n-421",
+      "position": {
+        "x": -1378.8146402404643,
+        "y": -3077.6910159985123
+      },
+      "size": {
+        "width": 14.368624493319004,
+        "height": 14.368624493319004
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJAZAck0%3D/resources/images/3458764517235761149?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    }
+  ],
+  "edges": [
+    {
+      "id": "e-0",
+      "sourceNodeId": "n-85",
+      "targetNodeId": "n-0",
+      "style": {
+        "lineStyle": "solid",
+        "arrowHead": "end",
+        "borderColor": "#333333",
+        "strokeWidth": "5.0",
+        "extra": {
+          "connectorShape": "curved",
+          "sourcePosition": "auto",
+          "targetPosition": "auto"
+        }
+      }
+    },
+    {
+      "id": "e-1",
+      "sourceNodeId": "n-85",
+      "targetNodeId": "n-0",
+      "style": {
+        "lineStyle": "solid",
+        "arrowHead": "end",
+        "borderColor": "#333333",
+        "strokeWidth": "5.0",
+        "extra": {
+          "connectorShape": "curved",
+          "sourcePosition": "auto",
+          "targetPosition": "auto"
+        }
+      }
+    }
+  ],
+  "annotations": [],
+  "_metadata": {
+    "extracted_at": "2026-02-23T13:07:13.128203",
+    "total_items": 423,
+    "total_connectors": 3,
+    "frames": 1,
+    "nodes": 422,
+    "edges": 2
+  },
+  "_template": {
+    "name": "creative-writing-with-ai",
+    "category": "miroverse",
+    "source": "miroverse",
+    "source_slug": "creative-writing-with-ai",
+    "source_board_id": "uXjVJAZAck0=",
+    "tags": [
+      "ideation & brainstorming",
+      "ai accelerated",
+      "icebreaker games",
+      "ai & transformation",
+      "education"
+    ],
+    "extracted_at": "2026-02-23T13:07:13.128249"
+  }
+}

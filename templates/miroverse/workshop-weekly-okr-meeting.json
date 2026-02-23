@@ -1,0 +1,802 @@
+{
+  "frames": [
+    {
+      "id": "f-0",
+      "title": "",
+      "position": {
+        "x": -10456.94208184283,
+        "y": -4439.0805112657845
+      },
+      "size": {
+        "width": 559.9999999999999,
+        "height": 545.2685587559095
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-1",
+      "title": "",
+      "position": {
+        "x": -9836.957494393959,
+        "y": -4513.397026371713
+      },
+      "size": {
+        "width": 359.9691748977464,
+        "height": 396.6355285440545
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-2",
+      "title": "",
+      "position": {
+        "x": -6771.334748120352,
+        "y": -4548.317576238598
+      },
+      "size": {
+        "width": 359.9691748977464,
+        "height": 326.7944288102843
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-3",
+      "title": "",
+      "position": {
+        "x": -5435.365573222605,
+        "y": -4554.146736781144
+      },
+      "size": {
+        "width": 359.9691748977464,
+        "height": 315.1361077251912
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-4",
+      "title": "Topic 1",
+      "position": {
+        "x": -4863.490438682024,
+        "y": -4071.4765753687657
+      },
+      "size": {
+        "width": 719.7810941834146,
+        "height": 1280.4764305499484
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-5",
+      "title": "Topic 2",
+      "position": {
+        "x": -4111.709344498609,
+        "y": -4071.070335371364
+      },
+      "size": {
+        "width": 719.7810941834146,
+        "height": 1279.6639505551448
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-6",
+      "title": "Topic 3",
+      "position": {
+        "x": -3359.928250315196,
+        "y": -4071.070335371364
+      },
+      "size": {
+        "width": 719.7810941834146,
+        "height": 1279.6639505551448
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-7",
+      "title": "",
+      "position": {
+        "x": -2660.053115774616,
+        "y": -4551.13062970189
+      },
+      "size": {
+        "width": 359.9691748977464,
+        "height": 321.16832188369926
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-8",
+      "title": "",
+      "position": {
+        "x": -6771.334748120351,
+        "y": -4030.8439826798526
+      },
+      "size": {
+        "width": 359.969174897747,
+        "height": 656.9331854730743
+      },
+      "style": {
+        "fillColor": "#f0f0f0"
+      }
+    }
+  ],
+  "nodes": [
+    {
+      "id": "n-0",
+      "position": {
+        "x": -9624.564828116436,
+        "y": -4711.714790643739
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[data_table_format]"
+    },
+    {
+      "id": "n-1",
+      "position": {
+        "x": -6559.350160671478,
+        "y": -4711.71479064374
+      },
+      "size": {
+        "width": 784.0000000000002,
+        "height": 1105.44
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "<h1>Weekly OKRs Agenda</h1><p></p>"
+    },
+    {
+      "id": "n-2",
+      "position": {
+        "x": -2448.068528325743,
+        "y": -4711.714790643739
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[data_table_format]"
+    },
+    {
+      "id": "n-3",
+      "position": {
+        "x": 280.00000000000176,
+        "y": 98.28571428571445
+      },
+      "size": {
+        "width": 432.0
+      },
+      "style": {
+        "fontSize": 48,
+        "textColor": "#1c1c1e",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-0",
+      "visualKind": "text",
+      "title": "<p><strong>OKRs Review</strong></p>"
+    },
+    {
+      "id": "n-4",
+      "position": {
+        "x": 279.99999999999994,
+        "y": 221.14285714285757
+      },
+      "size": {
+        "width": 432.0
+      },
+      "style": {
+        "fontSize": 24,
+        "textColor": "#595959",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "frameId": "f-0",
+      "visualKind": "text",
+      "title": "<p>Prioritize and discuss what matters most. Add your latest updates, shape the agenda, and move the discussion forward</p>"
+    },
+    {
+      "id": "n-5",
+      "position": {
+        "x": 54.00000133216412,
+        "y": 321.714285714286
+      },
+      "size": {
+        "width": 452.00000000000006,
+        "height": 79.7772216796875
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "frameId": "f-0",
+      "visualKind": "shape",
+      "title": "[unknown]"
+    },
+    {
+      "id": "n-6",
+      "position": {
+        "x": 54.0000013321623,
+        "y": 401.4913853236608
+      },
+      "size": {
+        "width": 452.00000000000006,
+        "height": 79.7772216796875
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "frameId": "f-0",
+      "visualKind": "shape",
+      "title": "[unknown]"
+    },
+    {
+      "id": "n-7",
+      "position": {
+        "x": 179.9845874488732,
+        "y": 109.5470723702067
+      },
+      "size": {
+        "width": 295.9691749028571
+      },
+      "style": {
+        "fontSize": 24,
+        "textColor": "#1a1a1a",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-1",
+      "visualKind": "text",
+      "title": "<p><strong>Update current data</strong></p>"
+    },
+    {
+      "id": "n-8",
+      "position": {
+        "x": 179.9845874488732,
+        "y": 239.54707237020716
+      },
+      "size": {
+        "width": 295.96917489428574
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#595959",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "frameId": "f-1",
+      "visualKind": "text",
+      "title": "<p>List out the OKRs for the relevant timeframe.</p><p><br /></p><p>For the weekly check-in add your updates to the OKR tracker and include any relevant milestones or events that had impact on the success metrics.</p>"
+    },
+    {
+      "id": "n-9",
+      "position": {
+        "x": 52.2021076136738,
+        "y": 52.20210761367457
+      },
+      "size": {
+        "width": 40.404215227348686,
+        "height": 40.404215227349596
+      },
+      "style": {
+        "fillColor": "#1c1c1e",
+        "borderColor": "#ffffff",
+        "textColor": "#ffffff",
+        "fontSize": 18,
+        "fontFamily": "unknown",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "circle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-1",
+      "visualKind": "shape",
+      "title": "<p><strong>1</strong></p>"
+    },
+    {
+      "id": "n-10",
+      "position": {
+        "x": 179.9845874488732,
+        "y": 109.54707237020662
+      },
+      "size": {
+        "width": 295.9691749028571
+      },
+      "style": {
+        "fontSize": 24,
+        "textColor": "#1a1a1a",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-2",
+      "visualKind": "text",
+      "title": "<p><strong>Create Agenda</strong></p>"
+    },
+    {
+      "id": "n-11",
+      "position": {
+        "x": 179.9845874488732,
+        "y": 239.54707237020708
+      },
+      "size": {
+        "width": 295.96917489428574
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#595959",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "frameId": "f-2",
+      "visualKind": "text",
+      "title": "<p>Use Miro AI to create an agenda for the weekly OKR Meeting.</p><p><br /></p><p>Do do this, simply hit &#34;Run&#34; on the prompt box at the top of the document.</p><p><br /></p><p><br /></p>"
+    },
+    {
+      "id": "n-12",
+      "position": {
+        "x": 52.2021076136738,
+        "y": 52.202107613674485
+      },
+      "size": {
+        "width": 40.404215227348686,
+        "height": 40.404215227349596
+      },
+      "style": {
+        "fillColor": "#1c1c1e",
+        "borderColor": "#ffffff",
+        "textColor": "#ffffff",
+        "fontSize": 18,
+        "fontFamily": "unknown",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "circle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-2",
+      "visualKind": "shape",
+      "title": "<p><strong>2</strong></p>"
+    },
+    {
+      "id": "n-13",
+      "position": {
+        "x": 179.9845874488732,
+        "y": 126.68992951306353
+      },
+      "size": {
+        "width": 295.9691749028571
+      },
+      "style": {
+        "fontSize": 24,
+        "textColor": "#1a1a1a",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-3",
+      "visualKind": "text",
+      "title": "<p><strong>Discussion &amp; Action items</strong></p>"
+    },
+    {
+      "id": "n-14",
+      "position": {
+        "x": 179.9845874488732,
+        "y": 209.54707237020665
+      },
+      "size": {
+        "width": 295.96917489428574
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#595959",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "frameId": "f-3",
+      "visualKind": "text",
+      "title": "<p>Based on the agenda, run the weekly OKR meetings and discuss the most important topics.</p>"
+    },
+    {
+      "id": "n-15",
+      "position": {
+        "x": 52.2021076136738,
+        "y": 52.202107613674286
+      },
+      "size": {
+        "width": 40.404215227348686,
+        "height": 40.404215227349596
+      },
+      "style": {
+        "fillColor": "#1c1c1e",
+        "borderColor": "#ffffff",
+        "textColor": "#ffffff",
+        "fontSize": 18,
+        "fontFamily": "unknown",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "circle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-3",
+      "visualKind": "shape",
+      "title": "<p><strong>3</strong></p>"
+    },
+    {
+      "id": "n-16",
+      "position": {
+        "x": 87.99999999999977,
+        "y": 54.85714285714289
+      },
+      "size": {
+        "width": 112.0
+      },
+      "style": {
+        "fontSize": 32,
+        "textColor": "#1a1a1a",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-4",
+      "visualKind": "text",
+      "title": "<p><strong>Topic 1</strong></p>"
+    },
+    {
+      "id": "n-17",
+      "position": {
+        "x": 625.8399480060104,
+        "y": 113.88305237713985
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "frameId": "f-4",
+      "visualKind": "shape",
+      "title": "[widgets_stack]"
+    },
+    {
+      "id": "n-18",
+      "position": {
+        "x": 82.5,
+        "y": 114.0
+      },
+      "size": {
+        "width": 85.33588235294118,
+        "height": 97.77176470588236
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": ""
+    },
+    {
+      "id": "n-19",
+      "position": {
+        "x": 87.99999999999977,
+        "y": 54.04466286233924
+      },
+      "size": {
+        "width": 112.0
+      },
+      "style": {
+        "fontSize": 32,
+        "textColor": "#1a1a1a",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-5",
+      "visualKind": "text",
+      "title": "<p><strong>Topic 2</strong></p>"
+    },
+    {
+      "id": "n-20",
+      "position": {
+        "x": 625.8399480060104,
+        "y": 113.0705723823362
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "frameId": "f-5",
+      "visualKind": "shape",
+      "title": "[widgets_stack]"
+    },
+    {
+      "id": "n-21",
+      "position": {
+        "x": 82.5,
+        "y": 114.0
+      },
+      "size": {
+        "width": 85.33588235294118,
+        "height": 97.77176470588236
+      },
+      "style": {
+        "fillColor": "dark_green",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": ""
+    },
+    {
+      "id": "n-22",
+      "position": {
+        "x": 87.99999999999977,
+        "y": 54.04466286233924
+      },
+      "size": {
+        "width": 112.0
+      },
+      "style": {
+        "fontSize": 32,
+        "textColor": "#1a1a1a",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-6",
+      "visualKind": "text",
+      "title": "<p><strong>Topic 3</strong></p>"
+    },
+    {
+      "id": "n-23",
+      "position": {
+        "x": 625.8399480060104,
+        "y": 113.0705723823362
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "frameId": "f-6",
+      "visualKind": "shape",
+      "title": "[widgets_stack]"
+    },
+    {
+      "id": "n-24",
+      "position": {
+        "x": 82.5,
+        "y": 114.0
+      },
+      "size": {
+        "width": 85.33588235294118,
+        "height": 97.77176470588236
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": ""
+    },
+    {
+      "id": "n-25",
+      "position": {
+        "x": 179.9845874488732,
+        "y": 109.5470723702067
+      },
+      "size": {
+        "width": 295.9691749028571
+      },
+      "style": {
+        "fontSize": 24,
+        "textColor": "#1a1a1a",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-7",
+      "visualKind": "text",
+      "title": "<p><strong>Make an action plan</strong></p>"
+    },
+    {
+      "id": "n-26",
+      "position": {
+        "x": 179.9845874488732,
+        "y": 200.97564379877826
+      },
+      "size": {
+        "width": 295.96917489428574
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#595959",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "frameId": "f-7",
+      "visualKind": "text",
+      "title": "<p>Based on the notes from the discussion, let Miro AI help you create an action plan to address issues and opportunities you came up with in the discussion.</p>"
+    },
+    {
+      "id": "n-27",
+      "position": {
+        "x": 52.2021076136738,
+        "y": 52.20210761367457
+      },
+      "size": {
+        "width": 40.404215227348686,
+        "height": 40.404215227349596
+      },
+      "style": {
+        "fillColor": "#1c1c1e",
+        "borderColor": "#ffffff",
+        "textColor": "#ffffff",
+        "fontSize": 18,
+        "fontFamily": "unknown",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "circle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-7",
+      "visualKind": "shape",
+      "title": "<p><strong>3</strong></p>"
+    },
+    {
+      "id": "n-28",
+      "position": {
+        "x": 175.35835144692984,
+        "y": 127.189150991031
+      },
+      "size": {
+        "width": 288.361727658003
+      },
+      "style": {
+        "fontSize": 17,
+        "textColor": "#1a1a1a",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-8",
+      "visualKind": "text",
+      "title": "<p><strong>To modify the prompt, edit directly in the field above the document.</strong></p>"
+    },
+    {
+      "id": "n-29",
+      "position": {
+        "x": 62.59026358105504,
+        "y": 50.65035072627228
+      },
+      "size": {
+        "width": 62.82555192962492,
+        "height": 38.945726220059065
+      },
+      "style": {
+        "fillColor": "#1c1c1e",
+        "borderColor": "#ffffff",
+        "textColor": "#ffffff",
+        "fontSize": 13,
+        "fontFamily": "unknown",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-8",
+      "visualKind": "shape",
+      "title": "<p><strong>Tip </strong></p>"
+    },
+    {
+      "id": "n-30",
+      "position": {
+        "x": 168.95687975767189,
+        "y": 406.0047088600426
+      },
+      "size": {
+        "width": 275.55878428286013,
+        "height": 421.1286105518347
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ9V8YRk%3D/resources/images/3458764517265121746?format=preview&redirect=false"
+        }
+      },
+      "frameId": "f-8",
+      "visualKind": "image",
+      "title": ""
+    }
+  ],
+  "edges": [],
+  "annotations": [],
+  "_metadata": {
+    "extracted_at": "2026-02-23T13:56:54.138566",
+    "total_items": 40,
+    "total_connectors": 0,
+    "frames": 9,
+    "nodes": 31,
+    "edges": 0
+  },
+  "_template": {
+    "name": "workshop-weekly-okr-meeting",
+    "category": "miroverse",
+    "source": "miroverse",
+    "source_slug": "workshop-weekly-okr-meeting-ai",
+    "source_board_id": "uXjVJ9V8YRk=",
+    "tags": [
+      "ai accelerated",
+      "meetings & workshops"
+    ],
+    "extracted_at": "2026-02-23T13:56:54.138598"
+  }
+}

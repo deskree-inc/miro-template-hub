@@ -1,0 +1,2164 @@
+{
+  "frames": [
+    {
+      "id": "f-0",
+      "title": "Your ICP (Ideal Customer Profile) Attributes",
+      "position": {
+        "x": 19887.15375241881,
+        "y": 3140.337973693735
+      },
+      "size": {
+        "width": 1487.2954265631756,
+        "height": 3180.945430313763
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-1",
+      "title": "Categorization",
+      "position": {
+        "x": 21707.4790389021,
+        "y": 3140.337973693735
+      },
+      "size": {
+        "width": 1487.2954265631756,
+        "height": 3180.9454303137622
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-2",
+      "title": "Missing Attributes Recommendations",
+      "position": {
+        "x": 23517.540341642703,
+        "y": 3141.1814961570562
+      },
+      "size": {
+        "width": 1487.2954265631756,
+        "height": 3179.2583853871206
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    }
+  ],
+  "nodes": [
+    {
+      "id": "n-0",
+      "position": {
+        "x": 109.21867961089333,
+        "y": 203.65108549681713
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "frameId": "f-1",
+      "visualKind": "shape",
+      "title": "[data_table_format]"
+    },
+    {
+      "id": "n-1",
+      "position": {
+        "x": 16137.828967937588,
+        "y": 2487.3827936679813
+      },
+      "size": {
+        "width": 3036.8277038942947,
+        "height": 2980.695675861208
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#595959",
+        "textColor": "#1a1a1a",
+        "fontSize": 407,
+        "fontFamily": "noto_sans",
+        "borderWidth": 3,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-2",
+      "position": {
+        "x": 17311.043550598406,
+        "y": 4211.470375907696
+      },
+      "size": {
+        "width": 722.6638400553593,
+        "height": 218.4767250333948
+      },
+      "style": {
+        "fillColor": "#e3e3ff",
+        "borderColor": "#595959",
+        "textColor": "#1a1a1a",
+        "fontSize": 27,
+        "fontFamily": "noto_sans",
+        "borderWidth": 3,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-3",
+      "position": {
+        "x": 19885.264100531655,
+        "y": 1213.0376756236321
+      },
+      "size": {
+        "width": 1612.3999125420517,
+        "height": 420.76537217560895
+      },
+      "style": {
+        "fillColor": "#8167e5",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 47,
+        "fontFamily": "noto_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-4",
+      "position": {
+        "x": 16767.464112865415,
+        "y": 5819.506733573513
+      },
+      "size": {
+        "width": 1809.8227155213515,
+        "height": 2747.5959902982386
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#595959",
+        "textColor": "#1a1a1a",
+        "fontSize": 331,
+        "fontFamily": "noto_sans",
+        "borderWidth": 3,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-5",
+      "position": {
+        "x": 16767.464112865415,
+        "y": 4769.595632183036
+      },
+      "size": {
+        "width": 1809.8227155213513,
+        "height": 647.7737875172779
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVGIpR4rg%3D/resources/images/3458764517606960068?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-6",
+      "position": {
+        "x": 16163.974253329343,
+        "y": 2905.068930170202
+      },
+      "size": {
+        "width": 2650.426273237385,
+        "height": 218.47672503339544
+      },
+      "style": {
+        "fillColor": "#fff6e7",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 407,
+        "fontFamily": "noto_sans",
+        "borderWidth": 3,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-7",
+      "position": {
+        "x": 16163.974253329343,
+        "y": 2528.7965672654755
+      },
+      "size": {
+        "width": 2650.4262732373854,
+        "height": 453.22350385612566
+      },
+      "style": {
+        "fillColor": "#fff6e7",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 407,
+        "fontFamily": "noto_sans",
+        "borderWidth": 3,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-8",
+      "position": {
+        "x": 16163.974253329341,
+        "y": 3660.219635068089
+      },
+      "size": {
+        "width": 2650.4262732373836,
+        "height": 218.47672503339544
+      },
+      "style": {
+        "fillColor": "#fff6e7",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 407,
+        "fontFamily": "noto_sans",
+        "borderWidth": 3,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-9",
+      "position": {
+        "x": 15277.917784837751,
+        "y": 1818.969333854618
+      },
+      "size": {
+        "width": 689.5311284
+      },
+      "style": {
+        "fontSize": 56,
+        "textColor": "#1a1a1a",
+        "fontFamily": "arial",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><span style=\"background-color:transparent\">Describe your Ideal Customer Profile as good as you can by </span><strong style=\"background-color:transparent\">describing its individual attributes</strong><span style=\"background-color:transparent\">.</span></p>"
+    },
+    {
+      "id": "n-10",
+      "position": {
+        "x": 16137.828967937588,
+        "y": 1309.8377510242324
+      },
+      "size": {
+        "width": 2493.8102279456634
+      },
+      "style": {
+        "fontSize": 187,
+        "textColor": "#1a1a1a",
+        "fontFamily": "arial",
+        "align": "center"
+      },
+      "visualKind": "text",
+      "title": "<p><strong style=\"background-color:transparent\">How to use this template</strong></p>"
+    },
+    {
+      "id": "n-11",
+      "position": {
+        "x": 16577.076380385548,
+        "y": 4727.7523664060045
+      },
+      "size": {
+        "width": 1039.8865533390083
+      },
+      "style": {
+        "fontSize": 152,
+        "textColor": "#1a1a1a",
+        "fontFamily": "arial",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong style=\"background-color:transparent\">New to Miro Flows?</strong></p>"
+    },
+    {
+      "id": "n-12",
+      "position": {
+        "x": 15845.968814963684,
+        "y": 2907.851305470705
+      },
+      "size": {
+        "width": 1468.0234336135238
+      },
+      "style": {
+        "fontSize": 83,
+        "textColor": "#1a1a1a",
+        "fontFamily": "arial",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong style=\"background-color:transparent\">Hit “Run”</strong><span style=\"background-color:transparent\"> </span><strong style=\"background-color:transparent\">on each step</strong><span style=\"background-color:transparent\"> of the AI Flow.</span></p>"
+    },
+    {
+      "id": "n-13",
+      "position": {
+        "x": 15781.347116102976,
+        "y": 3654.10758719973
+      },
+      "size": {
+        "width": 1338.7800358907098
+      },
+      "style": {
+        "fontSize": 83,
+        "textColor": "#1a1a1a",
+        "fontFamily": "arial",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong style=\"background-color:transparent\">Let Miro AI do the magic.</strong></p>"
+    },
+    {
+      "id": "n-14",
+      "position": {
+        "x": 14971.686674783128,
+        "y": 2455.429922506337
+      },
+      "size": {
+        "width": 131.05544772882206,
+        "height": 131.05544772882152
+      },
+      "style": {
+        "fillColor": "#ff8a00",
+        "borderColor": "#ffffff",
+        "textColor": "#ffffff",
+        "fontSize": 56,
+        "fontFamily": "georgia",
+        "borderWidth": 3,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rhombus"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": "<p><span style=\"color:rgb(255,255,255)\">1</span></p>"
+    },
+    {
+      "id": "n-15",
+      "position": {
+        "x": 14971.686674783128,
+        "y": 2905.068930170202
+      },
+      "size": {
+        "width": 131.05544772882206,
+        "height": 131.05544772882152
+      },
+      "style": {
+        "fillColor": "#ff8a00",
+        "borderColor": "#ffffff",
+        "textColor": "#ffffff",
+        "fontSize": 56,
+        "fontFamily": "georgia",
+        "borderWidth": 3,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rhombus"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": "<p><span style=\"color:rgb(255,255,255)\">2</span></p>"
+    },
+    {
+      "id": "n-16",
+      "position": {
+        "x": 14971.686674783128,
+        "y": 3660.219635068089
+      },
+      "size": {
+        "width": 131.05544772882206,
+        "height": 131.05544772882152
+      },
+      "style": {
+        "fillColor": "#ff8a00",
+        "borderColor": "#ffffff",
+        "textColor": "#ffffff",
+        "fontSize": 56,
+        "fontFamily": "georgia",
+        "borderWidth": 3,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rhombus"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": "<p><span style=\"color:rgb(255,255,255)\">3</span></p>"
+    },
+    {
+      "id": "n-17",
+      "position": {
+        "x": 17504.619100529653,
+        "y": 4601.300912562978
+      },
+      "size": {
+        "width": 186.40854319962835,
+        "height": 186.40854319962835
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVGIpR4rg%3D/resources/images/3458764517606960075?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-18",
+      "position": {
+        "x": 16835.814379192885,
+        "y": 5302.15782555919
+      },
+      "size": {
+        "width": 1158.300897159274
+      },
+      "style": {
+        "fontSize": 84,
+        "textColor": "#1a1a1a",
+        "fontFamily": "arial",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong style=\"color:rgb(26,26,26);background-color:transparent\">Access to AI Capabilities</strong></p>"
+    },
+    {
+      "id": "n-19",
+      "position": {
+        "x": 16825.77600106224,
+        "y": 5575.454056307366
+      },
+      "size": {
+        "width": 1011.6259237727654
+      },
+      "style": {
+        "fontSize": 54,
+        "textColor": "#1a1a1a",
+        "fontFamily": "arial",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><span style=\"background-color:transparent\">To access AI features, look for the </span><strong style=\"background-color:transparent;color:rgb(102,49,215)\">purple diamond on the top-right corner</strong><span style=\"background-color:transparent\"> of your selected object.</span></p>"
+    },
+    {
+      "id": "n-20",
+      "position": {
+        "x": 16825.77600106224,
+        "y": 5575.454056307366
+      },
+      "size": {
+        "width": 1138.2241409282817,
+        "height": 268.4882096193904
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#3859ff",
+        "textColor": "#1a1a1a",
+        "fontSize": 28,
+        "fontFamily": "noto_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 0.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-21",
+      "position": {
+        "x": 16258.586299649683,
+        "y": 5441.797234597469
+      },
+      "size": {
+        "width": 18.576505487512428,
+        "height": 18.576505487512428
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#b0b0b0",
+        "textColor": "#1a1a1a",
+        "fontSize": 28,
+        "fontFamily": "noto_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "circle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-22",
+      "position": {
+        "x": 17389.72768915578,
+        "y": 5506.397110076627
+      },
+      "size": {
+        "width": 43.3742795481216,
+        "height": 43.3742795481216
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVGIpR4rg%3D/resources/images/3458764517606960065?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-23",
+      "position": {
+        "x": 17189.733308096937,
+        "y": 6061.5873281908625
+      },
+      "size": {
+        "width": 410.30952685890105,
+        "height": 582.9580746685117
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVGIpR4rg%3D/resources/images/3458764517606960070?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-24",
+      "position": {
+        "x": 17389.72768915578,
+        "y": 5441.797234597469
+      },
+      "size": {
+        "width": 18.576505487512428,
+        "height": 18.576505487512428
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#b0b0b0",
+        "textColor": "#1a1a1a",
+        "fontSize": 28,
+        "fontFamily": "noto_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "circle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-25",
+      "position": {
+        "x": 16258.586299649683,
+        "y": 5708.395681375694
+      },
+      "size": {
+        "width": 18.576505487512428,
+        "height": 18.576505487512428
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#b0b0b0",
+        "textColor": "#1a1a1a",
+        "fontSize": 28,
+        "fontFamily": "noto_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "circle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-26",
+      "position": {
+        "x": 17389.72768915578,
+        "y": 5707.916201948943
+      },
+      "size": {
+        "width": 18.576505487512428,
+        "height": 18.576505487512428
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#b0b0b0",
+        "textColor": "#1a1a1a",
+        "fontSize": 28,
+        "fontFamily": "noto_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "circle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-27",
+      "position": {
+        "x": 16440.40008066143,
+        "y": 6701.576694671681
+      },
+      "size": {
+        "width": 316.7410732193841,
+        "height": 142.8731727245408
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVGIpR4rg%3D/resources/images/3458764517606960072?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-28",
+      "position": {
+        "x": 16556.216292292633,
+        "y": 6697.9538282856465
+      },
+      "size": {
+        "width": 605.6332303096609,
+        "height": 176.72514449309529
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#b2abf2",
+        "textColor": "#1a1a1a",
+        "fontSize": 28,
+        "fontFamily": "arial",
+        "borderWidth": 4,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 0.0
+      },
+      "visualKind": "shape",
+      "title": "<p><strong></strong></p>"
+    },
+    {
+      "id": "n-29",
+      "position": {
+        "x": 16826.062339777283,
+        "y": 6463.975870826778
+      },
+      "size": {
+        "width": 1138.7968183710384
+      },
+      "style": {
+        "fontSize": 84,
+        "textColor": "#1a1a1a",
+        "fontFamily": "arial",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong style=\"color:rgb(26,26,26);background-color:transparent\">Just hit RUN</strong></p>"
+    },
+    {
+      "id": "n-30",
+      "position": {
+        "x": 16846.016463359538,
+        "y": 6893.291985986694
+      },
+      "size": {
+        "width": 1185.2335724264678
+      },
+      "style": {
+        "fontSize": 54,
+        "textColor": "#1a1a1a",
+        "fontFamily": "arial",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><span style=\"background-color:transparent\">Once you choose the AI capability you want to use, simply </span><strong style=\"background-color:transparent;color:rgb(102,49,215)\">add your prompt and hit Run.</strong></p>"
+    },
+    {
+      "id": "n-31",
+      "position": {
+        "x": 16734.2343026805,
+        "y": 6701.576694671681
+      },
+      "size": {
+        "width": 164.82529541255218,
+        "height": 124.1362057500393
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVGIpR4rg%3D/resources/images/3458764517606960076?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-32",
+      "position": {
+        "x": 19885.264100531655,
+        "y": 1132.1091259874056
+      },
+      "size": {
+        "width": 1189.8363412800002
+      },
+      "style": {
+        "fontSize": 144,
+        "textColor": "#ffffff",
+        "fontFamily": "arial",
+        "align": "center"
+      },
+      "visualKind": "text",
+      "title": "<p><strong style=\"background-color:transparent\">Step 1</strong></p>"
+    },
+    {
+      "id": "n-33",
+      "position": {
+        "x": 19885.264100531655,
+        "y": 1290.5084157072479
+      },
+      "size": {
+        "width": 1189.8363412571427
+      },
+      "style": {
+        "fontSize": 64,
+        "textColor": "#ffffff",
+        "fontFamily": "arial",
+        "align": "center"
+      },
+      "visualKind": "text",
+      "title": "<p><strong style=\"background-color:transparent\">Use the sticky notes below to brainstorm on your ICP attributes</strong></p>"
+    },
+    {
+      "id": "n-34",
+      "position": {
+        "x": 17311.043550598406,
+        "y": 4211.470375907696
+      },
+      "size": {
+        "width": 557.7625915502044
+      },
+      "style": {
+        "fontSize": 107,
+        "textColor": "#1a1a1a",
+        "fontFamily": "arial",
+        "align": "center"
+      },
+      "visualKind": "text",
+      "title": "<p><strong style=\"background-color:transparent;color:rgb(26,26,26)\">Let&#39;s start!</strong></p>"
+    },
+    {
+      "id": "n-35",
+      "position": {
+        "x": 9314.505851977308,
+        "y": 856.0323993055299
+      },
+      "size": {
+        "width": 1220.958230815887,
+        "height": 1498.1305323571105
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#1a1a1a",
+        "textColor": "#1a1a1a",
+        "fontSize": 68,
+        "fontFamily": "noto_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-36",
+      "position": {
+        "x": 9345.52345046604,
+        "y": 1050.6161364401687
+      },
+      "size": {
+        "width": 1018.6849094206054
+      },
+      "style": {
+        "fontSize": 36,
+        "textColor": "#1a1a1a",
+        "fontFamily": "arial",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><span style=\"background-color:transparent\">I’m a serial entrepreneur (4 startups and counting), board member, and product growth exec. I’ve led product teams at </span><strong style=\"background-color:transparent\">UserCentrics</strong><span style=\"background-color:transparent\">,</span><strong style=\"background-color:transparent\"> Smallpdf</strong><span style=\"background-color:transparent\">,</span><strong style=\"background-color:transparent\"> GotPhoto</strong><span style=\"background-color:transparent\"> (EQT), </span><strong style=\"background-color:transparent\">DeinDeal</strong><span style=\"background-color:transparent\">, and </span><strong style=\"background-color:transparent\">Jua.ai. </strong><span style=\"background-color:transparent\"><br /><br />I specialize in B2B scaleups, particularly those navigating the chaos of product-led growth (PLG), and I advise companies like Toggl, Paddle, and NorthOne. I also work as a portfolio advisor for Notion Capital, focusing on European Series A&#43; SaaS and Cloud startups.</span></p>"
+    },
+    {
+      "id": "n-37",
+      "position": {
+        "x": 9314.505851977308,
+        "y": 314.1620221498761
+      },
+      "size": {
+        "width": 1220.9582308158863,
+        "height": 414.3897780458035
+      },
+      "style": {
+        "fillColor": "#bab9ff",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 68,
+        "fontFamily": "noto_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-38",
+      "position": {
+        "x": 9133.321329492312,
+        "y": 314.1620221498761
+      },
+      "size": {
+        "width": 594.2806674792145
+      },
+      "style": {
+        "fontSize": 108,
+        "textColor": "#ffffff",
+        "fontFamily": "arial",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong style=\"background-color:transparent\">About the Creator</strong></p>"
+    },
+    {
+      "id": "n-39",
+      "position": {
+        "x": 9716.019585177848,
+        "y": 314.1620221498761
+      },
+      "size": {
+        "width": 277.69263999724257,
+        "height": 277.69263999724257
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVGIpR4rg%3D/resources/images/3458764517606960067?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-40",
+      "position": {
+        "x": 9014.339115767481,
+        "y": 1420.1970397101668
+      },
+      "size": {
+        "width": 356.3162400237272,
+        "height": 86.26135741704798
+      },
+      "style": {
+        "fillColor": "#dedaff",
+        "borderColor": "#958ed5",
+        "textColor": "#1a1a1a",
+        "fontSize": 35,
+        "fontFamily": "noto_sans",
+        "borderWidth": 8,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": "<p><a href=\"https://www.linkedin.com/in/leahtharin/\">Linkedin</a></p>"
+    },
+    {
+      "id": "n-41",
+      "position": {
+        "x": 9434.026386851874,
+        "y": 1420.1970397101668
+      },
+      "size": {
+        "width": 356.3162400237272,
+        "height": 86.26135741704798
+      },
+      "style": {
+        "fillColor": "#fff6e7",
+        "borderColor": "#e2d8c8",
+        "textColor": "#1a1a1a",
+        "fontSize": 35,
+        "fontFamily": "noto_sans",
+        "borderWidth": 8,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": "<p><a href=\"https://www.leahtharin.com/\">Website</a></p>"
+    },
+    {
+      "id": "n-42",
+      "position": {
+        "x": 16592.51524328008,
+        "y": 5855.936634135005
+      },
+      "size": {
+        "width": 546.8829342036364
+      },
+      "style": {
+        "fontSize": 54,
+        "textColor": "#1a1a1a",
+        "fontFamily": "arial",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><span style=\"background-color:transparent\">Click it to </span><strong style=\"background-color:transparent;color:rgb(102,49,215)\">unfold the AI capabilities menu.</strong></p>"
+    },
+    {
+      "id": "n-43",
+      "position": {
+        "x": 17454.17369756277,
+        "y": 5549.597726560047
+      },
+      "size": {
+        "width": 85.51773726585267,
+        "height": 85.51773726585267
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVGIpR4rg%3D/resources/images/3458764517606960063?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-44",
+      "position": {
+        "x": 16109.181178945433,
+        "y": 5302.15782555919
+      },
+      "size": {
+        "width": 138.07687452999738,
+        "height": 138.07687452999738
+      },
+      "style": {
+        "fillColor": "#e3e3ff",
+        "borderColor": "#b0b0b0",
+        "textColor": "#1a1a1a",
+        "fontSize": 50,
+        "fontFamily": "georgia",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "circle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": "<p></p>"
+    },
+    {
+      "id": "n-45",
+      "position": {
+        "x": 16109.181178945433,
+        "y": 5297.299128861663
+      },
+      "size": {
+        "width": 138.07687455105156
+      },
+      "style": {
+        "fontSize": 65,
+        "textColor": "#1a1a1a",
+        "fontFamily": "georgia",
+        "align": "center"
+      },
+      "visualKind": "text",
+      "title": "<p><strong>1</strong></p>"
+    },
+    {
+      "id": "n-46",
+      "position": {
+        "x": 16109.181178945433,
+        "y": 6463.975870826778
+      },
+      "size": {
+        "width": 138.07687452999738,
+        "height": 138.07687452999738
+      },
+      "style": {
+        "fillColor": "#e3e3ff",
+        "borderColor": "#b0b0b0",
+        "textColor": "#1a1a1a",
+        "fontSize": 50,
+        "fontFamily": "georgia",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "circle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": "<p></p>"
+    },
+    {
+      "id": "n-47",
+      "position": {
+        "x": 16107.688560871084,
+        "y": 6459.117174129255
+      },
+      "size": {
+        "width": 135.09163837085262
+      },
+      "style": {
+        "fontSize": 65,
+        "textColor": "#1a1a1a",
+        "fontFamily": "georgia",
+        "align": "center"
+      },
+      "visualKind": "text",
+      "title": "<p><strong>2</strong></p>"
+    },
+    {
+      "id": "n-48",
+      "position": {
+        "x": 16163.875760180345,
+        "y": 3280.9190446149623
+      },
+      "size": {
+        "width": 2622.103428628775,
+        "height": 453.22350385612594
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#bab9ff",
+        "textColor": "#1a1a1a",
+        "fontSize": 92,
+        "fontFamily": "georgia",
+        "borderWidth": 3,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 0.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-49",
+      "position": {
+        "x": 17394.22789749813,
+        "y": 3266.245043748326
+      },
+      "size": {
+        "width": 189.91898489980557,
+        "height": 189.91898489980557
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVGIpR4rg%3D/resources/images/3458764517606960063?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-50",
+      "position": {
+        "x": 12062.559289534032,
+        "y": 1792.9504959594249
+      },
+      "size": {
+        "width": 3270.5402172644885
+      },
+      "style": {
+        "fontSize": 357,
+        "textColor": "#1a1a1a",
+        "fontFamily": "arial",
+        "align": "center"
+      },
+      "visualKind": "text",
+      "title": "<p><strong style=\"background-color:transparent;color:rgb(26,26,26)\">Check your ICP Definition</strong></p>"
+    },
+    {
+      "id": "n-51",
+      "position": {
+        "x": 9369.399947100563,
+        "y": 710.2234864022885
+      },
+      "size": {
+        "width": 1066.4379026730319
+      },
+      "style": {
+        "fontSize": 48,
+        "textColor": "#1a1a1a",
+        "fontFamily": "arial",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong style=\"color:rgb(26,26,26);background-color:transparent\">Hi! </strong><strong style=\"color:rgb(255,139,55);background-color:transparent\">I’m Leah Tharin</strong><strong style=\"color:rgb(26,26,26);background-color:transparent\">, and I’ve spent over two decades in tech making all the mistakes so you don’t have to.</strong></p>"
+    },
+    {
+      "id": "n-52",
+      "position": {
+        "x": 21707.4790389021,
+        "y": 1213.037675623632
+      },
+      "size": {
+        "width": 1590.9886090886978,
+        "height": 420.76537217560895
+      },
+      "style": {
+        "fillColor": "#ff8b37",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 47,
+        "fontFamily": "noto_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-53",
+      "position": {
+        "x": 21707.4790389021,
+        "y": 1132.1091259874054
+      },
+      "size": {
+        "width": 1174.0363237028573
+      },
+      "style": {
+        "fontSize": 144,
+        "textColor": "#ffffff",
+        "fontFamily": "arial",
+        "align": "center"
+      },
+      "visualKind": "text",
+      "title": "<p><strong style=\"background-color:transparent\">Step 2</strong></p>"
+    },
+    {
+      "id": "n-54",
+      "position": {
+        "x": 21707.4790389021,
+        "y": 1290.5084157072477
+      },
+      "size": {
+        "width": 1174.036323657143
+      },
+      "style": {
+        "fontSize": 64,
+        "textColor": "#ffffff",
+        "fontFamily": "arial",
+        "align": "center"
+      },
+      "visualKind": "text",
+      "title": "<p><strong style=\"background-color:transparent\">Click &#34;Run&#34; to categorize existing attributes and identify those missing</strong></p>"
+    },
+    {
+      "id": "n-55",
+      "position": {
+        "x": 23517.540341642703,
+        "y": 1214.724720550274
+      },
+      "size": {
+        "width": 1590.9886090886946,
+        "height": 420.765372175609
+      },
+      "style": {
+        "fillColor": "#e2d8c8",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 47,
+        "fontFamily": "noto_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-56",
+      "position": {
+        "x": 23517.540341642703,
+        "y": 1133.7961709140475
+      },
+      "size": {
+        "width": 1174.0363237028573
+      },
+      "style": {
+        "fontSize": 144,
+        "textColor": "#1a1a1a",
+        "fontFamily": "arial",
+        "align": "center"
+      },
+      "visualKind": "text",
+      "title": "<p><strong style=\"background-color:transparent\">Step 3</strong></p>"
+    },
+    {
+      "id": "n-57",
+      "position": {
+        "x": 23517.540341642703,
+        "y": 1289.224742342619
+      },
+      "size": {
+        "width": 1424.20745472
+      },
+      "style": {
+        "fontSize": 64,
+        "textColor": "#1a1a1a",
+        "fontFamily": "arial",
+        "align": "center"
+      },
+      "visualKind": "text",
+      "title": "<p><strong style=\"background-color:transparent\">Review the Gap Analysis and get ideas on how to acquire the missing information</strong></p>"
+    },
+    {
+      "id": "n-58",
+      "position": {
+        "x": 12057.24831521625,
+        "y": 2487.3827936679813
+      },
+      "size": {
+        "width": 4821.023834162906,
+        "height": 2980.6956758612087
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVGIpR4rg%3D/resources/images/3458764517606960066?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-59",
+      "position": {
+        "x": 12066.169248543489,
+        "y": 3228.110659097311
+      },
+      "size": {
+        "width": 2970.1119766124266,
+        "height": 1499.2399450025487
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVGIpR4rg%3D/resources/images/3458764517606960069?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-60",
+      "position": {
+        "x": 19338.306985644733,
+        "y": 884.5521473959672
+      },
+      "size": {
+        "width": 149.6486625393962,
+        "height": 171.45675909036348
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "<p><strong>They are the people who use the tool and When they get reprimanded for delivering bad reports they usually look for new solutionspay for it and love it most</strong></p>"
+    },
+    {
+      "id": "n-61",
+      "position": {
+        "x": 19524.471082631928,
+        "y": 884.5521473959672
+      },
+      "size": {
+        "width": 149.6486625393962,
+        "height": 171.45675909036348
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "<p><strong>They use Salesforce</strong></p>"
+    },
+    {
+      "id": "n-62",
+      "position": {
+        "x": 19710.635179619123,
+        "y": 884.5521473959672
+      },
+      "size": {
+        "width": 149.6486625393962,
+        "height": 171.45675909036348
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "<p><strong>They are the people who use the tool and pay for it and love it most</strong></p>"
+    },
+    {
+      "id": "n-63",
+      "position": {
+        "x": 20269.127470580708,
+        "y": 884.5521473959672
+      },
+      "size": {
+        "width": 149.6486625393962,
+        "height": 171.45675909036348
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "<p><strong>They are usually contractors</strong></p>"
+    },
+    {
+      "id": "n-64",
+      "position": {
+        "x": 20082.963373593513,
+        "y": 884.5521473959681
+      },
+      "size": {
+        "width": 149.6486625393962,
+        "height": 171.45675909036348
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "<p><strong>Lives and works out of the United States or DACH region</strong></p>"
+    },
+    {
+      "id": "n-65",
+      "position": {
+        "x": 19896.799276606318,
+        "y": 884.5521473959672
+      },
+      "size": {
+        "width": 149.6486625393962,
+        "height": 171.45675909036348
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "<p><strong>Has at least a budget of 10,000 USD</strong></p>"
+    },
+    {
+      "id": "n-66",
+      "position": {
+        "x": 20455.291567567903,
+        "y": 884.5521473959672
+      },
+      "size": {
+        "width": 149.6486625393962,
+        "height": 171.45675909036348
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "<p><strong>Is an accountant</strong></p>"
+    },
+    {
+      "id": "n-67",
+      "position": {
+        "x": 279.0489654927685,
+        "y": 298.0420390716524
+      },
+      "size": {
+        "width": 240.41230842313539,
+        "height": 275.44726794208475
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "stickyNote",
+      "title": ""
+    },
+    {
+      "id": "n-68",
+      "position": {
+        "x": 588.7814640186468,
+        "y": 298.0420390716524
+      },
+      "size": {
+        "width": 240.41230842313539,
+        "height": 275.44726794208475
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "stickyNote",
+      "title": ""
+    },
+    {
+      "id": "n-69",
+      "position": {
+        "x": 898.5139625445252,
+        "y": 298.0420390716524
+      },
+      "size": {
+        "width": 240.41230842313539,
+        "height": 275.44726794208475
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "stickyNote",
+      "title": ""
+    },
+    {
+      "id": "n-70",
+      "position": {
+        "x": 1208.2464610704035,
+        "y": 298.0420390716524
+      },
+      "size": {
+        "width": 240.41230842313539,
+        "height": 275.44726794208475
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "stickyNote",
+      "title": ""
+    },
+    {
+      "id": "n-71",
+      "position": {
+        "x": 279.0489654927685,
+        "y": 607.7745375975298
+      },
+      "size": {
+        "width": 240.41230842313539,
+        "height": 275.44726794208475
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "stickyNote",
+      "title": ""
+    },
+    {
+      "id": "n-72",
+      "position": {
+        "x": 588.7814640186468,
+        "y": 607.7745375975298
+      },
+      "size": {
+        "width": 240.41230842313539,
+        "height": 275.44726794208475
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "stickyNote",
+      "title": ""
+    },
+    {
+      "id": "n-73",
+      "position": {
+        "x": 898.5139625445252,
+        "y": 607.7745375975298
+      },
+      "size": {
+        "width": 240.41230842313539,
+        "height": 275.44726794208475
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "stickyNote",
+      "title": ""
+    },
+    {
+      "id": "n-74",
+      "position": {
+        "x": 1208.2464610704035,
+        "y": 607.7745375975298
+      },
+      "size": {
+        "width": 240.41230842313539,
+        "height": 275.44726794208475
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "stickyNote",
+      "title": ""
+    },
+    {
+      "id": "n-75",
+      "position": {
+        "x": 279.0489654927685,
+        "y": 917.5070361234073
+      },
+      "size": {
+        "width": 240.41230842313539,
+        "height": 275.44726794208475
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "stickyNote",
+      "title": ""
+    },
+    {
+      "id": "n-76",
+      "position": {
+        "x": 588.7814640186468,
+        "y": 917.5070361234073
+      },
+      "size": {
+        "width": 240.41230842313539,
+        "height": 275.44726794208475
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "stickyNote",
+      "title": ""
+    },
+    {
+      "id": "n-77",
+      "position": {
+        "x": 898.5139625445252,
+        "y": 917.5070361234073
+      },
+      "size": {
+        "width": 240.41230842313539,
+        "height": 275.44726794208475
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "stickyNote",
+      "title": ""
+    },
+    {
+      "id": "n-78",
+      "position": {
+        "x": 1208.2464610704035,
+        "y": 917.5070361234073
+      },
+      "size": {
+        "width": 240.41230842313539,
+        "height": 275.44726794208475
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "stickyNote",
+      "title": ""
+    },
+    {
+      "id": "n-79",
+      "position": {
+        "x": 279.0489654927685,
+        "y": 1229.9805302114607
+      },
+      "size": {
+        "width": 240.41230842313539,
+        "height": 275.44726794208475
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "stickyNote",
+      "title": ""
+    },
+    {
+      "id": "n-80",
+      "position": {
+        "x": 588.7814640186468,
+        "y": 1229.9805302114607
+      },
+      "size": {
+        "width": 240.41230842313539,
+        "height": 275.44726794208475
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "stickyNote",
+      "title": ""
+    },
+    {
+      "id": "n-81",
+      "position": {
+        "x": 898.5139625445252,
+        "y": 1229.9805302114607
+      },
+      "size": {
+        "width": 240.41230842313539,
+        "height": 275.44726794208475
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "stickyNote",
+      "title": ""
+    },
+    {
+      "id": "n-82",
+      "position": {
+        "x": 1208.2464610704035,
+        "y": 1229.9805302114607
+      },
+      "size": {
+        "width": 240.41230842313539,
+        "height": 275.44726794208475
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "stickyNote",
+      "title": ""
+    },
+    {
+      "id": "n-83",
+      "position": {
+        "x": 279.0489654927685,
+        "y": 1553.4180065482176
+      },
+      "size": {
+        "width": 240.41230842313539,
+        "height": 275.44726794208475
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "stickyNote",
+      "title": ""
+    },
+    {
+      "id": "n-84",
+      "position": {
+        "x": 588.7814640186468,
+        "y": 1553.4180065482176
+      },
+      "size": {
+        "width": 240.41230842313539,
+        "height": 275.44726794208475
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "stickyNote",
+      "title": ""
+    },
+    {
+      "id": "n-85",
+      "position": {
+        "x": 898.5139625445252,
+        "y": 1553.4180065482176
+      },
+      "size": {
+        "width": 240.41230842313539,
+        "height": 275.44726794208475
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "stickyNote",
+      "title": ""
+    },
+    {
+      "id": "n-86",
+      "position": {
+        "x": 1208.2464610704035,
+        "y": 1553.4180065482176
+      },
+      "size": {
+        "width": 240.41230842313539,
+        "height": 275.44726794208475
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "stickyNote",
+      "title": ""
+    },
+    {
+      "id": "n-87",
+      "position": {
+        "x": 19887.153752418806,
+        "y": 879.8580048042626
+      },
+      "size": {
+        "width": 1487.2954265631768,
+        "height": 420.76537217560883
+      },
+      "style": {
+        "fillColor": "#dedaff",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 31,
+        "fontFamily": "noto_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-88",
+      "position": {
+        "x": 19887.153752418806,
+        "y": 738.6167827018882
+      },
+      "size": {
+        "width": 892.3772559428571
+      },
+      "style": {
+        "fontSize": 48,
+        "textColor": "#1a1a1a",
+        "fontFamily": "arial",
+        "align": "center"
+      },
+      "visualKind": "text",
+      "title": "<p><strong style=\"background-color:transparent;color:rgb(26,26,26)\">Examples:</strong></p>"
+    },
+    {
+      "id": "n-89",
+      "position": {
+        "x": 16150.729823077936,
+        "y": 1818.969333854618
+      },
+      "size": {
+        "width": 614.12404072
+      },
+      "style": {
+        "fontSize": 56,
+        "textColor": "#1a1a1a",
+        "fontFamily": "arial",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><span style=\"background-color:transparent\">A good Ideal Customer Profile is not describing all of your customers but only a fraction, </span><strong style=\"background-color:transparent\">those that you want to have more of.</strong></p>"
+    },
+    {
+      "id": "n-90",
+      "position": {
+        "x": 17068.28537496243,
+        "y": 1818.969333854618
+      },
+      "size": {
+        "width": 679.28837056
+      },
+      "style": {
+        "fontSize": 56,
+        "textColor": "#1a1a1a",
+        "fontFamily": "arial",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><span style=\"background-color:transparent\">In general these would be </span><strong style=\"background-color:transparent\">customers that derive the MOST value from you</strong><span style=\"background-color:transparent\">, while </span><strong style=\"background-color:transparent\">you get the MOST value from them</strong><span style=\"background-color:transparent\">.</span></p>"
+    },
+    {
+      "id": "n-91",
+      "position": {
+        "x": 16167.620979193862,
+        "y": 1818.969333854618
+      },
+      "size": {
+        "width": 824.7191051531732,
+        "height": 558.2199030499041
+      },
+      "style": {
+        "fillColor": "#e3e3ff",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 407,
+        "fontFamily": "noto_sans",
+        "borderWidth": 3,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-92",
+      "position": {
+        "x": 15252.384404692868,
+        "y": 1818.969333854618
+      },
+      "size": {
+        "width": 824.7191051531732,
+        "height": 558.2199030499041
+      },
+      "style": {
+        "fillColor": "#e3e3ff",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 407,
+        "fontFamily": "noto_sans",
+        "borderWidth": 3,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-93",
+      "position": {
+        "x": 17068.28537496243,
+        "y": 1818.969333854618
+      },
+      "size": {
+        "width": 824.7191051531732,
+        "height": 558.2199030499041
+      },
+      "style": {
+        "fillColor": "#e3e3ff",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 407,
+        "fontFamily": "noto_sans",
+        "borderWidth": 3,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-94",
+      "position": {
+        "x": 16300.572244052479,
+        "y": 2455.429922506337
+      },
+      "size": {
+        "width": 2377.230291772803
+      },
+      "style": {
+        "fontSize": 83,
+        "textColor": "#1a1a1a",
+        "fontFamily": "arial",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong style=\"background-color:transparent\">Brainstorm with sticky notes what is your ideal Customer</strong></p>"
+    },
+    {
+      "id": "n-95",
+      "position": {
+        "x": 16299.44812309886,
+        "y": 2584.957646370747
+      },
+      "size": {
+        "width": 2170.5719176
+      },
+      "style": {
+        "fontSize": 56,
+        "textColor": "#1a1a1a",
+        "fontFamily": "arial",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><span style=\"background-color:transparent\">Add one characteristic per post it about your ICP and make sure to have between anywhere 5 - 20 before you continue.</span></p>"
+    },
+    {
+      "id": "n-96",
+      "position": {
+        "x": 16150.488956793353,
+        "y": 3266.245043748326
+      },
+      "size": {
+        "width": 2555.5139050172806,
+        "height": 407.602130409828
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVGIpR4rg%3D/resources/images/3458764517606960074?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-97",
+      "position": {
+        "x": 15136.977736189741,
+        "y": 2587.2093055485425
+      },
+      "size": {
+        "width": 78.2641709446075,
+        "height": 78.2641709446075
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVGIpR4rg%3D/resources/images/3458764517606960073?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-98",
+      "position": {
+        "x": 244.2800355695606,
+        "y": 140.0187712508514
+      },
+      "size": {
+        "width": 998.7353554240578,
+        "height": 2917.2244437769036
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "frameId": "f-2",
+      "visualKind": "shape",
+      "title": "<h1>ICP Missing Categories: Recommendations</h1><p>This document provides recommendations for completing the five missing categories in your Ideal Customer Profile definition for a website creation product targeting non-technical solopreneurs.</p><h2>Tools</h2><p><strong>Why This Matters</strong></p><p>Without knowing current tools, you cannot identify integration opportunities, competitive displacement strategies, or workflow pain points. Understanding what solopreneurs already use reveals where they're experiencing friction and what \"jobs\" remain unsolved—critical for positioning your solution effectively.</p><p><strong>Where to Find This Information</strong></p><ol><li data-list=\"bullet\"><strong>Customer interviews (primary source)</strong>: Ask 10-15 current or prospective customers: \"Walk me through your current workflow for managing your business online\" and \"What tools do you currently pay for?\"</li><li data-list=\"bullet\"><strong>Quantitative validation</strong>: Survey your email list or early users asking them to select from a list of common tools (Canva, Squarespace, WordPress, social media schedulers, etc.)</li><li data-list=\"bullet\"><strong>Tool usage data</strong>: If you have existing users, track what services they mention connecting or migrating from during onboarding</li></ol><h2>Industries</h2><p><strong>Why This Matters</strong></p><p>Industry specificity determines messaging effectiveness, feature prioritization, and go-to-market strategy. A fitness coach has different website needs than an e-commerce seller. Without this, you risk building generic features that don't deeply serve anyone, making your product harder to position and sell.</p><p><strong>Where to Find This Information</strong></p><ol><li data-list=\"bullet\"><strong>Analyze existing customer base</strong>: If you have any users, categorize them by industry. Look for patterns in who converts fastest and has highest retention</li><li data-list=\"bullet\"><strong>Customer discovery interviews</strong>: Ask prospects \"What type of business are you starting?\" Document answers across 20+ conversations to identify clusters</li><li data-list=\"bullet\"><strong>Digital ethnography</strong>: Join solopreneur communities (Reddit's r/solopreneur, Indie Hackers, niche Facebook groups) and observe what types of businesses people discuss launching most frequently</li></ol><h2>Champions</h2><p><strong>Why This Matters</strong></p><p>For solopreneurs, the champion IS the buyer, but you need to understand their network influence. Champions determine how your product spreads through word-of-mouth—a critical acquisition channel for low-cost products. Knowing if they're active in communities, social media, or peer networks shapes your viral mechanics and referral strategy.</p><p><strong>Where to Find This Information</strong></p><ol><li data-list=\"bullet\"><strong>Behavioral interviews</strong>: Ask existing users \"How did you first hear about website builders?\" and \"Where do you go for business advice?\" to map their information networks</li><li data-list=\"bullet\"><strong>Social listening</strong>: Track where solopreneurs discuss website tools (Twitter/X, LinkedIn, YouTube comments on business channels)</li><li data-list=\"bullet\"><strong>Referral source analysis</strong>: Tag and track how new users find you—if significant traffic comes from communities or content creators, those individuals are your champions</li></ol><h2>Business Model</h2><p><strong>Why This Matters</strong></p><p>Revenue model impacts purchasing behavior, budget allocation, and product requirements. A solopreneur running a service business has different cash flow patterns than someone selling digital products. This affects pricing strategy, payment terms, and which features deliver immediate revenue impact (crucial for retention).</p><p><strong>Where to Find This Information</strong></p><ol><li data-list=\"bullet\"><strong>Direct questioning in interviews</strong>: \"How do you plan to make money?\" and \"When do you expect your first revenue?\" reveals monetization timelines</li><li data-list=\"bullet\"><strong>Onboarding questionnaires</strong>: Add business model selection during signup (services, e-commerce, affiliate, content/ads, digital products)</li><li data-list=\"bullet\"><strong>Cohort analysis</strong>: Track which business models have highest activation rates and lowest churn—this indicates product-market fit strength per segment</li></ol><h2>Buyer Personas</h2><p><strong>Why This Matters</strong></p><p>Even within solopreneurs, decision-making psychology varies significantly. A former corporate employee launching a consulting business makes different buying decisions than a young creator monetizing a passion project. Personas drive messaging, channel selection, and objection handling—without them, marketing becomes guesswork.</p><p><strong>Where to Find This Information</strong></p><ol><li data-list=\"bullet\"><strong>Jobs-to-be-Done interviews</strong>: Conduct 15-20 interviews asking \"What were you doing when you decided you needed a website?\" and \"What alternatives did you consider?\" to uncover decision-making contexts</li><li data-list=\"bullet\"><strong>Demographic + psychographic surveys</strong>: Collect age, background, risk tolerance, and decision criteria from your user base</li><li data-list=\"bullet\"><strong>Win/loss analysis</strong>: Interview both customers who bought and prospects who didn't. Ask \"What almost stopped you from buying?\" to identify persona-specific concerns</li></ol><p></p><p><strong>Implementation Priority</strong>: Start with customer interviews across all categories simultaneously. Schedule 15-20 conversations asking open-ended questions about tools, industries, business models, and decision processes. Quantitative data follows to validate patterns from qualitative insights.</p>"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e-0",
+      "sourceNodeId": "n-2",
+      "targetNodeId": "n-32",
+      "style": {
+        "lineStyle": "dashed",
+        "arrowHead": "end",
+        "borderColor": "#595959",
+        "strokeWidth": "5.0",
+        "extra": {
+          "connectorShape": "curved",
+          "sourcePosition": "auto",
+          "targetPosition": "auto"
+        }
+      }
+    }
+  ],
+  "annotations": [],
+  "_metadata": {
+    "extracted_at": "2026-02-23T13:09:46.946144",
+    "total_items": 102,
+    "total_connectors": 6,
+    "frames": 3,
+    "nodes": 99,
+    "edges": 1
+  },
+  "_template": {
+    "name": "check-your-icp-definition",
+    "category": "miroverse",
+    "source": "miroverse",
+    "source_slug": "check-your-icp-definition",
+    "source_board_id": "uXjVGIpR4rg=",
+    "tags": [
+      "startups templates",
+      "ideation & brainstorming",
+      "research & design",
+      "ai accelerated",
+      "strategy & planning",
+      "new"
+    ],
+    "extracted_at": "2026-02-23T13:09:46.946164"
+  }
+}

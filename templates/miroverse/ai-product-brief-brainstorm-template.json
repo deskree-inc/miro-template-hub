@@ -1,0 +1,823 @@
+{
+  "frames": [
+    {
+      "id": "f-0",
+      "title": "",
+      "position": {
+        "x": -24039.124971498506,
+        "y": -22600.150346718132
+      },
+      "size": {
+        "width": 359.9691748977464,
+        "height": 267.54707237020665
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-1",
+      "title": "",
+      "position": {
+        "x": -21023.146346593137,
+        "y": -21802.16393993974
+      },
+      "size": {
+        "width": 359.9691748977464,
+        "height": 359.9576975601654
+      },
+      "style": {
+        "fillColor": "#f0f0f0"
+      }
+    },
+    {
+      "id": "f-2",
+      "title": "",
+      "position": {
+        "x": -23187.13802154773,
+        "y": -22373.90270410589
+      },
+      "size": {
+        "width": 1280.004725003812,
+        "height": 720.042357594692
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-3",
+      "title": "",
+      "position": {
+        "x": -21875.133296543918,
+        "y": -22373.90270410589
+      },
+      "size": {
+        "width": 1280.0047250038115,
+        "height": 720.042357594692
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-4",
+      "title": "",
+      "position": {
+        "x": -23187.13802154773,
+        "y": -21622.121609922473
+      },
+      "size": {
+        "width": 1280.004725003812,
+        "height": 720.0423575946918
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-5",
+      "title": "",
+      "position": {
+        "x": -21875.133296543918,
+        "y": -21622.121609922473
+      },
+      "size": {
+        "width": 1280.0047250038115,
+        "height": 720.0423575946918
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-6",
+      "title": "",
+      "position": {
+        "x": -20503.17717169539,
+        "y": -22611.007489575277
+      },
+      "size": {
+        "width": 359.9691748977464,
+        "height": 245.8327866559206
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-7",
+      "title": "",
+      "position": {
+        "x": -24659.10955894738,
+        "y": -22449.947059786897
+      },
+      "size": {
+        "width": 559.9999999999999,
+        "height": 567.9536462326803
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    }
+  ],
+  "nodes": [
+    {
+      "id": "n-0",
+      "position": {
+        "x": 179.98458744887367,
+        "y": 105.54707237020656
+      },
+      "size": {
+        "width": 295.9691749028571
+      },
+      "style": {
+        "fontSize": 24,
+        "textColor": "#1a1a1a",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-0",
+      "visualKind": "text",
+      "title": "<p><strong>Brainstorm your ideas</strong></p>"
+    },
+    {
+      "id": "n-1",
+      "position": {
+        "x": 179.9845874488732,
+        "y": 184.118500941635
+      },
+      "size": {
+        "width": 295.96917489428574
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#595959",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "frameId": "f-0",
+      "visualKind": "text",
+      "title": "<p>Share the problem, audience, success metrics, and potential solutions as sticky notes in the frames.</p>"
+    },
+    {
+      "id": "n-2",
+      "position": {
+        "x": 52.20210761367562,
+        "y": 52.202107613675565
+      },
+      "size": {
+        "width": 40.404215227348686,
+        "height": 40.404215227349596
+      },
+      "style": {
+        "fillColor": "#1c1c1e",
+        "borderColor": "#ffffff",
+        "textColor": "#ffffff",
+        "fontSize": 18,
+        "fontFamily": "unknown",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "circle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-0",
+      "visualKind": "shape",
+      "title": "<p><strong>1</strong></p>"
+    },
+    {
+      "id": "n-3",
+      "position": {
+        "x": 172.9845874488731,
+        "y": 177.95769756016514
+      },
+      "size": {
+        "width": 309.9691749
+      },
+      "style": {
+        "fontSize": 14,
+        "textColor": "#595959",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "frameId": "f-1",
+      "visualKind": "text",
+      "title": "<ol><li data-list=\"ordered\"><span class=\"ql-ui\"></span>Populate the Problem, Audience and Success frames with your ideas</li><li data-list=\"ordered\"><span class=\"ql-ui\"></span>Select these frames</li><li data-list=\"ordered\"><span class=\"ql-ui\"></span>Open Sidekick         and use the example prompt below</li></ol>"
+    },
+    {
+      "id": "n-4",
+      "position": {
+        "x": 179.984587448874,
+        "y": 267.9576975601651
+      },
+      "size": {
+        "width": 295.9691749
+      },
+      "style": {
+        "fontSize": 14,
+        "textColor": "#222428",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "frameId": "f-1",
+      "visualKind": "text",
+      "title": "<p><em style=\"color:rgb(34,36,40);background-color:rgb(222,218,255)\">Help create ideas for the solution that are tailored to the problem, audience and success provided.</em></p>"
+    },
+    {
+      "id": "n-5",
+      "position": {
+        "x": 179.984587448874,
+        "y": 105.10055470302203
+      },
+      "size": {
+        "width": 295.96917489428574
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#1a1a1a",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-1",
+      "visualKind": "text",
+      "title": "<p><strong>Need help thinking of solutions?</strong></p>"
+    },
+    {
+      "id": "n-6",
+      "position": {
+        "x": 156.27987285746136,
+        "y": 198.59869208816352
+      },
+      "size": {
+        "width": 29.54018768270323,
+        "height": 29.54018768270323
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ_ufnJw%3D/resources/images/3458764517237319727?format=preview&redirect=false"
+        }
+      },
+      "frameId": "f-1",
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-7",
+      "position": {
+        "x": 179.98458744887407,
+        "y": 317.9576975601651
+      },
+      "size": {
+        "width": 295.9691749
+      },
+      "style": {
+        "fontSize": 14,
+        "textColor": "#595959",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "frameId": "f-1",
+      "visualKind": "text",
+      "title": "<p><em>Adjust the prompt for best results</em></p>"
+    },
+    {
+      "id": "n-8",
+      "position": {
+        "x": 64.08165987443974,
+        "y": 52.12170592293958
+      },
+      "size": {
+        "width": 64.16331974887929,
+        "height": 40.243411845879635
+      },
+      "style": {
+        "fillColor": "#1c1c1e",
+        "borderColor": "#ffffff",
+        "textColor": "#ffffff",
+        "fontSize": 14,
+        "fontFamily": "noto_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-1",
+      "visualKind": "shape",
+      "title": "<p><strong>Tip </strong></p>"
+    },
+    {
+      "id": "n-9",
+      "position": {
+        "x": 1171.0924976725014,
+        "y": 133.6740746598109
+      },
+      "size": {
+        "width": 157.7685546875,
+        "height": 197.431640625
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "frameId": "f-2",
+      "visualKind": "shape",
+      "title": "[widgets_stack]"
+    },
+    {
+      "id": "n-10",
+      "position": {
+        "x": 79.86523482814987,
+        "y": 118.16516044330889
+      },
+      "size": {
+        "width": 368.15000000000003,
+        "height": 421.8
+      },
+      "style": {
+        "fillColor": "dark_blue",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": ""
+    },
+    {
+      "id": "n-11",
+      "position": {
+        "x": 292.2184853840499,
+        "y": 54.85714285714357
+      },
+      "size": {
+        "width": 520.4369707657142
+      },
+      "style": {
+        "fontSize": 32,
+        "textColor": "#1a1a1a",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-2",
+      "visualKind": "text",
+      "title": "<p><strong>Problem</strong></p>"
+    },
+    {
+      "id": "n-12",
+      "position": {
+        "x": 1171.092460057504,
+        "y": 133.67407465981114
+      },
+      "size": {
+        "width": 157.7685546875,
+        "height": 197.431640625
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "frameId": "f-3",
+      "visualKind": "shape",
+      "title": "[widgets_stack]"
+    },
+    {
+      "id": "n-13",
+      "position": {
+        "x": 79.86523482814987,
+        "y": 118.16516044330889
+      },
+      "size": {
+        "width": 368.15000000000003,
+        "height": 421.8
+      },
+      "style": {
+        "fillColor": "yellow",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": ""
+    },
+    {
+      "id": "n-14",
+      "position": {
+        "x": 292.2184853840498,
+        "y": 54.8571428571438
+      },
+      "size": {
+        "width": 520.4369707657142
+      },
+      "style": {
+        "fontSize": 32,
+        "textColor": "#1a1a1a",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-3",
+      "visualKind": "text",
+      "title": "<p><strong>Audience</strong></p>"
+    },
+    {
+      "id": "n-15",
+      "position": {
+        "x": 1186.0634523997776,
+        "y": 113.8830705530496
+      },
+      "size": {
+        "width": 127.05867978394025,
+        "height": 159.00128929416732
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "frameId": "f-4",
+      "visualKind": "shape",
+      "title": "[widgets_stack]"
+    },
+    {
+      "id": "n-16",
+      "position": {
+        "x": 79.86523482814987,
+        "y": 118.16516044330889
+      },
+      "size": {
+        "width": 85.33588235294118,
+        "height": 97.77176470588236
+      },
+      "style": {
+        "fillColor": "dark_green",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": ""
+    },
+    {
+      "id": "n-17",
+      "position": {
+        "x": 292.2184853840499,
+        "y": 54.85714285714323
+      },
+      "size": {
+        "width": 520.4369707657142
+      },
+      "style": {
+        "fontSize": 32,
+        "textColor": "#1a1a1a",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-4",
+      "visualKind": "text",
+      "title": "<p><strong>Success</strong></p>"
+    },
+    {
+      "id": "n-18",
+      "position": {
+        "x": 1186.063384491596,
+        "y": 113.88307055305006
+      },
+      "size": {
+        "width": 127.05867978394025,
+        "height": 159.00128929416732
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "frameId": "f-5",
+      "visualKind": "shape",
+      "title": "[widgets_stack]"
+    },
+    {
+      "id": "n-19",
+      "position": {
+        "x": 79.86523482814987,
+        "y": 118.16516044330889
+      },
+      "size": {
+        "width": 85.33588235294118,
+        "height": 97.77176470588236
+      },
+      "style": {
+        "fillColor": "pink",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": ""
+    },
+    {
+      "id": "n-20",
+      "position": {
+        "x": 292.2184853840498,
+        "y": 49.386268988736106
+      },
+      "size": {
+        "width": 520.4369707657142
+      },
+      "style": {
+        "fontSize": 32,
+        "textColor": "#1a1a1a",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-5",
+      "visualKind": "text",
+      "title": "<p><strong>Solution</strong></p>"
+    },
+    {
+      "id": "n-21",
+      "position": {
+        "x": 292.21848538405175,
+        "y": 149.14285714285893
+      },
+      "size": {
+        "width": 520.4369707714286
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#9a9994",
+        "fontFamily": "unknown",
+        "align": "left"
+      },
+      "frameId": "f-3",
+      "visualKind": "text",
+      "title": "<p>Who is the target persona?</p><p>What are their jobs-to-be-done?</p><p>What are their current workarounds or competing solutions?</p><p>Who is out of scope?</p>"
+    },
+    {
+      "id": "n-22",
+      "position": {
+        "x": 292.218485384052,
+        "y": 149.14285714285882
+      },
+      "size": {
+        "width": 520.4369707714286
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#9a9994",
+        "fontFamily": "unknown",
+        "align": "left"
+      },
+      "frameId": "f-4",
+      "visualKind": "text",
+      "title": "<p>How will we measure success?</p><p>What key business outcomes will this drive?</p><p>What will signal that we&#39;re on the right track?</p><p>What must we watch to avoid negative impacts?</p>"
+    },
+    {
+      "id": "n-23",
+      "position": {
+        "x": 292.2184853840481,
+        "y": 149.14285714285882
+      },
+      "size": {
+        "width": 520.4369707714286
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#9a9994",
+        "fontFamily": "unknown",
+        "align": "left"
+      },
+      "frameId": "f-5",
+      "visualKind": "text",
+      "title": "<p>How might we best solve the core user problem?</p><p>What does the ideal user journey look like?</p><p>What are the essential components of this solution?</p><p>What are our biggest, riskiest assumptions to test?</p>"
+    },
+    {
+      "id": "n-24",
+      "position": {
+        "x": 292.21848538404834,
+        "y": 149.14285714285893
+      },
+      "size": {
+        "width": 520.4369707714286
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#9a9994",
+        "fontFamily": "unknown",
+        "align": "left"
+      },
+      "frameId": "f-2",
+      "visualKind": "text",
+      "title": "<p>What pain point are we addressing?</p><p>What evidence proves this is a problem worth solving?</p><p>How does this problem impact our business goals?</p><p>Why is this a priority for us right now?</p>"
+    },
+    {
+      "id": "n-25",
+      "position": {
+        "x": 179.9845874488732,
+        "y": 109.54707237020642
+      },
+      "size": {
+        "width": 295.9691749028571
+      },
+      "style": {
+        "fontSize": 24,
+        "textColor": "#1a1a1a",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-6",
+      "visualKind": "text",
+      "title": "<p><strong>Generate Product Brief</strong></p>"
+    },
+    {
+      "id": "n-26",
+      "position": {
+        "x": 179.984587448873,
+        "y": 175.2613580844922
+      },
+      "size": {
+        "width": 295.96917489428574
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#595959",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "frameId": "f-6",
+      "visualKind": "text",
+      "title": "<p>Turn your brainstorm notes into a structured brief to align your team and stakeholders.</p>"
+    },
+    {
+      "id": "n-27",
+      "position": {
+        "x": 52.20210761367562,
+        "y": 52.202107613674514
+      },
+      "size": {
+        "width": 40.404215227348686,
+        "height": 40.404215227349596
+      },
+      "style": {
+        "fillColor": "#1c1c1e",
+        "borderColor": "#ffffff",
+        "textColor": "#ffffff",
+        "fontSize": 18,
+        "fontFamily": "unknown",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "circle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-6",
+      "visualKind": "shape",
+      "title": "<p><strong>2</strong></p>"
+    },
+    {
+      "id": "n-28",
+      "position": {
+        "x": -20291.192584246517,
+        "y": -22733.923882903237
+      },
+      "size": {
+        "width": 784.0,
+        "height": 1105.4399999999998
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "<h1></h1>"
+    },
+    {
+      "id": "n-29",
+      "position": {
+        "x": 280.0000000000027,
+        "y": 132.57142857142924
+      },
+      "size": {
+        "width": 432.0
+      },
+      "style": {
+        "fontSize": 48,
+        "textColor": "#1c1c1e",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-7",
+      "visualKind": "text",
+      "title": "<p><strong>Product Brief Brainstorm</strong></p>"
+    },
+    {
+      "id": "n-30",
+      "position": {
+        "x": 279.99999999999994,
+        "y": 272.5714285714279
+      },
+      "size": {
+        "width": 432.0
+      },
+      "style": {
+        "fontSize": 24,
+        "textColor": "#595959",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "frameId": "f-7",
+      "visualKind": "text",
+      "title": "<p>Brainstorm your initiative&#39;s core elements and synthesize them into a clear product brief.</p>"
+    },
+    {
+      "id": "n-31",
+      "position": {
+        "x": 54.0000000000004,
+        "y": 355.999999999999
+      },
+      "size": {
+        "width": 452.0,
+        "height": 88.28662109375
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "frameId": "f-7",
+      "visualKind": "shape",
+      "title": "[unknown]"
+    },
+    {
+      "id": "n-32",
+      "position": {
+        "x": 279.99999999999994,
+        "y": 485.1201336632147
+      },
+      "size": {
+        "width": 481.74528835062966,
+        "height": 101.66702513893159
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "frameId": "f-7",
+      "visualKind": "shape",
+      "title": "[action_button]"
+    }
+  ],
+  "edges": [],
+  "annotations": [],
+  "_metadata": {
+    "extracted_at": "2026-02-23T12:51:38.174383",
+    "total_items": 41,
+    "total_connectors": 0,
+    "frames": 8,
+    "nodes": 33,
+    "edges": 0
+  },
+  "_template": {
+    "name": "ai-product-brief-brainstorm-template",
+    "category": "miroverse",
+    "source": "miroverse",
+    "source_slug": "product-brief-brainstorm-template-ai",
+    "source_board_id": "uXjVJ_ufnJw=",
+    "tags": [
+      "ideation & brainstorming",
+      "product management",
+      "ai accelerated",
+      "agile",
+      "roadmap",
+      "strategy & planning",
+      "product roadmap templates",
+      "marketing brief templates"
+    ],
+    "extracted_at": "2026-02-23T12:51:38.174427"
+  }
+}

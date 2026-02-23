@@ -1,0 +1,3560 @@
+{
+  "frames": [
+    {
+      "id": "f-0",
+      "title": "",
+      "position": {
+        "x": 589.1853080023602,
+        "y": 21890.12302314588
+      },
+      "size": {
+        "width": 333.4467795419573,
+        "height": 284.11689938808394
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-1",
+      "title": "",
+      "position": {
+        "x": 5757.077835715533,
+        "y": 22662.31689852133
+      },
+      "size": {
+        "width": 844.395642651191,
+        "height": 478.72221762425727
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-2",
+      "title": "",
+      "position": {
+        "x": 5069.679995352313,
+        "y": 22130.54800088265
+      },
+      "size": {
+        "width": 314.24990107519085,
+        "height": 728.6068336287788
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-3",
+      "title": "",
+      "position": {
+        "x": 7228.116881463696,
+        "y": 21950.247908297504
+      },
+      "size": {
+        "width": 193.57873561038457,
+        "height": 344.89844127753344
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-4",
+      "title": "",
+      "position": {
+        "x": 7002.396589446457,
+        "y": 21950.247908297504
+      },
+      "size": {
+        "width": 193.57873561038457,
+        "height": 344.89844127753344
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-5",
+      "title": "",
+      "position": {
+        "x": 7453.732195056135,
+        "y": 21950.247908297504
+      },
+      "size": {
+        "width": 193.57873561038457,
+        "height": 344.89844127753344
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-6",
+      "title": "",
+      "position": {
+        "x": 2835.7526321762184,
+        "y": 21880.614574106272
+      },
+      "size": {
+        "width": 707.3143923334126,
+        "height": 390.7377387194559
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    }
+  ],
+  "nodes": [
+    {
+      "id": "n-0",
+      "position": {
+        "x": -1872.410568525817,
+        "y": 21846.228373567126
+      },
+      "size": {
+        "width": 548.6692329655393
+      },
+      "style": {
+        "fontSize": 17,
+        "textColor": "#1a1a1a",
+        "fontFamily": "fredoka_one",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong style=\"background-color:transparent\">This activity helps you create a manifesto that aligns AI deployment with your organization&#39;s mission, manages risks, and builds team trust through responsible AI practices.</strong></p>"
+    },
+    {
+      "id": "n-1",
+      "position": {
+        "x": -2146.745185007782,
+        "y": 21903.60536158047
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[flip_card]"
+    },
+    {
+      "id": "n-2",
+      "position": {
+        "x": -1968.5326059676793,
+        "y": 21903.605361580478
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[flip_card]"
+    },
+    {
+      "id": "n-3",
+      "position": {
+        "x": -1790.4421608114958,
+        "y": 21903.605361580478
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[flip_card]"
+    },
+    {
+      "id": "n-4",
+      "position": {
+        "x": -1998.299466062509,
+        "y": 22135.51660203634
+      },
+      "size": {
+        "width": 364.72636139238483,
+        "height": 89.96886761694945
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJpSa3jc%3D/resources/images/3458764517388921939?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-5",
+      "position": {
+        "x": -1894.4571686231102,
+        "y": 21724.286626120203
+      },
+      "size": {
+        "width": 780.811744357334,
+        "height": 779.9732437727578
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJpSa3jc%3D/resources/images/3458764517388921952?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-6",
+      "position": {
+        "x": -1998.299466062509,
+        "y": 22113.374178000133
+      },
+      "size": {
+        "width": 427.7835198887857,
+        "height": 185.7303096498921
+      },
+      "style": {
+        "fillColor": "#faaa3f",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 11,
+        "fontFamily": "noto_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "wedge_round_rectangle_callout"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-7",
+      "position": {
+        "x": -1385.7973963384454,
+        "y": 22111.726761943588
+      },
+      "size": {
+        "width": 585.3219509964682,
+        "height": 257.6133671001301
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJpSa3jc%3D/resources/images/3458764517388922006?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-8",
+      "position": {
+        "x": -1166.3002710167784,
+        "y": 21753.767899708433
+      },
+      "size": {
+        "width": 155.9346813513596,
+        "height": 26.321919436492596
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJpSa3jc%3D/resources/images/3458764517388921945?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-9",
+      "position": {
+        "x": -1158.9713026616773,
+        "y": 21812.255355509933
+      },
+      "size": {
+        "width": 202.92745460082853,
+        "height": 119.62388133657856
+      },
+      "style": {
+        "fillColor": "#007378",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 11,
+        "fontFamily": "noto_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": "<p></p>"
+    },
+    {
+      "id": "n-10",
+      "position": {
+        "x": -1164.2983306614715,
+        "y": 21811.685156527183
+      },
+      "size": {
+        "width": 168.26232125130116
+      },
+      "style": {
+        "fontSize": 11,
+        "textColor": "#ffffff",
+        "fontFamily": "fredoka_one",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong style=\"background-color:transparent\">Explore the possibilities and pitfalls of AI, and brainstorm how you want to use it.</strong></p>"
+    },
+    {
+      "id": "n-11",
+      "position": {
+        "x": -936.5926946355112,
+        "y": 21812.255355509933
+      },
+      "size": {
+        "width": 202.92745460082853,
+        "height": 119.62388133657856
+      },
+      "style": {
+        "fillColor": "#007378",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 11,
+        "fontFamily": "noto_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": "<p></p>"
+    },
+    {
+      "id": "n-12",
+      "position": {
+        "x": -946.8639042233353,
+        "y": 21804.53532081691
+      },
+      "size": {
+        "width": 168.26232125130116
+      },
+      "style": {
+        "fontSize": 11,
+        "textColor": "#ffffff",
+        "fontFamily": "fredoka_one",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong style=\"background-color:transparent\">Learn about AI and how a well-crafted manifesto can power up your team.</strong></p>"
+    },
+    {
+      "id": "n-13",
+      "position": {
+        "x": -714.2140866093423,
+        "y": 21812.255355509933
+      },
+      "size": {
+        "width": 202.92745460082853,
+        "height": 119.62388133657856
+      },
+      "style": {
+        "fillColor": "#007378",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 11,
+        "fontFamily": "noto_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": "<p></p>"
+    },
+    {
+      "id": "n-14",
+      "position": {
+        "x": -729.3501149690928,
+        "y": 21811.685156527183
+      },
+      "size": {
+        "width": 168.26232125130116
+      },
+      "style": {
+        "fontSize": 11,
+        "textColor": "#ffffff",
+        "fontFamily": "fredoka_one",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong style=\"background-color:transparent\">Consider how your organization will best utilize AI. Then, create and iterate your manifesto. </strong></p>"
+    },
+    {
+      "id": "n-15",
+      "position": {
+        "x": -269.45687055700637,
+        "y": 21812.255355509933
+      },
+      "size": {
+        "width": 202.92745460082853,
+        "height": 119.62388133657856
+      },
+      "style": {
+        "fillColor": "#007378",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 11,
+        "fontFamily": "noto_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": "<p></p>"
+    },
+    {
+      "id": "n-16",
+      "position": {
+        "x": 20295.276064994538,
+        "y": 24100.91569106099
+      },
+      "size": {
+        "width": 626.4661188132493
+      },
+      "style": {
+        "fontSize": 43,
+        "textColor": "#ffffff",
+        "fontFamily": "fredoka_one",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong style=\"background-color:transparent\">Create an elevator pitch and then export your manifesto. Done!</strong></p>"
+    },
+    {
+      "id": "n-17",
+      "position": {
+        "x": -280.37326473195935,
+        "y": 21753.677134468988
+      },
+      "size": {
+        "width": 147.76580980210326,
+        "height": 26.50344991536496
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJpSa3jc%3D/resources/images/3458764517388922049?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-18",
+      "position": {
+        "x": -774.7372973893962,
+        "y": 21753.40483875068
+      },
+      "size": {
+        "width": 73.88290490105163,
+        "height": 25.95885847874787
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJpSa3jc%3D/resources/images/3458764517388922007?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-19",
+      "position": {
+        "x": -949.9417060316582,
+        "y": 21753.13254303238
+      },
+      "size": {
+        "width": 162.1067176330199,
+        "height": 25.41426704213078
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJpSa3jc%3D/resources/images/3458764517388921998?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-20",
+      "position": {
+        "x": -2043.009848352169,
+        "y": 21391.619570826573
+      },
+      "size": {
+        "width": 470.46854910178,
+        "height": 222.31074892351037
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJpSa3jc%3D/resources/images/3458764517388922040?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-21",
+      "position": {
+        "x": 94.68433603143717,
+        "y": 81.51335475094228
+      },
+      "size": {
+        "width": 791.7958999615585,
+        "height": 616.214866753687
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJpSa3jc%3D/resources/images/3458764517388921987?format=preview&redirect=false"
+        }
+      },
+      "frameId": "f-0",
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-22",
+      "position": {
+        "x": 346.4268479134321,
+        "y": 21776.98254196553
+      },
+      "size": {
+        "width": 155.37288547298238,
+        "height": 55.627363586139566
+      },
+      "style": {
+        "fillColor": "#46c2c8",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 8,
+        "fontFamily": "noto_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": "<p></p>"
+    },
+    {
+      "id": "n-23",
+      "position": {
+        "x": 168.37476218952065,
+        "y": 142.61059305435546
+      },
+      "size": {
+        "width": 333.4467795419579,
+        "height": 283.0126126674561
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 8,
+        "fontFamily": "noto_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-0",
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-24",
+      "position": {
+        "x": 332.34122823409643,
+        "y": 21772.802137297505
+      },
+      "size": {
+        "width": 104.57676588770369,
+        "height": 24.86539949775563
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJpSa3jc%3D/resources/images/3458764517388921958?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-25",
+      "position": {
+        "x": 346.4268479134321,
+        "y": 21839.819309806837
+      },
+      "size": {
+        "width": 155.37288547298238,
+        "height": 55.627363586139566
+      },
+      "style": {
+        "fillColor": "#46c2c8",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 8,
+        "fontFamily": "noto_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-26",
+      "position": {
+        "x": 346.4268479134321,
+        "y": 21998.690998439277
+      },
+      "size": {
+        "width": 155.37288547298238,
+        "height": 66.9809488012666
+      },
+      "style": {
+        "fillColor": "#46c2c8",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 8,
+        "fontFamily": "noto_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": "<p></p>"
+    },
+    {
+      "id": "n-27",
+      "position": {
+        "x": 346.4268479134321,
+        "y": 21916.461950147706
+      },
+      "size": {
+        "width": 155.37288547298238,
+        "height": 83.90440412629118
+      },
+      "style": {
+        "fillColor": "#46c2c8",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 8,
+        "fontFamily": "noto_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": "<p></p>"
+    },
+    {
+      "id": "n-28",
+      "position": {
+        "x": 330.9913922613573,
+        "y": 21835.819309806837
+      },
+      "size": {
+        "width": 101.87709394223307,
+        "height": 25.007487494885662
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJpSa3jc%3D/resources/images/3458764517388921988?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-29",
+      "position": {
+        "x": 336.55120934001616,
+        "y": 21913.228064360836
+      },
+      "size": {
+        "width": 110.26028577290496,
+        "height": 50.44123898116142
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJpSa3jc%3D/resources/images/3458764517388921961?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-30",
+      "position": {
+        "x": 346.4268479134321,
+        "y": 21954.41415221085
+      },
+      "size": {
+        "width": 155.37288547298238,
+        "height": 8.0
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 8,
+        "fontFamily": "noto_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-31",
+      "position": {
+        "x": 459.7310562618045,
+        "y": 21729.868611376165
+      },
+      "size": {
+        "width": 367.89279164063345
+      },
+      "style": {
+        "fontSize": 11,
+        "textColor": "#1a1a1a",
+        "fontFamily": "fredoka_one",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong style=\"color:rgb(26,26,26);background-color:transparent\">Spend about 7 minutes on this exercise.</strong></p>"
+    },
+    {
+      "id": "n-32",
+      "position": {
+        "x": 509.01614526065487,
+        "y": 22066.814920374236
+      },
+      "size": {
+        "width": 327.1040298301034
+      },
+      "style": {
+        "fontSize": 11,
+        "textColor": "#1a1a1a",
+        "fontFamily": "fredoka_one",
+        "align": "center"
+      },
+      "visualKind": "text",
+      "title": "<p><strong style=\"color:rgb(26,26,26);background-color:transparent\">When everyone has added their thoughts to the board, continue to the Rapid Learn activity.</strong></p>"
+    },
+    {
+      "id": "n-33",
+      "position": {
+        "x": 1646.9795711938539,
+        "y": 21758.136427443886
+      },
+      "size": {
+        "width": 564.0791619832565,
+        "height": 317.2945286155818
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "Crafting_Your_AI_Manifesto"
+    },
+    {
+      "id": "n-34",
+      "position": {
+        "x": 1646.9795711938539,
+        "y": 21770.611020360222
+      },
+      "size": {
+        "width": 774.4722849373342,
+        "height": 439.23176299065517
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJpSa3jc%3D/resources/images/3458764517388922010?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-35",
+      "position": {
+        "x": -2545.093073097649,
+        "y": 21584.28408058708
+      },
+      "size": {
+        "width": 548.6692329639294,
+        "height": 305.289557679205
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJpSa3jc%3D/resources/images/3458764517388922035?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-36",
+      "position": {
+        "x": 453.65967489112927,
+        "y": 21562.638406156573
+      },
+      "size": {
+        "width": 340.16817229455813,
+        "height": 74.7919425177439
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJpSa3jc%3D/resources/images/3458764517388922026?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-37",
+      "position": {
+        "x": 1484.9235643723757,
+        "y": 22014.79901397777
+      },
+      "size": {
+        "width": 45.95445436113697,
+        "height": 69.14642198264534
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "Why you need an AI manifesto"
+    },
+    {
+      "id": "n-38",
+      "position": {
+        "x": 1538.1714922942576,
+        "y": 22014.79901397777
+      },
+      "size": {
+        "width": 45.95445436113697,
+        "height": 69.14642198264534
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "Free advice on integrating AI into your organisation"
+    },
+    {
+      "id": "n-39",
+      "position": {
+        "x": 1407.0701506777652,
+        "y": 22014.79901397778
+      },
+      "size": {
+        "width": 92.19522931019442,
+        "height": 69.14642198264582
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "AI Policies Versus Manifestos Podcast - What&#39;s Your AI Manifesto? - AI Moment Podcast"
+    },
+    {
+      "id": "n-40",
+      "position": {
+        "x": 1886.8889917099439,
+        "y": 22016.551320817496
+      },
+      "size": {
+        "width": 92.1952293101947,
+        "height": 74.10083851099762
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "You Need an AI Manifesto - Jeremy Utley"
+    },
+    {
+      "id": "n-41",
+      "position": {
+        "x": 1700.3773306587457,
+        "y": 22014.79901397778
+      },
+      "size": {
+        "width": 45.954454361136555,
+        "height": 69.14642198264472
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "AI Manifesto"
+    },
+    {
+      "id": "n-42",
+      "position": {
+        "x": 1591.3778674494317,
+        "y": 22014.79901397778
+      },
+      "size": {
+        "width": 45.954454361136555,
+        "height": 69.14642198264472
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "Ethical AI Manifesto by Defined.ai"
+    },
+    {
+      "id": "n-43",
+      "position": {
+        "x": 1644.5842426046163,
+        "y": 22014.79901397778
+      },
+      "size": {
+        "width": 45.954454361136555,
+        "height": 69.14642198264472
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "AI and scholarship: a manifesto"
+    },
+    {
+      "id": "n-44",
+      "position": {
+        "x": 1756.2696024043119,
+        "y": 22014.79901397778
+      },
+      "size": {
+        "width": 45.954454361136555,
+        "height": 69.14642198264472
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "Vention AI Manifesto: Building Ethical, Human-Centered AI"
+    },
+    {
+      "id": "n-45",
+      "position": {
+        "x": 1810.0250497621562,
+        "y": 22014.79901397778
+      },
+      "size": {
+        "width": 45.954454361136555,
+        "height": 69.14642198264472
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "The Responsible AI Manifesto for Marketing and Business"
+    },
+    {
+      "id": "n-46",
+      "position": {
+        "x": 1646.9795711938539,
+        "y": 22066.867834825847
+      },
+      "size": {
+        "width": 572.0140703383868
+      },
+      "style": {
+        "fontSize": 13,
+        "textColor": "#1a1a1a",
+        "fontFamily": "fredoka_one",
+        "align": "center"
+      },
+      "visualKind": "text",
+      "title": "<p><strong style=\"background-color:transparent;color:rgb(26,26,26)\">This video is AI-generated using the sources linked above. &#x1f446;</strong></p>"
+    },
+    {
+      "id": "n-47",
+      "position": {
+        "x": 1212.4594868591878,
+        "y": 21669.004775763973
+      },
+      "size": {
+        "width": 181.48730468750006,
+        "height": 65.40318563839254
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJpSa3jc%3D/resources/images/3458764517388921989?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-48",
+      "position": {
+        "x": 1502.9048042951606,
+        "y": 21797.001482213553
+      },
+      "size": {
+        "width": 961.5509793582764,
+        "height": 765.749117919119
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJpSa3jc%3D/resources/images/3458764517388922029?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-49",
+      "position": {
+        "x": 2811.73253776353,
+        "y": 21822.75685718407
+      },
+      "size": {
+        "width": 863.6513693953196,
+        "height": 672.1363593059956
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJpSa3jc%3D/resources/images/3458764517388921987?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-50",
+      "position": {
+        "x": 3756.0678838926947,
+        "y": 22020.341798097994
+      },
+      "size": {
+        "width": 120.50319813627553,
+        "height": 169.90950937214848
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "<h1>Manifesto Template</h1><p><strong>Vision and Ambition:</strong> A forward-looking perspective on the opportunities and potential benefits of AI, inspiring a purposeful approach. [<span style=\"color:#3578ff;\">2</span>, <span style=\"color:#3578ff;\">4</span>] (Should be expressed as prose, not a list)</p><p><strong>Ethical Principles:</strong> Clearly stated principles on data privacy, bias mitigation, transparency, and human-centered AI. [<u><a href=\"https://www.marketingaiinstitute.com/blog/the-responsible-ai-manifesto-for-marketing-and-business\"><span style=\"color:#3578ff;\">4</span></a></u>, <u><a href=\"https://connect.defined.ai/ethical-ai-manifesto\"><span style=\"color:#3578ff;\">7</span></a></u>, <u><a href=\"https://ventionteams.com/solutions/ai/manifesto\"><span style=\"color:#3578ff;\">10</span></a></u>] (Should be expressed as a bulleted list)</p><p><strong>Intended Use Cases:</strong> How AI will be applied in internal operations, product/service delivery, and customer experiences. [<u><a href=\"https://www.jeremyutley.design/blog/you-need-an-ai-manifesto\"><span style=\"color:#3578ff;\">5</span></a></u>] (Should be expressed as a bulleted list)</p><p><strong>Cultural Norms:</strong> Guidelines for employee interaction with AI, including disclosure requirements and expectations for innovation. [<u><a href=\"https://www.jeremyutley.design/blog/you-need-an-ai-manifesto\"><span style=\"color:#3578ff;\">5</span></a></u>] (Should be expressed as prose, not a list)</p><p><strong>Governance and Accountability:</strong> Who is responsible for AI systems and how their development and deployment will be overseen. [<u><a href=\"https://www.jeremyutley.design/blog/you-need-an-ai-manifesto\"><span style=\"color:#3578ff;\">5</span></a></u>] (Should be expressed as prose, not a list)</p>"
+    },
+    {
+      "id": "n-51",
+      "position": {
+        "x": 3771.8175657985867,
+        "y": 21632.535092059414
+      },
+      "size": {
+        "width": 198.96890272393122,
+        "height": 280.546152840743
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "<h1></h1>"
+    },
+    {
+      "id": "n-52",
+      "position": {
+        "x": 4562.2091647324605,
+        "y": 21740.840755670142
+      },
+      "size": {
+        "width": 210.57429268628175,
+        "height": 410.9421783290958
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "<h1></h1>"
+    },
+    {
+      "id": "n-53",
+      "position": {
+        "x": 3958.7719932929326,
+        "y": 21514.622394579896
+      },
+      "size": {
+        "width": 161.32675586226847,
+        "height": 191.9489641509398
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJpSa3jc%3D/resources/images/3458764517388922061?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-54",
+      "position": {
+        "x": 3689.2643239167105,
+        "y": 21870.355305047022
+      },
+      "size": {
+        "width": 636.8967683050532,
+        "height": 597.2052151508552
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJpSa3jc%3D/resources/images/3458764517388922053?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-55",
+      "position": {
+        "x": 3580.2878104723527,
+        "y": 21567.484672803916
+      },
+      "size": {
+        "width": 176.6431348325852,
+        "height": 74.10083851099783
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJpSa3jc%3D/resources/images/3458764517388922070?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-56",
+      "position": {
+        "x": 5811.456282176523,
+        "y": 21662.114315768853
+      },
+      "size": {
+        "width": 377.9056502673454,
+        "height": 532.8469668769569
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "<h1></h1>"
+    },
+    {
+      "id": "n-57",
+      "position": {
+        "x": -698.4025360695487,
+        "y": 21760.77069709061
+      },
+      "size": {
+        "width": 1347.4515056305754,
+        "height": 350.62382628266477
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJpSa3jc%3D/resources/images/3458764517388921971?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-58",
+      "position": {
+        "x": 421.23377683011995,
+        "y": 21597.932785309447
+      },
+      "size": {
+        "width": 68.70009704328804,
+        "height": 24.94800272032682
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJpSa3jc%3D/resources/images/3458764517388922013?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-59",
+      "position": {
+        "x": -491.83547858317434,
+        "y": 21812.255355509933
+      },
+      "size": {
+        "width": 202.92745460082853,
+        "height": 119.62388133657856
+      },
+      "style": {
+        "fillColor": "#007378",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 11,
+        "fontFamily": "noto_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": "<p></p>"
+    },
+    {
+      "id": "n-60",
+      "position": {
+        "x": -505.222591060382,
+        "y": 21804.53532081691
+      },
+      "size": {
+        "width": 168.26232125130116
+      },
+      "style": {
+        "fontSize": 11,
+        "textColor": "#ffffff",
+        "fontFamily": "fredoka_one",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong style=\"background-color:transparent\">Evaluate and refine your manifesto to make sure it&#39;s air tight.</strong></p>"
+    },
+    {
+      "id": "n-61",
+      "position": {
+        "x": -556.38877773891,
+        "y": 21752.396429860386
+      },
+      "size": {
+        "width": 65.92994789263209,
+        "height": 23.9420406981374
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJpSa3jc%3D/resources/images/3458764517388921975?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-62",
+      "position": {
+        "x": 5.757875246671574,
+        "y": 21657.78627917719
+      },
+      "size": {
+        "width": 255.3688642773833,
+        "height": 181.01873159358084
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJpSa3jc%3D/resources/images/3458764517388922021?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-63",
+      "position": {
+        "x": 5232.485329354,
+        "y": 22136.229625908694
+      },
+      "size": {
+        "width": 1745.0785344057797,
+        "height": 1293.5108287755124
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJpSa3jc%3D/resources/images/3458764517388921949?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-64",
+      "position": {
+        "x": 4629.461856369102,
+        "y": 21572.695553836926
+      },
+      "size": {
+        "width": 176.64313483258454,
+        "height": 75.80264563686983
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJpSa3jc%3D/resources/images/3458764517388921972?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-65",
+      "position": {
+        "x": 4996.71785038646,
+        "y": 21582.2606676268
+      },
+      "size": {
+        "width": 520.5267592168547,
+        "height": 56.67241805714981
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJpSa3jc%3D/resources/images/3458764517388922064?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-66",
+      "position": {
+        "x": 4661.209351373733,
+        "y": 21675.729868972237
+      },
+      "size": {
+        "width": 314.2499010751909,
+        "height": 68.22177339581067
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJpSa3jc%3D/resources/images/3458764517388922074?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-67",
+      "position": {
+        "x": 5075.1060159522585,
+        "y": 21688.353582947053
+      },
+      "size": {
+        "width": 348.62937743213485,
+        "height": 93.46920134544139
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJpSa3jc%3D/resources/images/3458764517388921978?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-68",
+      "position": {
+        "x": 5520.776278030669,
+        "y": 21678.281470733098
+      },
+      "size": {
+        "width": 377.9056502673449,
+        "height": 73.32497691754455
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJpSa3jc%3D/resources/images/3458764517388921986?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-69",
+      "position": {
+        "x": 5376.921244561859,
+        "y": 21803.888003783104
+      },
+      "size": {
+        "width": 38.615356064491436,
+        "height": 93.73779100448002
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJpSa3jc%3D/resources/images/3458764517388922073?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-70",
+      "position": {
+        "x": 5376.921244561857,
+        "y": 21937.795951735185
+      },
+      "size": {
+        "width": 38.61535606449609,
+        "height": 113.076246455261
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJpSa3jc%3D/resources/images/3458764517388921966?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-71",
+      "position": {
+        "x": 5376.921244561857,
+        "y": 22201.590657570887
+      },
+      "size": {
+        "width": 38.615356064496346,
+        "height": 117.99491157257225
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJpSa3jc%3D/resources/images/3458764517388921979?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-72",
+      "position": {
+        "x": 157.12495053759542,
+        "y": 93.75493418609392
+      },
+      "size": {
+        "width": 273.24522405756875,
+        "height": 134.94961212527983
+      },
+      "style": {
+        "fillColor": "#007378",
+        "borderColor": "#ffffff",
+        "textColor": "#ffffff",
+        "fontSize": 9,
+        "fontFamily": "fredoka_one",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "left",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-2",
+      "visualKind": "shape",
+      "title": "<p><strong style=\"color:rgb(255,255,255)\"><em>A critical client deliverable is due tomorrow and your designated human reviewers are unavailable due to illness. A manager suggests letting the AI auto-publish the work since &#34;it&#39;s usually accurate anyway&#34; and missing the deadline could cost the contract. Does your manifesto provide clear guidance on who has authority to override human-in-the-loop requirements during emergencies, and what constitutes a genuine exception versus convenience?</em></strong></p>"
+    },
+    {
+      "id": "n-73",
+      "position": {
+        "x": 157.12495053759542,
+        "y": 274.9228983628599
+      },
+      "size": {
+        "width": 273.24522405756875,
+        "height": 155.17429033706773
+      },
+      "style": {
+        "fillColor": "#007378",
+        "borderColor": "#ffffff",
+        "textColor": "#ffffff",
+        "fontSize": 9,
+        "fontFamily": "fredoka_one",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "left",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-2",
+      "visualKind": "shape",
+      "title": "<p><strong style=\"color:rgb(255,255,255)\"><em>Your procurement process has delayed access to compliant tools for months while competitors gain significant advantages using faster, unapproved alternatives. Team members are frustrated that your ethical AI stance is hindering their ability to do their work effectively, and leadership questions whether your tool selection criteria are actually serving the team&#39;s needs. How does your manifesto balance responsible tool selection with practical work requirements, and who decides when perfect compliance prevents necessary progress?</em></strong></p>"
+    },
+    {
+      "id": "n-74",
+      "position": {
+        "x": 157.12495053759542,
+        "y": 447.6944956454571
+      },
+      "size": {
+        "width": 273.24522405756875,
+        "height": 125.94301630797418
+      },
+      "style": {
+        "fillColor": "#007378",
+        "borderColor": "#ffffff",
+        "textColor": "#ffffff",
+        "fontSize": 9,
+        "fontFamily": "fredoka_one",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "left",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-2",
+      "visualKind": "shape",
+      "title": "<p><strong style=\"color:rgb(255,255,255)\"><em>AI&#39;s efficiency has exceeded expectations and leadership now wants to reduce staff hours significantly. Team members feel betrayed that your &#34;AI as enhancement&#34; vision has become &#34;AI as replacement,&#34; and morale is plummeting as people worry about job security. According to your manifesto, who is responsible for managing this unintended impact?</em></strong></p>"
+    },
+    {
+      "id": "n-75",
+      "position": {
+        "x": 157.12495053759542,
+        "y": 615.6181837329895
+      },
+      "size": {
+        "width": 273.24522405756875,
+        "height": 148.47656691406044
+      },
+      "style": {
+        "fillColor": "#007378",
+        "borderColor": "#ffffff",
+        "textColor": "#ffffff",
+        "fontSize": 9,
+        "fontFamily": "fredoka_one",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "left",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-2",
+      "visualKind": "shape",
+      "title": "<p><strong style=\"color:rgb(255,255,255)\"><em>Your AI-powered hiring assistant is discovered to be systematically underrating candidates from certain demographic groups despite passing initial fairness testing. Legal recommends immediately shutting down the system, but doing so would halt all hiring during your busiest recruitment season and force manual review of thousands of applications. Does your manifesto provide clear guidance on what threshold of bias requires immediate action versus gradual correction?</em></strong></p>"
+    },
+    {
+      "id": "n-76",
+      "position": {
+        "x": 6168.603157507702,
+        "y": 21523.48002761376
+      },
+      "size": {
+        "width": 161.32675586226847,
+        "height": 191.9489641509398
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJpSa3jc%3D/resources/images/3458764517388922061?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-77",
+      "position": {
+        "x": 6489.663892696682,
+        "y": 21940.623065053333
+      },
+      "size": {
+        "width": 648.4527900763352,
+        "height": 285.3986705481451
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJpSa3jc%3D/resources/images/3458764517388922006?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-78",
+      "position": {
+        "x": 931.6688181340068,
+        "y": 22001.245237449857
+      },
+      "size": {
+        "width": 340.8611892101452,
+        "height": 341.44635863368194
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJpSa3jc%3D/resources/images/3458764517388922028?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-79",
+      "position": {
+        "x": 4246.225119763179,
+        "y": 21757.94156088346
+      },
+      "size": {
+        "width": 515.7185621459331,
+        "height": 280.54615284074333
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJpSa3jc%3D/resources/images/3458764517388921996?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-80",
+      "position": {
+        "x": 226.51381024889997,
+        "y": 21792.746982057193
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[widgets_stack]"
+    },
+    {
+      "id": "n-81",
+      "position": {
+        "x": 82.50000000000215,
+        "y": 113.99999999995472
+      },
+      "size": {
+        "width": 89.99139974416319,
+        "height": 103.10572432999601
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": ""
+    },
+    {
+      "id": "n-82",
+      "position": {
+        "x": 2000.3681748211302,
+        "y": 21541.385292817078
+      },
+      "size": {
+        "width": 362.03594673350585,
+        "height": 256.6299069169042
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJpSa3jc%3D/resources/images/3458764517388922021?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-83",
+      "position": {
+        "x": 96.96086691294016,
+        "y": 172.44922063876672
+      },
+      "size": {
+        "width": 193.92173382588663,
+        "height": 344.8984412775336
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJpSa3jc%3D/resources/images/3458764517388922057?format=preview&redirect=false"
+        }
+      },
+      "frameId": "f-3",
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-84",
+      "position": {
+        "x": 96.96086691294198,
+        "y": 172.44922063875944
+      },
+      "size": {
+        "width": 193.92173382588723,
+        "height": 344.8984412775347
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJpSa3jc%3D/resources/images/3458764517388921941?format=preview&redirect=false"
+        }
+      },
+      "frameId": "f-4",
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-85",
+      "position": {
+        "x": 96.9608669129529,
+        "y": 172.44922063876672
+      },
+      "size": {
+        "width": 193.9217338258866,
+        "height": 344.8984412775336
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJpSa3jc%3D/resources/images/3458764517388922056?format=preview&redirect=false"
+        }
+      },
+      "frameId": "f-5",
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-86",
+      "position": {
+        "x": 97.39940156364804,
+        "y": 172.186954674421
+      },
+      "size": {
+        "width": 161.32675586226958,
+        "height": 294.85526555767086
+      },
+      "style": {
+        "fillColor": "#659df2",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 8,
+        "fontFamily": "noto_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 0.4
+      },
+      "frameId": "f-4",
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-87",
+      "position": {
+        "x": 97.09636086268705,
+        "y": 45.053605153746474
+      },
+      "size": {
+        "width": 148.0712462482974
+      },
+      "style": {
+        "fontSize": 9,
+        "textColor": "#ffffff",
+        "fontFamily": "fredoka_one",
+        "align": "left"
+      },
+      "frameId": "f-4",
+      "visualKind": "text",
+      "title": "<p>Paste your AI Manifesto here</p>"
+    },
+    {
+      "id": "n-88",
+      "position": {
+        "x": 114.77744985817566,
+        "y": 25.598226198163474
+      },
+      "size": {
+        "width": 140.84448626280653
+      },
+      "style": {
+        "fontSize": 9,
+        "textColor": "#1a1a1a",
+        "fontFamily": "fredoka_one",
+        "align": "left"
+      },
+      "frameId": "f-3",
+      "visualKind": "text",
+      "title": "<p>Paste your AI Manifesto here</p>"
+    },
+    {
+      "id": "n-89",
+      "position": {
+        "x": 96.78936780519228,
+        "y": 47.2643599405537
+      },
+      "size": {
+        "width": 140.84448626280653
+      },
+      "style": {
+        "fontSize": 9,
+        "textColor": "#1a1a1a",
+        "fontFamily": "fredoka_one",
+        "align": "left"
+      },
+      "frameId": "f-5",
+      "visualKind": "text",
+      "title": "<p>Paste your AI Manifesto here</p>"
+    },
+    {
+      "id": "n-90",
+      "position": {
+        "x": 475.0247204321745,
+        "y": 21661.11177211939
+      },
+      "size": {
+        "width": 382.8982633766509,
+        "height": 90.87078493099817
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJpSa3jc%3D/resources/images/3458764517388922051?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-91",
+      "position": {
+        "x": 7664.001838287474,
+        "y": 21863.652589017198
+      },
+      "size": {
+        "width": 172.37304082025668,
+        "height": 126.5222445167505
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJpSa3jc%3D/resources/images/3458764517388922048?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-92",
+      "position": {
+        "x": 7658.59490476112,
+        "y": 21977.264352947368
+      },
+      "size": {
+        "width": 161.55917376754294,
+        "height": 32.657878499195434
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJpSa3jc%3D/resources/images/3458764517388922052?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-93",
+      "position": {
+        "x": 7667.354137073803,
+        "y": 22070.26820719067
+      },
+      "size": {
+        "width": 179.07763839293918,
+        "height": 70.29013584263917
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJpSa3jc%3D/resources/images/3458764517388922047?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-94",
+      "position": {
+        "x": 7325.302874034592,
+        "y": 21888.912925770495
+      },
+      "size": {
+        "width": 1011.4165679122642,
+        "height": 736.9226342922819
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJpSa3jc%3D/resources/images/3458764517388921942?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-95",
+      "position": {
+        "x": 8829.679511694192,
+        "y": 21703.621064806437
+      },
+      "size": {
+        "width": 636.8260815805792,
+        "height": 53.18075248964769
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJpSa3jc%3D/resources/images/3458764517388922015?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-96",
+      "position": {
+        "x": 8548.999556813043,
+        "y": 22150.53168144548
+      },
+      "size": {
+        "width": 75.46617181824772,
+        "height": 75.46617181824772
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJpSa3jc%3D/resources/images/3458764517388922017?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-97",
+      "position": {
+        "x": 9526.803971728943,
+        "y": 21898.43155106001
+      },
+      "size": {
+        "width": 2031.07500165008,
+        "height": 156.8563608785568
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJpSa3jc%3D/resources/images/3458764517388922019?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-98",
+      "position": {
+        "x": 9537.788706091485,
+        "y": 21944.512320168826
+      },
+      "size": {
+        "width": 2363.149635635131,
+        "height": 838.0426934846278
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#e1262e",
+        "textColor": "#1a1a1a",
+        "fontSize": 75,
+        "fontFamily": "noto_sans",
+        "borderWidth": 8,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-99",
+      "position": {
+        "x": 9586.47530933738,
+        "y": 22148.129798303984
+      },
+      "size": {
+        "width": 1965.0759268967174
+      },
+      "style": {
+        "fontSize": 56,
+        "textColor": "#000000",
+        "fontFamily": "noto_sans",
+        "align": "center"
+      },
+      "visualKind": "text",
+      "title": "<p><a href=\"mailto:info&#64;collectivenext.com\" style=\"color:black\">info&#64;collectivenext.com</a><span style=\"color:black\">  |   </span><a href=\"http://www.collectivenext.com\" style=\"color:black\">www.collectivenext.com</a><span style=\"color:black\">   |    </span><a style=\"color:black\">617.517.9840</a></p>"
+    },
+    {
+      "id": "n-100",
+      "position": {
+        "x": 2433.0565106537174,
+        "y": 21728.823826631273
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[widgets_stack]"
+    },
+    {
+      "id": "n-101",
+      "position": {
+        "x": 82.50000000000429,
+        "y": 114.00000000001498
+      },
+      "size": {
+        "width": 89.99139974416319,
+        "height": 103.10572432999601
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": ""
+    },
+    {
+      "id": "n-102",
+      "position": {
+        "x": -280.37326473195935,
+        "y": 21805.070842261353
+      },
+      "size": {
+        "width": 171.46005130285712
+      },
+      "style": {
+        "fontSize": 12,
+        "textColor": "#ffffff",
+        "fontFamily": "fredoka_one",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong style=\"background-color:transparent\">Create an elevator pitch and then export your manifesto. Done!</strong></p>"
+    },
+    {
+      "id": "n-103",
+      "position": {
+        "x": -1886.357961328285,
+        "y": 21605.555816233747
+      },
+      "size": {
+        "width": 497.9545845318161,
+        "height": 103.77164518857336
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJpSa3jc%3D/resources/images/3458764517388921946?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-104",
+      "position": {
+        "x": -1879.8418636772174,
+        "y": 21648.2259223651
+      },
+      "size": {
+        "width": 576.6329476223343,
+        "height": 252.61879690361388
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 12,
+        "fontFamily": "noto_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-105",
+      "position": {
+        "x": -1869.860006348015,
+        "y": 21844.228373567126
+      },
+      "size": {
+        "width": 548.6692329655393
+      },
+      "style": {
+        "fontSize": 17,
+        "textColor": "#ffffff",
+        "fontFamily": "fredoka_one",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong style=\"background-color:transparent\">This activity helps you create a manifesto that aligns AI deployment with your organization&#39;s mission, manages risks, and builds team trust through responsible AI practices.</strong></p>"
+    },
+    {
+      "id": "n-106",
+      "position": {
+        "x": -1880.3313931755029,
+        "y": 21691.368448304987
+      },
+      "size": {
+        "width": 522.0077208341471
+      },
+      "style": {
+        "fontSize": 11,
+        "textColor": "#1a1a1a",
+        "fontFamily": "fredoka_one",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong style=\"background-color:transparent;color:rgb(26,26,26)\">To optimize the experience, choose a member of your team to fill the following roles:</strong></p>"
+    },
+    {
+      "id": "n-107",
+      "position": {
+        "x": -2083.9758683717478,
+        "y": 21752.691110108943
+      },
+      "size": {
+        "width": 126.26167815973413,
+        "height": 59.688421415931494
+      },
+      "style": {
+        "fillColor": "#faaa3f",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 12,
+        "fontFamily": "noto_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "left",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": "<p>&#xfeff;</p>"
+    },
+    {
+      "id": "n-108",
+      "position": {
+        "x": -2081.083497788589,
+        "y": 21753.15697995704
+      },
+      "size": {
+        "width": 116.923725049893
+      },
+      "style": {
+        "fontSize": 11,
+        "textColor": "#1a1a1a",
+        "fontFamily": "fredoka_one",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong style=\"color:rgb(26,26,26);background-color:transparent\">1 person to share their screen to play the video</strong></p>"
+    },
+    {
+      "id": "n-109",
+      "position": {
+        "x": -1948.459647308439,
+        "y": 21752.691110108943
+      },
+      "size": {
+        "width": 126.26167815973413,
+        "height": 59.688421415931494
+      },
+      "style": {
+        "fillColor": "#faaa3f",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 12,
+        "fontFamily": "noto_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "left",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": "<p>&#xfeff;</p>"
+    },
+    {
+      "id": "n-110",
+      "position": {
+        "x": -1945.5672767252797,
+        "y": 21753.15697995704
+      },
+      "size": {
+        "width": 116.923725049893
+      },
+      "style": {
+        "fontSize": 11,
+        "textColor": "#1a1a1a",
+        "fontFamily": "fredoka_one",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong style=\"color:rgb(26,26,26);background-color:transparent\">1 person to activate the Sidekick</strong></p>"
+    },
+    {
+      "id": "n-111",
+      "position": {
+        "x": -1812.856054403061,
+        "y": 21752.691110108943
+      },
+      "size": {
+        "width": 126.26167815973413,
+        "height": 59.688421415931494
+      },
+      "style": {
+        "fillColor": "#faaa3f",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 12,
+        "fontFamily": "noto_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "left",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": "<p>&#xfeff;</p>"
+    },
+    {
+      "id": "n-112",
+      "position": {
+        "x": -1809.9636838199021,
+        "y": 21752.007144246778
+      },
+      "size": {
+        "width": 116.923725049893
+      },
+      "style": {
+        "fontSize": 11,
+        "textColor": "#1a1a1a",
+        "fontFamily": "fredoka_one",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong style=\"background-color:transparent;color:rgb(26,26,26)\">1 person to copy and paste content</strong></p>"
+    },
+    {
+      "id": "n-113",
+      "position": {
+        "x": -1678.4583718366796,
+        "y": 21752.691110108943
+      },
+      "size": {
+        "width": 126.26167815973413,
+        "height": 59.688421415931494
+      },
+      "style": {
+        "fillColor": "#faaa3f",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 12,
+        "fontFamily": "noto_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "left",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": "<p>&#xfeff;</p>"
+    },
+    {
+      "id": "n-114",
+      "position": {
+        "x": -1675.5660012535207,
+        "y": 21752.007144246778
+      },
+      "size": {
+        "width": 116.923725049893
+      },
+      "style": {
+        "fontSize": 11,
+        "textColor": "#1a1a1a",
+        "fontFamily": "fredoka_one",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong style=\"color:rgb(26,26,26);background-color:transparent\">1 person to read instructions</strong></p>"
+    },
+    {
+      "id": "n-115",
+      "position": {
+        "x": -854.9329066297466,
+        "y": 21671.942753510983
+      },
+      "size": {
+        "width": 778.6694101254232,
+        "height": 62.184062000641056
+      },
+      "style": {
+        "fillColor": "#3db8be",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 11,
+        "fontFamily": "noto_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": "<p></p>"
+    },
+    {
+      "id": "n-116",
+      "position": {
+        "x": -1099.441617795905,
+        "y": 21656.806579982745
+      },
+      "size": {
+        "width": 313.97574698081337,
+        "height": 103.77164518857391
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJpSa3jc%3D/resources/images/3458764517388922058?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-117",
+      "position": {
+        "x": -720.5257762930835,
+        "y": 21671.942753510983
+      },
+      "size": {
+        "width": 418.81032868546424,
+        "height": 34.346590350409066
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJpSa3jc%3D/resources/images/3458764517388922001?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-118",
+      "position": {
+        "x": 346.4268479134321,
+        "y": 21863.63299159991
+      },
+      "size": {
+        "width": 155.37288547298238,
+        "height": 8.0
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 8,
+        "fontFamily": "noto_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-119",
+      "position": {
+        "x": 346.4268479134321,
+        "y": 21800.796223758603
+      },
+      "size": {
+        "width": 155.37288547298238,
+        "height": 8.0
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 8,
+        "fontFamily": "noto_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-120",
+      "position": {
+        "x": 346.4268479134321,
+        "y": 22028.181472839908
+      },
+      "size": {
+        "width": 155.37288547298238,
+        "height": 8.0
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 8,
+        "fontFamily": "noto_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-121",
+      "position": {
+        "x": 344.4244040031182,
+        "y": 21995.72563566013
+      },
+      "size": {
+        "width": 126.00667509910902,
+        "height": 42.05785711917281
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJpSa3jc%3D/resources/images/3458764517388921962?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-122",
+      "position": {
+        "x": 1207.5434795191952,
+        "y": 21603.60159012558
+      },
+      "size": {
+        "width": 164.3998984119831,
+        "height": 65.40318563839254
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJpSa3jc%3D/resources/images/3458764517388921989?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-123",
+      "position": {
+        "x": 1231.104630003492,
+        "y": 21767.277312189857
+      },
+      "size": {
+        "width": 203.84398338247635,
+        "height": 91.77150684340681
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJpSa3jc%3D/resources/images/3458764517388921948?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-124",
+      "position": {
+        "x": 2758.3434447793006,
+        "y": 21604.302526551688
+      },
+      "size": {
+        "width": 535.2529522498968,
+        "height": 113.29111818249054
+      },
+      "style": {
+        "fillColor": "#3db8be",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 11,
+        "fontFamily": "noto_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": "<p></p>"
+    },
+    {
+      "id": "n-125",
+      "position": {
+        "x": 2598.3389826448856,
+        "y": 21521.426262028057
+      },
+      "size": {
+        "width": 176.6431348325852,
+        "height": 74.10083851099783
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJpSa3jc%3D/resources/images/3458764517388922070?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-126",
+      "position": {
+        "x": 2853.6264256678414,
+        "y": 21620.605525909228
+      },
+      "size": {
+        "width": 259.3762430449843,
+        "height": 35.72948247358042
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJpSa3jc%3D/resources/images/3458764517388921994?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-127",
+      "position": {
+        "x": 2609.0485471468082,
+        "y": 21620.695524605635
+      },
+      "size": {
+        "width": 165.05760921044455,
+        "height": 35.54948508076641
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJpSa3jc%3D/resources/images/3458764517388921993?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-128",
+      "position": {
+        "x": 2757.0276475422793,
+        "y": 21581.618987265905
+      },
+      "size": {
+        "width": 494.02046462737314,
+        "height": 23.88967575296604
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJpSa3jc%3D/resources/images/3458764517388921992?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-129",
+      "position": {
+        "x": 92.4611979692744,
+        "y": 36.131209862676
+      },
+      "size": {
+        "width": 155.37288547298238,
+        "height": 43.8197645475548
+      },
+      "style": {
+        "fillColor": "#faaa3f",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 8,
+        "fontFamily": "noto_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-6",
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-130",
+      "position": {
+        "x": 84.23822535015313,
+        "y": 37.019112214903686
+      },
+      "size": {
+        "width": 121.10983061862943
+      },
+      "style": {
+        "fontSize": 6,
+        "textColor": "#1a1a1a",
+        "fontFamily": "fredoka_one",
+        "align": "left"
+      },
+      "frameId": "f-6",
+      "visualKind": "text",
+      "title": "<p><strong style=\"background-color:transparent\">Why is AI adoption important for your team and the work you do?</strong></p>"
+    },
+    {
+      "id": "n-131",
+      "position": {
+        "x": 265.3192208580084,
+        "y": 36.131209862676
+      },
+      "size": {
+        "width": 155.37288547298238,
+        "height": 43.8197645475548
+      },
+      "style": {
+        "fillColor": "#faaa3f",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 8,
+        "fontFamily": "noto_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-6",
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-132",
+      "position": {
+        "x": 257.8844545097253,
+        "y": 37.019112214903686
+      },
+      "size": {
+        "width": 121.10983061862943
+      },
+      "style": {
+        "fontSize": 6,
+        "textColor": "#000000",
+        "fontFamily": "fredoka_one",
+        "align": "left"
+      },
+      "frameId": "f-6",
+      "visualKind": "text",
+      "title": "<p><strong style=\"color:black;background-color:transparent\">What role should AI play in how you do your work?</strong></p>"
+    },
+    {
+      "id": "n-133",
+      "position": {
+        "x": 438.17724374673014,
+        "y": 36.131209862676
+      },
+      "size": {
+        "width": 155.37288547298238,
+        "height": 43.8197645475548
+      },
+      "style": {
+        "fillColor": "#faaa3f",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 8,
+        "fontFamily": "noto_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-6",
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-134",
+      "position": {
+        "x": 436.10374657211366,
+        "y": 37.019112214903686
+      },
+      "size": {
+        "width": 130.36905531463208
+      },
+      "style": {
+        "fontSize": 6,
+        "textColor": "#000000",
+        "fontFamily": "fredoka_one",
+        "align": "left"
+      },
+      "frameId": "f-6",
+      "visualKind": "text",
+      "title": "<p><strong style=\"color:black;background-color:transparent\">What does ethical and responsible AI use look like for your team?</strong></p>"
+    },
+    {
+      "id": "n-135",
+      "position": {
+        "x": 611.0352666354619,
+        "y": 36.131209862676
+      },
+      "size": {
+        "width": 155.37288547298238,
+        "height": 43.8197645475548
+      },
+      "style": {
+        "fillColor": "#faaa3f",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 8,
+        "fontFamily": "noto_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-6",
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-136",
+      "position": {
+        "x": 609.6542332593402,
+        "y": 35.32010186636322
+      },
+      "size": {
+        "width": 134.79370910405135
+      },
+      "style": {
+        "fontSize": 6,
+        "textColor": "#000000",
+        "fontFamily": "fredoka_one",
+        "align": "left"
+      },
+      "frameId": "f-6",
+      "visualKind": "text",
+      "title": "<p><strong style=\"background-color:transparent;color:black\">What parts of your work should be AI-enabled, and which should be done by humans? How will this be decided?</strong></p>"
+    },
+    {
+      "id": "n-137",
+      "position": {
+        "x": 92.4611979692744,
+        "y": 228.22128186442492
+      },
+      "size": {
+        "width": 155.37288547298238,
+        "height": 43.8197645475548
+      },
+      "style": {
+        "fillColor": "#faaa3f",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 8,
+        "fontFamily": "noto_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-6",
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-138",
+      "position": {
+        "x": 90.85161106716976,
+        "y": 229.40661876126902
+      },
+      "size": {
+        "width": 134.33660205579517
+      },
+      "style": {
+        "fontSize": 6,
+        "textColor": "#000000",
+        "fontFamily": "fredoka_one",
+        "align": "left"
+      },
+      "frameId": "f-6",
+      "visualKind": "text",
+      "title": "<p><strong style=\"color:black;background-color:transparent\">What AI tools will your team have access to?</strong></p>"
+    },
+    {
+      "id": "n-139",
+      "position": {
+        "x": 265.3192208580084,
+        "y": 228.22128186442492
+      },
+      "size": {
+        "width": 155.37288547298238,
+        "height": 43.8197645475548
+      },
+      "style": {
+        "fillColor": "#faaa3f",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 8,
+        "fontFamily": "noto_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-6",
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-140",
+      "position": {
+        "x": 263.0470753318822,
+        "y": 227.10918421664533
+      },
+      "size": {
+        "width": 131.43507226580414
+      },
+      "style": {
+        "fontSize": 6,
+        "textColor": "#000000",
+        "fontFamily": "fredoka_one",
+        "align": "left"
+      },
+      "frameId": "f-6",
+      "visualKind": "text",
+      "title": "<p><strong style=\"color:black;background-color:transparent\">Who will you go to if there are questions or concerns about AI use?</strong></p>"
+    },
+    {
+      "id": "n-141",
+      "position": {
+        "x": 438.17724374673014,
+        "y": 228.22128186442492
+      },
+      "size": {
+        "width": 155.37288547298238,
+        "height": 43.8197645475548
+      },
+      "style": {
+        "fillColor": "#faaa3f",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 8,
+        "fontFamily": "noto_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-6",
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-142",
+      "position": {
+        "x": 431.4741342253168,
+        "y": 227.10918421664533
+      },
+      "size": {
+        "width": 121.10983061862943
+      },
+      "style": {
+        "fontSize": 6,
+        "textColor": "#000000",
+        "fontFamily": "fredoka_one",
+        "align": "left"
+      },
+      "frameId": "f-6",
+      "visualKind": "text",
+      "title": "<p><strong style=\"color:black;background-color:transparent\">Who is creating this manifesto? (capture at the role-level)</strong></p>"
+    },
+    {
+      "id": "n-143",
+      "position": {
+        "x": 611.0352666354619,
+        "y": 228.22128186442492
+      },
+      "size": {
+        "width": 155.37288547298238,
+        "height": 43.8197645475548
+      },
+      "style": {
+        "fillColor": "#faaa3f",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 8,
+        "fontFamily": "noto_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-6",
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-144",
+      "position": {
+        "x": 609.6542332593402,
+        "y": 226.5720048985851
+      },
+      "size": {
+        "width": 134.79370910405135
+      },
+      "style": {
+        "fontSize": 6,
+        "textColor": "#000000",
+        "fontFamily": "fredoka_one",
+        "align": "left"
+      },
+      "frameId": "f-6",
+      "visualKind": "text",
+      "title": "<p><strong style=\"color:black;background-color:transparent\">Who will be informed about this manifesto? (capture at the role-level)</strong></p>"
+    },
+    {
+      "id": "n-145",
+      "position": {
+        "x": 3251.7353353230183,
+        "y": 21597.97656548699
+      },
+      "size": {
+        "width": 255.3688642773833,
+        "height": 181.01873159358084
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJpSa3jc%3D/resources/images/3458764517388922021?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-146",
+      "position": {
+        "x": 3607.6110973264417,
+        "y": 21687.45471990969
+      },
+      "size": {
+        "width": 231.28970854076326,
+        "height": 109.83925570054713
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJpSa3jc%3D/resources/images/3458764517388922033?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-147",
+      "position": {
+        "x": 3609.4300888751955,
+        "y": 21904.302428530937
+      },
+      "size": {
+        "width": 260.15135923231867,
+        "height": 273.90096852770273
+      },
+      "style": {
+        "fillColor": "#e1282e",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 11,
+        "fontFamily": "noto_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": "<p></p>"
+    },
+    {
+      "id": "n-148",
+      "position": {
+        "x": 3607.6110973264417,
+        "y": 21900.897784552937
+      },
+      "size": {
+        "width": 217.63158242228624,
+        "height": 228.72108980686133
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJpSa3jc%3D/resources/images/3458764517388922032?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-149",
+      "position": {
+        "x": 5569.029200055844,
+        "y": 21798.541713703038
+      },
+      "size": {
+        "width": 345.60055492714287
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#000000",
+        "fontFamily": "fredoka_one",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><span style=\"background-color:transparent;color:black\">ACCESS THE MIRO SIDEKICK BY CLICKING THE PURPLE STAR ICON PICTURED HERE. THEN SELECT THE &#34;AI MANIFESTO TESTER&#34; SIDEKICK.</span></p>"
+    },
+    {
+      "id": "n-150",
+      "position": {
+        "x": 5732.0915695710855,
+        "y": 21763.000836299103
+      },
+      "size": {
+        "width": 55.82530535865801,
+        "height": 55.82530535865801
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJpSa3jc%3D/resources/images/3458764517388922030?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-151",
+      "position": {
+        "x": 5517.766567254417,
+        "y": 22341.741503994916
+      },
+      "size": {
+        "width": 345.60055492714287
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#000000",
+        "fontFamily": "fredoka_one",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><span style=\"color:black;background-color:transparent\">FEEDBACK FRAME</span></p>"
+    },
+    {
+      "id": "n-152",
+      "position": {
+        "x": 5569.029200055844,
+        "y": 22195.659541928602
+      },
+      "size": {
+        "width": 345.60055492714287
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#000000",
+        "fontFamily": "fredoka_one",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong style=\"color:black;background-color:transparent\">AS A TEAM, REVIEW THE STICKY NOTES. MOVE ANY YOU WANT TO INCORPORATE INTO THE FRAME BELOW AND THEN CLICK RUN TO THE LEFT.</strong></p>"
+    },
+    {
+      "id": "n-153",
+      "position": {
+        "x": 7200.581600730092,
+        "y": 21743.918637058407
+      },
+      "size": {
+        "width": 569.4426400233443,
+        "height": 20.855123869238362
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJpSa3jc%3D/resources/images/3458764517388922062?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-154",
+      "position": {
+        "x": 7112.70197530663,
+        "y": 21587.09354010137
+      },
+      "size": {
+        "width": 401.68338917642325,
+        "height": 73.32497691754446
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJpSa3jc%3D/resources/images/3458764517388922069?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-155",
+      "position": {
+        "x": 5586.077204915067,
+        "y": 21991.494399503794
+      },
+      "size": {
+        "width": 361.13795694228736
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#1a1a1a",
+        "fontFamily": "fredoka_one",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p>SELECT YOUR MANIFESTO DOCUMENT AND PROMPT THE SIDEKICK TO EVALUATE IT AGAINST ONE OF THE SCENARIOS AVAILABLE IN THE &#34;I CAN HELP&#34; SECTION.</p><p><br /></p><p>THE TESTER PROVIDES FEEDBACK ON STICKY NOTES ON THE MIRO BOARD. WE RECOMMEND COPYING AND PASTING THEM CLOSER TO THIS WORKSPACE.</p>"
+    },
+    {
+      "id": "n-156",
+      "position": {
+        "x": 7213.284387082942,
+        "y": 21685.176559372103
+      },
+      "size": {
+        "width": 602.8482127290455,
+        "height": 66.56493822320355
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJpSa3jc%3D/resources/images/3458764517388922000?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-157",
+      "position": {
+        "x": 154.7978138079898,
+        "y": 27.472135412783132
+      },
+      "size": {
+        "width": 187.87963332168192,
+        "height": 21.195640754177834
+      },
+      "style": {
+        "fillColor": "#007378",
+        "borderColor": "#ffffff",
+        "textColor": "#ffffff",
+        "fontSize": 9,
+        "fontFamily": "fredoka_one",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-2",
+      "visualKind": "shape",
+      "title": "<p><strong style=\"color:rgb(255,255,255)\"><em>EVALUATING MANIFESTO DEADLINE</em></strong></p>"
+    },
+    {
+      "id": "n-158",
+      "position": {
+        "x": 154.7978138079898,
+        "y": 198.32484060888225
+      },
+      "size": {
+        "width": 187.87963332168192,
+        "height": 21.195640754177834
+      },
+      "style": {
+        "fillColor": "#007378",
+        "borderColor": "#ffffff",
+        "textColor": "#ffffff",
+        "fontSize": 9,
+        "fontFamily": "fredoka_one",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-2",
+      "visualKind": "shape",
+      "title": "<p><strong style=\"color:rgb(255,255,255)\"><em>TESTING ETHICS POLICY</em></strong></p>"
+    },
+    {
+      "id": "n-159",
+      "position": {
+        "x": 154.7978138079898,
+        "y": 387.64484025585614
+      },
+      "size": {
+        "width": 187.87963332168192,
+        "height": 21.195640754177834
+      },
+      "style": {
+        "fillColor": "#007378",
+        "borderColor": "#ffffff",
+        "textColor": "#ffffff",
+        "fontSize": 9,
+        "fontFamily": "fredoka_one",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-2",
+      "visualKind": "shape",
+      "title": "<p><strong style=\"color:rgb(255,255,255)\"><em>CHALLENGING DRAFT MANIFESTO</em></strong></p>"
+    },
+    {
+      "id": "n-160",
+      "position": {
+        "x": 154.7978138079898,
+        "y": 543.2638241765343
+      },
+      "size": {
+        "width": 187.87963332168192,
+        "height": 21.195640754177834
+      },
+      "style": {
+        "fillColor": "#007378",
+        "borderColor": "#ffffff",
+        "textColor": "#ffffff",
+        "fontSize": 9,
+        "fontFamily": "fredoka_one",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-2",
+      "visualKind": "shape",
+      "title": "<p><strong><em>APPLYING BIAS DISCOVERY</em></strong></p>"
+    },
+    {
+      "id": "n-161",
+      "position": {
+        "x": -1894.4571686231102,
+        "y": 21178.740613740065
+      },
+      "size": {
+        "width": 232.0,
+        "height": 124.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[action_button]"
+    },
+    {
+      "id": "n-162",
+      "position": {
+        "x": 4638.561087255358,
+        "y": 21411.474211520937
+      },
+      "size": {
+        "width": 232.0,
+        "height": 124.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[action_button]"
+    }
+  ],
+  "edges": [],
+  "annotations": [],
+  "_metadata": {
+    "extracted_at": "2026-02-23T13:09:16.182288",
+    "total_items": 170,
+    "total_connectors": 0,
+    "frames": 7,
+    "nodes": 163,
+    "edges": 0
+  },
+  "_template": {
+    "name": "ai-manifesto-canvas",
+    "category": "miroverse",
+    "source": "miroverse",
+    "source_slug": "ai-manifesto-canvas",
+    "source_board_id": "uXjVJpSa3jc=",
+    "tags": [
+      "meetings & workshops",
+      "ai accelerated",
+      "talktrack templates",
+      "facilitator",
+      "strategy & planning",
+      "ai & transformation"
+    ],
+    "extracted_at": "2026-02-23T13:09:16.182338"
+  }
+}

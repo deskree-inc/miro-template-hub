@@ -1,0 +1,3948 @@
+{
+  "frames": [
+    {
+      "id": "f-0",
+      "title": "",
+      "position": {
+        "x": -3507.6486499488747,
+        "y": -1409.9013381547425
+      },
+      "size": {
+        "width": 559.9999999999999,
+        "height": 456.5714285714288
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-1",
+      "title": "",
+      "position": {
+        "x": -2887.6640625,
+        "y": -1478.6992305410681
+      },
+      "size": {
+        "width": 359.9691748977464,
+        "height": 318.9756437987765
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    }
+  ],
+  "nodes": [
+    {
+      "id": "n-0",
+      "position": {
+        "x": 280.00000000000176,
+        "y": 166.85714285714238
+      },
+      "size": {
+        "width": 432.0
+      },
+      "style": {
+        "fontSize": 48,
+        "textColor": "#1c1c1e",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-0",
+      "visualKind": "text",
+      "title": "<p><strong>Create wireframes with the Sidekick</strong></p>"
+    },
+    {
+      "id": "n-1",
+      "position": {
+        "x": 279.99999999999994,
+        "y": 341.14285714285705
+      },
+      "size": {
+        "width": 432.0
+      },
+      "style": {
+        "fontSize": 24,
+        "textColor": "#595959",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "frameId": "f-0",
+      "visualKind": "text",
+      "title": "<p>Use the Sidekick       to transform your ideas into clear, functional low-fidelity prototypes.</p>"
+    },
+    {
+      "id": "n-2",
+      "position": {
+        "x": 264.82574773304253,
+        "y": 307.6760510275678
+      },
+      "size": {
+        "width": 39.8178176990777,
+        "height": 39.8178176990777
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ8wZwdA%3D/resources/images/3458764517258682214?format=preview&redirect=false"
+        }
+      },
+      "frameId": "f-0",
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-3",
+      "position": {
+        "x": 179.98458744887412,
+        "y": 105.54707237020617
+      },
+      "size": {
+        "width": 295.9691749028571
+      },
+      "style": {
+        "fontSize": 24,
+        "textColor": "#1a1a1a",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-1",
+      "visualKind": "text",
+      "title": "<p><strong>Try it yourself</strong></p>"
+    },
+    {
+      "id": "n-4",
+      "position": {
+        "x": 172.98458744887412,
+        "y": 209.83278665591993
+      },
+      "size": {
+        "width": 309.96917489571433
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#595959",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "frameId": "f-1",
+      "visualKind": "text",
+      "title": "<ol><li data-list=\"ordered\"><span class=\"ql-ui\"></span>Choose a quick prompt in the chat or create your own</li><li data-list=\"ordered\"><span class=\"ql-ui\"></span>Refine and iterate with AI</li><li data-list=\"ordered\"><span class=\"ql-ui\"></span>Apply to Canvas to edit, share, and continue creating your next big idea</li></ol>"
+    },
+    {
+      "id": "n-5",
+      "position": {
+        "x": 52.20210761367562,
+        "y": 52.202107613675395
+      },
+      "size": {
+        "width": 40.404215227348686,
+        "height": 40.404215227349596
+      },
+      "style": {
+        "fillColor": "#1c1c1e",
+        "borderColor": "#ffffff",
+        "textColor": "#ffffff",
+        "fontSize": 18,
+        "fontFamily": "roobert_pro",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "circle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-1",
+      "visualKind": "shape",
+      "title": "<p><strong>1</strong></p>"
+    },
+    {
+      "id": "n-6",
+      "position": {
+        "x": -1955.6794750511272,
+        "y": -192.99035181772
+      },
+      "size": {
+        "width": 1440.0,
+        "height": 2890.393401245473
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "Landing Page"
+    },
+    {
+      "id": "n-7",
+      "position": {
+        "x": 719.9999999999982,
+        "y": 992.8508013681001
+      },
+      "size": {
+        "width": 402.485427976979,
+        "height": 120.7456283930937
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[input_button]"
+    },
+    {
+      "id": "n-8",
+      "position": {
+        "x": 720.0000000000018,
+        "y": 400.17866627385183
+      },
+      "size": {
+        "width": 1439.9999999999975,
+        "height": 800.3573325477046
+      },
+      "style": {
+        "fillColor": "#f0f0f0",
+        "borderColor": "#1c1c1e",
+        "textColor": "#1a1a1a",
+        "fontSize": 114,
+        "fontFamily": "noto_sans",
+        "borderWidth": 1,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-9",
+      "position": {
+        "x": 377.75891135331494,
+        "y": 1538.0827699375195
+      },
+      "size": {
+        "width": 630.7237582683587,
+        "height": 444.7235311589261
+      },
+      "style": {
+        "fillColor": "#f0f0f0",
+        "borderColor": "#1c1c1e",
+        "textColor": "#1a1a1a",
+        "fontSize": 71,
+        "fontFamily": "noto_sans",
+        "borderWidth": 1,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-10",
+      "position": {
+        "x": 377.7589113533122,
+        "y": 1842.3955376853985
+      },
+      "size": {
+        "width": 630.7237582683516,
+        "height": 163.90200433682566
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#1c1c1e",
+        "textColor": "#1a1a1a",
+        "fontSize": 21,
+        "fontFamily": "noto_sans",
+        "borderWidth": 1,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-11",
+      "position": {
+        "x": 377.7589113533122,
+        "y": 1869.492537540297
+      },
+      "size": {
+        "width": 557.0780249778372,
+        "height": 40.683839779282
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#ffffff",
+        "textColor": "#333333",
+        "fontSize": 26,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "left",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 0.0
+      },
+      "visualKind": "shape",
+      "title": "<p>Paragraph</p>"
+    },
+    {
+      "id": "n-12",
+      "position": {
+        "x": 377.7589113533122,
+        "y": 1822.0536177957658
+      },
+      "size": {
+        "width": 557.0780249778372,
+        "height": 54.19399970978869
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#ffffff",
+        "textColor": "#333333",
+        "fontSize": 33,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "left",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 0.0
+      },
+      "visualKind": "shape",
+      "title": "<p><strong>Card title</strong></p>"
+    },
+    {
+      "id": "n-13",
+      "position": {
+        "x": 377.75891135331767,
+        "y": 2212.929549747103
+      },
+      "size": {
+        "width": 630.7237582683587,
+        "height": 444.7235311589261
+      },
+      "style": {
+        "fillColor": "#f0f0f0",
+        "borderColor": "#1c1c1e",
+        "textColor": "#1a1a1a",
+        "fontSize": 71,
+        "fontFamily": "noto_sans",
+        "borderWidth": 1,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-14",
+      "position": {
+        "x": 377.75891135331494,
+        "y": 2517.2423174949818
+      },
+      "size": {
+        "width": 630.7237582683516,
+        "height": 163.90200433682566
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#1c1c1e",
+        "textColor": "#1a1a1a",
+        "fontSize": 21,
+        "fontFamily": "noto_sans",
+        "borderWidth": 1,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-15",
+      "position": {
+        "x": 377.75891135331494,
+        "y": 2544.3393173498803
+      },
+      "size": {
+        "width": 557.0780249778372,
+        "height": 40.683839779282
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#ffffff",
+        "textColor": "#333333",
+        "fontSize": 26,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "left",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 0.0
+      },
+      "visualKind": "shape",
+      "title": "<p>Paragraph</p>"
+    },
+    {
+      "id": "n-16",
+      "position": {
+        "x": 377.75891135331494,
+        "y": 2496.900397605349
+      },
+      "size": {
+        "width": 557.0780249778372,
+        "height": 54.19399970978869
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#ffffff",
+        "textColor": "#333333",
+        "fontSize": 33,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "left",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 0.0
+      },
+      "visualKind": "shape",
+      "title": "<p><strong>Card title</strong></p>"
+    },
+    {
+      "id": "n-17",
+      "position": {
+        "x": 1062.2410886466805,
+        "y": 1538.0827699375195
+      },
+      "size": {
+        "width": 630.7237582683587,
+        "height": 444.7235311589261
+      },
+      "style": {
+        "fillColor": "#f0f0f0",
+        "borderColor": "#1c1c1e",
+        "textColor": "#1a1a1a",
+        "fontSize": 71,
+        "fontFamily": "noto_sans",
+        "borderWidth": 1,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-18",
+      "position": {
+        "x": 1062.2410886466787,
+        "y": 1842.3955376853987
+      },
+      "size": {
+        "width": 630.7237582683516,
+        "height": 163.90200433682566
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#1c1c1e",
+        "textColor": "#1a1a1a",
+        "fontSize": 21,
+        "fontFamily": "noto_sans",
+        "borderWidth": 1,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-19",
+      "position": {
+        "x": 1062.2410886466787,
+        "y": 1869.492537540297
+      },
+      "size": {
+        "width": 557.0780249778372,
+        "height": 40.683839779282
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#ffffff",
+        "textColor": "#333333",
+        "fontSize": 26,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "left",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 0.0
+      },
+      "visualKind": "shape",
+      "title": "<p>Paragraph</p>"
+    },
+    {
+      "id": "n-20",
+      "position": {
+        "x": 1062.2410886466787,
+        "y": 1822.0536177957658
+      },
+      "size": {
+        "width": 557.0780249778372,
+        "height": 54.19399970978869
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#ffffff",
+        "textColor": "#333333",
+        "fontSize": 33,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "left",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 0.0
+      },
+      "visualKind": "shape",
+      "title": "<p><strong>Card title</strong></p>"
+    },
+    {
+      "id": "n-21",
+      "position": {
+        "x": 1062.2410886466841,
+        "y": 2212.929549747103
+      },
+      "size": {
+        "width": 630.7237582683587,
+        "height": 444.7235311589261
+      },
+      "style": {
+        "fillColor": "#f0f0f0",
+        "borderColor": "#1c1c1e",
+        "textColor": "#1a1a1a",
+        "fontSize": 71,
+        "fontFamily": "noto_sans",
+        "borderWidth": 1,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-22",
+      "position": {
+        "x": 1062.2410886466805,
+        "y": 2517.242317494982
+      },
+      "size": {
+        "width": 630.7237582683516,
+        "height": 163.90200433682566
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#1c1c1e",
+        "textColor": "#1a1a1a",
+        "fontSize": 21,
+        "fontFamily": "noto_sans",
+        "borderWidth": 1,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-23",
+      "position": {
+        "x": 1062.2410886466805,
+        "y": 2544.3393173498803
+      },
+      "size": {
+        "width": 557.0780249778372,
+        "height": 40.683839779282
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#ffffff",
+        "textColor": "#333333",
+        "fontSize": 26,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "left",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 0.0
+      },
+      "visualKind": "shape",
+      "title": "<p>Paragraph</p>"
+    },
+    {
+      "id": "n-24",
+      "position": {
+        "x": 1062.2410886466805,
+        "y": 2496.900397605349
+      },
+      "size": {
+        "width": 557.0780249778372,
+        "height": 54.19399970978869
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#ffffff",
+        "textColor": "#333333",
+        "fontSize": 33,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "left",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 0.0
+      },
+      "visualKind": "shape",
+      "title": "<p><strong>Card title</strong></p>"
+    },
+    {
+      "id": "n-25",
+      "position": {
+        "x": -355.67947505112534,
+        "y": -31.527343749999773
+      },
+      "size": {
+        "width": 1440.0,
+        "height": 3213.3194173809134
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "Product"
+    },
+    {
+      "id": "n-26",
+      "position": {
+        "x": 380.2694335113156,
+        "y": 2870.533468397605
+      },
+      "size": {
+        "width": 626.097060822497,
+        "height": 161.45360452273428
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#1c1c1e",
+        "textColor": "#1a1a1a",
+        "fontSize": 21,
+        "fontFamily": "noto_sans",
+        "borderWidth": 1,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-27",
+      "position": {
+        "x": 453.56158005352336,
+        "y": 2897.7684050565745
+      },
+      "size": {
+        "width": 406.40726544670963,
+        "height": 40.27857463715161
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#ffffff",
+        "textColor": "#333333",
+        "fontSize": 26,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "left",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 0.0
+      },
+      "visualKind": "shape",
+      "title": "<p>Paragraph</p>"
+    },
+    {
+      "id": "n-28",
+      "position": {
+        "x": 453.56158005352336,
+        "y": 2850.802040032949
+      },
+      "size": {
+        "width": 406.40726544670963,
+        "height": 53.65415541008258
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#ffffff",
+        "textColor": "#333333",
+        "fontSize": 33,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "left",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 0.0
+      },
+      "visualKind": "shape",
+      "title": "<p><strong>Card title</strong></p>"
+    },
+    {
+      "id": "n-29",
+      "position": {
+        "x": 142.11315266671954,
+        "y": 2870.552668298886
+      },
+      "size": {
+        "width": 149.78449913330553,
+        "height": 161.4536045227329
+      },
+      "style": {
+        "fillColor": "#f0f0f0",
+        "borderColor": "#1c1c1e",
+        "textColor": "#1a1a1a",
+        "fontSize": 23,
+        "fontFamily": "noto_sans",
+        "borderWidth": 1,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-30",
+      "position": {
+        "x": 1059.730566488679,
+        "y": 2870.5142684963225
+      },
+      "size": {
+        "width": 626.097060822497,
+        "height": 161.45360452273428
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#1c1c1e",
+        "textColor": "#1a1a1a",
+        "fontSize": 21,
+        "fontFamily": "noto_sans",
+        "borderWidth": 1,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-31",
+      "position": {
+        "x": 1133.0227130308886,
+        "y": 2897.7492051552913
+      },
+      "size": {
+        "width": 406.40726544670963,
+        "height": 40.27857463715161
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#ffffff",
+        "textColor": "#333333",
+        "fontSize": 26,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "left",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 0.0
+      },
+      "visualKind": "shape",
+      "title": "<p>Paragraph</p>"
+    },
+    {
+      "id": "n-32",
+      "position": {
+        "x": 1133.0227130308886,
+        "y": 2850.782840131667
+      },
+      "size": {
+        "width": 406.40726544670963,
+        "height": 53.65415541008258
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#ffffff",
+        "textColor": "#333333",
+        "fontSize": 33,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "left",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 0.0
+      },
+      "visualKind": "shape",
+      "title": "<p><strong>Card title</strong></p>"
+    },
+    {
+      "id": "n-33",
+      "position": {
+        "x": 821.5742856440866,
+        "y": 2870.533468397604
+      },
+      "size": {
+        "width": 149.78449913330553,
+        "height": 161.4536045227329
+      },
+      "style": {
+        "fillColor": "#f0f0f0",
+        "borderColor": "#1c1c1e",
+        "textColor": "#1a1a1a",
+        "fontSize": 23,
+        "fontFamily": "noto_sans",
+        "borderWidth": 1,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-34",
+      "position": {
+        "x": 380.2694335113156,
+        "y": 2655.677391917436
+      },
+      "size": {
+        "width": 626.097060822497,
+        "height": 161.45360452273428
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#1c1c1e",
+        "textColor": "#1a1a1a",
+        "fontSize": 21,
+        "fontFamily": "noto_sans",
+        "borderWidth": 1,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-35",
+      "position": {
+        "x": 453.56158005352336,
+        "y": 2682.912328576406
+      },
+      "size": {
+        "width": 406.40726544670963,
+        "height": 40.27857463715161
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#ffffff",
+        "textColor": "#333333",
+        "fontSize": 26,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "left",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 0.0
+      },
+      "visualKind": "shape",
+      "title": "<p>Paragraph</p>"
+    },
+    {
+      "id": "n-36",
+      "position": {
+        "x": 453.56158005352336,
+        "y": 2635.945963552781
+      },
+      "size": {
+        "width": 406.40726544670963,
+        "height": 53.65415541008258
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#ffffff",
+        "textColor": "#333333",
+        "fontSize": 33,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "left",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 0.0
+      },
+      "visualKind": "shape",
+      "title": "<p><strong>Card title</strong></p>"
+    },
+    {
+      "id": "n-37",
+      "position": {
+        "x": 142.11315266671954,
+        "y": 2655.696591818718
+      },
+      "size": {
+        "width": 149.78449913330553,
+        "height": 161.4536045227329
+      },
+      "style": {
+        "fillColor": "#f0f0f0",
+        "borderColor": "#1c1c1e",
+        "textColor": "#1a1a1a",
+        "fontSize": 23,
+        "fontFamily": "noto_sans",
+        "borderWidth": 1,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-38",
+      "position": {
+        "x": 1059.730566488679,
+        "y": 2655.658192016154
+      },
+      "size": {
+        "width": 626.097060822497,
+        "height": 161.45360452273428
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#1c1c1e",
+        "textColor": "#1a1a1a",
+        "fontSize": 21,
+        "fontFamily": "noto_sans",
+        "borderWidth": 1,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-39",
+      "position": {
+        "x": 1133.0227130308886,
+        "y": 2682.8931286751226
+      },
+      "size": {
+        "width": 406.40726544670963,
+        "height": 40.27857463715161
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#ffffff",
+        "textColor": "#333333",
+        "fontSize": 26,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "left",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 0.0
+      },
+      "visualKind": "shape",
+      "title": "<p>Paragraph</p>"
+    },
+    {
+      "id": "n-40",
+      "position": {
+        "x": 1133.0227130308886,
+        "y": 2635.926763651498
+      },
+      "size": {
+        "width": 406.40726544670963,
+        "height": 53.65415541008258
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#ffffff",
+        "textColor": "#333333",
+        "fontSize": 33,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "left",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 0.0
+      },
+      "visualKind": "shape",
+      "title": "<p><strong>Card title</strong></p>"
+    },
+    {
+      "id": "n-41",
+      "position": {
+        "x": 821.5742856440866,
+        "y": 2655.6773919174357
+      },
+      "size": {
+        "width": 149.78449913330553,
+        "height": 161.4536045227329
+      },
+      "style": {
+        "fillColor": "#f0f0f0",
+        "borderColor": "#1c1c1e",
+        "textColor": "#1a1a1a",
+        "fontSize": 23,
+        "fontFamily": "noto_sans",
+        "borderWidth": 1,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-42",
+      "position": {
+        "x": 380.2694335113156,
+        "y": 2440.8597152398333
+      },
+      "size": {
+        "width": 626.097060822497,
+        "height": 161.45360452273428
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#1c1c1e",
+        "textColor": "#1a1a1a",
+        "fontSize": 21,
+        "fontFamily": "noto_sans",
+        "borderWidth": 1,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-43",
+      "position": {
+        "x": 453.56158005352336,
+        "y": 2468.094651898803
+      },
+      "size": {
+        "width": 406.40726544670963,
+        "height": 40.27857463715161
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#ffffff",
+        "textColor": "#333333",
+        "fontSize": 26,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "left",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 0.0
+      },
+      "visualKind": "shape",
+      "title": "<p>Paragraph</p>"
+    },
+    {
+      "id": "n-44",
+      "position": {
+        "x": 453.56158005352336,
+        "y": 2421.1282868751778
+      },
+      "size": {
+        "width": 406.40726544670963,
+        "height": 53.65415541008258
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#ffffff",
+        "textColor": "#333333",
+        "fontSize": 33,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "left",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 0.0
+      },
+      "visualKind": "shape",
+      "title": "<p><strong>Card title</strong></p>"
+    },
+    {
+      "id": "n-45",
+      "position": {
+        "x": 142.11315266671954,
+        "y": 2440.8789151411147
+      },
+      "size": {
+        "width": 149.78449913330553,
+        "height": 161.4536045227329
+      },
+      "style": {
+        "fillColor": "#f0f0f0",
+        "borderColor": "#1c1c1e",
+        "textColor": "#1a1a1a",
+        "fontSize": 23,
+        "fontFamily": "noto_sans",
+        "borderWidth": 1,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-46",
+      "position": {
+        "x": 1059.730566488679,
+        "y": 2440.840515338551
+      },
+      "size": {
+        "width": 626.097060822497,
+        "height": 161.45360452273428
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#1c1c1e",
+        "textColor": "#1a1a1a",
+        "fontSize": 21,
+        "fontFamily": "noto_sans",
+        "borderWidth": 1,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-47",
+      "position": {
+        "x": 1133.0227130308886,
+        "y": 2468.0754519975203
+      },
+      "size": {
+        "width": 406.40726544670963,
+        "height": 40.27857463715161
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#ffffff",
+        "textColor": "#333333",
+        "fontSize": 26,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "left",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 0.0
+      },
+      "visualKind": "shape",
+      "title": "<p>Paragraph</p>"
+    },
+    {
+      "id": "n-48",
+      "position": {
+        "x": 1133.0227130308886,
+        "y": 2421.1090869738955
+      },
+      "size": {
+        "width": 406.40726544670963,
+        "height": 53.65415541008258
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#ffffff",
+        "textColor": "#333333",
+        "fontSize": 33,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "left",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 0.0
+      },
+      "visualKind": "shape",
+      "title": "<p><strong>Card title</strong></p>"
+    },
+    {
+      "id": "n-49",
+      "position": {
+        "x": 821.5742856440866,
+        "y": 2440.8597152398333
+      },
+      "size": {
+        "width": 149.78449913330553,
+        "height": 161.4536045227329
+      },
+      "style": {
+        "fillColor": "#f0f0f0",
+        "borderColor": "#1c1c1e",
+        "textColor": "#1a1a1a",
+        "fontSize": 23,
+        "fontFamily": "noto_sans",
+        "borderWidth": 1,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-50",
+      "position": {
+        "x": 380.2694335113156,
+        "y": 2226.0036387596656
+      },
+      "size": {
+        "width": 626.097060822497,
+        "height": 161.45360452273428
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#1c1c1e",
+        "textColor": "#1a1a1a",
+        "fontSize": 21,
+        "fontFamily": "noto_sans",
+        "borderWidth": 1,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-51",
+      "position": {
+        "x": 453.56158005352336,
+        "y": 2253.238575418635
+      },
+      "size": {
+        "width": 406.40726544670963,
+        "height": 40.27857463715161
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#ffffff",
+        "textColor": "#333333",
+        "fontSize": 26,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "left",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 0.0
+      },
+      "visualKind": "shape",
+      "title": "<p>Paragraph</p>"
+    },
+    {
+      "id": "n-52",
+      "position": {
+        "x": 453.56158005352336,
+        "y": 2206.2722103950096
+      },
+      "size": {
+        "width": 406.40726544670963,
+        "height": 53.65415541008258
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#ffffff",
+        "textColor": "#333333",
+        "fontSize": 33,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "left",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 0.0
+      },
+      "visualKind": "shape",
+      "title": "<p><strong>Card title</strong></p>"
+    },
+    {
+      "id": "n-53",
+      "position": {
+        "x": 142.11315266671954,
+        "y": 2226.022838660947
+      },
+      "size": {
+        "width": 149.78449913330553,
+        "height": 161.4536045227329
+      },
+      "style": {
+        "fillColor": "#f0f0f0",
+        "borderColor": "#1c1c1e",
+        "textColor": "#1a1a1a",
+        "fontSize": 23,
+        "fontFamily": "noto_sans",
+        "borderWidth": 1,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-54",
+      "position": {
+        "x": 1059.730566488679,
+        "y": 2225.984438858383
+      },
+      "size": {
+        "width": 626.097060822497,
+        "height": 161.45360452273428
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#1c1c1e",
+        "textColor": "#1a1a1a",
+        "fontSize": 21,
+        "fontFamily": "noto_sans",
+        "borderWidth": 1,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-55",
+      "position": {
+        "x": 1133.0227130308886,
+        "y": 2253.219375517351
+      },
+      "size": {
+        "width": 406.40726544670963,
+        "height": 40.27857463715161
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#ffffff",
+        "textColor": "#333333",
+        "fontSize": 26,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "left",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 0.0
+      },
+      "visualKind": "shape",
+      "title": "<p>Paragraph</p>"
+    },
+    {
+      "id": "n-56",
+      "position": {
+        "x": 1133.0227130308886,
+        "y": 2206.253010493727
+      },
+      "size": {
+        "width": 406.40726544670963,
+        "height": 53.65415541008258
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#ffffff",
+        "textColor": "#333333",
+        "fontSize": 33,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "left",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 0.0
+      },
+      "visualKind": "shape",
+      "title": "<p><strong>Card title</strong></p>"
+    },
+    {
+      "id": "n-57",
+      "position": {
+        "x": 821.5742856440866,
+        "y": 2226.0036387596647
+      },
+      "size": {
+        "width": 149.78449913330553,
+        "height": 161.4536045227329
+      },
+      "style": {
+        "fillColor": "#f0f0f0",
+        "borderColor": "#1c1c1e",
+        "textColor": "#1a1a1a",
+        "fontSize": 23,
+        "fontFamily": "noto_sans",
+        "borderWidth": 1,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-58",
+      "position": {
+        "x": 380.2694335113156,
+        "y": 1088.2043875088207
+      },
+      "size": {
+        "width": 626.097060822497,
+        "height": 161.45360452273428
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#1c1c1e",
+        "textColor": "#1a1a1a",
+        "fontSize": 21,
+        "fontFamily": "noto_sans",
+        "borderWidth": 1,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-59",
+      "position": {
+        "x": 453.56158005352336,
+        "y": 1115.4393241677903
+      },
+      "size": {
+        "width": 406.40726544670963,
+        "height": 40.27857463715161
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#ffffff",
+        "textColor": "#333333",
+        "fontSize": 26,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "left",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 0.0
+      },
+      "visualKind": "shape",
+      "title": "<p>Paragraph</p>"
+    },
+    {
+      "id": "n-60",
+      "position": {
+        "x": 453.56158005352336,
+        "y": 1068.472959144165
+      },
+      "size": {
+        "width": 406.40726544670963,
+        "height": 53.65415541008258
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#ffffff",
+        "textColor": "#333333",
+        "fontSize": 33,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "left",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 0.0
+      },
+      "visualKind": "shape",
+      "title": "<p><strong>Card title</strong></p>"
+    },
+    {
+      "id": "n-61",
+      "position": {
+        "x": 142.11315266671954,
+        "y": 1088.2235874101025
+      },
+      "size": {
+        "width": 149.78449913330553,
+        "height": 161.4536045227329
+      },
+      "style": {
+        "fillColor": "#f0f0f0",
+        "borderColor": "#1c1c1e",
+        "textColor": "#1a1a1a",
+        "fontSize": 23,
+        "fontFamily": "noto_sans",
+        "borderWidth": 1,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-62",
+      "position": {
+        "x": 1059.730566488679,
+        "y": 1088.1851876075384
+      },
+      "size": {
+        "width": 626.097060822497,
+        "height": 161.45360452273428
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#1c1c1e",
+        "textColor": "#1a1a1a",
+        "fontSize": 21,
+        "fontFamily": "noto_sans",
+        "borderWidth": 1,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-63",
+      "position": {
+        "x": 1133.0227130308886,
+        "y": 1115.4201242665067
+      },
+      "size": {
+        "width": 406.40726544670963,
+        "height": 40.27857463715161
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#ffffff",
+        "textColor": "#333333",
+        "fontSize": 26,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "left",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 0.0
+      },
+      "visualKind": "shape",
+      "title": "<p>Paragraph</p>"
+    },
+    {
+      "id": "n-64",
+      "position": {
+        "x": 1133.0227130308886,
+        "y": 1068.4537592428828
+      },
+      "size": {
+        "width": 406.40726544670963,
+        "height": 53.65415541008258
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#ffffff",
+        "textColor": "#333333",
+        "fontSize": 33,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "left",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 0.0
+      },
+      "visualKind": "shape",
+      "title": "<p><strong>Card title</strong></p>"
+    },
+    {
+      "id": "n-65",
+      "position": {
+        "x": 821.5742856440866,
+        "y": 1088.2043875088198
+      },
+      "size": {
+        "width": 149.78449913330553,
+        "height": 161.4536045227329
+      },
+      "style": {
+        "fillColor": "#f0f0f0",
+        "borderColor": "#1c1c1e",
+        "textColor": "#1a1a1a",
+        "fontSize": 23,
+        "fontFamily": "noto_sans",
+        "borderWidth": 1,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-66",
+      "position": {
+        "x": 380.2694335113156,
+        "y": 873.3483110286527
+      },
+      "size": {
+        "width": 626.097060822497,
+        "height": 161.45360452273428
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#1c1c1e",
+        "textColor": "#1a1a1a",
+        "fontSize": 21,
+        "fontFamily": "noto_sans",
+        "borderWidth": 1,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-67",
+      "position": {
+        "x": 453.56158005352336,
+        "y": 900.5832476876219
+      },
+      "size": {
+        "width": 406.40726544670963,
+        "height": 40.27857463715161
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#ffffff",
+        "textColor": "#333333",
+        "fontSize": 26,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "left",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 0.0
+      },
+      "visualKind": "shape",
+      "title": "<p>Paragraph</p>"
+    },
+    {
+      "id": "n-68",
+      "position": {
+        "x": 453.56158005352336,
+        "y": 853.6168826639965
+      },
+      "size": {
+        "width": 406.40726544670963,
+        "height": 53.65415541008258
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#ffffff",
+        "textColor": "#333333",
+        "fontSize": 33,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "left",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 0.0
+      },
+      "visualKind": "shape",
+      "title": "<p><strong>Card title</strong></p>"
+    },
+    {
+      "id": "n-69",
+      "position": {
+        "x": 142.11315266671954,
+        "y": 873.3675109299343
+      },
+      "size": {
+        "width": 149.78449913330553,
+        "height": 161.4536045227329
+      },
+      "style": {
+        "fillColor": "#f0f0f0",
+        "borderColor": "#1c1c1e",
+        "textColor": "#1a1a1a",
+        "fontSize": 23,
+        "fontFamily": "noto_sans",
+        "borderWidth": 1,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-70",
+      "position": {
+        "x": 1059.730566488679,
+        "y": 873.3291111273696
+      },
+      "size": {
+        "width": 626.097060822497,
+        "height": 161.45360452273428
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#1c1c1e",
+        "textColor": "#1a1a1a",
+        "fontSize": 21,
+        "fontFamily": "noto_sans",
+        "borderWidth": 1,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-71",
+      "position": {
+        "x": 1133.0227130308886,
+        "y": 900.5640477863384
+      },
+      "size": {
+        "width": 406.40726544670963,
+        "height": 40.27857463715161
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#ffffff",
+        "textColor": "#333333",
+        "fontSize": 26,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "left",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 0.0
+      },
+      "visualKind": "shape",
+      "title": "<p>Paragraph</p>"
+    },
+    {
+      "id": "n-72",
+      "position": {
+        "x": 1133.0227130308886,
+        "y": 853.5976827627138
+      },
+      "size": {
+        "width": 406.40726544670963,
+        "height": 53.65415541008258
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#ffffff",
+        "textColor": "#333333",
+        "fontSize": 33,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "left",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 0.0
+      },
+      "visualKind": "shape",
+      "title": "<p><strong>Card title</strong></p>"
+    },
+    {
+      "id": "n-73",
+      "position": {
+        "x": 821.5742856440866,
+        "y": 873.3483110286516
+      },
+      "size": {
+        "width": 149.78449913330553,
+        "height": 161.4536045227329
+      },
+      "style": {
+        "fillColor": "#f0f0f0",
+        "borderColor": "#1c1c1e",
+        "textColor": "#1a1a1a",
+        "fontSize": 23,
+        "fontFamily": "noto_sans",
+        "borderWidth": 1,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-74",
+      "position": {
+        "x": 380.2694335113156,
+        "y": 658.5306343510497
+      },
+      "size": {
+        "width": 626.097060822497,
+        "height": 161.45360452273428
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#1c1c1e",
+        "textColor": "#1a1a1a",
+        "fontSize": 21,
+        "fontFamily": "noto_sans",
+        "borderWidth": 1,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-75",
+      "position": {
+        "x": 453.56158005352336,
+        "y": 685.7655710100189
+      },
+      "size": {
+        "width": 406.40726544670963,
+        "height": 40.27857463715161
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#ffffff",
+        "textColor": "#333333",
+        "fontSize": 26,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "left",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 0.0
+      },
+      "visualKind": "shape",
+      "title": "<p>Paragraph</p>"
+    },
+    {
+      "id": "n-76",
+      "position": {
+        "x": 453.56158005352336,
+        "y": 638.7992059863935
+      },
+      "size": {
+        "width": 406.40726544670963,
+        "height": 53.65415541008258
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#ffffff",
+        "textColor": "#333333",
+        "fontSize": 33,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "left",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 0.0
+      },
+      "visualKind": "shape",
+      "title": "<p><strong>Card title</strong></p>"
+    },
+    {
+      "id": "n-77",
+      "position": {
+        "x": 142.11315266671954,
+        "y": 658.5498342523314
+      },
+      "size": {
+        "width": 149.78449913330553,
+        "height": 161.4536045227329
+      },
+      "style": {
+        "fillColor": "#f0f0f0",
+        "borderColor": "#1c1c1e",
+        "textColor": "#1a1a1a",
+        "fontSize": 23,
+        "fontFamily": "noto_sans",
+        "borderWidth": 1,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-78",
+      "position": {
+        "x": 1059.730566488679,
+        "y": 658.511434449767
+      },
+      "size": {
+        "width": 626.097060822497,
+        "height": 161.45360452273428
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#1c1c1e",
+        "textColor": "#1a1a1a",
+        "fontSize": 21,
+        "fontFamily": "noto_sans",
+        "borderWidth": 1,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-79",
+      "position": {
+        "x": 1133.0227130308886,
+        "y": 685.7463711087354
+      },
+      "size": {
+        "width": 406.40726544670963,
+        "height": 40.27857463715161
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#ffffff",
+        "textColor": "#333333",
+        "fontSize": 26,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "left",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 0.0
+      },
+      "visualKind": "shape",
+      "title": "<p>Paragraph</p>"
+    },
+    {
+      "id": "n-80",
+      "position": {
+        "x": 1133.0227130308886,
+        "y": 638.7800060851112
+      },
+      "size": {
+        "width": 406.40726544670963,
+        "height": 53.65415541008258
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#ffffff",
+        "textColor": "#333333",
+        "fontSize": 33,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "left",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 0.0
+      },
+      "visualKind": "shape",
+      "title": "<p><strong>Card title</strong></p>"
+    },
+    {
+      "id": "n-81",
+      "position": {
+        "x": 821.5742856440866,
+        "y": 658.5306343510485
+      },
+      "size": {
+        "width": 149.78449913330553,
+        "height": 161.4536045227329
+      },
+      "style": {
+        "fillColor": "#f0f0f0",
+        "borderColor": "#1c1c1e",
+        "textColor": "#1a1a1a",
+        "fontSize": 23,
+        "fontFamily": "noto_sans",
+        "borderWidth": 1,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-82",
+      "position": {
+        "x": 380.2694335113156,
+        "y": 443.6745578708816
+      },
+      "size": {
+        "width": 626.097060822497,
+        "height": 161.45360452273428
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#1c1c1e",
+        "textColor": "#1a1a1a",
+        "fontSize": 21,
+        "fontFamily": "noto_sans",
+        "borderWidth": 1,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-83",
+      "position": {
+        "x": 453.56158005352336,
+        "y": 470.9094945298508
+      },
+      "size": {
+        "width": 406.40726544670963,
+        "height": 40.27857463715161
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#ffffff",
+        "textColor": "#333333",
+        "fontSize": 26,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "left",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 0.0
+      },
+      "visualKind": "shape",
+      "title": "<p>Paragraph</p>"
+    },
+    {
+      "id": "n-84",
+      "position": {
+        "x": 453.56158005352336,
+        "y": 423.94312950622555
+      },
+      "size": {
+        "width": 406.40726544670963,
+        "height": 53.65415541008258
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#ffffff",
+        "textColor": "#333333",
+        "fontSize": 33,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "left",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 0.0
+      },
+      "visualKind": "shape",
+      "title": "<p><strong>Card title</strong></p>"
+    },
+    {
+      "id": "n-85",
+      "position": {
+        "x": 142.11315266671954,
+        "y": 443.6937577721634
+      },
+      "size": {
+        "width": 149.78449913330553,
+        "height": 161.4536045227329
+      },
+      "style": {
+        "fillColor": "#f0f0f0",
+        "borderColor": "#1c1c1e",
+        "textColor": "#1a1a1a",
+        "fontSize": 23,
+        "fontFamily": "noto_sans",
+        "borderWidth": 1,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-86",
+      "position": {
+        "x": 1059.730566488679,
+        "y": 443.65535796959887
+      },
+      "size": {
+        "width": 626.097060822497,
+        "height": 161.45360452273428
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#1c1c1e",
+        "textColor": "#1a1a1a",
+        "fontSize": 21,
+        "fontFamily": "noto_sans",
+        "borderWidth": 1,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-87",
+      "position": {
+        "x": 1133.0227130308886,
+        "y": 470.89029462856763
+      },
+      "size": {
+        "width": 406.40726544670963,
+        "height": 40.27857463715161
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#ffffff",
+        "textColor": "#333333",
+        "fontSize": 26,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "left",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 0.0
+      },
+      "visualKind": "shape",
+      "title": "<p>Paragraph</p>"
+    },
+    {
+      "id": "n-88",
+      "position": {
+        "x": 1133.0227130308886,
+        "y": 423.9239296049424
+      },
+      "size": {
+        "width": 406.40726544670963,
+        "height": 53.65415541008258
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#ffffff",
+        "textColor": "#333333",
+        "fontSize": 33,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "left",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 0.0
+      },
+      "visualKind": "shape",
+      "title": "<p><strong>Card title</strong></p>"
+    },
+    {
+      "id": "n-89",
+      "position": {
+        "x": 821.5742856440866,
+        "y": 443.6745578708802
+      },
+      "size": {
+        "width": 149.78449913330553,
+        "height": 161.4536045227329
+      },
+      "style": {
+        "fillColor": "#f0f0f0",
+        "borderColor": "#1c1c1e",
+        "textColor": "#1a1a1a",
+        "fontSize": 23,
+        "fontFamily": "noto_sans",
+        "borderWidth": 1,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-90",
+      "position": {
+        "x": 719.9999999999982,
+        "y": 1656.692961909493
+      },
+      "size": {
+        "width": 1307.4226237864434,
+        "height": 763.7511800659795
+      },
+      "style": {
+        "fillColor": "#f0f0f0",
+        "borderColor": "#1c1c1e",
+        "textColor": "#1a1a1a",
+        "fontSize": 113,
+        "fontFamily": "noto_sans",
+        "borderWidth": 1,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-91",
+      "position": {
+        "x": 719.9999999999982,
+        "y": 1656.692961909493
+      },
+      "size": {
+        "width": 182.93039881638924,
+        "height": 182.93039881638924
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mockup]"
+    },
+    {
+      "id": "n-92",
+      "position": {
+        "x": 215.86168158807595,
+        "y": 253.51160913045987
+      },
+      "size": {
+        "width": 297.2815569760211,
+        "height": 66.14515044989058
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[input_dropdown]"
+    },
+    {
+      "id": "n-93",
+      "position": {
+        "x": 544.6771854345516,
+        "y": 253.5578656340249
+      },
+      "size": {
+        "width": 297.2815569760211,
+        "height": 66.23766345702052
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[input_text]"
+    },
+    {
+      "id": "n-94",
+      "position": {
+        "x": 1327.8316365103492,
+        "y": 253.5578656340249
+      },
+      "size": {
+        "width": 89.89492077915318,
+        "height": 49.941622655085105
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[input_toggle]"
+    },
+    {
+      "id": "n-95",
+      "position": {
+        "x": 122.4908349747493,
+        "y": 99.00326371111714
+      },
+      "size": {
+        "width": 110.53986374936886
+      },
+      "style": {
+        "fontSize": 53,
+        "textColor": "#333333",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p>Title</p>"
+    },
+    {
+      "id": "n-96",
+      "position": {
+        "x": 1244.3205249488747,
+        "y": -31.527343749999773
+      },
+      "size": {
+        "width": 1440.0,
+        "height": 3213.3194173809134
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "About"
+    },
+    {
+      "id": "n-97",
+      "position": {
+        "x": 720.0000000000073,
+        "y": 1448.8864244535994
+      },
+      "size": {
+        "width": 402.4854279769753,
+        "height": 120.7456283930926
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[input_button]"
+    },
+    {
+      "id": "n-98",
+      "position": {
+        "x": 719.9999999999982,
+        "y": 420.5991541242647
+      },
+      "size": {
+        "width": 1439.9999999999998,
+        "height": 841.1983082485298
+      },
+      "style": {
+        "fillColor": "#f0f0f0",
+        "borderColor": "#1c1c1e",
+        "textColor": "#1a1a1a",
+        "fontSize": 124,
+        "fontFamily": "noto_sans",
+        "borderWidth": 1,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-99",
+      "position": {
+        "x": 719.9999999999982,
+        "y": 420.5991541242647
+      },
+      "size": {
+        "width": 201.4802019661455,
+        "height": 201.4802019661455
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mockup]"
+    },
+    {
+      "id": "n-100",
+      "position": {
+        "x": 333.3396803923224,
+        "y": 1106.1460689430437
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[people_sticker]"
+    },
+    {
+      "id": "n-101",
+      "position": {
+        "x": 720.0000000000073,
+        "y": 1106.1460689430437
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[people_sticker]"
+    },
+    {
+      "id": "n-102",
+      "position": {
+        "x": 1106.660319607694,
+        "y": 1106.1460689430437
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[people_sticker]"
+    },
+    {
+      "id": "n-103",
+      "position": {
+        "x": 720.0000000000073,
+        "y": 2009.873382828765
+      },
+      "size": {
+        "width": 1317.084143209899,
+        "height": 769.3951063118969
+      },
+      "style": {
+        "fillColor": "#f0f0f0",
+        "borderColor": "#1c1c1e",
+        "textColor": "#1a1a1a",
+        "fontSize": 114,
+        "fontFamily": "noto_sans",
+        "borderWidth": 1,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-104",
+      "position": {
+        "x": 377.75891135332677,
+        "y": 2721.089638425125
+      },
+      "size": {
+        "width": 630.7237582683529,
+        "height": 444.72353115892207
+      },
+      "style": {
+        "fillColor": "#f0f0f0",
+        "borderColor": "#1c1c1e",
+        "textColor": "#1a1a1a",
+        "fontSize": 71,
+        "fontFamily": "noto_sans",
+        "borderWidth": 1,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-105",
+      "position": {
+        "x": 377.75891135332495,
+        "y": 3025.4024061729997
+      },
+      "size": {
+        "width": 630.7237582683458,
+        "height": 163.90200433682415
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#1c1c1e",
+        "textColor": "#1a1a1a",
+        "fontSize": 21,
+        "fontFamily": "noto_sans",
+        "borderWidth": 1,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-106",
+      "position": {
+        "x": 377.75891135332495,
+        "y": 3052.499406027898
+      },
+      "size": {
+        "width": 557.0780249778322,
+        "height": 40.683839779281634
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#ffffff",
+        "textColor": "#333333",
+        "fontSize": 26,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "left",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 0.0
+      },
+      "visualKind": "shape",
+      "title": "<p>Paragraph</p>"
+    },
+    {
+      "id": "n-107",
+      "position": {
+        "x": 377.75891135332495,
+        "y": 3005.0604862833666
+      },
+      "size": {
+        "width": 557.0780249778322,
+        "height": 54.193999709788194
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#ffffff",
+        "textColor": "#333333",
+        "fontSize": 33,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "left",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 0.0
+      },
+      "visualKind": "shape",
+      "title": "<p><strong>Card title</strong></p>"
+    },
+    {
+      "id": "n-108",
+      "position": {
+        "x": 1062.2410886466878,
+        "y": 2721.089638425125
+      },
+      "size": {
+        "width": 630.7237582683529,
+        "height": 444.72353115892207
+      },
+      "style": {
+        "fillColor": "#f0f0f0",
+        "borderColor": "#1c1c1e",
+        "textColor": "#1a1a1a",
+        "fontSize": 71,
+        "fontFamily": "noto_sans",
+        "borderWidth": 1,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-109",
+      "position": {
+        "x": 1062.2410886466841,
+        "y": 3025.4024061729997
+      },
+      "size": {
+        "width": 630.7237582683458,
+        "height": 163.90200433682415
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#1c1c1e",
+        "textColor": "#1a1a1a",
+        "fontSize": 21,
+        "fontFamily": "noto_sans",
+        "borderWidth": 1,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-110",
+      "position": {
+        "x": 1062.2410886466841,
+        "y": 3052.499406027898
+      },
+      "size": {
+        "width": 557.0780249778322,
+        "height": 40.683839779281634
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#ffffff",
+        "textColor": "#333333",
+        "fontSize": 26,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "left",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 0.0
+      },
+      "visualKind": "shape",
+      "title": "<p>Paragraph</p>"
+    },
+    {
+      "id": "n-111",
+      "position": {
+        "x": 1062.2410886466841,
+        "y": 3005.0604862833666
+      },
+      "size": {
+        "width": 557.0780249778322,
+        "height": 54.193999709788194
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#ffffff",
+        "textColor": "#333333",
+        "fontSize": 33,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "left",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 0.0
+      },
+      "visualKind": "shape",
+      "title": "<p><strong>Card title</strong></p>"
+    },
+    {
+      "id": "n-112",
+      "position": {
+        "x": 2844.3205249488747,
+        "y": -388.82311601762467
+      },
+      "size": {
+        "width": 1440.0,
+        "height": 2498.7278728456636
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "News"
+    },
+    {
+      "id": "n-113",
+      "position": {
+        "x": 377.75891135331403,
+        "y": 1214.8463542164102
+      },
+      "size": {
+        "width": 630.7237582683587,
+        "height": 444.7235311589261
+      },
+      "style": {
+        "fillColor": "#f0f0f0",
+        "borderColor": "#1c1c1e",
+        "textColor": "#1a1a1a",
+        "fontSize": 71,
+        "fontFamily": "noto_sans",
+        "borderWidth": 1,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-114",
+      "position": {
+        "x": 377.7589113533104,
+        "y": 1519.1591219642892
+      },
+      "size": {
+        "width": 630.7237582683516,
+        "height": 163.90200433682566
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#1c1c1e",
+        "textColor": "#1a1a1a",
+        "fontSize": 21,
+        "fontFamily": "noto_sans",
+        "borderWidth": 1,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-115",
+      "position": {
+        "x": 377.7589113533104,
+        "y": 1546.2561218191877
+      },
+      "size": {
+        "width": 557.0780249778372,
+        "height": 40.683839779282
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#ffffff",
+        "textColor": "#333333",
+        "fontSize": 26,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "left",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 0.0
+      },
+      "visualKind": "shape",
+      "title": "<p>Paragraph</p>"
+    },
+    {
+      "id": "n-116",
+      "position": {
+        "x": 377.7589113533104,
+        "y": 1498.8172020746565
+      },
+      "size": {
+        "width": 557.0780249778372,
+        "height": 54.19399970978869
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#ffffff",
+        "textColor": "#333333",
+        "fontSize": 33,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "left",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 0.0
+      },
+      "visualKind": "shape",
+      "title": "<p><strong>Card title</strong></p>"
+    },
+    {
+      "id": "n-117",
+      "position": {
+        "x": 377.75891135331585,
+        "y": 1889.6931340259937
+      },
+      "size": {
+        "width": 630.7237582683587,
+        "height": 444.7235311589261
+      },
+      "style": {
+        "fillColor": "#f0f0f0",
+        "borderColor": "#1c1c1e",
+        "textColor": "#1a1a1a",
+        "fontSize": 71,
+        "fontFamily": "noto_sans",
+        "borderWidth": 1,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-118",
+      "position": {
+        "x": 377.75891135331403,
+        "y": 2194.0059017738727
+      },
+      "size": {
+        "width": 630.7237582683516,
+        "height": 163.90200433682566
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#1c1c1e",
+        "textColor": "#1a1a1a",
+        "fontSize": 21,
+        "fontFamily": "noto_sans",
+        "borderWidth": 1,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-119",
+      "position": {
+        "x": 377.75891135331403,
+        "y": 2221.102901628771
+      },
+      "size": {
+        "width": 557.0780249778372,
+        "height": 40.683839779282
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#ffffff",
+        "textColor": "#333333",
+        "fontSize": 26,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "left",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 0.0
+      },
+      "visualKind": "shape",
+      "title": "<p>Paragraph</p>"
+    },
+    {
+      "id": "n-120",
+      "position": {
+        "x": 377.75891135331403,
+        "y": 2173.66398188424
+      },
+      "size": {
+        "width": 557.0780249778372,
+        "height": 54.19399970978869
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#ffffff",
+        "textColor": "#333333",
+        "fontSize": 33,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "left",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 0.0
+      },
+      "visualKind": "shape",
+      "title": "<p><strong>Card title</strong></p>"
+    },
+    {
+      "id": "n-121",
+      "position": {
+        "x": 1062.2410886466787,
+        "y": 1214.8463542164102
+      },
+      "size": {
+        "width": 630.7237582683587,
+        "height": 444.7235311589261
+      },
+      "style": {
+        "fillColor": "#f0f0f0",
+        "borderColor": "#1c1c1e",
+        "textColor": "#1a1a1a",
+        "fontSize": 71,
+        "fontFamily": "noto_sans",
+        "borderWidth": 1,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-122",
+      "position": {
+        "x": 1062.2410886466769,
+        "y": 1519.1591219642894
+      },
+      "size": {
+        "width": 630.7237582683516,
+        "height": 163.90200433682566
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#1c1c1e",
+        "textColor": "#1a1a1a",
+        "fontSize": 21,
+        "fontFamily": "noto_sans",
+        "borderWidth": 1,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-123",
+      "position": {
+        "x": 1062.2410886466769,
+        "y": 1546.2561218191877
+      },
+      "size": {
+        "width": 557.0780249778372,
+        "height": 40.683839779282
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#ffffff",
+        "textColor": "#333333",
+        "fontSize": 26,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "left",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 0.0
+      },
+      "visualKind": "shape",
+      "title": "<p>Paragraph</p>"
+    },
+    {
+      "id": "n-124",
+      "position": {
+        "x": 1062.2410886466769,
+        "y": 1498.8172020746565
+      },
+      "size": {
+        "width": 557.0780249778372,
+        "height": 54.19399970978869
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#ffffff",
+        "textColor": "#333333",
+        "fontSize": 33,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "left",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 0.0
+      },
+      "visualKind": "shape",
+      "title": "<p><strong>Card title</strong></p>"
+    },
+    {
+      "id": "n-125",
+      "position": {
+        "x": 1062.2410886466823,
+        "y": 1889.6931340259937
+      },
+      "size": {
+        "width": 630.7237582683587,
+        "height": 444.7235311589261
+      },
+      "style": {
+        "fillColor": "#f0f0f0",
+        "borderColor": "#1c1c1e",
+        "textColor": "#1a1a1a",
+        "fontSize": 71,
+        "fontFamily": "noto_sans",
+        "borderWidth": 1,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-126",
+      "position": {
+        "x": 1062.2410886466787,
+        "y": 2194.005901773873
+      },
+      "size": {
+        "width": 630.7237582683516,
+        "height": 163.90200433682566
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#1c1c1e",
+        "textColor": "#1a1a1a",
+        "fontSize": 21,
+        "fontFamily": "noto_sans",
+        "borderWidth": 1,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-127",
+      "position": {
+        "x": 1062.2410886466787,
+        "y": 2221.102901628771
+      },
+      "size": {
+        "width": 557.0780249778372,
+        "height": 40.683839779282
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#ffffff",
+        "textColor": "#333333",
+        "fontSize": 26,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "left",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 0.0
+      },
+      "visualKind": "shape",
+      "title": "<p>Paragraph</p>"
+    },
+    {
+      "id": "n-128",
+      "position": {
+        "x": 1062.2410886466787,
+        "y": 2173.66398188424
+      },
+      "size": {
+        "width": 557.0780249778372,
+        "height": 54.19399970978869
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#ffffff",
+        "textColor": "#333333",
+        "fontSize": 33,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "left",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 0.0
+      },
+      "visualKind": "shape",
+      "title": "<p><strong>Card title</strong></p>"
+    },
+    {
+      "id": "n-129",
+      "position": {
+        "x": 377.75891135331585,
+        "y": 542.2208187206551
+      },
+      "size": {
+        "width": 630.7237582683587,
+        "height": 444.7235311589261
+      },
+      "style": {
+        "fillColor": "#f0f0f0",
+        "borderColor": "#1c1c1e",
+        "textColor": "#1a1a1a",
+        "fontSize": 71,
+        "fontFamily": "noto_sans",
+        "borderWidth": 1,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-130",
+      "position": {
+        "x": 377.7589113533122,
+        "y": 846.5335864685342
+      },
+      "size": {
+        "width": 630.7237582683516,
+        "height": 163.90200433682566
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#1c1c1e",
+        "textColor": "#1a1a1a",
+        "fontSize": 21,
+        "fontFamily": "noto_sans",
+        "borderWidth": 1,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-131",
+      "position": {
+        "x": 377.7589113533122,
+        "y": 873.6305863234327
+      },
+      "size": {
+        "width": 557.0780249778372,
+        "height": 40.683839779282
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#ffffff",
+        "textColor": "#333333",
+        "fontSize": 26,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "left",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 0.0
+      },
+      "visualKind": "shape",
+      "title": "<p>Paragraph</p>"
+    },
+    {
+      "id": "n-132",
+      "position": {
+        "x": 377.7589113533122,
+        "y": 826.1916665789015
+      },
+      "size": {
+        "width": 557.0780249778372,
+        "height": 54.19399970978869
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#ffffff",
+        "textColor": "#333333",
+        "fontSize": 33,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "left",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 0.0
+      },
+      "visualKind": "shape",
+      "title": "<p><strong>Card title</strong></p>"
+    },
+    {
+      "id": "n-133",
+      "position": {
+        "x": 1062.2410886466805,
+        "y": 542.2208187206551
+      },
+      "size": {
+        "width": 630.7237582683587,
+        "height": 444.7235311589261
+      },
+      "style": {
+        "fillColor": "#f0f0f0",
+        "borderColor": "#1c1c1e",
+        "textColor": "#1a1a1a",
+        "fontSize": 71,
+        "fontFamily": "noto_sans",
+        "borderWidth": 1,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-134",
+      "position": {
+        "x": 1062.2410886466787,
+        "y": 846.5335864685342
+      },
+      "size": {
+        "width": 630.7237582683516,
+        "height": 163.90200433682566
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#1c1c1e",
+        "textColor": "#1a1a1a",
+        "fontSize": 21,
+        "fontFamily": "noto_sans",
+        "borderWidth": 1,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-135",
+      "position": {
+        "x": 1062.2410886466787,
+        "y": 873.6305863234327
+      },
+      "size": {
+        "width": 557.0780249778372,
+        "height": 40.683839779282
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#ffffff",
+        "textColor": "#333333",
+        "fontSize": 26,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "left",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 0.0
+      },
+      "visualKind": "shape",
+      "title": "<p>Paragraph</p>"
+    },
+    {
+      "id": "n-136",
+      "position": {
+        "x": 1062.2410886466787,
+        "y": 826.1916665789015
+      },
+      "size": {
+        "width": 557.0780249778372,
+        "height": 54.19399970978869
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#ffffff",
+        "textColor": "#333333",
+        "fontSize": 33,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "left",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 0.0
+      },
+      "visualKind": "shape",
+      "title": "<p><strong>Card title</strong></p>"
+    },
+    {
+      "id": "n-137",
+      "position": {
+        "x": 1228.9621892928517,
+        "y": 104.00162637894118
+      },
+      "size": {
+        "width": 297.2815569760211,
+        "height": 66.23766345702052
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[input_text]"
+    },
+    {
+      "id": "n-138",
+      "position": {
+        "x": 122.4908349747493,
+        "y": 99.00326371111714
+      },
+      "size": {
+        "width": 110.53986374936886
+      },
+      "style": {
+        "fontSize": 53,
+        "textColor": "#333333",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p>Title</p>"
+    },
+    {
+      "id": "n-139",
+      "position": {
+        "x": 172.34152947812618,
+        "y": 200.60961225507435
+      },
+      "size": {
+        "width": 210.24125275611493,
+        "height": 39.9548841028147
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 16,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "left",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 0.0
+      },
+      "visualKind": "shape",
+      "title": "<p><strong style=\"color:rgb(26,26,26)\">T</strong><strong>ab 1</strong></p>"
+    },
+    {
+      "id": "n-140",
+      "position": {
+        "x": 172.34152947812618,
+        "y": 224.58705430648206
+      },
+      "size": {
+        "width": 210.24125275611638,
+        "height": 8.0
+      },
+      "style": {
+        "fillColor": "#6631d7",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 24,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "left",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": "<p></p>"
+    },
+    {
+      "id": "n-141",
+      "position": {
+        "x": 382.5827822342526,
+        "y": 200.60961225507435
+      },
+      "size": {
+        "width": 210.24125275611493,
+        "height": 39.9548841028147
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#ffffff",
+        "textColor": "#595959",
+        "fontSize": 16,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "left",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 0.0
+      },
+      "visualKind": "shape",
+      "title": "<p><span style=\"color:rgb(89,89,89)\">Tab 2</span></p>"
+    },
+    {
+      "id": "n-142",
+      "position": {
+        "x": 382.5827822342526,
+        "y": 224.58705430648206
+      },
+      "size": {
+        "width": 210.24125275611638,
+        "height": 8.0
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 24,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "left",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": "<p></p>"
+    },
+    {
+      "id": "n-143",
+      "position": {
+        "x": 592.8240349903645,
+        "y": 200.60961225507435
+      },
+      "size": {
+        "width": 210.24125275611493,
+        "height": 39.9548841028147
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#ffffff",
+        "textColor": "#595959",
+        "fontSize": 16,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "left",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 0.0
+      },
+      "visualKind": "shape",
+      "title": "<p><span style=\"color:rgb(89,89,89)\">Tab 3</span></p>"
+    },
+    {
+      "id": "n-144",
+      "position": {
+        "x": 592.8240349903645,
+        "y": 224.58705430648206
+      },
+      "size": {
+        "width": 210.24125275611638,
+        "height": 8.0
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 24,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "left",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": "<p></p>"
+    }
+  ],
+  "edges": [],
+  "annotations": [],
+  "_metadata": {
+    "extracted_at": "2026-02-23T12:53:28.542624",
+    "total_items": 147,
+    "total_connectors": 64,
+    "frames": 2,
+    "nodes": 145,
+    "edges": 0
+  },
+  "_template": {
+    "name": "low-fidelity-wireframe-ai-template",
+    "category": "miroverse",
+    "source": "miroverse",
+    "source_slug": "low-fidelity-wireframes-template-ai",
+    "source_board_id": "uXjVJ8wZwdA=",
+    "tags": [
+      "research & design",
+      "ux",
+      "agile",
+      "diagramming & mapping",
+      "ai accelerated",
+      "marketing",
+      "design",
+      "market research",
+      "wireframe",
+      "development"
+    ],
+    "extracted_at": "2026-02-23T12:53:28.542653"
+  }
+}

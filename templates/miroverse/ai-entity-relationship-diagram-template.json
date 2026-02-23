@@ -1,0 +1,502 @@
+{
+  "frames": [
+    {
+      "id": "f-0",
+      "title": "",
+      "position": {
+        "x": -2708.7062941739173,
+        "y": -2021.9165242520562
+      },
+      "size": {
+        "width": 585.4350477833015,
+        "height": 332.22161835481234
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-1",
+      "title": "",
+      "position": {
+        "x": -2701.6812828348234,
+        "y": 69.21896826296177
+      },
+      "size": {
+        "width": 571.3850251051143,
+        "height": 660.0276268634603
+      },
+      "style": {
+        "fillColor": "#f0f0f0"
+      }
+    },
+    {
+      "id": "f-2",
+      "title": "",
+      "position": {
+        "x": -2701.6812828348234,
+        "y": -516.4749216796023
+      },
+      "size": {
+        "width": 571.385025105114,
+        "height": 301.9168618791782
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    }
+  ],
+  "nodes": [
+    {
+      "id": "n-0",
+      "position": {
+        "x": -2128.4896778024968,
+        "y": -667.4333526191919
+      },
+      "size": {
+        "width": 2692.0,
+        "height": 1235.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "Entity Relationship Diagram"
+    },
+    {
+      "id": "n-1",
+      "position": {
+        "x": 282.3351066217164,
+        "y": 98.85714285714528
+      },
+      "size": {
+        "width": 476.67021325714285
+      },
+      "style": {
+        "fontSize": 48,
+        "textColor": "#1c1c1e",
+        "fontFamily": "roobert",
+        "align": "left"
+      },
+      "frameId": "f-0",
+      "visualKind": "text",
+      "title": "<p><strong>Entity Relationship Diagram</strong></p>"
+    },
+    {
+      "id": "n-2",
+      "position": {
+        "x": 277.9999999999939,
+        "y": 238.28571428571593
+      },
+      "size": {
+        "width": 468.0
+      },
+      "style": {
+        "fontSize": 24,
+        "textColor": "#595959",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "frameId": "f-0",
+      "visualKind": "text",
+      "title": "<p>Create an ERD with Miro Diagrams. AI prompt can help you get started and you can iterate and style your diagram as needed</p>"
+    },
+    {
+      "id": "n-3",
+      "position": {
+        "x": 276.4553376447839,
+        "y": 226.02585604228244
+      },
+      "size": {
+        "width": 463.09089477631477
+      },
+      "style": {
+        "fontSize": 28,
+        "textColor": "#1a1a1a",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-1",
+      "visualKind": "text",
+      "title": "<p><strong>Create a ERD using a prompt and then use it to create a technical document</strong></p>"
+    },
+    {
+      "id": "n-4",
+      "position": {
+        "x": 198.95190107886884,
+        "y": 89.21983446466385
+      },
+      "size": {
+        "width": 46.88962849523381,
+        "height": 46.88962849523381
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ7nvkyU%3D/resources/images/3458764517272326950?format=preview&redirect=false"
+        }
+      },
+      "frameId": "f-1",
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-5",
+      "position": {
+        "x": 102.02274231277892,
+        "y": 81.72938899168531
+      },
+      "size": {
+        "width": 102.45722608337798,
+        "height": 61.87051944119157
+      },
+      "style": {
+        "fillColor": "#1c1c1e",
+        "borderColor": "#ffffff",
+        "textColor": "#ffffff",
+        "fontSize": 22,
+        "fontFamily": "roobert_pro",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-1",
+      "visualKind": "shape",
+      "title": "<p><strong>Tip </strong></p>"
+    },
+    {
+      "id": "n-6",
+      "position": {
+        "x": 267.2181627370108,
+        "y": 475.1151140244354
+      },
+      "size": {
+        "width": 481.56524458354994
+      },
+      "style": {
+        "fontSize": 22,
+        "textColor": "#595959",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "frameId": "f-1",
+      "visualKind": "text",
+      "title": "<ol><li data-list=\"ordered\"><span class=\"ql-ui\"></span>Write the prompt to create a ERD and choose diagram type as ERD</li><li data-list=\"ordered\"><span class=\"ql-ui\"></span>Hit run to generate your ERD</li><li data-list=\"ordered\"><span class=\"ql-ui\"></span>Iterate on the prompt for best results</li><li data-list=\"ordered\"><span class=\"ql-ui\"></span>Adjust the diagram as needed and add colors and styling</li><li data-list=\"ordered\"><span class=\"ql-ui\"></span>The document will also be generated when you click run. for changes needed to the doc, iterate the prompt and click run on the doc</li></ol>"
+    },
+    {
+      "id": "n-7",
+      "position": {
+        "x": 1141.0058468459802,
+        "y": -667.4333526191919
+      },
+      "size": {
+        "width": 784.0,
+        "height": 1105.4399999999998
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "<h1></h1>"
+    },
+    {
+      "id": "n-8",
+      "position": {
+        "x": -2128.4896778024968,
+        "y": -2188.027333429462
+      },
+      "size": {
+        "width": 1732.4675116800713,
+        "height": 762.8801276644998
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "Entity Relationship Diagram"
+    },
+    {
+      "id": "n-9",
+      "position": {
+        "x": 194.45376286648855,
+        "y": 147.05565816778238
+      },
+      "size": {
+        "width": 292.0,
+        "height": 162.0
+      },
+      "style": {
+        "fillColor": "#FFFFFF",
+        "borderColor": "#000000",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-10",
+      "position": {
+        "x": 639.7718720030816,
+        "y": 147.05565816778238
+      },
+      "size": {
+        "width": 306.0,
+        "height": 162.0
+      },
+      "style": {
+        "fillColor": "#FFFFFF",
+        "borderColor": "#000000",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-11",
+      "position": {
+        "x": 1098.498034188458,
+        "y": 127.61028188113363
+      },
+      "size": {
+        "width": 235.0,
+        "height": 130.0
+      },
+      "style": {
+        "fillColor": "#FFFFFF",
+        "borderColor": "#000000",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-12",
+      "position": {
+        "x": 1564.1434731987667,
+        "y": 147.05565816778238
+      },
+      "size": {
+        "width": 239.0,
+        "height": 162.0
+      },
+      "style": {
+        "fillColor": "#FFFFFF",
+        "borderColor": "#000000",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-13",
+      "position": {
+        "x": 647.0638881105751,
+        "y": 635.2698457833671
+      },
+      "size": {
+        "width": 292.0,
+        "height": 130.0
+      },
+      "style": {
+        "fillColor": "#FFFFFF",
+        "borderColor": "#000000",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-14",
+      "position": {
+        "x": 282.33510662171636,
+        "y": 98.85714285714516
+      },
+      "size": {
+        "width": 476.67021325714285
+      },
+      "style": {
+        "fontSize": 48,
+        "textColor": "#1c1c1e",
+        "fontFamily": "roobert",
+        "align": "left"
+      },
+      "frameId": "f-2",
+      "visualKind": "text",
+      "title": "<p><strong>Entity Relationship Diagram</strong></p>"
+    },
+    {
+      "id": "n-15",
+      "position": {
+        "x": 277.99999999999386,
+        "y": 221.14285714285916
+      },
+      "size": {
+        "width": 468.0
+      },
+      "style": {
+        "fontSize": 24,
+        "textColor": "#595959",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "frameId": "f-2",
+      "visualKind": "text",
+      "title": "<p>Create an ERD with an AI prompt and also create a technical document to support your proposal</p>"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e-0",
+      "sourceNodeId": "n-10",
+      "targetNodeId": "n-13",
+      "style": {
+        "lineStyle": "solid",
+        "arrowHead": "end",
+        "borderColor": "#333333",
+        "strokeWidth": "2.0",
+        "extra": {
+          "connectorShape": "elbowed",
+          "sourcePosition": "auto",
+          "targetPosition": "auto"
+        }
+      }
+    },
+    {
+      "id": "e-1",
+      "sourceNodeId": "n-11",
+      "targetNodeId": "n-12",
+      "style": {
+        "lineStyle": "solid",
+        "arrowHead": "end",
+        "borderColor": "#333333",
+        "strokeWidth": "2.0",
+        "extra": {
+          "connectorShape": "elbowed",
+          "sourcePosition": "auto",
+          "targetPosition": "auto"
+        }
+      }
+    },
+    {
+      "id": "e-2",
+      "sourceNodeId": "n-10",
+      "targetNodeId": "n-11",
+      "style": {
+        "lineStyle": "solid",
+        "arrowHead": "end",
+        "borderColor": "#333333",
+        "strokeWidth": "2.0",
+        "extra": {
+          "connectorShape": "elbowed",
+          "sourcePosition": "auto",
+          "targetPosition": "auto"
+        }
+      }
+    },
+    {
+      "id": "e-3",
+      "sourceNodeId": "n-9",
+      "targetNodeId": "n-10",
+      "style": {
+        "lineStyle": "solid",
+        "arrowHead": "end",
+        "borderColor": "#333333",
+        "strokeWidth": "2.0",
+        "extra": {
+          "connectorShape": "elbowed",
+          "sourcePosition": "auto",
+          "targetPosition": "auto"
+        }
+      }
+    }
+  ],
+  "annotations": [],
+  "_metadata": {
+    "extracted_at": "2026-02-23T12:49:44.720575",
+    "total_items": 19,
+    "total_connectors": 4,
+    "frames": 3,
+    "nodes": 16,
+    "edges": 4
+  },
+  "_template": {
+    "name": "ai-entity-relationship-diagram-template",
+    "category": "miroverse",
+    "source": "miroverse",
+    "source_slug": "entity-relationship-diagram-template-ai",
+    "source_board_id": "uXjVJ7nvkyU=",
+    "tags": [
+      "flowchart",
+      "diagramming & mapping",
+      "ai accelerated",
+      "operations",
+      "development",
+      "process & workflow"
+    ],
+    "extracted_at": "2026-02-23T12:49:44.720643"
+  }
+}

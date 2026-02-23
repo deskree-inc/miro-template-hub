@@ -1,0 +1,508 @@
+{
+  "frames": [
+    {
+      "id": "f-0",
+      "title": "Unstructured Feedback",
+      "position": {
+        "x": -2532.6004662363384,
+        "y": -773.9130595614022
+      },
+      "size": {
+        "width": 2411.8648064907766,
+        "height": 1574.641942576048
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-1",
+      "title": "",
+      "position": {
+        "x": -4202.5370929934115,
+        "y": -1066.9305327745249
+      },
+      "size": {
+        "width": 572.9059209934397,
+        "height": 988.6069961498025
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    }
+  ],
+  "nodes": [
+    {
+      "id": "n-0",
+      "position": {
+        "x": 285.45668572088715,
+        "y": 167.95107204487118
+      },
+      "size": {
+        "width": 442.9133714314285
+      },
+      "style": {
+        "fontSize": 46,
+        "textColor": "#0e0e0e",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-1",
+      "visualKind": "text",
+      "title": "<p><strong style=\"color:rgb(14,14,14)\">Synthesize Messy Feedback into Insights</strong></p>"
+    },
+    {
+      "id": "n-1",
+      "position": {
+        "x": 121.65302013655554,
+        "y": 370.85713775633536
+      },
+      "size": {
+        "width": 115.30604027306487,
+        "height": 132.10943307667733
+      },
+      "style": {
+        "fillColor": "gray",
+        "align": "center"
+      },
+      "frameId": "f-1",
+      "visualKind": "stickyNote",
+      "title": "<p><strong>Unstructured Feedback</strong></p>"
+    },
+    {
+      "id": "n-2",
+      "position": {
+        "x": 297.726045459002,
+        "y": 370.85713775633536
+      },
+      "size": {
+        "width": 115.30604027306487,
+        "height": 132.10943307667733
+      },
+      "style": {
+        "fillColor": "gray",
+        "align": "center"
+      },
+      "frameId": "f-1",
+      "visualKind": "stickyNote",
+      "title": "<p><strong> Structured Feedback</strong></p>"
+    },
+    {
+      "id": "n-3",
+      "position": {
+        "x": 461.612309281382,
+        "y": 370.85713775633536
+      },
+      "size": {
+        "width": 115.30604027306487,
+        "height": 132.10943307667733
+      },
+      "style": {
+        "fillColor": "gray",
+        "align": "center"
+      },
+      "frameId": "f-1",
+      "visualKind": "stickyNote",
+      "title": "<p><strong> Feedback Summary</strong></p>"
+    },
+    {
+      "id": "n-4",
+      "position": {
+        "x": 286.45296049672714,
+        "y": 697.7689971518171
+      },
+      "size": {
+        "width": 450.3989241942857
+      },
+      "style": {
+        "fontSize": 24,
+        "textColor": "#595959",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "frameId": "f-1",
+      "visualKind": "text",
+      "title": "<p>Drop any kind of feedback into the frame — Interview Transcripts, Feedback summaries, UX research, screenshots of feedback or just simple stickies. <br /><br />Then run the prompt to group similar feedback, extract key problems, and create a structured summary with clear themes.<br /><br />Ideal for getting started to make sense of a lot of feedback.</p>"
+    },
+    {
+      "id": "n-5",
+      "position": {
+        "x": 984.9750540110185,
+        "y": 120.63114855981223
+      },
+      "size": {
+        "width": 468.60969851443923,
+        "height": 660.7396749053592
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "frameId": "f-0",
+      "visualKind": "shape",
+      "title": "<h1>Feedback Report – Anna (Casual Fitness User)</h1><ol><li data-list=\"ordered\"><strong>Tracking meals is too manual</strong><ol><li data-list=\"bullet\">Problem: Logging meals requires searching for each food item individually, which is time-consuming. Many common meals aren’t recognized.</li><li data-list=\"bullet\">Potential Solution: Add meal templates and quick-save options (e.g., “usual breakfast”) and improve food database coverage.</li></ol></li><li data-list=\"ordered\"><strong>Workout reminders feel generic</strong><ol><li data-list=\"bullet\">Problem: Notifications just say “Time to work out” without context, which feels unhelpful.</li><li data-list=\"bullet\">Potential Solution: Personalize reminders based on user goals or recent activity.</li></ol></li><li data-list=\"ordered\"><strong>Inconsistent calorie data</strong><ol><li data-list=\"bullet\">Problem: Different foods show drastically different calorie counts compared to other apps.</li><li data-list=\"bullet\">Potential Solution: Standardize entries and allow user reporting for incorrect values.</li></ol></li><li data-list=\"ordered\"><strong>Progress charts feel uninspiring</strong><ol><li data-list=\"bullet\">Problem: The graphs for weight and calories don’t motivate me.</li><li data-list=\"bullet\">Potential Solution: Add milestone markers, celebratory animations, or before/after comparisons.</li></ol></li><li data-list=\"ordered\"><strong>Navigation is confusing</strong><ol><li data-list=\"bullet\">Problem: I’m not always sure where to find progress vs. daily stats.</li><li data-list=\"bullet\">Potential Solution: Simplify navigation with a single dashboard that shows key metrics.</li></ol></li></ol><p></p>"
+    },
+    {
+      "id": "n-6",
+      "position": {
+        "x": 1530.016081021728,
+        "y": 179.26061606046608
+      },
+      "size": {
+        "width": 468.60969851443923,
+        "height": 660.7396749053592
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "frameId": "f-0",
+      "visualKind": "shape",
+      "title": "<h1>Feedback Report – Priya (Busy Professional)</h1><ol><li data-list=\"ordered\"><strong>Onboarding takes too long</strong><ol><li data-list=\"bullet\">Problem: I don’t want to spend 15 minutes setting everything up.</li><li data-list=\"bullet\">Potential Solution: Add a quick-start mode with defaults.</li></ol></li><li data-list=\"ordered\"><strong>Workouts aren’t flexible</strong><ol><li data-list=\"bullet\">Problem: The app doesn’t adapt when I only have 10–15 minutes.</li><li data-list=\"bullet\">Potential Solution: Introduce short workout presets based on available time.</li></ol></li><li data-list=\"ordered\"><strong>Calendar integration missing</strong><ol><li data-list=\"bullet\">Problem: I can’t block time in my Google/Outlook calendar.</li><li data-list=\"bullet\">Potential Solution: Add calendar sync for workouts.</li></ol></li><li data-list=\"ordered\"><strong>Too many notifications</strong><ol><li data-list=\"bullet\">Problem: I get spammed with reminders, which I mute.</li><li data-list=\"bullet\">Potential Solution: Allow custom notification settings (frequency, type).</li></ol></li><li data-list=\"ordered\"><strong>Video instructions load slowly</strong><ol><li data-list=\"bullet\">Problem: Exercise videos buffer on mobile data.</li><li data-list=\"bullet\">Potential Solution: Offer lighter GIFs or offline downloads.</li></ol></li><li data-list=\"ordered\"><strong>Navigation is cluttered</strong><ol><li data-list=\"bullet\">Problem: It’s not clear where my saved workouts are vs. my progress stats.</li><li data-list=\"bullet\">Potential Solution: Create a unified home dashboard for shortcuts and progress.</li></ol></li></ol><p></p>"
+    },
+    {
+      "id": "n-7",
+      "position": {
+        "x": 277.2397759767341,
+        "y": 356.0930764344563
+      },
+      "size": {
+        "width": 126.00645155240697,
+        "height": 144.36920077361202
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "stickyNote",
+      "title": "<p>Workout Analytics are super limited. Users want advanced metrics like training load</p>"
+    },
+    {
+      "id": "n-8",
+      "position": {
+        "x": 475.5889448157036,
+        "y": 303.86856740730275
+      },
+      "size": {
+        "width": 126.00645155240697,
+        "height": 144.36920077361202
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "stickyNote",
+      "title": "<p>Training Plans are boring</p>"
+    },
+    {
+      "id": "n-9",
+      "position": {
+        "x": 453.12817847870656,
+        "y": 490.9669240953914
+      },
+      "size": {
+        "width": 126.00645155240697,
+        "height": 144.36920077361202
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "stickyNote",
+      "title": "<p>Wearable  sometimes fail to sync data reliably</p>"
+    },
+    {
+      "id": "n-10",
+      "position": {
+        "x": 641.012170031318,
+        "y": 428.6712379566676
+      },
+      "size": {
+        "width": 126.00645155240697,
+        "height": 144.36920077361202
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "stickyNote",
+      "title": "<p>Users don&#39;t really understand fitness jargon. we need more friendly langauge</p>"
+    },
+    {
+      "id": "n-11",
+      "position": {
+        "x": 264.97449137558624,
+        "y": 563.1515244821954
+      },
+      "size": {
+        "width": 126.00645155240697,
+        "height": 144.36920077361202
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "stickyNote",
+      "title": "<p>Workout reminders are very generic and not motivation. Notifications don&#39;t add value</p>"
+    },
+    {
+      "id": "n-12",
+      "position": {
+        "x": 1260.3553966503173,
+        "y": 1095.57994045627
+      },
+      "size": {
+        "width": 588.5128335304605,
+        "height": 101.00152683563309
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ9_FRTc%3D/resources/images/3458764517390081613?format=preview&redirect=false"
+        }
+      },
+      "frameId": "f-0",
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-13",
+      "position": {
+        "x": 901.855393412829,
+        "y": 1252.2516001934296
+      },
+      "size": {
+        "width": 765.0666835895986,
+        "height": 110.54497819018108
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ9_FRTc%3D/resources/images/3458764517390081614?format=preview&redirect=false"
+        }
+      },
+      "frameId": "f-0",
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-14",
+      "position": {
+        "x": 901.855393412829,
+        "y": 975.3883267170312
+      },
+      "size": {
+        "width": 953.5498478419217,
+        "height": 72.37117277198905
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ9_FRTc%3D/resources/images/3458764517390081615?format=preview&redirect=false"
+        }
+      },
+      "frameId": "f-0",
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-15",
+      "position": {
+        "x": 1797.8638652686936,
+        "y": 781.3708234651691
+      },
+      "size": {
+        "width": 468.60969851443923,
+        "height": 660.7396749053592
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "frameId": "f-0",
+      "visualKind": "shape",
+      "title": "<h1>🎤 User Interview Transcript (Excerpt)</h1><p><strong>Interviewer:</strong> So tell me a bit about how you’ve been using the fitness app over the past few weeks.</p><p><strong>User (Sofia, 29, Marketing Manager):</strong> Yeah, I’ve actually been using it almost daily for tracking my workouts and food. I really like the design — it feels clean — but sometimes it feels like the app assumes I’m super disciplined, which I’m not.</p><p><strong>Interviewer:</strong> Can you give me an example?</p><p><strong>Sofia:</strong> Sure, like the workout reminders. They just pop up with “Time to move!” — but it doesn’t take into account if I’ve already done something that day, or if it’s a rest day. I end up ignoring them.</p><p><strong>Interviewer:</strong> So it feels too generic?</p><p><strong>Sofia:</strong> Exactly. It would be nice if it said something like, “You’re only 10 minutes away from your weekly goal” or “Rest day, but how about a stretch?” Something more contextual, you know?</p><p><strong>Interviewer:</strong> Got it. Anything else that stands out?</p><p><strong>Sofia:</strong> Yeah, I think the food tracking is pretty good, but entering custom meals is painful. Like, I eat similar lunches every day and I still have to enter everything from scratch. It’s too repetitive.</p><p><strong>Interviewer:</strong> That’s super helpful — thanks for that.</p>"
+    },
+    {
+      "id": "n-16",
+      "position": {
+        "x": 1751.5318897950424,
+        "y": 888.3779768368273
+      },
+      "size": {
+        "width": 126.00645155240697,
+        "height": 144.36920077361202
+      },
+      "style": {
+        "fillColor": "orange",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "stickyNote",
+      "title": "<p>User Interview Excerpts</p>"
+    },
+    {
+      "id": "n-17",
+      "position": {
+        "x": 930.7193447859104,
+        "y": 147.2303187876447
+      },
+      "size": {
+        "width": 126.00645155240697,
+        "height": 144.36920077361202
+      },
+      "style": {
+        "fillColor": "orange",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "stickyNote",
+      "title": "<p>Feedback Requests</p>"
+    },
+    {
+      "id": "n-18",
+      "position": {
+        "x": 227.16573477802058,
+        "y": 179.54802389648705
+      },
+      "size": {
+        "width": 126.00645155240697,
+        "height": 144.36920077361202
+      },
+      "style": {
+        "fillColor": "orange",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "stickyNote",
+      "title": "<p>Top of Mind Feedback</p>"
+    },
+    {
+      "id": "n-19",
+      "position": {
+        "x": 519.3220516180231,
+        "y": 853.5554238519804
+      },
+      "size": {
+        "width": 126.00645155240697,
+        "height": 144.36920077361202
+      },
+      "style": {
+        "fillColor": "orange",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "stickyNote",
+      "title": "<p>Customer Escalations</p>"
+    },
+    {
+      "id": "n-20",
+      "position": {
+        "x": -1123.7822499090298,
+        "y": -1561.2340308494236
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[data_table_format]"
+    },
+    {
+      "id": "n-21",
+      "position": {
+        "x": 534.4014197339156,
+        "y": -1561.2340308494227
+      },
+      "size": {
+        "width": 919.3100504102646,
+        "height": 1709.635272319089
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "<h1>User Feedback Summary</h1><h2>Overview</h2><p>We collected 14 distinct user feedback items spanning five key themes. The feedback reveals a consistent pattern: users find the app effortful to use daily and insufficiently adaptive to their individual needs. User Experience issues dominate (43% of feedback), with personalization gaps and technical friction as critical secondary concerns.</p><h2>Key Insights (Prioritized by Impact)</h2><p><strong>User Experience &amp; Daily Friction</strong> – Users face significant barriers in core daily workflows.</p><ol><li data-list=\"bullet\">Navigation is confusing, making it hard to find progress stats, daily summaries, and saved workouts</li><li data-list=\"bullet\">Manual meal tracking is time-consuming, requiring repetitive searches and individual food entry for common meals</li><li data-list=\"bullet\">Notification overload leads users to mute all alerts, reducing engagement</li></ol><p><strong>Personalization &amp; Context Awareness</strong> – The app doesn't adapt to individual user contexts or preferences.</p><ol><li data-list=\"bullet\">Workout reminders are generic (\"Time to work out\") and don't account for rest days, recent activity, or progress toward goals (highest frequency issue: 3 mentions)</li><li data-list=\"bullet\">Workouts don't adjust when users have limited time (10-15 minutes), missing short workout opportunities</li><li data-list=\"bullet\">Onboarding takes 15 minutes with no quick-start option for users wanting to begin immediately</li></ol><p><strong>Technical Reliability &amp; Integration</strong> – System performance and connectivity issues disrupt user experience.</p><ol><li data-list=\"bullet\">Wearable devices fail to sync reliably, creating data gaps</li><li data-list=\"bullet\">Exercise videos buffer on mobile data, interrupting workouts</li><li data-list=\"bullet\">Missing calendar integration prevents users from blocking workout time in Google/Outlook</li></ol><p><strong>Data Quality &amp; Insights</strong> – Users question data accuracy and crave deeper analytics.</p><ol><li data-list=\"bullet\">Calorie counts differ drastically from other apps, eroding trust</li><li data-list=\"bullet\">Progress charts lack motivational elements like milestones or celebrations</li><li data-list=\"bullet\">Analytics are basic, missing advanced metrics like training load</li></ol><h2>Recommended Focus Areas</h2><ol><li data-list=\"bullet\">We should simplify navigation with a unified dashboard showing key metrics and shortcuts</li><li data-list=\"bullet\">We should personalize workout reminders based on user goals, recent activity, and rest day schedules</li><li data-list=\"bullet\">We should add meal templates and quick-save options to reduce repetitive logging</li><li data-list=\"bullet\">We should introduce short workout presets (10-15 minutes) for time-constrained users</li><li data-list=\"bullet\">We should standardize calorie data and enable user reporting for incorrect values</li></ol><h2>Next Steps</h2><p>We'll validate the highest-impact issues through user interviews, focusing on navigation pain points and notification preferences. The engineering team will assess feasibility for meal templates and personalized reminder logic. We'll prioritize quick wins (simplified navigation, notification customization) for the next sprint while scoping larger efforts (meal templates, advanced analytics) for the following quarter. A follow-up competitive analysis will benchmark our data accuracy against leading nutrition apps.</p>"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e-0",
+      "sourceNodeId": "n-1",
+      "targetNodeId": "n-2",
+      "style": {
+        "lineStyle": "solid",
+        "arrowHead": "end",
+        "borderColor": "#6631d7",
+        "strokeWidth": "3.0",
+        "extra": {
+          "connectorShape": "elbowed",
+          "sourcePosition": "auto",
+          "targetPosition": "auto"
+        }
+      }
+    },
+    {
+      "id": "e-1",
+      "sourceNodeId": "n-2",
+      "targetNodeId": "n-3",
+      "style": {
+        "lineStyle": "solid",
+        "arrowHead": "end",
+        "borderColor": "#6631d7",
+        "strokeWidth": "3.0",
+        "extra": {
+          "connectorShape": "elbowed",
+          "sourcePosition": "auto",
+          "targetPosition": "auto"
+        }
+      }
+    }
+  ],
+  "annotations": [],
+  "_metadata": {
+    "extracted_at": "2026-02-23T12:43:16.397201",
+    "total_items": 24,
+    "total_connectors": 2,
+    "frames": 2,
+    "nodes": 22,
+    "edges": 2
+  },
+  "_template": {
+    "name": "user-feedback-to-insights",
+    "category": "miroverse",
+    "source": "miroverse",
+    "source_slug": "user-feedback-to-insights",
+    "source_board_id": "uXjVJ9_FRTc=",
+    "tags": [
+      "productivity hacks",
+      "strategy & planning",
+      "ai accelerated"
+    ],
+    "extracted_at": "2026-02-23T12:43:16.397222"
+  }
+}

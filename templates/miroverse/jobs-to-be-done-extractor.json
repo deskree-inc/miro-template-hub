@@ -1,0 +1,573 @@
+{
+  "frames": [
+    {
+      "id": "f-0",
+      "title": "",
+      "position": {
+        "x": -1542.9460420519267,
+        "y": -727.9797110580038
+      },
+      "size": {
+        "width": 359.96917489774637,
+        "height": 486.21232093394167
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-1",
+      "title": "",
+      "position": {
+        "x": -2162.9306295007996,
+        "y": -777.0858715249742
+      },
+      "size": {
+        "width": 559.9999999999999,
+        "height": 388.0000000000005
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-2",
+      "title": "Jobs to be Done context",
+      "position": {
+        "x": -691.1560375511273,
+        "y": -330.84765625
+      },
+      "size": {
+        "width": 1279.6108341038528,
+        "height": 1280.4764305499484
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    }
+  ],
+  "nodes": [
+    {
+      "id": "n-0",
+      "position": {
+        "x": 210.18669506254753,
+        "y": 160.85714285714351
+      },
+      "size": {
+        "width": 235.56495966857142
+      },
+      "style": {
+        "fontSize": 24,
+        "textColor": "#1a1a1a",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-0",
+      "visualKind": "text",
+      "title": "<p><strong>Add context</strong></p>"
+    },
+    {
+      "id": "n-1",
+      "position": {
+        "x": 210.18669506254753,
+        "y": 226.57142857142884
+      },
+      "size": {
+        "width": 235.56495966428574
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#595959",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "frameId": "f-0",
+      "visualKind": "text",
+      "title": "<p>Drop your persona stickies, pain points, and desired outcomes into the frame.</p>"
+    },
+    {
+      "id": "n-2",
+      "position": {
+        "x": 52.202107613673775,
+        "y": 161.91639332796098
+      },
+      "size": {
+        "width": 40.404215227348686,
+        "height": 40.404215227349596
+      },
+      "style": {
+        "fillColor": "#1c1c1e",
+        "borderColor": "#ffffff",
+        "textColor": "#ffffff",
+        "fontSize": 18,
+        "fontFamily": "unknown",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "circle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-0",
+      "visualKind": "shape",
+      "title": "<p><strong>1</strong></p>"
+    },
+    {
+      "id": "n-3",
+      "position": {
+        "x": 210.18669506254753,
+        "y": 316.28571428571416
+      },
+      "size": {
+        "width": 235.56495966857142
+      },
+      "style": {
+        "fontSize": 24,
+        "textColor": "#1a1a1a",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-0",
+      "visualKind": "text",
+      "title": "<p><strong>Run the prompt</strong></p>"
+    },
+    {
+      "id": "n-4",
+      "position": {
+        "x": 210.18669506254753,
+        "y": 394.8571428571433
+      },
+      "size": {
+        "width": 235.56495966428574
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#595959",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "frameId": "f-0",
+      "visualKind": "text",
+      "title": "<p>Click Run above the doc to synthesize the inputs into clear, actionable Job to Be Done statements.</p>"
+    },
+    {
+      "id": "n-5",
+      "position": {
+        "x": 52.202107613673775,
+        "y": 317.3449647565316
+      },
+      "size": {
+        "width": 40.404215227348686,
+        "height": 40.404215227349596
+      },
+      "style": {
+        "fillColor": "#1c1c1e",
+        "borderColor": "#ffffff",
+        "textColor": "#ffffff",
+        "fontSize": 18,
+        "fontFamily": "unknown",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "circle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-0",
+      "visualKind": "shape",
+      "title": "<p><strong>2</strong></p>"
+    },
+    {
+      "id": "n-6",
+      "position": {
+        "x": 179.9845874488741,
+        "y": 54.857142857143515
+      },
+      "size": {
+        "width": 295.9691749028571
+      },
+      "style": {
+        "fontSize": 32,
+        "textColor": "#1c1c1e",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-0",
+      "visualKind": "text",
+      "title": "<p><strong>How to</strong></p>"
+    },
+    {
+      "id": "n-7",
+      "position": {
+        "x": 280.00000000000176,
+        "y": 132.5714285714287
+      },
+      "size": {
+        "width": 432.0
+      },
+      "style": {
+        "fontSize": 48,
+        "textColor": "#1c1c1e",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-1",
+      "visualKind": "text",
+      "title": "<p><strong>Jobs to be Done (JTBD) Generator</strong></p>"
+    },
+    {
+      "id": "n-8",
+      "position": {
+        "x": 279.9999999999995,
+        "y": 272.57142857142867
+      },
+      "size": {
+        "width": 432.0
+      },
+      "style": {
+        "fontSize": 24,
+        "textColor": "#595959",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "frameId": "f-1",
+      "visualKind": "text",
+      "title": "<p>Ideal for aligning your team on the fundamental &#34;why&#34; before moving on to design or development.</p>"
+    },
+    {
+      "id": "n-9",
+      "position": {
+        "x": 108.64937950079911,
+        "y": -971.0858715249742
+      },
+      "size": {
+        "width": 784.0000000000002,
+        "height": 1105.44
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "<h1>Job Stories for Dependency Management and Team Coordination</h1><p><em>Job stories are developed from structured user insights to inform user-centered design. These stories are synthesized to reflect the realities faced by Project Leads, particularly in managing dependencies, enhancing communication, and ensuring timely project completion.</em></p><h2>Job Story 1: Visualizing Task Dependencies</h2><p><em>When I</em> <strong>am under pressure to hit end-of-quarter deadlines</strong>, <em>I want to</em> <strong>visually see which tasks are preventing others from starting</strong>, <em>so I can</em> <strong>focus on high-level strategic work instead of chasing updates.</strong></p><h2>Job Story 2: Responding to Shifting Dependencies</h2><p><em>When I</em> <strong>am waiting for the Engineering team to finish their sprints before Design can start mocks</strong>, <em>I want to</em> <strong>easily reassign tasks when dependencies shift</strong>, <em>so I can</em> <strong>guarantee quarterly launch dates aren't missed.</strong></p><h2>Job Story 3: Efficient Communication</h2><p><em>When I</em> <strong>see my team is currently blocked by third-party vendors</strong>, <em>I want to</em> <strong>send direct notifications to the owners of blocking tasks</strong>, <em>so I can</em> <strong>stop manually checking in with team members.</strong></p><h2>Job Story 4: Clear Task Initiation</h2><p><em>When I</em> <strong>am managing multiple cross-functional projects under tight deadlines</strong>, <em>I want to</em> <strong>mark tasks clearly as \"Ready to Start\"</strong>, <em>so I can</em> <strong>ensure that the team knows exactly when they are unblocked and can get back to work effectively.</strong></p>"
+    },
+    {
+      "id": "n-10",
+      "position": {
+        "x": 156.24315646939505,
+        "y": 424.65232093394116
+      },
+      "size": {
+        "width": 107.46000000000001,
+        "height": 123.12
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-2",
+      "visualKind": "stickyNote",
+      "title": "<p>Project Lead managing 3 cross-functional projects</p>"
+    },
+    {
+      "id": "n-11",
+      "position": {
+        "x": 302.70391872491916,
+        "y": 394.28024850296697
+      },
+      "size": {
+        "width": 107.46000000000001,
+        "height": 123.12
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-2",
+      "visualKind": "stickyNote",
+      "title": "<p>I am under pressure to hit the end-of-quarter deadline</p>"
+    },
+    {
+      "id": "n-12",
+      "position": {
+        "x": 394.26392508819254,
+        "y": 485.07232093394214
+      },
+      "size": {
+        "width": 107.46000000000001,
+        "height": 123.12
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-2",
+      "visualKind": "stickyNote",
+      "title": "<p>I have to wait for the Engineering team to finish their sprint before Design can start the mocks</p>"
+    },
+    {
+      "id": "n-13",
+      "position": {
+        "x": 225.4763844588129,
+        "y": 599.4819647803442
+      },
+      "size": {
+        "width": 107.46000000000001,
+        "height": 123.12
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-2",
+      "visualKind": "stickyNote",
+      "title": "<p>My team is currently blocked by a third-party vendor</p>"
+    },
+    {
+      "id": "n-14",
+      "position": {
+        "x": 278.2113844588129,
+        "y": 224.93803521965583
+      },
+      "size": {
+        "width": 212.93,
+        "height": 243.96
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-2",
+      "visualKind": "stickyNote",
+      "title": "<p>Persona</p>"
+    },
+    {
+      "id": "n-15",
+      "position": {
+        "x": 919.5803783089411,
+        "y": 345.931680787171
+      },
+      "size": {
+        "width": 212.93,
+        "height": 243.96
+      },
+      "style": {
+        "fillColor": "pink",
+        "align": "center"
+      },
+      "frameId": "f-2",
+      "visualKind": "stickyNote",
+      "title": "<p>Goals</p>"
+    },
+    {
+      "id": "n-16",
+      "position": {
+        "x": 505.92620275556226,
+        "y": 882.9323112979346
+      },
+      "size": {
+        "width": 212.93,
+        "height": 243.96
+      },
+      "style": {
+        "fillColor": "dark_green",
+        "align": "center"
+      },
+      "frameId": "f-2",
+      "visualKind": "stickyNote",
+      "title": "<p>Outcomes</p>"
+    },
+    {
+      "id": "n-17",
+      "position": {
+        "x": 818.3861588942104,
+        "y": 553.9321600271714
+      },
+      "size": {
+        "width": 107.46000000000001,
+        "height": 123.12
+      },
+      "style": {
+        "fillColor": "pink",
+        "align": "center"
+      },
+      "frameId": "f-2",
+      "visualKind": "stickyNote",
+      "title": "<p>I want to visually see which tasks are preventing others from starting</p>"
+    },
+    {
+      "id": "n-18",
+      "position": {
+        "x": 1098.8469910804884,
+        "y": 484.1635885428095
+      },
+      "size": {
+        "width": 107.46000000000001,
+        "height": 123.12
+      },
+      "style": {
+        "fillColor": "pink",
+        "align": "center"
+      },
+      "frameId": "f-2",
+      "visualKind": "stickyNote",
+      "title": "<p>I need to easily reassign tasks when a dependency shifts</p>"
+    },
+    {
+      "id": "n-19",
+      "position": {
+        "x": 972.3153783089413,
+        "y": 633.0536912642892
+      },
+      "size": {
+        "width": 107.46000000000001,
+        "height": 123.12
+      },
+      "style": {
+        "fillColor": "pink",
+        "align": "center"
+      },
+      "frameId": "f-2",
+      "visualKind": "stickyNote",
+      "title": "<p>I want to send a direct notification to the owner of the blocking task</p>"
+    },
+    {
+      "id": "n-20",
+      "position": {
+        "x": 904.6454692888337,
+        "y": 766.1454620699733
+      },
+      "size": {
+        "width": 107.46000000000001,
+        "height": 123.12
+      },
+      "style": {
+        "fillColor": "pink",
+        "align": "center"
+      },
+      "frameId": "f-2",
+      "visualKind": "stickyNote",
+      "title": "<p>I need a clear way to mark a task as &#34;Ready to Start&#34;</p>"
+    },
+    {
+      "id": "n-21",
+      "position": {
+        "x": 439.821071960048,
+        "y": 1066.4723112979354
+      },
+      "size": {
+        "width": 107.46000000000001,
+        "height": 123.12
+      },
+      "style": {
+        "fillColor": "dark_green",
+        "align": "center"
+      },
+      "frameId": "f-2",
+      "visualKind": "stickyNote",
+      "title": "<p>So I can stop manually checking in with team members</p>"
+    },
+    {
+      "id": "n-22",
+      "position": {
+        "x": 630.3175556453697,
+        "y": 977.5479674384405
+      },
+      "size": {
+        "width": 107.46000000000001,
+        "height": 123.12
+      },
+      "style": {
+        "fillColor": "dark_green",
+        "align": "center"
+      },
+      "frameId": "f-2",
+      "visualKind": "stickyNote",
+      "title": "<p>So I can guarantee we don&#39;t miss our quarterly launch date</p>"
+    },
+    {
+      "id": "n-23",
+      "position": {
+        "x": 312.31565564629125,
+        "y": 956.7282501088848
+      },
+      "size": {
+        "width": 107.46000000000001,
+        "height": 123.12
+      },
+      "style": {
+        "fillColor": "dark_green",
+        "align": "center"
+      },
+      "frameId": "f-2",
+      "visualKind": "stickyNote",
+      "title": "<p>So the team knows exactly when they are unblocked and can get back to work</p>"
+    },
+    {
+      "id": "n-24",
+      "position": {
+        "x": 581.9344986512514,
+        "y": 1100.6679674384404
+      },
+      "size": {
+        "width": 107.46000000000001,
+        "height": 123.12
+      },
+      "style": {
+        "fillColor": "dark_green",
+        "align": "center"
+      },
+      "frameId": "f-2",
+      "visualKind": "stickyNote",
+      "title": "<p>So I can focus on high-level strategic work, not chasing updates</p>"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e-0",
+      "sourceNodeId": "n-2",
+      "targetNodeId": "n-5",
+      "style": {
+        "lineStyle": "dotted",
+        "arrowHead": "none",
+        "borderColor": "#b0b0b0",
+        "strokeWidth": "2.0",
+        "extra": {
+          "connectorShape": "curved",
+          "sourcePosition": "auto",
+          "targetPosition": "auto"
+        }
+      }
+    }
+  ],
+  "annotations": [],
+  "_metadata": {
+    "extracted_at": "2026-02-23T13:24:47.892695",
+    "total_items": 28,
+    "total_connectors": 1,
+    "frames": 3,
+    "nodes": 25,
+    "edges": 1
+  },
+  "_template": {
+    "name": "jobs-to-be-done-extractor",
+    "category": "miroverse",
+    "source": "miroverse",
+    "source_slug": "jobs-to-be-done-extractor-ai",
+    "source_board_id": "uXjVJ6sEz0o=",
+    "tags": [
+      "strategy & planning",
+      "agile workflows",
+      "ai accelerated"
+    ],
+    "extracted_at": "2026-02-23T13:24:47.892712"
+  }
+}

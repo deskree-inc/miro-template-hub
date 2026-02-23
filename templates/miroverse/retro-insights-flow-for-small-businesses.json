@@ -1,0 +1,1241 @@
+{
+  "frames": [
+    {
+      "id": "f-0",
+      "title": "Weekly retro",
+      "position": {
+        "x": 13727.356259215396,
+        "y": 10109.975947477627
+      },
+      "size": {
+        "width": 4217.169163406629,
+        "height": 4090.587777877905
+      },
+      "style": {
+        "fillColor": "#ffffffff"
+      }
+    }
+  ],
+  "nodes": [
+    {
+      "id": "n-0",
+      "position": {
+        "x": 9089.205542741518,
+        "y": 7429.420979880288
+      },
+      "size": {
+        "width": 4854.606413015037,
+        "height": 1082.7446669405754
+      },
+      "style": {
+        "fillColor": "#1c1c1e",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 70,
+        "fontFamily": "noto_sans",
+        "borderWidth": 12,
+        "borderStyle": "normal",
+        "align": "left",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": "<p><br /></p>"
+    },
+    {
+      "id": "n-1",
+      "position": {
+        "x": 8108.7586213288305,
+        "y": 10109.975947477627
+      },
+      "size": {
+        "width": 2893.712570189663,
+        "height": 4090.5877778779045
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 70,
+        "fontFamily": "noto_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "left",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-2",
+      "position": {
+        "x": 8131.57570382391,
+        "y": 9804.210248106816
+      },
+      "size": {
+        "width": 2613.0594028047785,
+        "height": 3208.688390450725
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 74,
+        "fontFamily": "noto_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "left",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 0.0
+      },
+      "visualKind": "shape",
+      "title": "<p><strong>Hi, it&#39;s Cat aka </strong><strong style=\"color:rgb(28,28,30)\"><a href=\"https://www.instagram.com/askcatgpt/\">CatGPT</a>! </strong></p><p><br /></p><p><br /></p><p>Back in July 2025, I launched <strong style=\"color:rgb(28,28,30)\"><a href=\"https://physicalphones.com/?fbclid&#61;PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQMMjU2MjgxMDQwNTU4AAGnsJPyT3n-G9pVguO9H99nzxcqjbVdaza3B7JwmKcHdeF4g5h1tt981JNH-5s_aem_djjiWzLUWoVHAz_tH2TuiA\">Physical Phones</a></strong>, a line of Bluetooth-compatible landlines that bring back focus, fun, and a little nostalgia.</p><p><br /></p><p><strong>There’s a <em>lot </em>to be done to bring this vision and product to life. </strong>Every Friday, our team gathers for our weekly retro meeting where we reflect on what we accomplished in the last week and what we could have improved on. <strong>Notes are meant to be messy! Sticky notes! Word vomit! </strong></p><p><br /></p><p>But as a founder, I want to make sure when we say we could have done better, we <em>actually</em> change our behavior and DO better. <strong>So, to help, I created this Flow with Miro </strong>— and you can download this template to conduct your own retro and gather insights!</p><p><br /></p><p>After each meeting, I kick off this Flow and it summarizes our discussion into something easily readable and trackable. That way, I can revisit this and easily see if we’re making progress. </p><p><br /></p><p><strong>Here’s how to give it a try yourself → <br /></strong><br /></p><p><br /></p><p><br /></p><p><br /></p><p><br /></p><p><br /></p><p><br /></p><p><br /></p><p><br /></p><p><br /></p><p><br /></p>"
+    },
+    {
+      "id": "n-3",
+      "position": {
+        "x": 7463.409378315659,
+        "y": 11408.554443332177
+      },
+      "size": {
+        "width": 1010.3884571099302,
+        "height": 959.8690342544337
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJo4YaOM%3D/resources/images/3458764517393081652?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-4",
+      "position": {
+        "x": 8333.758321949965,
+        "y": 11408.554443332177
+      },
+      "size": {
+        "width": 639.912689502954,
+        "height": 959.869034254431
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJo4YaOM%3D/resources/images/3458764517393081654?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-5",
+      "position": {
+        "x": 8965.196454811456,
+        "y": 11408.55444333218
+      },
+      "size": {
+        "width": 532.277605784717,
+        "height": 959.8690342544343
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJo4YaOM%3D/resources/images/3458764517393081653?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-6",
+      "position": {
+        "x": 9018.374297334849,
+        "y": 8385.889694124033
+      },
+      "size": {
+        "width": 575.8574002280839,
+        "height": 168.64395292393883
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJo4YaOM%3D/resources/images/3458764517393081650?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-7",
+      "position": {
+        "x": 10586.15815510309,
+        "y": 10109.975947477627
+      },
+      "size": {
+        "width": 1860.701188291888,
+        "height": 4090.5877778779045
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 70,
+        "fontFamily": "noto_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "left",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-8",
+      "position": {
+        "x": 10554.3954416714,
+        "y": 8380.38613044388
+      },
+      "size": {
+        "width": 1274.7536411643648
+      },
+      "style": {
+        "fontSize": 198,
+        "textColor": "#1a1a1a",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong><em>HERE&#39;S HOW </em></strong></p>"
+    },
+    {
+      "id": "n-9",
+      "position": {
+        "x": 10554.395441671402,
+        "y": 8570.436339827053
+      },
+      "size": {
+        "width": 1274.7536411643648
+      },
+      "style": {
+        "fontSize": 198,
+        "textColor": "#1a1a1a",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong><em>TO USE IT</em></strong></p>"
+    },
+    {
+      "id": "n-10",
+      "position": {
+        "x": 10549.044319170745,
+        "y": 10840.154803094694
+      },
+      "size": {
+        "width": 1252.312431852879,
+        "height": 438.3883691275214
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 80,
+        "fontFamily": "noto_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "left",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 0.0
+      },
+      "visualKind": "shape",
+      "title": "<p><em>&#x1f4a1; For a peek under the hood,</em><strong><em> look at the prompt </em></strong><em>to see how we run this Flow.</em></p>"
+    },
+    {
+      "id": "n-11",
+      "position": {
+        "x": 10082.850866347151,
+        "y": 8910.45237279446
+      },
+      "size": {
+        "width": 319.9255262056907,
+        "height": 117.54075855168443
+      },
+      "style": {
+        "fillColor": "#fe9f4d",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 80,
+        "fontFamily": "noto_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "left",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-12",
+      "position": {
+        "x": 10583.554818988487,
+        "y": 9175.55882034995
+      },
+      "size": {
+        "width": 1397.606966777697,
+        "height": 746.9663741203834
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 80,
+        "fontFamily": "noto_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "left",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 0.0
+      },
+      "visualKind": "shape",
+      "title": "<p><strong>  STEP 1 </strong></p><p><br /></p><p>Use the orange space to the right to drop sticky notes for what went well, what didn&#39;t go well, and ideas for next time.</p>"
+    },
+    {
+      "id": "n-13",
+      "position": {
+        "x": 10082.850866347151,
+        "y": 9876.413169070009
+      },
+      "size": {
+        "width": 319.9255262056907,
+        "height": 117.54075855168443
+      },
+      "style": {
+        "fillColor": "#fe9f4d",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 80,
+        "fontFamily": "noto_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "left",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-14",
+      "position": {
+        "x": 10586.15815510309,
+        "y": 10084.861760168456
+      },
+      "size": {
+        "width": 1397.606966777697,
+        "height": 602.1977167249509
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 80,
+        "fontFamily": "noto_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "left",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 0.0
+      },
+      "visualKind": "shape",
+      "title": "<p><strong>  STEP 2</strong></p><p><br /></p><p>Run the Flow and watch your messy meetings note turn into something truly actionable.</p>"
+    },
+    {
+      "id": "n-15",
+      "position": {
+        "x": 9066.324966625201,
+        "y": 7247.485560653949
+      },
+      "size": {
+        "width": 4482.557928396123
+      },
+      "style": {
+        "fontSize": 410,
+        "textColor": "#ffffff",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong><em>RETRO INSIGHTS FLOW </em></strong></p>"
+    },
+    {
+      "id": "n-16",
+      "position": {
+        "x": 9066.324966625201,
+        "y": 7621.640203531241
+      },
+      "size": {
+        "width": 4482.557928396123
+      },
+      "style": {
+        "fontSize": 410,
+        "textColor": "#ffffff",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p>for small businesses</p>"
+    },
+    {
+      "id": "n-17",
+      "position": {
+        "x": 16057.199486019845,
+        "y": 8064.682058538675
+      },
+      "size": {
+        "width": 2525.2132424065176,
+        "height": 4090.587777877905
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "<h1>Lessons Learned – Weekly Retro</h1><h2>🟢 What Went Well</h2><h3>Operations</h3><ol><li data-list=\"bullet\"><strong>On-time delivery:</strong> Shipments went out as scheduled without delays</li><li data-list=\"bullet\"><strong>Team expansion:</strong> Successfully onboarded additional team members</li></ol><h3>Sales</h3><ol><li data-list=\"bullet\"><strong>Goal achievement:</strong> Hit the target goal for the week</li><li data-list=\"bullet\"><strong>Effective communication:</strong> Maintained strong communication throughout the team</li><li data-list=\"bullet\"><strong>Customer engagement:</strong> Generated valid customer chats</li></ol><h3>Cross-Team</h3><ol><li data-list=\"bullet\"><strong>Team morale:</strong> Friday lunch boosted team spirit</li></ol><h2>🔴 What Didn't Go Well</h2><h3>Operations</h3><ol><li data-list=\"bullet\"><strong>Sample damage:</strong> Multiple samples arrived chipped or broken</li><li data-list=\"bullet\"><strong>Logistics timing:</strong> Could have optimized delivery schedule to arrive sooner</li></ol><h3>Marketing</h3><ol><li data-list=\"bullet\"><strong>Content planning gap:</strong> No social media calendar in place, resulting in reactive content creation</li></ol><h3>Sales</h3><ol><li data-list=\"bullet\"><strong>Customer satisfaction decline:</strong> CS scores dropped during this period</li></ol><h2>💡 Ideas for Next Time</h2><h3>Marketing</h3><ol><li data-list=\"bullet\"><strong>Black Friday campaign:</strong> Plan a comprehensive Black Friday promotion with coupon codes</li></ol><h3>Sales</h3><ol><li data-list=\"bullet\"><strong>DM management tools:</strong> Test new software to streamline customer direct message handling</li></ol><h2>🧭 Recommendations for Next Week</h2><ol><li data-list=\"bullet\"><strong>Create social content calendar:</strong> Build a 2-week content schedule by end of week to prevent reactive posting</li><li data-list=\"bullet\"><strong>Review packaging protocol:</strong> Audit shipping procedures to eliminate sample damage in transit</li><li data-list=\"bullet\"><strong>CS recovery plan:</strong> Schedule team huddle to identify root causes of score drop and implement quick wins</li><li data-list=\"bullet\"><strong>Launch Black Friday planning:</strong> Kickoff campaign strategy meeting with Marketing and Sales by Wednesday</li></ol><h2>🚀 Action Summary</h2><p>The team achieved operational goals and strong collaboration but needs to address quality control in shipping and proactive marketing planning. Top priority is preventing sample damage while building out a structured content calendar ahead of Black Friday.</p>"
+    },
+    {
+      "id": "n-18",
+      "position": {
+        "x": 2110.9005742648274,
+        "y": 2045.2938889389525
+      },
+      "size": {
+        "width": 4228.630382881101,
+        "height": 4090.5877778779045
+      },
+      "style": {
+        "fillColor": "#ff9c57",
+        "borderColor": "#ff9c57",
+        "textColor": "#1a1a1a",
+        "fontSize": 70,
+        "fontFamily": "noto_sans",
+        "borderWidth": 12,
+        "borderStyle": "normal",
+        "align": "left",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 0.3
+      },
+      "frameId": "f-0",
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-19",
+      "position": {
+        "x": 3287.889972095019,
+        "y": 412.0192284912173
+      },
+      "size": {
+        "width": 1368.5025745110197,
+        "height": 362.6050149846651
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 52,
+        "fontFamily": "noto_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "left",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-0",
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-20",
+      "position": {
+        "x": 3071.1440569572783,
+        "y": 2050.233384206901
+      },
+      "size": {
+        "width": 1816.5675031009662,
+        "height": 1754.6673824646923
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 70,
+        "fontFamily": "noto_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "left",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-0",
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-21",
+      "position": {
+        "x": 1154.7919911051845,
+        "y": 2050.233384206901
+      },
+      "size": {
+        "width": 1816.5675031009662,
+        "height": 1754.6673824646923
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 70,
+        "fontFamily": "noto_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "left",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-0",
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-22",
+      "position": {
+        "x": 1100.4870051875073,
+        "y": 315.7040719052038
+      },
+      "size": {
+        "width": 1707.957531265261
+      },
+      "style": {
+        "fontSize": 198,
+        "textColor": "#1a1a1a",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-0",
+      "visualKind": "text",
+      "title": "<p><strong><em>WEEKLY RETRO</em></strong></p>"
+    },
+    {
+      "id": "n-23",
+      "position": {
+        "x": 1425.0734621971073,
+        "y": 505.75428128837575
+      },
+      "size": {
+        "width": 2357.1304452849163
+      },
+      "style": {
+        "fontSize": 198,
+        "textColor": "#1a1a1a",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-0",
+      "visualKind": "text",
+      "title": "<p><strong><em>MEETING NOTES DUMP:</em></strong></p>"
+    },
+    {
+      "id": "n-24",
+      "position": {
+        "x": 2019.937285331774,
+        "y": 883.3017359835499
+      },
+      "size": {
+        "width": 3546.858091554145,
+        "height": 243.96
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#ffffff",
+        "textColor": "#1c1c1e",
+        "fontSize": 80,
+        "fontFamily": "noto_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "left",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 0.0
+      },
+      "frameId": "f-0",
+      "visualKind": "shape",
+      "title": "<p><em style=\"color:rgb(28,28,30)\">Below is an example of sticky notes from our last meeting. Be sure to edit or delete before you kickoff the Flow. If you adjust the key, you&#39;ll need to adjust the prompt before you &#34;Run.&#34;</em></p>"
+    },
+    {
+      "id": "n-25",
+      "position": {
+        "x": 536.5624344139228,
+        "y": 1719.3341089892888
+      },
+      "size": {
+        "width": 263.87990160315667,
+        "height": 302.3347616357775
+      },
+      "style": {
+        "fillColor": "light_green",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "stickyNote",
+      "title": "<p>hit our goal</p>"
+    },
+    {
+      "id": "n-26",
+      "position": {
+        "x": 1154.7919911051845,
+        "y": 1629.8519837608706
+      },
+      "size": {
+        "width": 263.87990160315667,
+        "height": 302.3347616357775
+      },
+      "style": {
+        "fillColor": "light_green",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "stickyNote",
+      "title": "<p>shipped on time</p>"
+    },
+    {
+      "id": "n-27",
+      "position": {
+        "x": 1707.0024629759387,
+        "y": 1769.8410077081894
+      },
+      "size": {
+        "width": 263.87990160315667,
+        "height": 302.3347616357775
+      },
+      "style": {
+        "fillColor": "light_green",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "stickyNote",
+      "title": "<p>good communication</p>"
+    },
+    {
+      "id": "n-28",
+      "position": {
+        "x": 1154.7919911051845,
+        "y": 2266.784614075378
+      },
+      "size": {
+        "width": 263.87990160315667,
+        "height": 302.3347616357775
+      },
+      "style": {
+        "fillColor": "yellow",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "stickyNote",
+      "title": "<p>nice communication</p>"
+    },
+    {
+      "id": "n-29",
+      "position": {
+        "x": 1636.1877560374537,
+        "y": 2102.206715891987
+      },
+      "size": {
+        "width": 263.87990160315667,
+        "height": 302.3347616357775
+      },
+      "style": {
+        "fillColor": "cyan",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "stickyNote",
+      "title": "<p>valid chats</p>"
+    },
+    {
+      "id": "n-30",
+      "position": {
+        "x": 800.4423360170799,
+        "y": 2062.668870625067
+      },
+      "size": {
+        "width": 263.87990160315667,
+        "height": 302.3347616357775
+      },
+      "style": {
+        "fillColor": "cyan",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "stickyNote",
+      "title": "<p>werent late</p>"
+    },
+    {
+      "id": "n-31",
+      "position": {
+        "x": 536.5624344139228,
+        "y": 2326.786409987011
+      },
+      "size": {
+        "width": 263.87990160315667,
+        "height": 302.3347616357775
+      },
+      "style": {
+        "fillColor": "yellow",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "stickyNote",
+      "title": "<p>onboarded more people</p>"
+    },
+    {
+      "id": "n-32",
+      "position": {
+        "x": 1572.3860000797426,
+        "y": 2527.2163810476522
+      },
+      "size": {
+        "width": 263.87990160315667,
+        "height": 302.3347616357775
+      },
+      "style": {
+        "fillColor": "yellow",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "stickyNote",
+      "title": "<p>yummy lunch on friday</p>"
+    },
+    {
+      "id": "n-33",
+      "position": {
+        "x": 2655.9340519619213,
+        "y": 1746.386732347682
+      },
+      "size": {
+        "width": 263.87990160315667,
+        "height": 302.3347616357775
+      },
+      "style": {
+        "fillColor": "light_green",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "stickyNote",
+      "title": "<p>could have gotten to town sooner</p>"
+    },
+    {
+      "id": "n-34",
+      "position": {
+        "x": 3427.688934887024,
+        "y": 1696.8554560588736
+      },
+      "size": {
+        "width": 263.87990160315667,
+        "height": 302.3347616357775
+      },
+      "style": {
+        "fillColor": "light_green",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "stickyNote",
+      "title": "<p>CS scores down</p>"
+    },
+    {
+      "id": "n-35",
+      "position": {
+        "x": 3090.045067860435,
+        "y": 2072.1757693439667
+      },
+      "size": {
+        "width": 263.87990160315667,
+        "height": 302.3347616357775
+      },
+      "style": {
+        "fillColor": "light_green",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "stickyNote",
+      "title": "<p>sample arrived chipped</p>"
+    },
+    {
+      "id": "n-36",
+      "position": {
+        "x": 2647.910828100004,
+        "y": 2274.6590254287175
+      },
+      "size": {
+        "width": 263.87990160315667,
+        "height": 302.3347616357775
+      },
+      "style": {
+        "fillColor": "cyan",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "stickyNote",
+      "title": "<p>didn&#39;t have a social content calendar created / creating content on the fly</p>"
+    },
+    {
+      "id": "n-37",
+      "position": {
+        "x": 3553.7907297031593,
+        "y": 2245.7505648775987
+      },
+      "size": {
+        "width": 263.87990160315667,
+        "height": 302.3347616357775
+      },
+      "style": {
+        "fillColor": "yellow",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "stickyNote",
+      "title": "<p>broken sample</p>"
+    },
+    {
+      "id": "n-38",
+      "position": {
+        "x": 2746.5662309644863,
+        "y": 449.9780228289719
+      },
+      "size": {
+        "width": 134.69065487036232,
+        "height": 154.31894125850556
+      },
+      "style": {
+        "fillColor": "cyan",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "stickyNote",
+      "title": ""
+    },
+    {
+      "id": "n-39",
+      "position": {
+        "x": 3188.6903905954764,
+        "y": 449.9780228289719
+      },
+      "size": {
+        "width": 134.69065487036232,
+        "height": 154.31894125850556
+      },
+      "style": {
+        "fillColor": "yellow",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "stickyNote",
+      "title": ""
+    },
+    {
+      "id": "n-40",
+      "position": {
+        "x": 3639.329913765788,
+        "y": 449.9780228289719
+      },
+      "size": {
+        "width": 134.69065487036232,
+        "height": 154.31894125850556
+      },
+      "style": {
+        "fillColor": "light_green",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "stickyNote",
+      "title": ""
+    },
+    {
+      "id": "n-41",
+      "position": {
+        "x": 1154.7919911051845,
+        "y": 1344.463646468112
+      },
+      "size": {
+        "width": 749.6682204183714,
+        "height": 177.07453460517968
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 80,
+        "fontFamily": "noto_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "left",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 0.0
+      },
+      "frameId": "f-0",
+      "visualKind": "shape",
+      "title": "<p><strong>WHAT WENT WELL</strong></p>"
+    },
+    {
+      "id": "n-42",
+      "position": {
+        "x": 3071.1440569572783,
+        "y": 1344.463646468112
+      },
+      "size": {
+        "width": 976.96965746265,
+        "height": 177.07453460517968
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 80,
+        "fontFamily": "noto_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "left",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 0.0
+      },
+      "frameId": "f-0",
+      "visualKind": "shape",
+      "title": "<p><strong>WHAT DIDN&#39;T GO WELL</strong></p>"
+    },
+    {
+      "id": "n-43",
+      "position": {
+        "x": 3287.889972095019,
+        "y": 304.1194187863275
+      },
+      "size": {
+        "width": 564.7590237744191,
+        "height": 133.39826682678486
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 60,
+        "fontFamily": "noto_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 0.0
+      },
+      "frameId": "f-0",
+      "visualKind": "shape",
+      "title": "<p><strong>KEY</strong></p>"
+    },
+    {
+      "id": "n-44",
+      "position": {
+        "x": 2975.3465980900505,
+        "y": 450.1552404273789
+      },
+      "size": {
+        "width": 263.87990160315564,
+        "height": 90.38310565502718
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 48,
+        "fontFamily": "noto_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "left",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 0.0
+      },
+      "frameId": "f-0",
+      "visualKind": "shape",
+      "title": "<p>Marketing</p>"
+    },
+    {
+      "id": "n-45",
+      "position": {
+        "x": 3412.5797485547405,
+        "y": 450.1552404273789
+      },
+      "size": {
+        "width": 268.80071816659483,
+        "height": 90.38310565502718
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 48,
+        "fontFamily": "noto_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "left",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 0.0
+      },
+      "frameId": "f-0",
+      "visualKind": "shape",
+      "title": "<p>Operations</p>"
+    },
+    {
+      "id": "n-46",
+      "position": {
+        "x": 3850.822638711717,
+        "y": 450.1552404273789
+      },
+      "size": {
+        "width": 242.63724127762973,
+        "height": 90.38310565502718
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 48,
+        "fontFamily": "noto_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "left",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 0.0
+      },
+      "frameId": "f-0",
+      "visualKind": "shape",
+      "title": "<p>Sales</p>"
+    },
+    {
+      "id": "n-47",
+      "position": {
+        "x": 2112.9680240312314,
+        "y": 3439.7697082473396
+      },
+      "size": {
+        "width": 3732.919568953061,
+        "height": 841.4379177789606
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 70,
+        "fontFamily": "noto_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "left",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-0",
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-48",
+      "position": {
+        "x": 2112.9680240312314,
+        "y": 3185.1005533039615
+      },
+      "size": {
+        "width": 976.96965746265,
+        "height": 177.07453460517968
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 80,
+        "fontFamily": "noto_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 0.0
+      },
+      "frameId": "f-0",
+      "visualKind": "shape",
+      "title": "<p><strong>IDEAS FOR NEXT TIME</strong></p>"
+    },
+    {
+      "id": "n-49",
+      "position": {
+        "x": 1372.3078544342966,
+        "y": 3424.8052014244395
+      },
+      "size": {
+        "width": 263.87990160315667,
+        "height": 302.3347616357775
+      },
+      "style": {
+        "fillColor": "yellow",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "stickyNote",
+      "title": "<p>test out new software for customer DMs?</p>"
+    },
+    {
+      "id": "n-50",
+      "position": {
+        "x": 2137.200473293398,
+        "y": 3584.6608462304876
+      },
+      "size": {
+        "width": 263.87990160315667,
+        "height": 302.3347616357775
+      },
+      "style": {
+        "fillColor": "cyan",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "stickyNote",
+      "title": "<p>plan something around black friday</p>"
+    },
+    {
+      "id": "n-51",
+      "position": {
+        "x": 3037.120706096384,
+        "y": 3478.395853243366
+      },
+      "size": {
+        "width": 263.87990160315667,
+        "height": 302.3347616357775
+      },
+      "style": {
+        "fillColor": "light_green",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "stickyNote",
+      "title": "<p>black friday coupon code</p>"
+    },
+    {
+      "id": "n-52",
+      "position": {
+        "x": 5811.519329617329,
+        "y": 8164.161720908389
+      },
+      "size": {
+        "width": 1500.766013233341,
+        "height": 1500.766013233341
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[stamp]"
+    }
+  ],
+  "edges": [],
+  "annotations": [],
+  "_metadata": {
+    "extracted_at": "2026-02-23T13:01:42.786237",
+    "total_items": 54,
+    "total_connectors": 0,
+    "frames": 1,
+    "nodes": 53,
+    "edges": 0
+  },
+  "_template": {
+    "name": "retro-insights-flow-for-small-businesses",
+    "category": "miroverse",
+    "source": "miroverse",
+    "source_slug": "retro-insights-flow-for-small-businesses",
+    "source_board_id": "uXjVJo4YaOM=",
+    "tags": [
+      "ideation & brainstorming",
+      "meetings & workshops",
+      "ai accelerated",
+      "strategy & planning",
+      "operations"
+    ],
+    "extracted_at": "2026-02-23T13:01:42.786259"
+  }
+}

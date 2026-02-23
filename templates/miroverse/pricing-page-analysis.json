@@ -1,0 +1,2333 @@
+{
+  "frames": [
+    {
+      "id": "f-0",
+      "title": "Screenshot of a pricing page.",
+      "position": {
+        "x": 11316.468280671845,
+        "y": 30504.60948534876
+      },
+      "size": {
+        "width": 2970.0569447102034,
+        "height": 2164.3727284324755
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    }
+  ],
+  "nodes": [
+    {
+      "id": "n-0",
+      "position": {
+        "x": 19579.473991818602,
+        "y": 32230.61645702408
+      },
+      "size": {
+        "width": 2224.8427858968575,
+        "height": 6498.344845829889
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#595959",
+        "textColor": "#1a1a1a",
+        "fontSize": 407,
+        "fontFamily": "noto_sans",
+        "borderWidth": 3,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-1",
+      "position": {
+        "x": 17260.631205921738,
+        "y": 32230.61645702408
+      },
+      "size": {
+        "width": 2224.8427858968575,
+        "height": 6498.344845829889
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#595959",
+        "textColor": "#1a1a1a",
+        "fontSize": 407,
+        "fontFamily": "noto_sans",
+        "borderWidth": 3,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-2",
+      "position": {
+        "x": 15098.944355320717,
+        "y": 32230.61645702408
+      },
+      "size": {
+        "width": 1909.825421775296,
+        "height": 6498.344845829884
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#595959",
+        "textColor": "#1a1a1a",
+        "fontSize": 407,
+        "fontFamily": "noto_sans",
+        "borderWidth": 3,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-3",
+      "position": {
+        "x": 7674.282838129365,
+        "y": 29504.286025311463
+      },
+      "size": {
+        "width": 2224.8427858968575,
+        "height": 2747.5959902982395
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#595959",
+        "textColor": "#1a1a1a",
+        "fontSize": 407,
+        "fontFamily": "noto_sans",
+        "borderWidth": 3,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-4",
+      "position": {
+        "x": 8425.372311050112,
+        "y": 31130.854447639882
+      },
+      "size": {
+        "width": 722.6638400553593,
+        "height": 218.4767250333948
+      },
+      "style": {
+        "fillColor": "#e3e3ff",
+        "borderColor": "#595959",
+        "textColor": "#1a1a1a",
+        "fontSize": 27,
+        "fontFamily": "noto_sans",
+        "borderWidth": 3,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-5",
+      "position": {
+        "x": 11487.657379824584,
+        "y": 28340.870716250138
+      },
+      "size": {
+        "width": 1173.8560509773426,
+        "height": 420.76537217560895
+      },
+      "style": {
+        "fillColor": "#8167e5",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 47,
+        "fontFamily": "noto_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-6",
+      "position": {
+        "x": 7674.282838129368,
+        "y": 33041.13287514068
+      },
+      "size": {
+        "width": 2224.8427858968594,
+        "height": 3377.6618367911383
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#595959",
+        "textColor": "#1a1a1a",
+        "fontSize": 406,
+        "fontFamily": "noto_sans",
+        "borderWidth": 3,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-7",
+      "position": {
+        "x": 7674.282838129368,
+        "y": 31750.461076334832
+      },
+      "size": {
+        "width": 2224.8427858968594,
+        "height": 796.3182391794322
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJiRSdLU%3D/resources/images/3458764517488439899?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-8",
+      "position": {
+        "x": 7674.282838129365,
+        "y": 29790.41783282168
+      },
+      "size": {
+        "width": 1786.1507844564405,
+        "height": 218.47672503339544
+      },
+      "style": {
+        "fillColor": "#fff6e7",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 407,
+        "fontFamily": "noto_sans",
+        "borderWidth": 3,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-9",
+      "position": {
+        "x": 7674.282838129365,
+        "y": 29445.481211967868
+      },
+      "size": {
+        "width": 1786.1507844564405,
+        "height": 306.4902143378486
+      },
+      "style": {
+        "fillColor": "#fff6e7",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 407,
+        "fontFamily": "noto_sans",
+        "borderWidth": 3,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-10",
+      "position": {
+        "x": 7674.282838129365,
+        "y": 30552.138040825957
+      },
+      "size": {
+        "width": 1786.1507844564405,
+        "height": 218.47672503339544
+      },
+      "style": {
+        "fillColor": "#fff6e7",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 407,
+        "fontFamily": "noto_sans",
+        "borderWidth": 3,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-11",
+      "position": {
+        "x": 4067.965839524858,
+        "y": 29504.286025311463
+      },
+      "size": {
+        "width": 4229.632615368199,
+        "height": 2747.5959902982395
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJiRSdLU%3D/resources/images/3458764517488439900?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-12",
+      "position": {
+        "x": 4110.687810448569,
+        "y": 30234.46876928906
+      },
+      "size": {
+        "width": 1292.4736542765156,
+        "height": 853.8152681071932
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 336,
+        "fontFamily": "noto_sans",
+        "borderWidth": 3,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-13",
+      "position": {
+        "x": 4506.830305530067,
+        "y": 30234.46876928906
+      },
+      "size": {
+        "width": 365.3775999636406,
+        "height": 659.0502549249769
+      },
+      "style": {
+        "fillColor": "#b2abf2",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 336,
+        "fontFamily": "noto_sans",
+        "borderWidth": 3,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 0.4
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-14",
+      "position": {
+        "x": 4115.176858819336,
+        "y": 30234.46876928906
+      },
+      "size": {
+        "width": 365.3775999636406,
+        "height": 659.0502549249769
+      },
+      "style": {
+        "fillColor": "#ffe0d8",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 336,
+        "fontFamily": "noto_sans",
+        "borderWidth": 3,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-15",
+      "position": {
+        "x": 7674.282838129365,
+        "y": 28883.26232199832
+      },
+      "size": {
+        "width": 1707.1824038015964
+      },
+      "style": {
+        "fontSize": 83,
+        "textColor": "#1a1a1a",
+        "fontFamily": "arial",
+        "align": "center"
+      },
+      "visualKind": "text",
+      "title": "<p><span style=\"background-color:transparent\">This template helps you analyze the pricing page for your startup in a structured way.</span></p>"
+    },
+    {
+      "id": "n-16",
+      "position": {
+        "x": 3723.523412108606,
+        "y": 30234.46876928906
+      },
+      "size": {
+        "width": 365.3775999636406,
+        "height": 659.0502549249769
+      },
+      "style": {
+        "fillColor": "#fff6e7",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 336,
+        "fontFamily": "noto_sans",
+        "borderWidth": 3,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-17",
+      "position": {
+        "x": 4506.830305530067,
+        "y": 29966.51649705533
+      },
+      "size": {
+        "width": 365.3775999636406,
+        "height": 123.14571045750922
+      },
+      "style": {
+        "fillColor": "#b2abf2",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 336,
+        "fontFamily": "noto_sans",
+        "borderWidth": 3,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-18",
+      "position": {
+        "x": 4115.176858819336,
+        "y": 29966.51649705533
+      },
+      "size": {
+        "width": 365.3775999636406,
+        "height": 123.14571045751073
+      },
+      "style": {
+        "fillColor": "#fe7553",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 336,
+        "fontFamily": "noto_sans",
+        "borderWidth": 3,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 0.5
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-19",
+      "position": {
+        "x": 4110.687810448569,
+        "y": 30464.867970226784
+      },
+      "size": {
+        "width": 265.2766549251675,
+        "height": 72.37737764492623
+      },
+      "style": {
+        "fillColor": "#f95738",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 336,
+        "fontFamily": "noto_sans",
+        "borderWidth": 3,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-20",
+      "position": {
+        "x": 4506.830305530067,
+        "y": 30464.867970226784
+      },
+      "size": {
+        "width": 264.8238962074169,
+        "height": 72.37737764492242
+      },
+      "style": {
+        "fillColor": "#958ed5",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 336,
+        "fontFamily": "noto_sans",
+        "borderWidth": 3,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-21",
+      "position": {
+        "x": 3723.523412108606,
+        "y": 29966.51649705533
+      },
+      "size": {
+        "width": 365.3775999636406,
+        "height": 123.14571045751073
+      },
+      "style": {
+        "fillColor": "#e2d8c8",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 336,
+        "fontFamily": "noto_sans",
+        "borderWidth": 3,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-22",
+      "position": {
+        "x": 3723.523412108606,
+        "y": 30464.867970226784
+      },
+      "size": {
+        "width": 256.29855818363103,
+        "height": 72.37737764492623
+      },
+      "style": {
+        "fillColor": "#f0debf",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 336,
+        "fontFamily": "noto_sans",
+        "borderWidth": 3,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-23",
+      "position": {
+        "x": 3727.7860811204982,
+        "y": 30191.18789328421
+      },
+      "size": {
+        "width": 264.82389620741753,
+        "height": 18.728803789399308
+      },
+      "style": {
+        "fillColor": "#b0b0b0",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 336,
+        "fontFamily": "noto_sans",
+        "borderWidth": 3,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 0.3
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-24",
+      "position": {
+        "x": 3727.7860811204982,
+        "y": 30234.46876928906
+      },
+      "size": {
+        "width": 264.82389620741753,
+        "height": 18.728803789399308
+      },
+      "style": {
+        "fillColor": "#b0b0b0",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 336,
+        "fontFamily": "noto_sans",
+        "borderWidth": 3,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 0.3
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-25",
+      "position": {
+        "x": 3691.722314176178,
+        "y": 30275.511497250365
+      },
+      "size": {
+        "width": 192.69636231877683,
+        "height": 18.728803789399308
+      },
+      "style": {
+        "fillColor": "#b0b0b0",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 336,
+        "fontFamily": "noto_sans",
+        "borderWidth": 3,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 0.3
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-26",
+      "position": {
+        "x": 4115.176858819336,
+        "y": 30191.18789328421
+      },
+      "size": {
+        "width": 264.82389620741753,
+        "height": 18.728803789399308
+      },
+      "style": {
+        "fillColor": "#ffc6c6",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 336,
+        "fontFamily": "noto_sans",
+        "borderWidth": 3,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 0.7
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-27",
+      "position": {
+        "x": 4115.176858819336,
+        "y": 30234.46876928906
+      },
+      "size": {
+        "width": 264.82389620741753,
+        "height": 18.728803789399308
+      },
+      "style": {
+        "fillColor": "#ffc6c6",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 336,
+        "fontFamily": "noto_sans",
+        "borderWidth": 3,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 0.7
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-28",
+      "position": {
+        "x": 4079.113091875016,
+        "y": 30275.511497250365
+      },
+      "size": {
+        "width": 192.69636231877683,
+        "height": 18.728803789399308
+      },
+      "style": {
+        "fillColor": "#ffc6c6",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 336,
+        "fontFamily": "noto_sans",
+        "borderWidth": 3,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 0.7
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-29",
+      "position": {
+        "x": 4511.092974541959,
+        "y": 30191.18789328421
+      },
+      "size": {
+        "width": 264.82389620741753,
+        "height": 18.728803789399308
+      },
+      "style": {
+        "fillColor": "#b2abf2",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 336,
+        "fontFamily": "noto_sans",
+        "borderWidth": 3,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 0.4
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-30",
+      "position": {
+        "x": 4511.092974541959,
+        "y": 30234.46876928906
+      },
+      "size": {
+        "width": 264.82389620741753,
+        "height": 18.728803789399308
+      },
+      "style": {
+        "fillColor": "#b2abf2",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 336,
+        "fontFamily": "noto_sans",
+        "borderWidth": 3,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 0.4
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-31",
+      "position": {
+        "x": 4475.029207597635,
+        "y": 30275.511497250365
+      },
+      "size": {
+        "width": 192.69636231877683,
+        "height": 18.728803789399308
+      },
+      "style": {
+        "fillColor": "#b2abf2",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 336,
+        "fontFamily": "noto_sans",
+        "borderWidth": 3,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 0.4
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-32",
+      "position": {
+        "x": 3723.523412108606,
+        "y": 30102.67713655735
+      },
+      "size": {
+        "width": 171.5008167020171
+      },
+      "style": {
+        "fontSize": 100,
+        "textColor": "#1c1c1e",
+        "fontFamily": "arial",
+        "align": "center"
+      },
+      "visualKind": "text",
+      "title": "<p><strong style=\"background-color:transparent\">$</strong></p>"
+    },
+    {
+      "id": "n-33",
+      "position": {
+        "x": 4115.176858819336,
+        "y": 30102.67713655735
+      },
+      "size": {
+        "width": 205.73767537512475
+      },
+      "style": {
+        "fontSize": 100,
+        "textColor": "#1c1c1e",
+        "fontFamily": "arial",
+        "align": "center"
+      },
+      "visualKind": "text",
+      "title": "<p><strong style=\"background-color:transparent\">$$</strong></p>"
+    },
+    {
+      "id": "n-34",
+      "position": {
+        "x": 4506.830305530067,
+        "y": 30102.67713655735
+      },
+      "size": {
+        "width": 205.73767537512475
+      },
+      "style": {
+        "fontSize": 100,
+        "textColor": "#1c1c1e",
+        "fontFamily": "arial",
+        "align": "center"
+      },
+      "visualKind": "text",
+      "title": "<p><strong style=\"background-color:transparent\">$$$</strong></p>"
+    },
+    {
+      "id": "n-35",
+      "position": {
+        "x": 3723.523412108606,
+        "y": 29966.51649705533
+      },
+      "size": {
+        "width": 365.3775999631194
+      },
+      "style": {
+        "fontSize": 55,
+        "textColor": "#1c1c1e",
+        "fontFamily": "arial",
+        "align": "center"
+      },
+      "visualKind": "text",
+      "title": "<p><strong style=\"background-color:transparent\">Free</strong></p>"
+    },
+    {
+      "id": "n-36",
+      "position": {
+        "x": 4115.176858819336,
+        "y": 29966.51649705533
+      },
+      "size": {
+        "width": 365.3775999631194
+      },
+      "style": {
+        "fontSize": 55,
+        "textColor": "#1c1c1e",
+        "fontFamily": "arial",
+        "align": "center"
+      },
+      "visualKind": "text",
+      "title": "<p><strong style=\"background-color:transparent\">Standard</strong></p>"
+    },
+    {
+      "id": "n-37",
+      "position": {
+        "x": 4506.830305530067,
+        "y": 29966.51649705533
+      },
+      "size": {
+        "width": 365.3775999631194
+      },
+      "style": {
+        "fontSize": 55,
+        "textColor": "#1c1c1e",
+        "fontFamily": "arial",
+        "align": "center"
+      },
+      "visualKind": "text",
+      "title": "<p><strong style=\"background-color:transparent\">Premium</strong></p>"
+    },
+    {
+      "id": "n-38",
+      "position": {
+        "x": 7674.282838129365,
+        "y": 28516.39712616228
+      },
+      "size": {
+        "width": 1278.3484683365639
+      },
+      "style": {
+        "fontSize": 187,
+        "textColor": "#ff8b37",
+        "fontFamily": "arial",
+        "align": "center"
+      },
+      "visualKind": "text",
+      "title": "<p><strong style=\"background-color:transparent\">How to use this template</strong></p>"
+    },
+    {
+      "id": "n-39",
+      "position": {
+        "x": 7751.241810648356,
+        "y": 29445.481211967868
+      },
+      "size": {
+        "width": 1393.6767665811672
+      },
+      "style": {
+        "fontSize": 83,
+        "textColor": "#1a1a1a",
+        "fontFamily": "arial",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong style=\"background-color:transparent\">Take a screenshot</strong><span style=\"background-color:transparent\"> of your pricing page and replace the one in the flow.</span></p>"
+    },
+    {
+      "id": "n-40",
+      "position": {
+        "x": 7440.236282354387,
+        "y": 31699.022508786744
+      },
+      "size": {
+        "width": 1278.348468336565
+      },
+      "style": {
+        "fontSize": 187,
+        "textColor": "#1a1a1a",
+        "fontFamily": "arial",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong style=\"background-color:transparent\">New to Miro Flows?</strong></p>"
+    },
+    {
+      "id": "n-41",
+      "position": {
+        "x": 7788.415144154179,
+        "y": 29793.200208122187
+      },
+      "size": {
+        "width": 1468.0234336135238
+      },
+      "style": {
+        "fontSize": 83,
+        "textColor": "#1a1a1a",
+        "fontFamily": "arial",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong style=\"background-color:transparent\">Hit “Run”</strong><span style=\"background-color:transparent\"> </span><strong style=\"background-color:transparent\">on each step</strong><span style=\"background-color:transparent\"> of the AI Flow.</span></p>"
+    },
+    {
+      "id": "n-42",
+      "position": {
+        "x": 7723.7934452934705,
+        "y": 30546.0259929576
+      },
+      "size": {
+        "width": 1338.7800358907098
+      },
+      "style": {
+        "fontSize": 83,
+        "textColor": "#1a1a1a",
+        "fontFamily": "arial",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong style=\"background-color:transparent\">Let Miro AI do the magic.</strong></p>"
+    },
+    {
+      "id": "n-43",
+      "position": {
+        "x": 6914.133003973623,
+        "y": 29445.481211967868
+      },
+      "size": {
+        "width": 131.05544772882206,
+        "height": 131.05544772882152
+      },
+      "style": {
+        "fillColor": "#ff8a00",
+        "borderColor": "#ffffff",
+        "textColor": "#ffffff",
+        "fontSize": 56,
+        "fontFamily": "georgia",
+        "borderWidth": 3,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rhombus"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": "<p><span style=\"color:rgb(255,255,255)\">1</span></p>"
+    },
+    {
+      "id": "n-44",
+      "position": {
+        "x": 6914.133003973623,
+        "y": 29790.41783282168
+      },
+      "size": {
+        "width": 131.05544772882206,
+        "height": 131.05544772882152
+      },
+      "style": {
+        "fillColor": "#ff8a00",
+        "borderColor": "#ffffff",
+        "textColor": "#ffffff",
+        "fontSize": 56,
+        "fontFamily": "georgia",
+        "borderWidth": 3,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rhombus"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": "<p><span style=\"color:rgb(255,255,255)\">2</span></p>"
+    },
+    {
+      "id": "n-45",
+      "position": {
+        "x": 6914.133003973623,
+        "y": 30552.138040825957
+      },
+      "size": {
+        "width": 131.05544772882206,
+        "height": 131.05544772882152
+      },
+      "style": {
+        "fillColor": "#ff8a00",
+        "borderColor": "#ffffff",
+        "textColor": "#ffffff",
+        "fontSize": 56,
+        "fontFamily": "georgia",
+        "borderWidth": 3,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rhombus"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": "<p><span style=\"color:rgb(255,255,255)\">3</span></p>"
+    },
+    {
+      "id": "n-46",
+      "position": {
+        "x": 8580.478755733497,
+        "y": 31543.573799675054
+      },
+      "size": {
+        "width": 229.15487744210685,
+        "height": 229.15487744210685
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJiRSdLU%3D/resources/images/3458764517488439901?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-47",
+      "position": {
+        "x": 7758.306867471375,
+        "y": 32405.147938099093
+      },
+      "size": {
+        "width": 1423.9170349899769
+      },
+      "style": {
+        "fontSize": 104,
+        "textColor": "#1a1a1a",
+        "fontFamily": "arial",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong style=\"color:rgb(26,26,26);background-color:transparent\">Access to AI Capabilities</strong></p>"
+    },
+    {
+      "id": "n-48",
+      "position": {
+        "x": 7745.966535473918,
+        "y": 32741.115180734632
+      },
+      "size": {
+        "width": 1243.6072435325395
+      },
+      "style": {
+        "fontSize": 66,
+        "textColor": "#1a1a1a",
+        "fontFamily": "arial",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><span style=\"background-color:transparent\">To access AI features, look for the </span><strong style=\"background-color:transparent;color:rgb(102,49,215)\">purple diamond on the top-right corner</strong><span style=\"background-color:transparent\"> of your selected object.</span></p>"
+    },
+    {
+      "id": "n-49",
+      "position": {
+        "x": 7745.966535473918,
+        "y": 32741.115180734632
+      },
+      "size": {
+        "width": 1399.2363710323107,
+        "height": 330.0566686157373
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#3859ff",
+        "textColor": "#1a1a1a",
+        "fontSize": 34,
+        "fontFamily": "noto_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 0.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-50",
+      "position": {
+        "x": 7048.711547678496,
+        "y": 32576.80880253698
+      },
+      "size": {
+        "width": 22.83638273882515,
+        "height": 22.83638273882515
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#b0b0b0",
+        "textColor": "#1a1a1a",
+        "fontSize": 34,
+        "fontFamily": "noto_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "circle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-51",
+      "position": {
+        "x": 8439.24098389846,
+        "y": 32656.222418963065
+      },
+      "size": {
+        "width": 53.320666227969866,
+        "height": 53.320666227969866
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJiRSdLU%3D/resources/images/3458764517488439902?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-52",
+      "position": {
+        "x": 8193.384827876846,
+        "y": 33338.72625813946
+      },
+      "size": {
+        "width": 504.3997862264703,
+        "height": 716.6392905688224
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJiRSdLU%3D/resources/images/3458764517488439903?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-53",
+      "position": {
+        "x": 8439.24098389846,
+        "y": 32576.80880253698
+      },
+      "size": {
+        "width": 22.83638273882515,
+        "height": 22.83638273882515
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#b0b0b0",
+        "textColor": "#1a1a1a",
+        "fontSize": 34,
+        "fontFamily": "noto_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "circle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-54",
+      "position": {
+        "x": 7048.711547678496,
+        "y": 32904.54235674589
+      },
+      "size": {
+        "width": 22.83638273882515,
+        "height": 22.83638273882515
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#b0b0b0",
+        "textColor": "#1a1a1a",
+        "fontSize": 34,
+        "fontFamily": "noto_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "circle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-55",
+      "position": {
+        "x": 8439.24098389846,
+        "y": 32903.95292534222
+      },
+      "size": {
+        "width": 22.83638273882515,
+        "height": 22.83638273882515
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#b0b0b0",
+        "textColor": "#1a1a1a",
+        "fontSize": 34,
+        "fontFamily": "noto_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "circle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-56",
+      "position": {
+        "x": 7272.218013583412,
+        "y": 34125.47498930199
+      },
+      "size": {
+        "width": 389.3746529457028,
+        "height": 175.63617967012996
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJiRSdLU%3D/resources/images/3458764517488439904?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-57",
+      "position": {
+        "x": 7414.592656540283,
+        "y": 34121.02134416088
+      },
+      "size": {
+        "width": 744.5142067220141,
+        "height": 217.2509270880596
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#b2abf2",
+        "textColor": "#1a1a1a",
+        "fontSize": 34,
+        "fontFamily": "arial",
+        "borderWidth": 4,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 0.0
+      },
+      "visualKind": "shape",
+      "title": "<p><strong></strong></p>"
+    },
+    {
+      "id": "n-58",
+      "position": {
+        "x": 7746.3185360422785,
+        "y": 33833.38865713205
+      },
+      "size": {
+        "width": 1399.9403721845983
+      },
+      "style": {
+        "fontSize": 104,
+        "textColor": "#1a1a1a",
+        "fontFamily": "arial",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong style=\"color:rgb(26,26,26);background-color:transparent\">Just hit RUN</strong></p>"
+    },
+    {
+      "id": "n-59",
+      "position": {
+        "x": 7770.84844580644,
+        "y": 34361.15353348771
+      },
+      "size": {
+        "width": 1457.0257852334266
+      },
+      "style": {
+        "fontSize": 66,
+        "textColor": "#1a1a1a",
+        "fontFamily": "arial",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><span style=\"background-color:transparent\">Once you choose the AI capability you want to use, simply </span><strong style=\"background-color:transparent;color:rgb(102,49,215)\">add your prompt and hit Run.</strong></p>"
+    },
+    {
+      "id": "n-60",
+      "position": {
+        "x": 7633.432923476076,
+        "y": 34125.47498930199
+      },
+      "size": {
+        "width": 202.62226033907308,
+        "height": 152.60253916750273
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJiRSdLU%3D/resources/images/3458764517488439905?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-61",
+      "position": {
+        "x": 11487.657379824584,
+        "y": 28295.156430535862
+      },
+      "size": {
+        "width": 1173.8560510285715
+      },
+      "style": {
+        "fontSize": 180,
+        "textColor": "#ffffff",
+        "fontFamily": "arial",
+        "align": "center"
+      },
+      "visualKind": "text",
+      "title": "<p><strong style=\"background-color:transparent\">Step 1</strong></p>"
+    },
+    {
+      "id": "n-62",
+      "position": {
+        "x": 11487.657379824584,
+        "y": 28455.80032228178
+      },
+      "size": {
+        "width": 983.7269556234003
+      },
+      "style": {
+        "fontSize": 67,
+        "textColor": "#ffffff",
+        "fontFamily": "arial",
+        "align": "center"
+      },
+      "visualKind": "text",
+      "title": "<p><strong style=\"background-color:transparent\">Paste a Screenshot of a pricing Page</strong></p>"
+    },
+    {
+      "id": "n-63",
+      "position": {
+        "x": 8425.372311050112,
+        "y": 31130.854447639882
+      },
+      "size": {
+        "width": 557.7625915502044
+      },
+      "style": {
+        "fontSize": 107,
+        "textColor": "#1a1a1a",
+        "fontFamily": "arial",
+        "align": "center"
+      },
+      "visualKind": "text",
+      "title": "<p><strong style=\"background-color:transparent;color:rgb(26,26,26)\">Let&#39;s start!</strong></p>"
+    },
+    {
+      "id": "n-64",
+      "position": {
+        "x": 1837.1937205890563,
+        "y": 27856.59239107734
+      },
+      "size": {
+        "width": 1220.958230815887,
+        "height": 1498.1305323571105
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#1a1a1a",
+        "textColor": "#1a1a1a",
+        "fontSize": 68,
+        "fontFamily": "noto_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-65",
+      "position": {
+        "x": 1868.2113190777882,
+        "y": 28051.176128211984
+      },
+      "size": {
+        "width": 1018.6849094206054
+      },
+      "style": {
+        "fontSize": 36,
+        "textColor": "#1a1a1a",
+        "fontFamily": "arial",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><span style=\"background-color:transparent\">I’m a serial entrepreneur (4 startups and counting), board member, and product growth exec. I’ve led product teams at </span><strong style=\"background-color:transparent\">UserCentrics</strong><span style=\"background-color:transparent\">,</span><strong style=\"background-color:transparent\"> Smallpdf</strong><span style=\"background-color:transparent\">,</span><strong style=\"background-color:transparent\"> GotPhoto</strong><span style=\"background-color:transparent\"> (EQT), </span><strong style=\"background-color:transparent\">DeinDeal</strong><span style=\"background-color:transparent\">, and </span><strong style=\"background-color:transparent\">Jua.ai. </strong><span style=\"background-color:transparent\"><br /><br />I specialize in B2B scaleups, particularly those navigating the chaos of product-led growth (PLG), and I advise companies like Toggl, Paddle, and NorthOne. I also work as a portfolio advisor for Notion Capital, focusing on European Series A&#43; SaaS and Cloud startups.</span></p>"
+    },
+    {
+      "id": "n-66",
+      "position": {
+        "x": 1837.1937205890563,
+        "y": 27314.72201392168
+      },
+      "size": {
+        "width": 1220.9582308158863,
+        "height": 414.3897780458035
+      },
+      "style": {
+        "fillColor": "#ff8b37",
+        "borderColor": "#1a1a1a",
+        "textColor": "#1a1a1a",
+        "fontSize": 68,
+        "fontFamily": "noto_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-67",
+      "position": {
+        "x": 1656.0091981040596,
+        "y": 27314.72201392168
+      },
+      "size": {
+        "width": 594.2806674792145
+      },
+      "style": {
+        "fontSize": 108,
+        "textColor": "#ffffff",
+        "fontFamily": "arial",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong style=\"background-color:transparent\">About the Creator</strong></p>"
+    },
+    {
+      "id": "n-68",
+      "position": {
+        "x": 2238.707453789596,
+        "y": 27314.72201392168
+      },
+      "size": {
+        "width": 277.69263999724257,
+        "height": 277.69263999724257
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJiRSdLU%3D/resources/images/3458764517488439906?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-69",
+      "position": {
+        "x": 1537.026984379233,
+        "y": 28420.757031481975
+      },
+      "size": {
+        "width": 356.3162400237272,
+        "height": 86.26135741704798
+      },
+      "style": {
+        "fillColor": "#dedaff",
+        "borderColor": "#958ed5",
+        "textColor": "#1a1a1a",
+        "fontSize": 35,
+        "fontFamily": "noto_sans",
+        "borderWidth": 8,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": "<p><a href=\"https://www.linkedin.com/in/leahtharin/\">Linkedin</a></p>"
+    },
+    {
+      "id": "n-70",
+      "position": {
+        "x": 1956.714255463622,
+        "y": 28420.757031481975
+      },
+      "size": {
+        "width": 356.3162400237272,
+        "height": 86.26135741704798
+      },
+      "style": {
+        "fillColor": "#fff6e7",
+        "borderColor": "#e2d8c8",
+        "textColor": "#1a1a1a",
+        "fontSize": 35,
+        "fontFamily": "noto_sans",
+        "borderWidth": 8,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": "<p><a href=\"https://www.leahtharin.com/\">Website</a></p>"
+    },
+    {
+      "id": "n-71",
+      "position": {
+        "x": 13010.788215152159,
+        "y": 29054.027215616537
+      },
+      "size": {
+        "width": 748.5582681766446,
+        "height": 6425.761664322472
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "<h1>Miro Pricing Page Evaluation</h1><h2>Overview</h2><p>This evaluation analyzes Miro's SaaS pricing page across multiple dimensions including structure, transparency, plan architecture, and conversion optimization. The assessment uses a structured framework to identify strengths and opportunities for improvement.</p><p></p><h2>Page Structure</h2><h3>Pricing in Navigation</h3><p><strong>Present:</strong> True</p><p><strong>Rationale:</strong> The navigation bar clearly displays a \"Pricing\" link at the top of the page, making it easily accessible for visitors to find pricing information.</p><h3>Clean Layout</h3><p><strong>Present:</strong> True</p><p><strong>Rationale:</strong> The page uses a clean white background with consistent spacing between pricing tiers. The four-column layout is organized and uncluttered, with clear visual hierarchy.</p><h3>Above Fold Pricing</h3><p><strong>Present:</strong> True</p><p><strong>Rationale:</strong> All four pricing tiers with their core pricing information ($0, $8/mo, $16/mo, and custom) are visible above the fold, allowing immediate price discovery.</p><h3>No Distracting Elements</h3><p><strong>Present:</strong> True</p><p><strong>Rationale:</strong> The page maintains focus on pricing information without excessive animations or distracting design elements. Navigation is minimal and purposeful.</p><p></p><h2>Transparency</h2><h3>Pricing Visible</h3><p><strong>Present:</strong> True</p><p><strong>Rationale:</strong> Three of four tiers display explicit pricing: Free ($0), Starter ($8/member/month), and Business ($16/member/month). Only Enterprise uses \"Custom price\" which is standard for enterprise SaaS.</p><h3>Enterprise Pricing Range Shown</h3><p><strong>Present:</strong> Partial</p><p><strong>Rationale:</strong> The Enterprise tier shows \"Custom price — from 50 members\" which provides minimum scale context but not an actual price range. A ballpark range (e.g., \"starting from $X\") would improve transparency.</p><h3>Value Metrics Indicated</h3><p><strong>Present:</strong> True</p><p><strong>Rationale:</strong> Each tier clearly states the pricing metric (\"per member\" for paid plans, \"unlimited team members\" for Free), making it easy to calculate costs based on team size.</p><h3>Time to Understand Pricing</h3><p><strong>Seconds:</strong> 15-20</p><p><strong>Rationale:</strong> The tiered structure is immediately scannable. A visitor can identify their appropriate tier within 15-20 seconds by reading plan names, prices, and the top 2-3 features of each tier.</p><p></p><h2>Plan Architecture</h2><h3>Tier Count</h3><p><strong>Number:</strong> 4</p><p><strong>Rationale:</strong> Free, Starter, Business, and Enterprise - a standard and logical progression for B2B SaaS.</p><h3>Logical Tiers</h3><p><strong>Present:</strong> True</p><p><strong>Rationale:</strong> Clear progression from individual/small team (Free) to growing teams (Starter at $8) to established teams (Business at $16) to large organizations (Enterprise). Each tier doubles features and capabilities appropriately.</p><h3>Recommended Plan Clearly Labeled</h3><p><strong>Present:</strong> True</p><p><strong>Rationale:</strong> The Business tier has a purple badge reading \"Best for teams and companies,\" clearly highlighting it as the recommended option for most customers.</p><h3>Standalone Summaries</h3><p><strong>Present:</strong> True</p><p><strong>Rationale:</strong> Each tier includes a concise description below the plan name (e.g., \"Deliver unlimited and private boards with essential features\" for Starter), helping users quickly understand the target audience.</p><h3>Avoids Redundancy</h3><p><strong>Present:</strong> Partial</p><p><strong>Rationale:</strong> While features are organized under tier-specific headings (\"What's included,\" \"All Free features, plus:\"), there's likely some redundancy in listing inherited features. A comparison table would better show incremental value.</p><p></p><h2>Feature Table</h2><h3>Human Readable</h3><p><strong>Present:</strong> True</p><p><strong>Rationale:</strong> Feature descriptions use plain language (e.g., \"Start faster and enhance productivity with 3,000+ AI-powered community-made templates\") rather than technical jargon.</p><h3>Machine Readable</h3><p><strong>Present:</strong> Unknown</p><p><strong>Rationale:</strong> Cannot assess without inspecting HTML structure, but the visual layout suggests features are likely in structured div elements that could be parsed.</p><h3>Consistent Terminology</h3><p><strong>Present:</strong> True</p><p><strong>Rationale:</strong> Terminology appears consistent across tiers (e.g., \"unlimited boards,\" \"Miro AI,\" \"Attention Management\"), making comparison straightforward.</p><h3>Fully Visible Features</h3><p><strong>Present:</strong> Partial</p><p><strong>Rationale:</strong> Key features are visible, but some feature descriptions appear truncated with \"...\" indicators (e.g., \"New\" tags, \"more\" links), requiring clicks to see complete information.</p><h3>Feature Value Visuals</h3><p><strong>Present:</strong> Minimal</p><p><strong>Rationale:</strong> Features use checkmarks and bullet points but lack visual icons, screenshots, or demonstrations that would help users understand feature value more quickly.</p><p></p><h2>Freemium &amp; Trial</h2><h3>Free Plan Present</h3><p><strong>Present:</strong> True</p><p><strong>Rationale:</strong> A comprehensive Free tier is prominently displayed as the first column, offering \"unlimited team members\" with limited boards (3 editable).</p><h3>Core Differentiators in Free</h3><p><strong>Present:</strong> Partial</p><p><strong>Rationale:</strong> The Free plan includes basic collaboration (3 boards, templates) but limits access to Miro's core differentiators like unlimited boards, AI features, and advanced collaboration tools - appropriate for conversion.</p><h3>Integration Testing Possible</h3><p><strong>Present:</strong> Unknown</p><p><strong>Rationale:</strong> Integration capabilities are mentioned in paid tiers (e.g., \"1,500+ integrations\" in Business), but unclear if any integrations are available in Free tier for testing.</p><h3>Usage Limits Visible</h3><p><strong>Present:</strong> True</p><p><strong>Rationale:</strong> Clear limits are stated: \"3 editable boards,\" \"5 Talktrack\" recordings, making it easy for users to understand Free tier constraints.</p><h3>Usage Metering Highlighted</h3><p><strong>Present:</strong> False</p><p><strong>Rationale:</strong> No visible indicators of real-time usage tracking or meters showing \"X of 3 boards used.\" This feature could drive upgrade urgency.</p><p></p><h2>Add-ons &amp; Multi-Product</h2><h3>Addons Section</h3><p><strong>Present:</strong> True</p><p><strong>Rationale:</strong> Four add-on products are clearly displayed at the bottom: Miro Prototypes, Miro Insights, Miro Portfolios, and Enterprise Guard, each with icon and description.</p><h3>Addon Costs Clear</h3><p><strong>Present:</strong> False</p><p><strong>Rationale:</strong> Add-ons are listed with descriptions but no pricing information is visible, requiring additional clicks to understand costs.</p><h3>Distinct Product Pages</h3><p><strong>Present:</strong> Unknown</p><p><strong>Rationale:</strong> Cannot determine from this view whether add-ons link to separate detailed pages, though this would be expected best practice.</p><h3>Cross Navigation Supported</h3><p><strong>Present:</strong> True</p><p><strong>Rationale:</strong> The presence of add-ons on the main pricing page suggests cross-navigation is supported, though specific navigation patterns aren't visible in this view.</p><p></p><h2>Social Proof &amp; Trust</h2><h3>Testimonials Present</h3><p><strong>Present:</strong> False</p><p><strong>Rationale:</strong> No customer testimonials or quotes are visible on this pricing page view.</p><h3>Logos Stage Appropriate</h3><p><strong>Present:</strong> False</p><p><strong>Rationale:</strong> No customer logos are visible in this pricing page section, though they may exist elsewhere on the page below the fold.</p><h3>Reviews Present</h3><p><strong>Present:</strong> False</p><p><strong>Rationale:</strong> No review ratings, G2/Capterra scores, or third-party validation visible on this portion of the pricing page.</p><p></p><h2>Call to Action</h2><h3>CTA Above Fold</h3><p><strong>Present:</strong> True</p><p><strong>Rationale:</strong> Each tier has a prominent CTA button visible above the fold: \"Go to dashboard,\" \"Buy Starter,\" \"Try it free,\" and \"Contact us.\"</p><h3>CTA Clearly Labeled</h3><p><strong>Present:</strong> True</p><p><strong>Rationale:</strong> CTAs use clear, action-oriented language that tells users exactly what will happen when clicked.</p><h3>Action Matched to Plan</h3><p><strong>Present:</strong> True</p><p><strong>Rationale:</strong> CTAs are contextually appropriate for each tier: dashboard access for Free users, direct purchase for Starter, trial for Business (with purchase option), and contact for Enterprise.</p><p></p><h2>Metrics &amp; Tracking</h2><h3>Page Visit Tracking Possible</h3><p><strong>Present:</strong> True (Assumed)</p><p><strong>Rationale:</strong> As a sophisticated SaaS company, Miro likely has standard analytics tracking implemented, though this cannot be confirmed from visual inspection alone.</p><h3>Feature Visibility Upsells</h3><p><strong>Present:</strong> Unknown</p><p><strong>Rationale:</strong> Cannot determine from static view whether hovering over locked features or viewing detailed feature lists triggers upgrade prompts or tooltips.</p><h3>Conversion Flow Traceable</h3><p><strong>Present:</strong> True (Assumed)</p><p><strong>Rationale:</strong> Distinct CTAs for each tier enable tracking conversion paths, though actual implementation cannot be verified visually.</p><p></p><h2>Overall Assessment</h2><h3>Transparency Score: 8/10</h3><p>Strong pricing visibility for three of four tiers. Enterprise pricing range could be more specific.</p><h3>Structure Score: 9/10</h3><p>Excellent clean layout with logical four-tier architecture and clear visual hierarchy. Pricing is immediately accessible.</p><h3>Clarity Score: 7/10</h3><p>Good use of plain language and tier descriptions, but feature lists are lengthy and some details are hidden behind \"more\" links.</p><h3>Differentiator Score: 6/10</h3><p>Features are clearly listed but lack visual reinforcement. Limited social proof on this page section weakens value proposition.</p><h3>Priority Improvements</h3><p><strong>High Priority:</strong></p><ol><li data-list=\"ordered\"><strong>Add social proof above fold</strong> - Include customer logos, testimonials, or review scores near pricing tiers to build trust and validate value</li><li data-list=\"ordered\"><strong>Show add-on pricing</strong> - Display costs for Miro Prototypes, Insights, Portfolios, and Enterprise Guard to enable total cost calculation</li><li data-list=\"ordered\"><strong>Reduce feature list length</strong> - Consolidate or categorize features to prevent overwhelming users; consider an expandable comparison table</li></ol><p><strong>Medium Priority:</strong></p><ol><li data-list=\"ordered\"><strong>Add Enterprise pricing range</strong> - Provide ballpark range (e.g., \"Starting from $1,200/month for 50 members\") to qualify leads better</li><li data-list=\"ordered\"><strong>Implement visual feature demonstrations</strong> - Use icons, screenshots, or short GIFs to illustrate key differentiators like AI features or collaboration tools</li><li data-list=\"ordered\"><strong>Add usage metering to Free tier</strong> - Show \"2 of 3 boards used\" to create upgrade urgency</li></ol><p><strong>Low Priority:</strong></p><ol><li data-list=\"ordered\"><strong>Test alternative CTA language</strong> - Experiment with \"Start Free Trial\" vs \"Try it free\" for Business tier to optimize conversion</li><li data-list=\"ordered\"><strong>Add FAQ section</strong> - Include common questions about billing, cancellation, and feature access below pricing tiers</li></ol><p>The page demonstrates strong fundamentals in structure and transparency but could significantly improve conversion with enhanced social proof, visual feature communication, and more transparent add-on pricing.</p>"
+    },
+    {
+      "id": "n-72",
+      "position": {
+        "x": 14512.016601563391,
+        "y": 29656.85265640506
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[data_table_format]"
+    },
+    {
+      "id": "n-73",
+      "position": {
+        "x": 7459.215512993257,
+        "y": 33085.91670991083
+      },
+      "size": {
+        "width": 672.2915678194298
+      },
+      "style": {
+        "fontSize": 66,
+        "textColor": "#1a1a1a",
+        "fontFamily": "arial",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><span style=\"background-color:transparent\">Click it to </span><strong style=\"background-color:transparent;color:rgb(102,49,215)\">unfold the AI capabilities menu.</strong></p>"
+    },
+    {
+      "id": "n-74",
+      "position": {
+        "x": 8518.465449175896,
+        "y": 32709.32959852554
+      },
+      "size": {
+        "width": 105.12826432689931,
+        "height": 105.12826432689931
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJiRSdLU%3D/resources/images/3458764517488439907?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-75",
+      "position": {
+        "x": 6865.045544304709,
+        "y": 32405.147938099093
+      },
+      "size": {
+        "width": 169.74001683295057,
+        "height": 169.74001683295057
+      },
+      "style": {
+        "fillColor": "#e3e3ff",
+        "borderColor": "#b0b0b0",
+        "textColor": "#1a1a1a",
+        "fontSize": 61,
+        "fontFamily": "georgia",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "circle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": "<p></p>"
+    },
+    {
+      "id": "n-76",
+      "position": {
+        "x": 6865.045544304709,
+        "y": 32399.175067826407
+      },
+      "size": {
+        "width": 169.74001685883277
+      },
+      "style": {
+        "fontSize": 79,
+        "textColor": "#1a1a1a",
+        "fontFamily": "georgia",
+        "align": "center"
+      },
+      "visualKind": "text",
+      "title": "<p><strong>1</strong></p>"
+    },
+    {
+      "id": "n-77",
+      "position": {
+        "x": 6865.045544304709,
+        "y": 33833.38865713205
+      },
+      "size": {
+        "width": 169.74001683295057,
+        "height": 169.74001683295057
+      },
+      "style": {
+        "fillColor": "#e3e3ff",
+        "borderColor": "#b0b0b0",
+        "textColor": "#1a1a1a",
+        "fontSize": 61,
+        "fontFamily": "georgia",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "circle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": "<p></p>"
+    },
+    {
+      "id": "n-78",
+      "position": {
+        "x": 6863.210646042941,
+        "y": 33827.41578685936
+      },
+      "size": {
+        "width": 166.07022029657634
+      },
+      "style": {
+        "fontSize": 79,
+        "textColor": "#1a1a1a",
+        "fontFamily": "georgia",
+        "align": "center"
+      },
+      "visualKind": "text",
+      "title": "<p><strong>2</strong></p>"
+    },
+    {
+      "id": "n-79",
+      "position": {
+        "x": 7685.4190756970775,
+        "y": 30132.702777875616
+      },
+      "size": {
+        "width": 1747.908700811771,
+        "height": 405.52227950059006
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJiRSdLU%3D/resources/images/3458764517488439908?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-80",
+      "position": {
+        "x": 7676.264138610789,
+        "y": 30142.60030010999
+      },
+      "size": {
+        "width": 1766.2185749843484,
+        "height": 425.31732396931693
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#bab9ff",
+        "textColor": "#1a1a1a",
+        "fontSize": 62,
+        "fontFamily": "georgia",
+        "borderWidth": 3,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 0.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-81",
+      "position": {
+        "x": 8560.14652406285,
+        "y": 30072.700458612002
+      },
+      "size": {
+        "width": 139.79968299597462,
+        "height": 139.79968299597462
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJiRSdLU%3D/resources/images/3458764517488439907?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-82",
+      "position": {
+        "x": 4067.9658395248616,
+        "y": 28758.64056769357
+      },
+      "size": {
+        "width": 3270.5402172644885
+      },
+      "style": {
+        "fontSize": 357,
+        "textColor": "#ffffff",
+        "fontFamily": "arial",
+        "align": "center"
+      },
+      "visualKind": "text",
+      "title": "<p><strong style=\"background-color:transparent\">Structure your pricing sheet</strong></p>"
+    },
+    {
+      "id": "n-83",
+      "position": {
+        "x": 4067.965839524858,
+        "y": 30129.01875428202
+      },
+      "size": {
+        "width": 2977.3318946313507,
+        "height": 1498.1305323571098
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJiRSdLU%3D/resources/images/3458764517488439909?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-84",
+      "position": {
+        "x": 1892.0878157123143,
+        "y": 27710.783478174097
+      },
+      "size": {
+        "width": 1066.4379026730319
+      },
+      "style": {
+        "fontSize": 48,
+        "textColor": "#1a1a1a",
+        "fontFamily": "arial",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong style=\"background-color:transparent;color:rgb(26,26,26)\">Hi! </strong><strong style=\"background-color:transparent;color:rgb(255,139,55)\">I’m Leah Tharin</strong><strong style=\"background-color:transparent;color:rgb(26,26,26)\">, and I’ve spent over two decades in tech making all the mistakes so you don’t have to.</strong></p>"
+    },
+    {
+      "id": "n-85",
+      "position": {
+        "x": 18581.24411124465,
+        "y": 29525.134524608162
+      },
+      "size": {
+        "width": 1948.8759906952223,
+        "height": 3385.674871590424
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "<h1>Executive Summary</h1><p>Miro's pricing page demonstrates strong fundamentals with a clean four-tier structure (Free, Starter at $8/member/month, Business at $16/member/month, and Enterprise with custom pricing) that scores 9/10 for structure and 8/10 for transparency. The page excels in immediate price discovery, logical tier progression, and clear value metrics. However, it underperforms in differentiation (6/10) and clarity (7/10) due to the absence of social proof elements, lengthy feature lists that overwhelm users, and lack of transparent pricing for four key add-ons (Miro Prototypes, Miro Insights, Miro Portfolios, and Enterprise Guard). While the Business tier is clearly marked as recommended and CTAs are contextually appropriate, the page misses critical conversion opportunities through missing customer validation, hidden add-on costs that prevent total cost calculation, and feature presentations that require multiple clicks to fully understand.</p><h2>Top 3 Recommendations with Solution Examples</h2><h3>1. Add Social Proof Above the Fold</h3><p><strong>Solution Example:</strong></p><p>Insert a trust banner directly above or below the pricing tier cards featuring:</p><ol><li data-list=\"bullet\">\"Trusted by 60M+ users worldwide\" headline</li><li data-list=\"bullet\">4-5 recognizable customer logos (e.g., Netflix, Cisco, Volvo, Upwork)</li><li data-list=\"bullet\">G2 rating badge showing \"4.8/5 stars from 5,000+ reviews\"</li><li data-list=\"bullet\">Brief rotating testimonial: <em>\"Miro transformed how our distributed team collaborates\" — Sarah Chen, Product Director at Atlassian</em></li></ol><p>Position this module between the tier cards and feature lists to provide social validation at the moment users are comparing options.</p><h3>2. Display Add-On Pricing Transparently</h3><p><strong>Solution Example:</strong></p><p>Revise the add-on section to show pricing alongside descriptions:</p><ol><li data-list=\"bullet\"><strong>Miro Prototypes</strong> — $8/member/month — Build interactive prototypes directly in Miro</li><li data-list=\"bullet\"><strong>Miro Insights</strong> — $12/member/month — Analyze user research and synthesize findings</li><li data-list=\"bullet\"><strong>Miro Portfolios</strong> — $15/member/month — Manage strategic initiatives across teams</li><li data-list=\"bullet\"><strong>Enterprise Guard</strong> — Contact sales — Advanced security and compliance for enterprises</li></ol><p>Add a note: <em>\"All add-ons require a Business or Enterprise plan\"</em> to clarify bundling requirements.</p><h3>3. Implement a Condensed Comparison Table</h3><p><strong>Solution Example:</strong></p><p>Replace lengthy feature bullet lists with an interactive comparison table showing:</p><ol><li data-list=\"bullet\">8-10 key differentiating features in rows (Boards, Miro AI, Templates, Integrations, Admin Controls, Security, Support, Storage)</li><li data-list=\"bullet\">Four tier columns with checkmarks, \"Unlimited,\" or specific limits (\"3 boards,\" \"1,500+ integrations\")</li><li data-list=\"bullet\">\"View all features\" expandable section below for complete details</li><li data-list=\"bullet\">Sticky header that follows scroll to keep tier names and pricing visible</li></ol><p>This allows users to scan critical differences in 10 seconds rather than scrolling through 20+ features per tier.</p>"
+    },
+    {
+      "id": "n-86",
+      "position": {
+        "x": 16327.07391452163,
+        "y": 29793.743231277258
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[data_table_format]"
+    },
+    {
+      "id": "n-87",
+      "position": {
+        "x": 13413.392455200781,
+        "y": 28340.870716250138
+      },
+      "size": {
+        "width": 1173.8560509773426,
+        "height": 420.76537217560895
+      },
+      "style": {
+        "fillColor": "#ff8b37",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 47,
+        "fontFamily": "noto_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-88",
+      "position": {
+        "x": 13413.392455200781,
+        "y": 28295.156430535862
+      },
+      "size": {
+        "width": 1173.8560510285715
+      },
+      "style": {
+        "fontSize": 180,
+        "textColor": "#ffffff",
+        "fontFamily": "arial",
+        "align": "center"
+      },
+      "visualKind": "text",
+      "title": "<p><strong style=\"background-color:transparent\">Step 2</strong></p>"
+    },
+    {
+      "id": "n-89",
+      "position": {
+        "x": 13413.392455200788,
+        "y": 28443.727859107283
+      },
+      "size": {
+        "width": 1173.8560509714287
+      },
+      "style": {
+        "fontSize": 80,
+        "textColor": "#ffffff",
+        "fontFamily": "arial",
+        "align": "center"
+      },
+      "visualKind": "text",
+      "title": "<p><strong style=\"background-color:transparent\">Click &#34;Run&#34;</strong></p>"
+    },
+    {
+      "id": "n-90",
+      "position": {
+        "x": 15099.874878564478,
+        "y": 29245.775782118697
+      },
+      "size": {
+        "width": 1278.3484683365639
+      },
+      "style": {
+        "fontSize": 187,
+        "textColor": "#ff8b37",
+        "fontFamily": "arial",
+        "align": "center"
+      },
+      "visualKind": "text",
+      "title": "<p><strong style=\"background-color:transparent\">What works</strong></p>"
+    },
+    {
+      "id": "n-91",
+      "position": {
+        "x": 17260.631205921738,
+        "y": 29259.936781308075
+      },
+      "size": {
+        "width": 1278.3484683365639
+      },
+      "style": {
+        "fontSize": 187,
+        "textColor": "#ff8b37",
+        "fontFamily": "arial",
+        "align": "center"
+      },
+      "visualKind": "text",
+      "title": "<p><strong style=\"background-color:transparent\">Optimizations</strong></p>"
+    },
+    {
+      "id": "n-92",
+      "position": {
+        "x": 19531.241239533418,
+        "y": 29145.75258395837
+      },
+      "size": {
+        "width": 1815.8018145007234
+      },
+      "style": {
+        "fontSize": 187,
+        "textColor": "#ff8b37",
+        "fontFamily": "arial",
+        "align": "center"
+      },
+      "visualKind": "text",
+      "title": "<p><strong style=\"background-color:transparent\">Exec Summary</strong></p>"
+    },
+    {
+      "id": "n-93",
+      "position": {
+        "x": 1485.0284723551017,
+        "y": 1082.1863642162377
+      },
+      "size": {
+        "width": 2703.0,
+        "height": 1926.0
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJiRSdLU%3D/resources/images/3458764517488439910?format=preview&redirect=false"
+        }
+      },
+      "frameId": "f-0",
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-94",
+      "position": {
+        "x": 17075.21998486529,
+        "y": 27953.710203339273
+      },
+      "size": {
+        "width": 1778.0582621087967,
+        "height": 420.76537217560895
+      },
+      "style": {
+        "fillColor": "#ff8b37",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 47,
+        "fontFamily": "noto_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-95",
+      "position": {
+        "x": 17075.21998486529,
+        "y": 27907.995917624983
+      },
+      "size": {
+        "width": 1778.058262157143
+      },
+      "style": {
+        "fontSize": 180,
+        "textColor": "#ffffff",
+        "fontFamily": "arial",
+        "align": "center"
+      },
+      "visualKind": "text",
+      "title": "<p><strong style=\"background-color:transparent\">Step 3</strong></p>"
+    },
+    {
+      "id": "n-96",
+      "position": {
+        "x": 17075.21998486529,
+        "y": 28056.567346196418
+      },
+      "size": {
+        "width": 1778.0582621142858
+      },
+      "style": {
+        "fontSize": 80,
+        "textColor": "#ffffff",
+        "fontFamily": "arial",
+        "align": "center"
+      },
+      "visualKind": "text",
+      "title": "<p><strong style=\"background-color:transparent\">Analyze the Results / change the prompts</strong></p>"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e-0",
+      "sourceNodeId": "n-4",
+      "targetNodeId": "n-62",
+      "style": {
+        "lineStyle": "dashed",
+        "arrowHead": "end",
+        "borderColor": "#595959",
+        "strokeWidth": "5.0",
+        "extra": {
+          "connectorShape": "curved",
+          "sourcePosition": "auto",
+          "targetPosition": "auto"
+        }
+      }
+    },
+    {
+      "id": "e-1",
+      "sourceNodeId": "n-94",
+      "targetNodeId": "n-2",
+      "style": {
+        "lineStyle": "solid",
+        "arrowHead": "none",
+        "borderColor": "#ff8a00",
+        "strokeWidth": "2.0",
+        "extra": {
+          "connectorShape": "unknown",
+          "sourcePosition": "auto",
+          "targetPosition": "auto"
+        }
+      }
+    },
+    {
+      "id": "e-2",
+      "sourceNodeId": "n-94",
+      "targetNodeId": "n-1",
+      "style": {
+        "lineStyle": "solid",
+        "arrowHead": "none",
+        "borderColor": "#ff8a00",
+        "strokeWidth": "2.0",
+        "extra": {
+          "connectorShape": "unknown",
+          "sourcePosition": "auto",
+          "targetPosition": "auto"
+        }
+      }
+    },
+    {
+      "id": "e-3",
+      "sourceNodeId": "n-94",
+      "targetNodeId": "n-0",
+      "style": {
+        "lineStyle": "solid",
+        "arrowHead": "none",
+        "borderColor": "#ff8a00",
+        "strokeWidth": "2.0",
+        "extra": {
+          "connectorShape": "unknown",
+          "sourcePosition": "auto",
+          "targetPosition": "auto"
+        }
+      }
+    }
+  ],
+  "annotations": [],
+  "_metadata": {
+    "extracted_at": "2026-02-23T12:56:08.075334",
+    "total_items": 98,
+    "total_connectors": 7,
+    "frames": 1,
+    "nodes": 97,
+    "edges": 4
+  },
+  "_template": {
+    "name": "pricing-page-analysis",
+    "category": "miroverse",
+    "source": "miroverse",
+    "source_slug": "pricing-page-analysis",
+    "source_board_id": "uXjVJiRSdLU=",
+    "tags": [
+      "product management",
+      "ideation & brainstorming",
+      "research & design",
+      "ai accelerated"
+    ],
+    "extracted_at": "2026-02-23T12:56:08.075375"
+  }
+}

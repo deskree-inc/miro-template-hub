@@ -1,0 +1,6725 @@
+{
+  "frames": [
+    {
+      "id": "f-0",
+      "title": "",
+      "position": {
+        "x": 23175.953048755568,
+        "y": 7129.334653378872
+      },
+      "size": {
+        "width": 1977.5745098392565,
+        "height": 1295.3487659830914
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-1",
+      "title": "",
+      "position": {
+        "x": 19395.303986090996,
+        "y": 7129.334653378872
+      },
+      "size": {
+        "width": 1977.5745098392565,
+        "height": 1295.3487659830914
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-2",
+      "title": "",
+      "position": {
+        "x": 15337.779845277233,
+        "y": 7169.785903035357
+      },
+      "size": {
+        "width": 1977.5745098392565,
+        "height": 1295.3487659830914
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-3",
+      "title": "",
+      "position": {
+        "x": 11557.130782612661,
+        "y": 7169.785903035357
+      },
+      "size": {
+        "width": 1977.5745098392565,
+        "height": 1295.3487659830914
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-4",
+      "title": "",
+      "position": {
+        "x": 9726.240060017275,
+        "y": 7361.690304448072
+      },
+      "size": {
+        "width": 1292.856078607344,
+        "height": 911.5399631576608
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    }
+  ],
+  "nodes": [
+    {
+      "id": "n-0",
+      "position": {
+        "x": 1083.3264025236813,
+        "y": 1085.228464596783
+      },
+      "size": {
+        "width": 786.2698246919393,
+        "height": 283.8106181089493
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#268f88",
+        "textColor": "#1a1a1a",
+        "fontSize": 26,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-0",
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-1",
+      "position": {
+        "x": 401.65932080858613,
+        "y": 163.00961870235176
+      },
+      "size": {
+        "width": 588.9722031877264
+      },
+      "style": {
+        "fontSize": 63,
+        "textColor": "#268f88",
+        "fontFamily": "spoof",
+        "align": "left"
+      },
+      "frameId": "f-0",
+      "visualKind": "text",
+      "title": "<p><strong>Team Agreement </strong></p><p><strong>Rituals</strong></p>"
+    },
+    {
+      "id": "n-2",
+      "position": {
+        "x": 326.2885094322256,
+        "y": 416.22702524620934
+      },
+      "size": {
+        "width": 414.10270778954265,
+        "height": 186.17073307170403
+      },
+      "style": {
+        "fillColor": "#268f88",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 26,
+        "fontFamily": "open_sans",
+        "borderWidth": 5,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-0",
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-3",
+      "position": {
+        "x": 314.22457309830054,
+        "y": 403.30313242757154
+      },
+      "size": {
+        "width": 414.10270778954265,
+        "height": 186.17073307170403
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#268f88",
+        "textColor": "#1a1a1a",
+        "fontSize": 26,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-0",
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-4",
+      "position": {
+        "x": 232.84200904913007,
+        "y": 347.70180590081407
+      },
+      "size": {
+        "width": 201.42429014132094
+      },
+      "style": {
+        "fontSize": 15,
+        "textColor": "#1a1a1a",
+        "fontFamily": "spoof",
+        "align": "left"
+      },
+      "frameId": "f-0",
+      "visualKind": "text",
+      "title": "<p><strong>Team agreement Rituals</strong></p>"
+    },
+    {
+      "id": "n-5",
+      "position": {
+        "x": 291.1660343496761,
+        "y": 417.63011341939807
+      },
+      "size": {
+        "width": 318.0723407392681
+      },
+      "style": {
+        "fontSize": 10,
+        "textColor": "#1a1a1a",
+        "fontFamily": "spoof",
+        "align": "left"
+      },
+      "frameId": "f-0",
+      "visualKind": "text",
+      "title": "<p>A team agreement only works if it’s alive in our daily habits. Writing rules is not enough — what truly brings them to life are <strong>rituals</strong> (regular practices), <strong>techniques</strong> (ways of working), and <strong>ideas</strong> (small experiments).</p><p><br /></p><p>In this section we are brainstorming with the help of Psychological Safety Coach on possible ideas how to live this agreement day to day.</p>"
+    },
+    {
+      "id": "n-6",
+      "position": {
+        "x": 326.2885094322256,
+        "y": 662.1305543429852
+      },
+      "size": {
+        "width": 414.10270778954265,
+        "height": 184.2997717918704
+      },
+      "style": {
+        "fillColor": "#268f88",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 26,
+        "fontFamily": "open_sans",
+        "borderWidth": 5,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-0",
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-7",
+      "position": {
+        "x": 314.22457309830054,
+        "y": 649.3365428577298
+      },
+      "size": {
+        "width": 414.10270778954265,
+        "height": 184.2997717918704
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#268f88",
+        "textColor": "#1a1a1a",
+        "fontSize": 26,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-0",
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-8",
+      "position": {
+        "x": 291.55687701382624,
+        "y": 413.65414894797493
+      },
+      "size": {
+        "width": 414.10270778954265,
+        "height": 173.78292303530574
+      },
+      "style": {
+        "fillColor": "#268f88",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 26,
+        "fontFamily": "open_sans",
+        "borderWidth": 5,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-1",
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-9",
+      "position": {
+        "x": 279.4929406798975,
+        "y": 401.5902126140462
+      },
+      "size": {
+        "width": 414.10270778954265,
+        "height": 173.78292303530574
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#268f88",
+        "textColor": "#1a1a1a",
+        "fontSize": 26,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-1",
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-10",
+      "position": {
+        "x": 1248.30085265035,
+        "y": 737.0013934458792
+      },
+      "size": {
+        "width": 956.6762510286754,
+        "height": 956.6762510286754
+      },
+      "style": {
+        "fillColor": "#268f88",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 29,
+        "fontFamily": "open_sans",
+        "borderWidth": 8,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "circle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-1",
+      "visualKind": "shape",
+      "title": "<p></p>"
+    },
+    {
+      "id": "n-11",
+      "position": {
+        "x": 1228.7892191965793,
+        "y": 717.4897599921104
+      },
+      "size": {
+        "width": 956.6762510286754,
+        "height": 956.6762510286754
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#268f88",
+        "textColor": "#1a1a1a",
+        "fontSize": 29,
+        "fontFamily": "open_sans",
+        "borderWidth": 8,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "circle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-1",
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-12",
+      "position": {
+        "x": 1233.8321534689812,
+        "y": 712.9238915025943
+      },
+      "size": {
+        "width": 283.4088181403539,
+        "height": 283.4088181403539
+      },
+      "style": {
+        "fillColor": "#b0b0b0",
+        "borderColor": "#b0b0b0",
+        "textColor": "#1a1a1a",
+        "fontSize": 29,
+        "fontFamily": "open_sans",
+        "borderWidth": 8,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "circle"
+        },
+        "fillOpacity": 0.8
+      },
+      "frameId": "f-1",
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-13",
+      "position": {
+        "x": 1054.5941652226093,
+        "y": 464.62478103697583
+      },
+      "size": {
+        "width": 179.0438134589523
+      },
+      "style": {
+        "fontSize": 14,
+        "textColor": "#b0b0b0",
+        "fontFamily": "spoof",
+        "align": "left"
+      },
+      "frameId": "f-1",
+      "visualKind": "text",
+      "title": "<p><strong>Communication</strong></p>"
+    },
+    {
+      "id": "n-14",
+      "position": {
+        "x": 945.3274997407599,
+        "y": 762.3631342285888
+      },
+      "size": {
+        "width": 179.0438134589523
+      },
+      "style": {
+        "fontSize": 14,
+        "textColor": "#b0b0b0",
+        "fontFamily": "spoof",
+        "align": "left"
+      },
+      "frameId": "f-1",
+      "visualKind": "text",
+      "title": "<p><strong>Learning &amp; feedback</strong></p>"
+    },
+    {
+      "id": "n-15",
+      "position": {
+        "x": 1465.0584692679213,
+        "y": 457.73696002504664
+      },
+      "size": {
+        "width": 179.0438134589523
+      },
+      "style": {
+        "fontSize": 14,
+        "textColor": "#b0b0b0",
+        "fontFamily": "spoof",
+        "align": "left"
+      },
+      "frameId": "f-1",
+      "visualKind": "text",
+      "title": "<p><strong>Meetings</strong></p>"
+    },
+    {
+      "id": "n-16",
+      "position": {
+        "x": 1524.6105964226253,
+        "y": 779.4810811906835
+      },
+      "size": {
+        "width": 179.0438134589523
+      },
+      "style": {
+        "fontSize": 14,
+        "textColor": "#b0b0b0",
+        "fontFamily": "spoof",
+        "align": "left"
+      },
+      "frameId": "f-1",
+      "visualKind": "text",
+      "title": "<p><strong>Support &amp; collaboration</strong></p>"
+    },
+    {
+      "id": "n-17",
+      "position": {
+        "x": 1256.9984980255094,
+        "y": 1003.6526290601477
+      },
+      "size": {
+        "width": 179.0438134589523
+      },
+      "style": {
+        "fontSize": 14,
+        "textColor": "#b0b0b0",
+        "fontFamily": "spoof",
+        "align": "left"
+      },
+      "frameId": "f-1",
+      "visualKind": "text",
+      "title": "<p><strong>Conflict resolution</strong></p>"
+    },
+    {
+      "id": "n-18",
+      "position": {
+        "x": 1838.147418486281,
+        "y": 77.10248234484686
+      },
+      "size": {
+        "width": 106.93420410067995,
+        "height": 28.394478528902297
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ_mR20Y%3D/resources/images/3458764517237043755?format=preview&redirect=false"
+        }
+      },
+      "frameId": "f-1",
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-19",
+      "position": {
+        "x": 198.11037663072705,
+        "y": 354.8260035040465
+      },
+      "size": {
+        "width": 201.42429014132094
+      },
+      "style": {
+        "fontSize": 15,
+        "textColor": "#1a1a1a",
+        "fontFamily": "spoof",
+        "align": "left"
+      },
+      "frameId": "f-1",
+      "visualKind": "text",
+      "title": "<p><strong>Team agreement</strong></p>"
+    },
+    {
+      "id": "n-20",
+      "position": {
+        "x": 279.4929406798866,
+        "y": 418.33508091184547
+      },
+      "size": {
+        "width": 364.18941823552456
+      },
+      "style": {
+        "fontSize": 10,
+        "textColor": "#1a1a1a",
+        "fontFamily": "spoof",
+        "align": "left"
+      },
+      "frameId": "f-1",
+      "visualKind": "text",
+      "title": "<p>A team agreement is a set of shared commitments that help us define how we want to work together. It clarifies expectations, reduces misunderstandings, and builds trust.</p><p><br /></p><p>When we co-create our agreements, everyone has a voice in shaping the way we collaborate. The agreement is not static, we can review and update it as our team evolves.</p>"
+    },
+    {
+      "id": "n-21",
+      "position": {
+        "x": 291.55687701382624,
+        "y": 639.04975873704
+      },
+      "size": {
+        "width": 414.10270778954265,
+        "height": 173.78292303530574
+      },
+      "style": {
+        "fillColor": "#268f88",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 26,
+        "fontFamily": "open_sans",
+        "borderWidth": 5,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-1",
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-22",
+      "position": {
+        "x": 279.4929406798975,
+        "y": 626.9858224031103
+      },
+      "size": {
+        "width": 414.10270778954265,
+        "height": 173.78292303530574
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#268f88",
+        "textColor": "#1a1a1a",
+        "fontSize": 26,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-1",
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-23",
+      "position": {
+        "x": 229.93645326002218,
+        "y": 579.5922770077412
+      },
+      "size": {
+        "width": 265.07644339830955
+      },
+      "style": {
+        "fontSize": 15,
+        "textColor": "#1a1a1a",
+        "fontFamily": "spoof",
+        "align": "left"
+      },
+      "frameId": "f-1",
+      "visualKind": "text",
+      "title": "<p><strong>Purpose of the Team Agreement</strong></p>"
+    },
+    {
+      "id": "n-24",
+      "position": {
+        "x": 261.4548219780073,
+        "y": 636.6821243047515
+      },
+      "size": {
+        "width": 328.1131808316612
+      },
+      "style": {
+        "fontSize": 10,
+        "textColor": "#1a1a1a",
+        "fontFamily": "spoof",
+        "align": "left"
+      },
+      "frameId": "f-1",
+      "visualKind": "text",
+      "title": "<ol><li data-list=\"bullet\"><span class=\"ql-ui\"></span>Create shared and clear expectations.</li><li data-list=\"bullet\"><span class=\"ql-ui\"></span>Strengthen trust, collaboration, and psychological safety.</li><li data-list=\"bullet\"><span class=\"ql-ui\"></span>Give every team member the opportunity to shape how we work.</li><li data-list=\"bullet\"><span class=\"ql-ui\"></span>End with a document that everyone signs as a symbol of commitment.</li></ol><p><br /></p>"
+    },
+    {
+      "id": "n-25",
+      "position": {
+        "x": 291.55687701382624,
+        "y": 864.375323544239
+      },
+      "size": {
+        "width": 414.10270778954265,
+        "height": 173.78292303530574
+      },
+      "style": {
+        "fillColor": "#268f88",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 26,
+        "fontFamily": "open_sans",
+        "borderWidth": 5,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-1",
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-26",
+      "position": {
+        "x": 279.4929406798975,
+        "y": 852.3113872103103
+      },
+      "size": {
+        "width": 414.10270778954265,
+        "height": 173.78292303530574
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#268f88",
+        "textColor": "#1a1a1a",
+        "fontSize": 26,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-1",
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-27",
+      "position": {
+        "x": 366.9276883901831,
+        "y": 154.52425000011124
+      },
+      "size": {
+        "width": 588.9722031877264
+      },
+      "style": {
+        "fontSize": 63,
+        "textColor": "#268f88",
+        "fontFamily": "spoof",
+        "align": "left"
+      },
+      "frameId": "f-1",
+      "visualKind": "text",
+      "title": "<p><strong>Team Agreement </strong></p><p><strong>Workshop</strong></p>"
+    },
+    {
+      "id": "n-28",
+      "position": {
+        "x": 279.0841789365069,
+        "y": 868.9540458095352
+      },
+      "size": {
+        "width": 363.3718947530101
+      },
+      "style": {
+        "fontSize": 10,
+        "textColor": "#1a1a1a",
+        "fontFamily": "spoof",
+        "align": "left"
+      },
+      "frameId": "f-1",
+      "visualKind": "text",
+      "title": "<p>When writing our rules, keep in mind:</p><ol><li data-list=\"bullet\"><span class=\"ql-ui\"></span><strong>Use “we” statements</strong> (e.g., <em>We agree to…</em>).</li><li data-list=\"bullet\"><span class=\"ql-ui\"></span><strong>Be concrete</strong> (e.g., <em>We reply to messages within 24h</em> instead of <em>We communicate regularly</em>).</li><li data-list=\"bullet\"><span class=\"ql-ui\"></span><strong>Positive framing</strong> (e.g., <em>We respect each other’s opinions</em> instead of <em>We don’t interrupt</em>).</li><li data-list=\"bullet\"><span class=\"ql-ui\"></span><strong>Keep it short and clear</strong> – simpler is better.</li><li data-list=\"bullet\"><span class=\"ql-ui\"></span><strong>Think about our values </strong></li></ol>"
+    },
+    {
+      "id": "n-29",
+      "position": {
+        "x": 243.53011702404103,
+        "y": 802.7544408861748
+      },
+      "size": {
+        "width": 292.2637709263413
+      },
+      "style": {
+        "fontSize": 15,
+        "textColor": "#1a1a1a",
+        "fontFamily": "spoof",
+        "align": "left"
+      },
+      "frameId": "f-1",
+      "visualKind": "text",
+      "title": "<p><strong>Guideliness for Writing Agreements</strong></p>"
+    },
+    {
+      "id": "n-30",
+      "position": {
+        "x": 291.55687701382624,
+        "y": 1099.5114971016146
+      },
+      "size": {
+        "width": 414.10270778954265,
+        "height": 198.00040722310442
+      },
+      "style": {
+        "fillColor": "#268f88",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 26,
+        "fontFamily": "open_sans",
+        "borderWidth": 5,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-1",
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-31",
+      "position": {
+        "x": 279.4929406798975,
+        "y": 1087.4475607676868
+      },
+      "size": {
+        "width": 414.10270778954265,
+        "height": 198.0004072231044
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#268f88",
+        "textColor": "#1a1a1a",
+        "fontSize": 26,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-1",
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-32",
+      "position": {
+        "x": 283.7571249583335,
+        "y": 1103.8966964779102
+      },
+      "size": {
+        "width": 372.7177867959673
+      },
+      "style": {
+        "fontSize": 10,
+        "textColor": "#1a1a1a",
+        "fontFamily": "spoof",
+        "align": "left"
+      },
+      "frameId": "f-1",
+      "visualKind": "text",
+      "title": "<p>For each area, we will brainstorm potential rules, then vote to select the most important ones. Example areas:</p><ol><li data-list=\"ordered\"><span class=\"ql-ui\"></span><strong>Communication</strong> (response time, transparency).</li><li data-list=\"ordered\"><span class=\"ql-ui\"></span><strong>Meetings</strong> (how we prepare, how we ensure efficiency).</li><li data-list=\"ordered\"><span class=\"ql-ui\"></span><strong>Conflict resolution</strong> (how we handle disagreements).</li><li data-list=\"ordered\"><span class=\"ql-ui\"></span><strong>Support &amp; collaboration</strong> (how we help each other, how we celebrate wins).</li><li data-list=\"ordered\"><span class=\"ql-ui\"></span><strong>Learning &amp; feedback</strong> (how we give feedback, how we learn together).</li></ol>"
+    },
+    {
+      "id": "n-33",
+      "position": {
+        "x": 240.24007709223872,
+        "y": 1028.2476783407483
+      },
+      "size": {
+        "width": 285.6836910665595
+      },
+      "style": {
+        "fontSize": 15,
+        "textColor": "#1a1a1a",
+        "fontFamily": "spoof",
+        "align": "left"
+      },
+      "frameId": "f-1",
+      "visualKind": "text",
+      "title": "<p><strong>Areas We Will Cover</strong></p>"
+    },
+    {
+      "id": "n-34",
+      "position": {
+        "x": 1233.8321534689812,
+        "y": 714.6633889114463
+      },
+      "size": {
+        "width": 268.5657201884279
+      },
+      "style": {
+        "fontSize": 21,
+        "textColor": "#ffffff",
+        "fontFamily": "spoof",
+        "align": "center"
+      },
+      "frameId": "f-1",
+      "visualKind": "text",
+      "title": "<p><strong>Company </strong></p><p><strong>values</strong></p>"
+    },
+    {
+      "id": "n-35",
+      "position": {
+        "x": 1720.7797533730763,
+        "y": 233.74408901177037
+      },
+      "size": {
+        "width": 384.3700532613205,
+        "height": 120.08665863212498
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "frameId": "f-1",
+      "visualKind": "shape",
+      "title": "[table]"
+    },
+    {
+      "id": "n-36",
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "size": {
+        "width": 154.02419259337768,
+        "height": 21.537281167718067
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[table_text]"
+    },
+    {
+      "id": "n-37",
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "size": {
+        "width": 229.73099912232604,
+        "height": 21.537281167718067
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[table_text]"
+    },
+    {
+      "id": "n-38",
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "size": {
+        "width": 154.02419259337768,
+        "height": 21.537281167718067
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[table_text]"
+    },
+    {
+      "id": "n-39",
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "size": {
+        "width": 229.73099912232604,
+        "height": 21.537281167718067
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[table_text]"
+    },
+    {
+      "id": "n-40",
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "size": {
+        "width": 154.02419259337768,
+        "height": 21.537281167718067
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[table_text]"
+    },
+    {
+      "id": "n-41",
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "size": {
+        "width": 229.73099912232604,
+        "height": 32.63224419351222
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[table_text]"
+    },
+    {
+      "id": "n-42",
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "size": {
+        "width": 154.02419259337768,
+        "height": 32.63224419351222
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[table_text]"
+    },
+    {
+      "id": "n-43",
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "size": {
+        "width": 229.73099912232604,
+        "height": 32.63224419351222
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[table_text]"
+    },
+    {
+      "id": "n-44",
+      "position": {
+        "x": 988.7872549196283,
+        "y": 1283.5642765123293
+      },
+      "size": {
+        "width": 1977.574509839256,
+        "height": 23.568978941521937
+      },
+      "style": {
+        "fillColor": "#268f88",
+        "borderColor": "#ffffff",
+        "textColor": "#ffffff",
+        "fontSize": 18,
+        "fontFamily": "roboto",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-1",
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-45",
+      "position": {
+        "x": 1686.2834093481715,
+        "y": 339.3661762898763
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "frameId": "f-1",
+      "visualKind": "shape",
+      "title": "[dot_voting]"
+    },
+    {
+      "id": "n-46",
+      "position": {
+        "x": 20966.331276049154,
+        "y": 6825.49057539447
+      },
+      "size": {
+        "width": 807.6177891522345,
+        "height": 1409.2106320921644
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "<h1>Team Agreement</h1><h2>Introduction</h2><p>This Team Agreement represents our collective commitment to how we want to work together. It clarifies our shared expectations, establishes clear communication channels, and creates a foundation of trust and mutual respect. By co-creating these guidelines, we ensure that everyone has a voice in shaping our collaborative environment. This agreement is a living document that we can revisit and refine as our team evolves and grows together.</p><h2>Our Commitments</h2><ol><li data-list=\"ordered\"><strong>We communicate transparently and proactively</strong>, keeping everyone informed of updates, sharing useful resources openly with the team, and telling teammates when we are offline or unavailable.</li><li data-list=\"ordered\"><strong>We respect each other's time</strong> by starting and ending meetings on time, keeping meetings under 60 minutes, and sharing meeting agendas at least 24 hours in advance.</li><li data-list=\"ordered\"><strong>We address issues directly and constructively</strong> by speaking with the person involved first, raising conflicts within 48 hours rather than letting them fester, and using \"I\" statements instead of blame.</li><li data-list=\"ordered\"><strong>We support each other's growth</strong> by treating mistakes as learning opportunities, sharing mistakes openly in retrospectives, and using retrospectives to suggest improvements.</li><li data-list=\"ordered\"><strong>We ensure inclusive participation</strong> by giving everyone equal time to speak, listening fully before responding, and checking understanding by paraphrasing before moving on.</li><li data-list=\"ordered\"><strong>We maintain clear and accessible communication</strong> by using Slack for quick updates, email for formal information, and using clear, simple language without jargon.</li><li data-list=\"ordered\"><strong>We respect work-life boundaries</strong> by not sending work messages after 6pm and respecting \"no meeting\" focus hours.</li><li data-list=\"ordered\"><strong>We collaborate effectively</strong> by seeking win-win solutions rather than just compromises, pairing up for complex tasks, and flagging blockers as soon as they appear.</li><li data-list=\"ordered\"><strong>We offer mutual support</strong> by checking in on each other's workload, offering help when someone is overloaded, and covering for teammates when they're absent.</li><li data-list=\"ordered\"><strong>We provide constructive feedback</strong> by keeping it specific and actionable, giving feedback immediately and one-to-one, and asking for feedback after completing tasks.</li></ol><h2>Commitment Statement</h2><p>With my signature, I fully agree to commit to this agreement, recognizing that it represents our shared understanding of how we want to work together as a team. I acknowledge that these commitments are designed to foster trust, enhance collaboration, and create a positive and productive work environment. I will strive to uphold these principles in my daily interactions with my teammates, and I understand that we may revisit and refine this agreement as our team evolves. By signing below, I demonstrate my personal commitment to contributing to our team's success through these collaborative practices.</p><p></p><p>Signature</p><p></p><p>Name (Printed)</p><p></p><p>Date</p>"
+    },
+    {
+      "id": "n-47",
+      "position": {
+        "x": 314.2245730982896,
+        "y": 661.8343482099052
+      },
+      "size": {
+        "width": 364.18941823552456
+      },
+      "style": {
+        "fontSize": 10,
+        "textColor": "#1a1a1a",
+        "fontFamily": "spoof",
+        "align": "left"
+      },
+      "frameId": "f-0",
+      "visualKind": "text",
+      "title": "<p><br /></p><p>They:</p><ol><li data-list=\"bullet\"><span class=\"ql-ui\"></span>Make our agreements <strong>visible in action</strong>, not just on paper.</li><li data-list=\"bullet\"><span class=\"ql-ui\"></span>Help us <strong>practice consistency</strong> — agreements turn into habits.</li><li data-list=\"bullet\"><span class=\"ql-ui\"></span>Create <strong>shared reminders</strong> of what we value as a team.</li><li data-list=\"bullet\"><span class=\"ql-ui\"></span>Show <strong>how we are already living</strong> some commitments today.</li><li data-list=\"bullet\"><span class=\"ql-ui\"></span>Give us space to <strong>experiment with new practices</strong> that strengthen our culture.</li></ol>"
+    },
+    {
+      "id": "n-48",
+      "position": {
+        "x": 301.34774325558385,
+        "y": 601.2118284375337
+      },
+      "size": {
+        "width": 338.43575855472557
+      },
+      "style": {
+        "fontSize": 15,
+        "textColor": "#1a1a1a",
+        "fontFamily": "spoof",
+        "align": "left"
+      },
+      "frameId": "f-0",
+      "visualKind": "text",
+      "title": "<p><strong>Purpose of the Team Agreement Rituals</strong></p>"
+    },
+    {
+      "id": "n-49",
+      "position": {
+        "x": 326.2885094322256,
+        "y": 914.8337997789394
+      },
+      "size": {
+        "width": 414.10270778954265,
+        "height": 202.9253375014639
+      },
+      "style": {
+        "fillColor": "#268f88",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 26,
+        "fontFamily": "open_sans",
+        "borderWidth": 5,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-0",
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-50",
+      "position": {
+        "x": 314.22457309830054,
+        "y": 900.74680947287
+      },
+      "size": {
+        "width": 414.10270778954265,
+        "height": 202.9253375014639
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#268f88",
+        "textColor": "#1a1a1a",
+        "fontSize": 26,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-0",
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-51",
+      "position": {
+        "x": 314.2245730982896,
+        "y": 915.2939927603765
+      },
+      "size": {
+        "width": 364.18941823552456
+      },
+      "style": {
+        "fontSize": 10,
+        "textColor": "#1a1a1a",
+        "fontFamily": "spoof",
+        "align": "left"
+      },
+      "frameId": "f-0",
+      "visualKind": "text",
+      "title": "<p>Let&#39;s take a look at our agreement &amp; write on stickies what we should :</p><ol><li data-list=\"bullet\"><span class=\"ql-ui\"></span>Continue doing: What are we already doing that shows we are living our agreement? Which practices, habits, or behaviors are worth continuing?</li><li data-list=\"bullet\"><span class=\"ql-ui\"></span>Add: What rituals, ideas, or techniques could we add to make our agreement stronger? These don’t need to be big changes — small, regular practices can make the biggest difference.</li><li data-list=\"bullet\"><span class=\"ql-ui\"></span>Remove: Which habits, routines, or behaviors do we need to stop because they go against our agreement or weaken it?</li></ol>"
+    },
+    {
+      "id": "n-52",
+      "position": {
+        "x": 301.34774325558385,
+        "y": 835.28243358517
+      },
+      "size": {
+        "width": 338.43575855472557
+      },
+      "style": {
+        "fontSize": 15,
+        "textColor": "#1a1a1a",
+        "fontFamily": "spoof",
+        "align": "left"
+      },
+      "frameId": "f-0",
+      "visualKind": "text",
+      "title": "<p><strong>How this works?</strong></p>"
+    },
+    {
+      "id": "n-53",
+      "position": {
+        "x": 877.7293164282775,
+        "y": 611.812001367325
+      },
+      "size": {
+        "width": 388.1434877515412,
+        "height": 603.1884709512107
+      },
+      "style": {
+        "fillColor": "#e7e7e7",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 26,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 0.7
+      },
+      "frameId": "f-0",
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-54",
+      "position": {
+        "x": 1282.3895709938797,
+        "y": 611.812001367325
+      },
+      "size": {
+        "width": 388.1434877515412,
+        "height": 603.1884709512107
+      },
+      "style": {
+        "fillColor": "#e7e7e7",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 26,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 0.7
+      },
+      "frameId": "f-0",
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-55",
+      "position": {
+        "x": 1687.049825559482,
+        "y": 611.812001367325
+      },
+      "size": {
+        "width": 388.1434877515412,
+        "height": 603.1884709512107
+      },
+      "style": {
+        "fillColor": "#e7e7e7",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 26,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 0.7
+      },
+      "frameId": "f-0",
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-56",
+      "position": {
+        "x": 877.7293164282775,
+        "y": 343.93821282030956
+      },
+      "size": {
+        "width": 388.1434877421786
+      },
+      "style": {
+        "fontSize": 28,
+        "textColor": "#268f88",
+        "fontFamily": "spoof",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "text",
+      "title": "<p><strong>Continue</strong></p>"
+    },
+    {
+      "id": "n-57",
+      "position": {
+        "x": 1282.3895709938797,
+        "y": 343.93821282030956
+      },
+      "size": {
+        "width": 388.1434877421786
+      },
+      "style": {
+        "fontSize": 28,
+        "textColor": "#268f88",
+        "fontFamily": "spoof",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "text",
+      "title": "<p><strong>Add</strong></p>"
+    },
+    {
+      "id": "n-58",
+      "position": {
+        "x": 1687.049825559482,
+        "y": 343.93821282030956
+      },
+      "size": {
+        "width": 388.1434877421786
+      },
+      "style": {
+        "fontSize": 28,
+        "textColor": "#268f88",
+        "fontFamily": "spoof",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "text",
+      "title": "<p><strong>Remove</strong></p>"
+    },
+    {
+      "id": "n-59",
+      "position": {
+        "x": 1767.2433492846203,
+        "y": 408.6102152710381
+      },
+      "size": {
+        "width": 47.33993405818528,
+        "height": 54.23871841842333
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "stickyNote",
+      "title": "Meetings scheduled without an agenda."
+    },
+    {
+      "id": "n-60",
+      "position": {
+        "x": 1699.1821704688655,
+        "y": 426.4079471800595
+      },
+      "size": {
+        "width": 47.33993405818528,
+        "height": 54.23871841842333
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "stickyNote",
+      "title": "Sending late-night or weekend work messages without agreement."
+    },
+    {
+      "id": "n-61",
+      "position": {
+        "x": 1627.5775465919169,
+        "y": 511.1743605279024
+      },
+      "size": {
+        "width": 47.33993405818528,
+        "height": 54.23871841842333
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "stickyNote",
+      "title": "Gossiping or escalating issues before talking directly to the person involved."
+    },
+    {
+      "id": "n-62",
+      "position": {
+        "x": 1674.9174806500987,
+        "y": 588.1339764004832
+      },
+      "size": {
+        "width": 47.33993405818528,
+        "height": 54.23871841842333
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "stickyNote",
+      "title": "Ignoring action items we’ve committed to."
+    },
+    {
+      "id": "n-63",
+      "position": {
+        "x": 1746.5221045270546,
+        "y": 511.1743605279024
+      },
+      "size": {
+        "width": 47.33993405818528,
+        "height": 54.23871841842333
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "stickyNote",
+      "title": "Treating the agreement as a static document instead of a living one."
+    },
+    {
+      "id": "n-64",
+      "position": {
+        "x": 1289.1050738086733,
+        "y": 462.51766696576567
+      },
+      "size": {
+        "width": 47.33993405818528,
+        "height": 54.23871841842333
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "stickyNote",
+      "title": "A quick ‘win of the week’ round at Friday check-ins."
+    },
+    {
+      "id": "n-65",
+      "position": {
+        "x": 1234.4451272292345,
+        "y": 413.5958570942911
+      },
+      "size": {
+        "width": 47.33993405818528,
+        "height": 54.23871841842333
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "stickyNote",
+      "title": "A kudos wall or shout-out board for appreciation."
+    },
+    {
+      "id": "n-66",
+      "position": {
+        "x": 1408.049631743811,
+        "y": 462.51766696576567
+      },
+      "size": {
+        "width": 47.33993405818528,
+        "height": 54.23871841842333
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "stickyNote",
+      "title": "Rotating meeting roles (facilitator, timekeeper)."
+    },
+    {
+      "id": "n-67",
+      "position": {
+        "x": 1289.1050738086733,
+        "y": 516.1600023511554
+      },
+      "size": {
+        "width": 47.33993405818528,
+        "height": 54.23871841842333
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "stickyNote",
+      "title": "A quarterly check-in on the agreement itself: are we still living it?"
+    },
+    {
+      "id": "n-68",
+      "position": {
+        "x": 1169.9578695896444,
+        "y": 511.43947683724025
+      },
+      "size": {
+        "width": 47.33993405818528,
+        "height": 54.23871841842333
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "stickyNote",
+      "title": "A short “learning bite” in weekly meetings to share insights."
+    },
+    {
+      "id": "n-69",
+      "position": {
+        "x": 785.4623332472175,
+        "y": 420.73665122803493
+      },
+      "size": {
+        "width": 47.33993405818528,
+        "height": 54.23871841842333
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "stickyNote",
+      "title": "We already start most meetings on time."
+    },
+    {
+      "id": "n-70",
+      "position": {
+        "x": 931.534258310333,
+        "y": 393.9201432902627
+      },
+      "size": {
+        "width": 47.33993405818528,
+        "height": 54.23871841842333
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "stickyNote",
+      "title": "We often celebrate small wins and successes."
+    },
+    {
+      "id": "n-71",
+      "position": {
+        "x": 877.7293164282775,
+        "y": 475.329757051535
+      },
+      "size": {
+        "width": 47.33993405818528,
+        "height": 54.23871841842333
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "stickyNote",
+      "title": "We give feedback in retrospectives."
+    },
+    {
+      "id": "n-72",
+      "position": {
+        "x": 795.0227138908987,
+        "y": 531.3175528492092
+      },
+      "size": {
+        "width": 47.33993405818528,
+        "height": 54.23871841842333
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "stickyNote",
+      "title": "We keep each other updated on Slack."
+    },
+    {
+      "id": "n-73",
+      "position": {
+        "x": 988.3422094923327,
+        "y": 511.43947683724116
+      },
+      "size": {
+        "width": 47.33993405818528,
+        "height": 54.23871841842333
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "stickyNote",
+      "title": "We usually go directly to the person when there’s an issue."
+    },
+    {
+      "id": "n-74",
+      "position": {
+        "x": 1296.7273701161603,
+        "y": 1165.5698882242941
+      },
+      "size": {
+        "width": 44.05353997597736,
+        "height": 50.4734025855419
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "stickyNote",
+      "title": "<strong>Red/Yellow/Green Check-in</strong><br /><br />Start meetings with a quick emotional temperature check. Each person shares their current state (red&#61;struggling, yellow&#61;cautious, green&#61;good) and one sentence why. Creates space for honesty and helps others adjust their communication approach accordingly."
+    },
+    {
+      "id": "n-75",
+      "position": {
+        "x": 820.9670823673943,
+        "y": 1060.1233349377935
+      },
+      "size": {
+        "width": 44.05353997597736,
+        "height": 50.4734025855419
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "stickyNote",
+      "title": "<strong>Appreciation Circle</strong><br /><br />End meetings with 2 minutes where team members acknowledge specific contributions. &#34;I appreciated when you...&#34; format focuses on behaviors not personalities. Reinforces psychological safety and builds trust through regular positive recognition."
+    },
+    {
+      "id": "n-76",
+      "position": {
+        "x": 925.977712286268,
+        "y": 1060.1233349377935
+      },
+      "size": {
+        "width": 44.05353997597736,
+        "height": 50.4734025855419
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "stickyNote",
+      "title": "<strong>Conflict Resolution Protocol</strong><br /><br />When disagreements arise, use the &#34;I noticed... I felt... I need...&#34; framework. This structured approach prevents blame, focuses on impact, and creates clear paths forward. Practice in low-stakes situations before applying to bigger conflicts."
+    },
+    {
+      "id": "n-77",
+      "position": {
+        "x": 824.2534764496005,
+        "y": 1118.7674073538146
+      },
+      "size": {
+        "width": 44.05353997597736,
+        "height": 50.4734025855419
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "stickyNote",
+      "title": "<strong>Learning Retrospective</strong><br /><br />Weekly 15-minute session where team members share one thing they learned, one challenge they faced, and one way others could help. Creates regular feedback loops and normalizes both success and struggle as part of growth."
+    },
+    {
+      "id": "n-78",
+      "position": {
+        "x": 1132.7748049967222,
+        "y": 1057.2889386951692
+      },
+      "size": {
+        "width": 44.05353997597736,
+        "height": 50.4734025855419
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "stickyNote",
+      "title": "<strong>Agreement Guardian Role</strong><br /><br />Rotate a weekly role where one team member gently reminds the team of agreements when they notice drift. Uses a predetermined phrase like &#34;I&#39;d like to revisit our agreement about...&#34; Distributes responsibility for upholding agreements across the team."
+    },
+    {
+      "id": "n-79",
+      "position": {
+        "x": 873.4723973268293,
+        "y": 1062.005992854235
+      },
+      "size": {
+        "width": 47.33993405818528,
+        "height": 54.23871841842333
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "stickyNote",
+      "title": "Implement a Red/Yellow/Green Check-in at the start of meetings to gauge emotional temperature."
+    },
+    {
+      "id": "n-80",
+      "position": {
+        "x": 978.4830272457067,
+        "y": 1062.005992854235
+      },
+      "size": {
+        "width": 47.33993405818528,
+        "height": 54.23871841842333
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "stickyNote",
+      "title": "End meetings with an Appreciation Circle to acknowledge specific contributions."
+    },
+    {
+      "id": "n-81",
+      "position": {
+        "x": 771.7481614901618,
+        "y": 1120.6500652702553
+      },
+      "size": {
+        "width": 47.33993405818528,
+        "height": 54.23871841842333
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "stickyNote",
+      "title": "Use a Conflict Resolution Protocol with &#39;I noticed... I felt... I need...&#39; framework."
+    },
+    {
+      "id": "n-82",
+      "position": {
+        "x": 1295.0841730750572,
+        "y": 1072.6172266895956
+      },
+      "size": {
+        "width": 47.33993405818528,
+        "height": 54.23871841842333
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "stickyNote",
+      "title": "Conduct a weekly Learning Retrospective to share learnings and challenges."
+    },
+    {
+      "id": "n-83",
+      "position": {
+        "x": 981.7694213279202,
+        "y": 1120.6500652702553
+      },
+      "size": {
+        "width": 47.33993405818528,
+        "height": 54.23871841842333
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "stickyNote",
+      "title": "Rotate an Agreement Guardian Role to remind the team of agreements."
+    },
+    {
+      "id": "n-84",
+      "position": {
+        "x": 771.7481614901618,
+        "y": 1179.2941376862764
+      },
+      "size": {
+        "width": 47.33993405818528,
+        "height": 54.23871841842333
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "stickyNote",
+      "title": "Introduce a &#39;Win of the Week&#39; round at Friday check-ins."
+    },
+    {
+      "id": "n-85",
+      "position": {
+        "x": 825.8966734907073,
+        "y": 1179.2941376862764
+      },
+      "size": {
+        "width": 47.33993405818528,
+        "height": 54.23871841842333
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "stickyNote",
+      "title": "Rotate meeting roles such as facilitator and timekeeper."
+    },
+    {
+      "id": "n-86",
+      "position": {
+        "x": 880.0451854912454,
+        "y": 1179.2941376862764
+      },
+      "size": {
+        "width": 47.33993405818528,
+        "height": 54.23871841842333
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "stickyNote",
+      "title": "Schedule a quarterly check-in on the team agreement to ensure it&#39;s being lived."
+    },
+    {
+      "id": "n-87",
+      "position": {
+        "x": 1178.4715420138045,
+        "y": 1142.1365116927218
+      },
+      "size": {
+        "width": 47.33993405818528,
+        "height": 54.23871841842333
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "stickyNote",
+      "title": "Create a kudos wall or shout-out board for appreciation."
+    },
+    {
+      "id": "n-88",
+      "position": {
+        "x": 988.3422094923327,
+        "y": 1179.2941376862764
+      },
+      "size": {
+        "width": 47.33993405818528,
+        "height": 54.23871841842333
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "stickyNote",
+      "title": "Include a short &#39;learning bite&#39; in weekly meetings to share insights."
+    },
+    {
+      "id": "n-89",
+      "position": {
+        "x": 107.17321920352617,
+        "y": 1146.9881655273448
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "frameId": "f-0",
+      "visualKind": "shape",
+      "title": "[dot_voting]"
+    },
+    {
+      "id": "n-90",
+      "position": {
+        "x": 170.37334490353493,
+        "y": 25.111755643377464
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[dot_voting]"
+    },
+    {
+      "id": "n-91",
+      "position": {
+        "x": 168.86074162659196,
+        "y": 179.7804827224549
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[dot_voting]"
+    },
+    {
+      "id": "n-92",
+      "position": {
+        "x": 170.1264744948505,
+        "y": 21.026683699825995
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[dot_voting]"
+    },
+    {
+      "id": "n-93",
+      "position": {
+        "x": 181.5224535609665,
+        "y": 200.0286847346166
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[dot_voting]"
+    },
+    {
+      "id": "n-94",
+      "position": {
+        "x": 187.2179250420051,
+        "y": 181.02197653197172
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[dot_voting]"
+    },
+    {
+      "id": "n-95",
+      "position": {
+        "x": 20.886831390326606,
+        "y": 34.43558237287037
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[dot_voting]"
+    },
+    {
+      "id": "n-96",
+      "position": {
+        "x": 180.50809955888218,
+        "y": 21.3290519266301
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[dot_voting]"
+    },
+    {
+      "id": "n-97",
+      "position": {
+        "x": 172.08901600625927,
+        "y": 179.98688258665575
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[dot_voting]"
+    },
+    {
+      "id": "n-98",
+      "position": {
+        "x": 192.3519224840159,
+        "y": 106.59290762707712
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[dot_voting]"
+    },
+    {
+      "id": "n-99",
+      "position": {
+        "x": 189.85401647494712,
+        "y": 94.17120648076205
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[dot_voting]"
+    },
+    {
+      "id": "n-100",
+      "position": {
+        "x": 188.8032686521397,
+        "y": 34.613315262602
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[dot_voting]"
+    },
+    {
+      "id": "n-101",
+      "position": {
+        "x": 185.91863825313905,
+        "y": 98.59890656232955
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[dot_voting]"
+    },
+    {
+      "id": "n-102",
+      "position": {
+        "x": 988.7872549196283,
+        "y": 1283.5642765123312
+      },
+      "size": {
+        "width": 1977.574509839256,
+        "height": 23.568978941521937
+      },
+      "style": {
+        "fillColor": "#268f88",
+        "borderColor": "#ffffff",
+        "textColor": "#ffffff",
+        "fontSize": 18,
+        "fontFamily": "roboto",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-0",
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-103",
+      "position": {
+        "x": 24726.419726784647,
+        "y": 6791.878036279045
+      },
+      "size": {
+        "width": 646.9608391403477,
+        "height": 2525.1277650120714
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "<h1>Implementation Steps for Voted Ideas</h1><h2>Use a Conflict Resolution Protocol with 'I noticed... I felt... I need...' framework</h2><ol><li data-list=\"ordered\">Create a simple one-page guide documenting the framework with examples</li><li data-list=\"ordered\">Schedule a 30-minute team training session to introduce the protocol</li><li data-list=\"ordered\">Practice using the framework in pairs during low-stakes role-play scenarios</li><li data-list=\"ordered\">Designate specific meeting time for addressing conflicts using this structure</li><li data-list=\"ordered\">Review effectiveness of the protocol quarterly and adjust as needed</li></ol><h2>Rotate an Agreement Guardian Role to remind the team of agreements</h2><ol><li data-list=\"ordered\">Document the specific responsibilities and phrases for the Guardian role</li><li data-list=\"ordered\">Create a rotation schedule ensuring each team member serves as Guardian</li><li data-list=\"ordered\">Add a standing agenda item for the Guardian to provide brief observations</li><li data-list=\"ordered\">Establish a handoff ritual between outgoing and incoming Guardians</li><li data-list=\"ordered\">Collect feedback on the Guardian role's impact during team retrospectives</li></ol><h2>Implement a Red/Yellow/Green Check-in at the start of meetings to gauge emotional temperature</h2><ol><li data-list=\"ordered\">Design a simple visual aid explaining the red/yellow/green states</li><li data-list=\"ordered\">Add the check-in as the first agenda item for all team meetings</li><li data-list=\"ordered\">Model vulnerability by having a team leader go first in initial sessions</li><li data-list=\"ordered\">Establish a time limit of 30 seconds per person to keep check-ins concise</li><li data-list=\"ordered\">Document patterns from check-ins to identify recurring team challenges</li></ol>"
+    },
+    {
+      "id": "n-104",
+      "position": {
+        "x": 438.2657481457419,
+        "y": 1144.0517344600057
+      },
+      "size": {
+        "width": 308.1230453176931
+      },
+      "style": {
+        "fontSize": 28,
+        "textColor": "#268f88",
+        "fontFamily": "caveat",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "text",
+      "title": "<p><strong>Use Psychological</strong></p><p><strong>safety Coach Sidekick</strong></p><p><strong>for new ideas!</strong></p>"
+    },
+    {
+      "id": "n-105",
+      "position": {
+        "x": 18686.009671851265,
+        "y": 6296.0328017027805
+      },
+      "size": {
+        "width": 550.2230882659029
+      },
+      "style": {
+        "fontSize": 192,
+        "textColor": "#1a1a1a",
+        "fontFamily": "caveat",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p>Example</p>"
+    },
+    {
+      "id": "n-106",
+      "position": {
+        "x": 21360.068945920084,
+        "y": 6555.339894119839
+      },
+      "size": {
+        "width": 983.3716490229798,
+        "height": 153.11356824742649
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 25,
+        "fontFamily": "noto_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-107",
+      "position": {
+        "x": 21269.59427570967,
+        "y": 6553.441888495803
+      },
+      "size": {
+        "width": 723.9691971464702
+      },
+      "style": {
+        "fontSize": 35,
+        "textColor": "#268f88",
+        "fontFamily": "spoof",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong>Proposed Team Agreement </strong></p>"
+    },
+    {
+      "id": "n-108",
+      "position": {
+        "x": 21720.481963151047,
+        "y": 6553.441888495803
+      },
+      "size": {
+        "width": 106.93420410067995,
+        "height": 28.394478528902297
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ_mR20Y%3D/resources/images/3458764517237043755?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-109",
+      "position": {
+        "x": 1824.26963887289,
+        "y": 77.45918563542807
+      },
+      "size": {
+        "width": 106.93420410067995,
+        "height": 28.394478528902297
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ_mR20Y%3D/resources/images/3458764517237043755?format=preview&redirect=false"
+        }
+      },
+      "frameId": "f-0",
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-110",
+      "position": {
+        "x": 25049.90014635482,
+        "y": 6558.691031716749
+      },
+      "size": {
+        "width": 983.3716490229798,
+        "height": 154.06152265884649
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 25,
+        "fontFamily": "noto_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-111",
+      "position": {
+        "x": 24975.14539123726,
+        "y": 6558.691031716749
+      },
+      "size": {
+        "width": 698.6589959663318
+      },
+      "style": {
+        "fontSize": 35,
+        "textColor": "#268f88",
+        "fontFamily": "spoof",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong>Team Rituals Implementation Guide </strong></p>"
+    },
+    {
+      "id": "n-112",
+      "position": {
+        "x": 25390.832417527425,
+        "y": 6558.691031716749
+      },
+      "size": {
+        "width": 106.93420410067995,
+        "height": 28.394478528902297
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ_mR20Y%3D/resources/images/3458764517237043755?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-113",
+      "position": {
+        "x": 24496.376748002825,
+        "y": 6686.398944702789
+      },
+      "size": {
+        "width": 388.1434877568913
+      },
+      "style": {
+        "fontSize": 17,
+        "textColor": "#268f88",
+        "fontFamily": "caveat",
+        "align": "center"
+      },
+      "visualKind": "text",
+      "title": "<p>If you want instructions on the</p><p>techniques that the Sidekick provided, click </p><p>the <strong>Run button </strong>by the document!</p>"
+    },
+    {
+      "id": "n-114",
+      "position": {
+        "x": 24599.17685111449,
+        "y": 6775.440381263559
+      },
+      "size": {
+        "width": 110.57438533970318,
+        "height": 66.08030996396604
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ_mR20Y%3D/resources/images/3458764517237043757?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-115",
+      "position": {
+        "x": 24397.935843752995,
+        "y": 6775.440381263559
+      },
+      "size": {
+        "width": 140.11522289908336
+      },
+      "style": {
+        "fontSize": 21,
+        "textColor": "#268f88",
+        "fontFamily": "caveat",
+        "align": "center"
+      },
+      "visualKind": "text",
+      "title": "<p><strong>It looks like this!</strong></p>"
+    },
+    {
+      "id": "n-116",
+      "position": {
+        "x": 401.6593208085843,
+        "y": 163.00961870235176
+      },
+      "size": {
+        "width": 588.9722031877264
+      },
+      "style": {
+        "fontSize": 63,
+        "textColor": "#268f88",
+        "fontFamily": "spoof",
+        "align": "left"
+      },
+      "frameId": "f-2",
+      "visualKind": "text",
+      "title": "<p><strong>Team Agreement </strong></p><p><strong>Rituals</strong></p>"
+    },
+    {
+      "id": "n-117",
+      "position": {
+        "x": 291.5568770138244,
+        "y": 413.65414894797493
+      },
+      "size": {
+        "width": 414.10270778954265,
+        "height": 173.78292303530574
+      },
+      "style": {
+        "fillColor": "#268f88",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 26,
+        "fontFamily": "open_sans",
+        "borderWidth": 5,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-3",
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-118",
+      "position": {
+        "x": 279.4929406798939,
+        "y": 401.5902126140462
+      },
+      "size": {
+        "width": 414.10270778954265,
+        "height": 173.78292303530574
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#268f88",
+        "textColor": "#1a1a1a",
+        "fontSize": 26,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-3",
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-119",
+      "position": {
+        "x": 1248.30085265035,
+        "y": 737.0013934458792
+      },
+      "size": {
+        "width": 956.6762510286754,
+        "height": 956.6762510286754
+      },
+      "style": {
+        "fillColor": "#268f88",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 29,
+        "fontFamily": "open_sans",
+        "borderWidth": 8,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "circle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-3",
+      "visualKind": "shape",
+      "title": "<p></p>"
+    },
+    {
+      "id": "n-120",
+      "position": {
+        "x": 1228.7892191965793,
+        "y": 717.4897599921104
+      },
+      "size": {
+        "width": 956.6762510286754,
+        "height": 956.6762510286754
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#268f88",
+        "textColor": "#1a1a1a",
+        "fontSize": 29,
+        "fontFamily": "open_sans",
+        "borderWidth": 8,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "circle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-3",
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-121",
+      "position": {
+        "x": 1233.8321534689794,
+        "y": 712.9238915025943
+      },
+      "size": {
+        "width": 283.4088181403539,
+        "height": 283.4088181403539
+      },
+      "style": {
+        "fillColor": "#b0b0b0",
+        "borderColor": "#b0b0b0",
+        "textColor": "#1a1a1a",
+        "fontSize": 29,
+        "fontFamily": "open_sans",
+        "borderWidth": 8,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "circle"
+        },
+        "fillOpacity": 0.8
+      },
+      "frameId": "f-3",
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-122",
+      "position": {
+        "x": 1077.9546845679752,
+        "y": 467.72645322097003
+      },
+      "size": {
+        "width": 179.0438134589523
+      },
+      "style": {
+        "fontSize": 14,
+        "textColor": "#b0b0b0",
+        "fontFamily": "spoof",
+        "align": "left"
+      },
+      "frameId": "f-3",
+      "visualKind": "text",
+      "title": "<p><strong>Communication</strong></p>"
+    },
+    {
+      "id": "n-123",
+      "position": {
+        "x": 933.0541579001666,
+        "y": 768.924888545538
+      },
+      "size": {
+        "width": 179.0438134589523
+      },
+      "style": {
+        "fontSize": 14,
+        "textColor": "#b0b0b0",
+        "fontFamily": "spoof",
+        "align": "left"
+      },
+      "frameId": "f-3",
+      "visualKind": "text",
+      "title": "<p><strong>Learning &amp; feedback</strong></p>"
+    },
+    {
+      "id": "n-124",
+      "position": {
+        "x": 1479.4283888301625,
+        "y": 467.72645322097003
+      },
+      "size": {
+        "width": 179.0438134589523
+      },
+      "style": {
+        "fontSize": 14,
+        "textColor": "#b0b0b0",
+        "fontFamily": "spoof",
+        "align": "left"
+      },
+      "frameId": "f-3",
+      "visualKind": "text",
+      "title": "<p><strong>Meetings</strong></p>"
+    },
+    {
+      "id": "n-125",
+      "position": {
+        "x": 1533.2881133741494,
+        "y": 786.0428355076327
+      },
+      "size": {
+        "width": 179.0438134589523
+      },
+      "style": {
+        "fontSize": 14,
+        "textColor": "#b0b0b0",
+        "fontFamily": "spoof",
+        "align": "left"
+      },
+      "frameId": "f-3",
+      "visualKind": "text",
+      "title": "<p><strong>Support &amp; collaboration</strong></p>"
+    },
+    {
+      "id": "n-126",
+      "position": {
+        "x": 1256.9984980255094,
+        "y": 1003.6526290601477
+      },
+      "size": {
+        "width": 179.0438134589523
+      },
+      "style": {
+        "fontSize": 14,
+        "textColor": "#b0b0b0",
+        "fontFamily": "spoof",
+        "align": "left"
+      },
+      "frameId": "f-3",
+      "visualKind": "text",
+      "title": "<p><strong>Conflict resolution</strong></p>"
+    },
+    {
+      "id": "n-127",
+      "position": {
+        "x": 1838.147418486281,
+        "y": 77.10248234484686
+      },
+      "size": {
+        "width": 106.93420410067995,
+        "height": 28.394478528902297
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ_mR20Y%3D/resources/images/3458764517237043755?format=preview&redirect=false"
+        }
+      },
+      "frameId": "f-3",
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-128",
+      "position": {
+        "x": 198.11037663073068,
+        "y": 354.8260035040456
+      },
+      "size": {
+        "width": 201.42429014132094
+      },
+      "style": {
+        "fontSize": 15,
+        "textColor": "#1a1a1a",
+        "fontFamily": "spoof",
+        "align": "left"
+      },
+      "frameId": "f-3",
+      "visualKind": "text",
+      "title": "<p><strong>Team agreement</strong></p>"
+    },
+    {
+      "id": "n-129",
+      "position": {
+        "x": 279.4929406798848,
+        "y": 418.33508091184547
+      },
+      "size": {
+        "width": 364.18941823552456
+      },
+      "style": {
+        "fontSize": 10,
+        "textColor": "#1a1a1a",
+        "fontFamily": "spoof",
+        "align": "left"
+      },
+      "frameId": "f-3",
+      "visualKind": "text",
+      "title": "<p>A team agreement is a set of shared commitments that help us define how we want to work together. It clarifies expectations, reduces misunderstandings, and builds trust.</p><p><br /></p><p>When we co-create our agreements, everyone has a voice in shaping the way we collaborate. The agreement is not static, we can review and update it as our team evolves.</p>"
+    },
+    {
+      "id": "n-130",
+      "position": {
+        "x": 291.5568770138244,
+        "y": 639.04975873704
+      },
+      "size": {
+        "width": 414.10270778954265,
+        "height": 173.78292303530574
+      },
+      "style": {
+        "fillColor": "#268f88",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 26,
+        "fontFamily": "open_sans",
+        "borderWidth": 5,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-3",
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-131",
+      "position": {
+        "x": 279.4929406798939,
+        "y": 626.9858224031103
+      },
+      "size": {
+        "width": 414.10270778954265,
+        "height": 173.78292303530574
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#268f88",
+        "textColor": "#1a1a1a",
+        "fontSize": 26,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-3",
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-132",
+      "position": {
+        "x": 229.93645326002218,
+        "y": 579.5922770077412
+      },
+      "size": {
+        "width": 265.07644339830955
+      },
+      "style": {
+        "fontSize": 15,
+        "textColor": "#1a1a1a",
+        "fontFamily": "spoof",
+        "align": "left"
+      },
+      "frameId": "f-3",
+      "visualKind": "text",
+      "title": "<p><strong>Purpose of the Team Agreement</strong></p>"
+    },
+    {
+      "id": "n-133",
+      "position": {
+        "x": 261.4548219780073,
+        "y": 636.6821243047506
+      },
+      "size": {
+        "width": 328.1131808316612
+      },
+      "style": {
+        "fontSize": 10,
+        "textColor": "#1a1a1a",
+        "fontFamily": "spoof",
+        "align": "left"
+      },
+      "frameId": "f-3",
+      "visualKind": "text",
+      "title": "<ol><li data-list=\"bullet\"><span class=\"ql-ui\"></span>Create shared and clear expectations.</li><li data-list=\"bullet\"><span class=\"ql-ui\"></span>Strengthen trust, collaboration, and psychological safety.</li><li data-list=\"bullet\"><span class=\"ql-ui\"></span>Give every team member the opportunity to shape how we work.</li><li data-list=\"bullet\"><span class=\"ql-ui\"></span>End with a document that everyone signs as a symbol of commitment.</li></ol>"
+    },
+    {
+      "id": "n-134",
+      "position": {
+        "x": 291.5568770138244,
+        "y": 864.3753235442381
+      },
+      "size": {
+        "width": 414.10270778954265,
+        "height": 173.78292303530574
+      },
+      "style": {
+        "fillColor": "#268f88",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 26,
+        "fontFamily": "open_sans",
+        "borderWidth": 5,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-3",
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-135",
+      "position": {
+        "x": 279.4929406798939,
+        "y": 852.3113872103103
+      },
+      "size": {
+        "width": 414.10270778954265,
+        "height": 173.78292303530574
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#268f88",
+        "textColor": "#1a1a1a",
+        "fontSize": 26,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-3",
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-136",
+      "position": {
+        "x": 366.9276883901813,
+        "y": 154.52425000011124
+      },
+      "size": {
+        "width": 588.9722031877264
+      },
+      "style": {
+        "fontSize": 63,
+        "textColor": "#268f88",
+        "fontFamily": "spoof",
+        "align": "left"
+      },
+      "frameId": "f-3",
+      "visualKind": "text",
+      "title": "<p><strong>Team Agreement </strong></p><p><strong>Workshop</strong></p>"
+    },
+    {
+      "id": "n-137",
+      "position": {
+        "x": 279.0841789365069,
+        "y": 868.9540458095352
+      },
+      "size": {
+        "width": 363.3718947530101
+      },
+      "style": {
+        "fontSize": 10,
+        "textColor": "#1a1a1a",
+        "fontFamily": "spoof",
+        "align": "left"
+      },
+      "frameId": "f-3",
+      "visualKind": "text",
+      "title": "<p>When writing our rules, keep in mind:</p><ol><li data-list=\"bullet\"><span class=\"ql-ui\"></span><strong>Use “we” statements</strong> (e.g., <em>We agree to…</em>).</li><li data-list=\"bullet\"><span class=\"ql-ui\"></span><strong>Be concrete</strong> (e.g., <em>We reply to messages within 24h</em> instead of <em>We communicate regularly</em>).</li><li data-list=\"bullet\"><span class=\"ql-ui\"></span><strong>Positive framing</strong> (e.g., <em>We respect each other’s opinions</em> instead of <em>We don’t interrupt</em>).</li><li data-list=\"bullet\"><span class=\"ql-ui\"></span><strong>Keep it short and clear</strong> – simpler is better.</li><li data-list=\"bullet\"><span class=\"ql-ui\"></span><strong>Think about our values </strong></li></ol>"
+    },
+    {
+      "id": "n-138",
+      "position": {
+        "x": 243.5301170240374,
+        "y": 802.7544408861748
+      },
+      "size": {
+        "width": 292.2637709263413
+      },
+      "style": {
+        "fontSize": 15,
+        "textColor": "#1a1a1a",
+        "fontFamily": "spoof",
+        "align": "left"
+      },
+      "frameId": "f-3",
+      "visualKind": "text",
+      "title": "<p><strong>Guideliness for Writing Agreements</strong></p>"
+    },
+    {
+      "id": "n-139",
+      "position": {
+        "x": 291.5568770138244,
+        "y": 1099.5114971016146
+      },
+      "size": {
+        "width": 414.10270778954265,
+        "height": 198.00040722310442
+      },
+      "style": {
+        "fillColor": "#268f88",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 26,
+        "fontFamily": "open_sans",
+        "borderWidth": 5,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-3",
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-140",
+      "position": {
+        "x": 279.4929406798939,
+        "y": 1087.4475607676868
+      },
+      "size": {
+        "width": 414.10270778954265,
+        "height": 198.0004072231044
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#268f88",
+        "textColor": "#1a1a1a",
+        "fontSize": 26,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-3",
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-141",
+      "position": {
+        "x": 283.7571249583335,
+        "y": 1103.8966964779102
+      },
+      "size": {
+        "width": 372.7177867959673
+      },
+      "style": {
+        "fontSize": 10,
+        "textColor": "#1a1a1a",
+        "fontFamily": "spoof",
+        "align": "left"
+      },
+      "frameId": "f-3",
+      "visualKind": "text",
+      "title": "<p>For each area, we will brainstorm potential rules, then vote to select the most important ones. Example areas:</p><ol><li data-list=\"ordered\"><span class=\"ql-ui\"></span><strong>Communication</strong> (response time, transparency).</li><li data-list=\"ordered\"><span class=\"ql-ui\"></span><strong>Meetings</strong> (how we prepare, how we ensure efficiency).</li><li data-list=\"ordered\"><span class=\"ql-ui\"></span><strong>Conflict resolution</strong> (how we handle disagreements).</li><li data-list=\"ordered\"><span class=\"ql-ui\"></span><strong>Support &amp; collaboration</strong> (how we help each other, how we celebrate wins).</li><li data-list=\"ordered\"><span class=\"ql-ui\"></span><strong>Learning &amp; feedback</strong> (how we give feedback, how we learn together).</li></ol>"
+    },
+    {
+      "id": "n-142",
+      "position": {
+        "x": 240.24007709223872,
+        "y": 1028.2476783407492
+      },
+      "size": {
+        "width": 285.6836910665595
+      },
+      "style": {
+        "fontSize": 15,
+        "textColor": "#1a1a1a",
+        "fontFamily": "spoof",
+        "align": "left"
+      },
+      "frameId": "f-3",
+      "visualKind": "text",
+      "title": "<p><strong>Areas We Will Cover</strong></p>"
+    },
+    {
+      "id": "n-143",
+      "position": {
+        "x": 1233.8321534689794,
+        "y": 716.4255305104851
+      },
+      "size": {
+        "width": 268.5657201884279
+      },
+      "style": {
+        "fontSize": 21,
+        "textColor": "#ffffff",
+        "fontFamily": "spoof",
+        "align": "center"
+      },
+      "frameId": "f-3",
+      "visualKind": "text",
+      "title": "<p><strong>Company </strong></p><p><strong>values</strong></p>"
+    },
+    {
+      "id": "n-144",
+      "position": {
+        "x": 1721.0812235047224,
+        "y": 233.74408901177037
+      },
+      "size": {
+        "width": 384.3700532613205,
+        "height": 120.08665863212498
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "frameId": "f-3",
+      "visualKind": "shape",
+      "title": "[table]"
+    },
+    {
+      "id": "n-145",
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "size": {
+        "width": 154.02419259337768,
+        "height": 21.537281167718067
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[table_text]"
+    },
+    {
+      "id": "n-146",
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "size": {
+        "width": 229.73099912232604,
+        "height": 21.537281167718067
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[table_text]"
+    },
+    {
+      "id": "n-147",
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "size": {
+        "width": 154.02419259337768,
+        "height": 21.537281167718067
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[table_text]"
+    },
+    {
+      "id": "n-148",
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "size": {
+        "width": 229.73099912232604,
+        "height": 21.537281167718067
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[table_text]"
+    },
+    {
+      "id": "n-149",
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "size": {
+        "width": 154.02419259337768,
+        "height": 21.537281167718067
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[table_text]"
+    },
+    {
+      "id": "n-150",
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "size": {
+        "width": 229.73099912232604,
+        "height": 32.63224419351222
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[table_text]"
+    },
+    {
+      "id": "n-151",
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "size": {
+        "width": 154.02419259337768,
+        "height": 32.63224419351222
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[table_text]"
+    },
+    {
+      "id": "n-152",
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "size": {
+        "width": 229.73099912232604,
+        "height": 32.63224419351222
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[table_text]"
+    },
+    {
+      "id": "n-153",
+      "position": {
+        "x": 988.7872549196283,
+        "y": 1283.5642765123303
+      },
+      "size": {
+        "width": 1977.574509839256,
+        "height": 23.568978941521937
+      },
+      "style": {
+        "fillColor": "#268f88",
+        "borderColor": "#ffffff",
+        "textColor": "#ffffff",
+        "fontSize": 18,
+        "fontFamily": "roboto",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-3",
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-154",
+      "position": {
+        "x": 1686.5848794798212,
+        "y": 339.3661762898754
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "frameId": "f-3",
+      "visualKind": "shape",
+      "title": "[dot_voting]"
+    },
+    {
+      "id": "n-155",
+      "position": {
+        "x": 13128.158072570815,
+        "y": 6865.941825050956
+      },
+      "size": {
+        "width": 807.6177891522345,
+        "height": 1409.2106320921644
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "<h1></h1>"
+    },
+    {
+      "id": "n-156",
+      "position": {
+        "x": 883.0157412253949,
+        "y": 611.812001367325
+      },
+      "size": {
+        "width": 388.1434877515412,
+        "height": 603.1884709512107
+      },
+      "style": {
+        "fillColor": "#e7e7e7",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 26,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 0.7
+      },
+      "frameId": "f-2",
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-157",
+      "position": {
+        "x": 1287.6759957909971,
+        "y": 611.812001367325
+      },
+      "size": {
+        "width": 388.1434877515412,
+        "height": 603.1884709512107
+      },
+      "style": {
+        "fillColor": "#e7e7e7",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 26,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 0.7
+      },
+      "frameId": "f-2",
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-158",
+      "position": {
+        "x": 1692.3362503565995,
+        "y": 611.812001367325
+      },
+      "size": {
+        "width": 388.1434877515412,
+        "height": 603.1884709512107
+      },
+      "style": {
+        "fillColor": "#e7e7e7",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 26,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 0.7
+      },
+      "frameId": "f-2",
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-159",
+      "position": {
+        "x": 883.0157412253949,
+        "y": 343.93821282030956
+      },
+      "size": {
+        "width": 388.1434877421786
+      },
+      "style": {
+        "fontSize": 28,
+        "textColor": "#268f88",
+        "fontFamily": "spoof",
+        "align": "center"
+      },
+      "frameId": "f-2",
+      "visualKind": "text",
+      "title": "<p><strong>Continue</strong></p>"
+    },
+    {
+      "id": "n-160",
+      "position": {
+        "x": 1287.6759957909971,
+        "y": 343.93821282030956
+      },
+      "size": {
+        "width": 388.1434877421786
+      },
+      "style": {
+        "fontSize": 28,
+        "textColor": "#268f88",
+        "fontFamily": "spoof",
+        "align": "center"
+      },
+      "frameId": "f-2",
+      "visualKind": "text",
+      "title": "<p><strong>Add</strong></p>"
+    },
+    {
+      "id": "n-161",
+      "position": {
+        "x": 1692.3362503565995,
+        "y": 343.93821282030956
+      },
+      "size": {
+        "width": 388.1434877421786
+      },
+      "style": {
+        "fontSize": 28,
+        "textColor": "#268f88",
+        "fontFamily": "spoof",
+        "align": "center"
+      },
+      "frameId": "f-2",
+      "visualKind": "text",
+      "title": "<p><strong>Remove</strong></p>"
+    },
+    {
+      "id": "n-162",
+      "position": {
+        "x": 988.7872549196283,
+        "y": 1283.5642765123312
+      },
+      "size": {
+        "width": 1977.574509839256,
+        "height": 23.568978941521937
+      },
+      "style": {
+        "fillColor": "#268f88",
+        "borderColor": "#ffffff",
+        "textColor": "#ffffff",
+        "fontSize": 18,
+        "fontFamily": "roboto",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-2",
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-163",
+      "position": {
+        "x": 16888.246523306312,
+        "y": 6832.32928593553
+      },
+      "size": {
+        "width": 646.9608391403477,
+        "height": 2525.1277650120714
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "<h1>Team Agreement Rituals: Implementation Guide</h1><p></p>"
+    },
+    {
+      "id": "n-164",
+      "position": {
+        "x": 11308.64830479562,
+        "y": 6336.484051359264
+      },
+      "size": {
+        "width": 1471.8467611112903
+      },
+      "style": {
+        "fontSize": 192,
+        "textColor": "#1a1a1a",
+        "fontFamily": "caveat",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p>Template</p>"
+    },
+    {
+      "id": "n-165",
+      "position": {
+        "x": 13521.89574244175,
+        "y": 6595.791143776324
+      },
+      "size": {
+        "width": 983.3716490229798,
+        "height": 153.11356824742649
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 25,
+        "fontFamily": "noto_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-166",
+      "position": {
+        "x": 13882.308759672713,
+        "y": 6593.893138152287
+      },
+      "size": {
+        "width": 106.93420410067995,
+        "height": 28.394478528902297
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ_mR20Y%3D/resources/images/3458764517237043755?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-167",
+      "position": {
+        "x": 1824.26963887289,
+        "y": 77.45918563542807
+      },
+      "size": {
+        "width": 106.93420410067995,
+        "height": 28.394478528902297
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ_mR20Y%3D/resources/images/3458764517237043755?format=preview&redirect=false"
+        }
+      },
+      "frameId": "f-2",
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-168",
+      "position": {
+        "x": 17211.726942876485,
+        "y": 6599.142281373233
+      },
+      "size": {
+        "width": 983.3716490229798,
+        "height": 154.06152265884649
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 25,
+        "fontFamily": "noto_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-169",
+      "position": {
+        "x": 17136.972187758925,
+        "y": 6599.142281373233
+      },
+      "size": {
+        "width": 698.6589959663318
+      },
+      "style": {
+        "fontSize": 35,
+        "textColor": "#268f88",
+        "fontFamily": "spoof",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong>Team Rituals Implementation Guide </strong></p>"
+    },
+    {
+      "id": "n-170",
+      "position": {
+        "x": 17552.659214049083,
+        "y": 6599.142281373233
+      },
+      "size": {
+        "width": 106.93420410067995,
+        "height": 28.394478528902297
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ_mR20Y%3D/resources/images/3458764517237043755?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-171",
+      "position": {
+        "x": 326.2885094322256,
+        "y": 416.22702524620934
+      },
+      "size": {
+        "width": 414.10270778954265,
+        "height": 186.17073307170403
+      },
+      "style": {
+        "fillColor": "#268f88",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 26,
+        "fontFamily": "open_sans",
+        "borderWidth": 5,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-2",
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-172",
+      "position": {
+        "x": 314.2245730982969,
+        "y": 403.30313242757154
+      },
+      "size": {
+        "width": 414.10270778954265,
+        "height": 186.17073307170403
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#268f88",
+        "textColor": "#1a1a1a",
+        "fontSize": 26,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-2",
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-173",
+      "position": {
+        "x": 232.84200904913007,
+        "y": 347.70180590081316
+      },
+      "size": {
+        "width": 201.42429014132094
+      },
+      "style": {
+        "fontSize": 15,
+        "textColor": "#1a1a1a",
+        "fontFamily": "spoof",
+        "align": "left"
+      },
+      "frameId": "f-2",
+      "visualKind": "text",
+      "title": "<p><strong>Team agreement Rituals</strong></p>"
+    },
+    {
+      "id": "n-174",
+      "position": {
+        "x": 291.1660343496761,
+        "y": 417.63011341939807
+      },
+      "size": {
+        "width": 318.0723407392681
+      },
+      "style": {
+        "fontSize": 10,
+        "textColor": "#1a1a1a",
+        "fontFamily": "spoof",
+        "align": "left"
+      },
+      "frameId": "f-2",
+      "visualKind": "text",
+      "title": "<p>A team agreement only works if it’s alive in our daily habits. Writing rules is not enough — what truly brings them to life are <strong>rituals</strong> (regular practices), <strong>techniques</strong> (ways of working), and <strong>ideas</strong> (small experiments).</p><p><br /></p><p>In this section we are brainstorming with the help of Psychological Safety Coach on possible ideas how to live this agreement day to day.</p>"
+    },
+    {
+      "id": "n-175",
+      "position": {
+        "x": 326.2885094322256,
+        "y": 662.1305543429843
+      },
+      "size": {
+        "width": 414.10270778954265,
+        "height": 184.2997717918704
+      },
+      "style": {
+        "fillColor": "#268f88",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 26,
+        "fontFamily": "open_sans",
+        "borderWidth": 5,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-2",
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-176",
+      "position": {
+        "x": 314.2245730982969,
+        "y": 649.3365428577307
+      },
+      "size": {
+        "width": 414.10270778954265,
+        "height": 184.2997717918704
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#268f88",
+        "textColor": "#1a1a1a",
+        "fontSize": 26,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-2",
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-177",
+      "position": {
+        "x": 314.2245730982878,
+        "y": 661.8343482099052
+      },
+      "size": {
+        "width": 364.18941823552456
+      },
+      "style": {
+        "fontSize": 10,
+        "textColor": "#1a1a1a",
+        "fontFamily": "spoof",
+        "align": "left"
+      },
+      "frameId": "f-2",
+      "visualKind": "text",
+      "title": "<p><br /></p><p>They:</p><ol><li data-list=\"bullet\"><span class=\"ql-ui\"></span>Make our agreements <strong>visible in action</strong>, not just on paper.</li><li data-list=\"bullet\"><span class=\"ql-ui\"></span>Help us <strong>practice consistency</strong> — agreements turn into habits.</li><li data-list=\"bullet\"><span class=\"ql-ui\"></span>Create <strong>shared reminders</strong> of what we value as a team.</li><li data-list=\"bullet\"><span class=\"ql-ui\"></span>Show <strong>how we are already living</strong> some commitments today.</li><li data-list=\"bullet\"><span class=\"ql-ui\"></span>Give us space to <strong>experiment with new practices</strong> that strengthen our culture.</li></ol>"
+    },
+    {
+      "id": "n-178",
+      "position": {
+        "x": 301.34774325558567,
+        "y": 601.2118284375337
+      },
+      "size": {
+        "width": 338.43575855472557
+      },
+      "style": {
+        "fontSize": 15,
+        "textColor": "#1a1a1a",
+        "fontFamily": "spoof",
+        "align": "left"
+      },
+      "frameId": "f-2",
+      "visualKind": "text",
+      "title": "<p><strong>Purpose of the Team Agreement Rituals</strong></p>"
+    },
+    {
+      "id": "n-179",
+      "position": {
+        "x": 326.2885094322256,
+        "y": 914.8337997789384
+      },
+      "size": {
+        "width": 414.10270778954265,
+        "height": 202.9253375014639
+      },
+      "style": {
+        "fillColor": "#268f88",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 26,
+        "fontFamily": "open_sans",
+        "borderWidth": 5,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-2",
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-180",
+      "position": {
+        "x": 314.2245730982969,
+        "y": 900.74680947287
+      },
+      "size": {
+        "width": 414.10270778954265,
+        "height": 202.9253375014639
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#268f88",
+        "textColor": "#1a1a1a",
+        "fontSize": 26,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-2",
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-181",
+      "position": {
+        "x": 314.2245730982878,
+        "y": 915.2939927603765
+      },
+      "size": {
+        "width": 364.18941823552456
+      },
+      "style": {
+        "fontSize": 10,
+        "textColor": "#1a1a1a",
+        "fontFamily": "spoof",
+        "align": "left"
+      },
+      "frameId": "f-2",
+      "visualKind": "text",
+      "title": "<p>Let&#39;s take a look at our agreement &amp; write on stickies what we should :</p><ol><li data-list=\"bullet\"><span class=\"ql-ui\"></span>Continue doing: What are we already doing that shows we are living our agreement? Which practices, habits, or behaviors are worth continuing?</li><li data-list=\"bullet\"><span class=\"ql-ui\"></span>Add: What rituals, ideas, or techniques could we add to make our agreement stronger? These don’t need to be big changes — small, regular practices can make the biggest difference.</li><li data-list=\"bullet\"><span class=\"ql-ui\"></span>Remove: Which habits, routines, or behaviors do we need to stop because they go against our agreement or weaken it?</li></ol>"
+    },
+    {
+      "id": "n-182",
+      "position": {
+        "x": 301.34774325558567,
+        "y": 835.28243358517
+      },
+      "size": {
+        "width": 338.43575855472557
+      },
+      "style": {
+        "fontSize": 15,
+        "textColor": "#1a1a1a",
+        "fontFamily": "spoof",
+        "align": "left"
+      },
+      "frameId": "f-2",
+      "visualKind": "text",
+      "title": "<p><strong>How this works?</strong></p>"
+    },
+    {
+      "id": "n-183",
+      "position": {
+        "x": 13431.421072231333,
+        "y": 6593.893138152287
+      },
+      "size": {
+        "width": 723.9691971464702
+      },
+      "style": {
+        "fontSize": 35,
+        "textColor": "#268f88",
+        "fontFamily": "spoof",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong>Proposed Team Agreement </strong></p>"
+    },
+    {
+      "id": "n-184",
+      "position": {
+        "x": 14144.994595108314,
+        "y": 6740.047209328202
+      },
+      "size": {
+        "width": 292.01191151915816
+      },
+      "style": {
+        "fontSize": 17,
+        "textColor": "#268f88",
+        "fontFamily": "caveat",
+        "align": "center"
+      },
+      "visualKind": "text",
+      "title": "<p><strong>Push Run for writing your own Team Agreement!</strong></p>"
+    },
+    {
+      "id": "n-185",
+      "position": {
+        "x": 1111.081773489269,
+        "y": 421.6993271709915
+      },
+      "size": {
+        "width": 47.33993405818528,
+        "height": 54.23871841842333
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-1",
+      "visualKind": "stickyNote",
+      "title": "We use Slack for quick updates, email for formal info."
+    },
+    {
+      "id": "n-186",
+      "position": {
+        "x": 1181.7822268928203,
+        "y": 387.68022789865597
+      },
+      "size": {
+        "width": 47.33993405818528,
+        "height": 54.23871841842333
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-1",
+      "visualKind": "stickyNote",
+      "title": "We tell the team when we are offline or unavailable."
+    },
+    {
+      "id": "n-187",
+      "position": {
+        "x": 884.6980259735493,
+        "y": 482.61428362905633
+      },
+      "size": {
+        "width": 47.33993405818528,
+        "height": 54.23871841842333
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-1",
+      "visualKind": "stickyNote",
+      "title": "We flag blockers as soon as they appear."
+    },
+    {
+      "id": "n-188",
+      "position": {
+        "x": 1106.433379994879,
+        "y": 536.853002047479
+      },
+      "size": {
+        "width": 47.33993405818528,
+        "height": 54.23871841842333
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-1",
+      "visualKind": "stickyNote",
+      "title": "We summarize key decisions in writing."
+    },
+    {
+      "id": "n-189",
+      "position": {
+        "x": 1001.8151080074196,
+        "y": 376.64482130121075
+      },
+      "size": {
+        "width": 47.33993405818528,
+        "height": 54.23871841842333
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-1",
+      "visualKind": "stickyNote",
+      "title": "We use clear, simple language (no jargon)."
+    },
+    {
+      "id": "n-190",
+      "position": {
+        "x": 1049.155042065605,
+        "y": 333.4415094802333
+      },
+      "size": {
+        "width": 47.33993405818528,
+        "height": 54.23871841842333
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-1",
+      "visualKind": "stickyNote",
+      "title": "We prefer a quick call for urgent matters."
+    },
+    {
+      "id": "n-191",
+      "position": {
+        "x": 932.0379600317311,
+        "y": 419.56485721543766
+      },
+      "size": {
+        "width": 47.33993405818528,
+        "height": 54.23871841842333
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-1",
+      "visualKind": "stickyNote",
+      "title": "We don’t send work messages after 6pm."
+    },
+    {
+      "id": "n-192",
+      "position": {
+        "x": 1019.0669133168914,
+        "y": 558.8371192692983
+      },
+      "size": {
+        "width": 47.33993405818528,
+        "height": 54.23871841842333
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-1",
+      "visualKind": "stickyNote",
+      "title": "We keep everyone informed, no hidden updates."
+    },
+    {
+      "id": "n-193",
+      "position": {
+        "x": 932.0379600317311,
+        "y": 536.853002047479
+      },
+      "size": {
+        "width": 47.33993405818528,
+        "height": 54.23871841842333
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-1",
+      "visualKind": "stickyNote",
+      "title": "We double-check understanding by paraphrasing."
+    },
+    {
+      "id": "n-194",
+      "position": {
+        "x": 1111.081773489269,
+        "y": 333.4415094802333
+      },
+      "size": {
+        "width": 47.33993405818528,
+        "height": 54.23871841842333
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-1",
+      "visualKind": "stickyNote",
+      "title": "We reply to Slack within 24h."
+    },
+    {
+      "id": "n-195",
+      "position": {
+        "x": 1169.7947539050137,
+        "y": 890.1915217987424
+      },
+      "size": {
+        "width": 47.33993405818528,
+        "height": 54.23871841842333
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-1",
+      "visualKind": "stickyNote",
+      "title": "We address issues directly with the person first."
+    },
+    {
+      "id": "n-196",
+      "position": {
+        "x": 1247.634166592491,
+        "y": 912.2998303789617
+      },
+      "size": {
+        "width": 47.33993405818528,
+        "height": 54.23871841842333
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-1",
+      "visualKind": "stickyNote",
+      "title": "We use “I” statements instead of blame."
+    },
+    {
+      "id": "n-197",
+      "position": {
+        "x": 1335.0807151000254,
+        "y": 1032.08384057468
+      },
+      "size": {
+        "width": 47.33993405818528,
+        "height": 54.23871841842333
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-1",
+      "visualKind": "stickyNote",
+      "title": "We don’t gossip about conflicts."
+    },
+    {
+      "id": "n-198",
+      "position": {
+        "x": 1228.3427411704024,
+        "y": 1086.3225589931026
+      },
+      "size": {
+        "width": 47.33993405818528,
+        "height": 54.23871841842333
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-1",
+      "visualKind": "stickyNote",
+      "title": "We involve a neutral teammate if needed."
+    },
+    {
+      "id": "n-199",
+      "position": {
+        "x": 1093.2624436065844,
+        "y": 977.8451221562563
+      },
+      "size": {
+        "width": 47.33993405818528,
+        "height": 54.23871841842333
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-1",
+      "visualKind": "stickyNote",
+      "title": "We bring facts, not assumptions."
+    },
+    {
+      "id": "n-200",
+      "position": {
+        "x": 1153.7733140530681,
+        "y": 1140.5612774115261
+      },
+      "size": {
+        "width": 47.33993405818528,
+        "height": 54.23871841842333
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-1",
+      "visualKind": "stickyNote",
+      "title": "We raise conflicts within 48h, not weeks later."
+    },
+    {
+      "id": "n-201",
+      "position": {
+        "x": 1106.433379994879,
+        "y": 1059.9277899404524
+      },
+      "size": {
+        "width": 47.33993405818528,
+        "height": 54.23871841842333
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-1",
+      "visualKind": "stickyNote",
+      "title": "We listen fully before responding."
+    },
+    {
+      "id": "n-202",
+      "position": {
+        "x": 1350.0427399456157,
+        "y": 1088.3265915472393
+      },
+      "size": {
+        "width": 47.33993405818528,
+        "height": 54.23871841842333
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-1",
+      "visualKind": "stickyNote",
+      "title": "We seek win–win solutions, not just compromises."
+    },
+    {
+      "id": "n-203",
+      "position": {
+        "x": 1010.4215170727249,
+        "y": 1059.9277899404524
+      },
+      "size": {
+        "width": 47.33993405818528,
+        "height": 54.23871841842333
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-1",
+      "visualKind": "stickyNote",
+      "title": "We assume good intent before judging."
+    },
+    {
+      "id": "n-204",
+      "position": {
+        "x": 1325.3710432341059,
+        "y": 944.4302402171651
+      },
+      "size": {
+        "width": 47.33993405818528,
+        "height": 54.23871841842333
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-1",
+      "visualKind": "stickyNote",
+      "title": "We thank teammates for being honest."
+    },
+    {
+      "id": "n-205",
+      "position": {
+        "x": 857.8378867674793,
+        "y": 662.0290124666116
+      },
+      "size": {
+        "width": 47.33993405818528,
+        "height": 54.23871841842333
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-1",
+      "visualKind": "stickyNote",
+      "title": "We give feedback immediately and 1:1."
+    },
+    {
+      "id": "n-206",
+      "position": {
+        "x": 184.85960286813514,
+        "y": 198.64503525259886
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[dot_voting]"
+    },
+    {
+      "id": "n-207",
+      "position": {
+        "x": 794.5137649646232,
+        "y": 662.0290124666116
+      },
+      "size": {
+        "width": 47.33993405818528,
+        "height": 54.23871841842333
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-1",
+      "visualKind": "stickyNote",
+      "title": "We ask for feedback after completing tasks."
+    },
+    {
+      "id": "n-208",
+      "position": {
+        "x": 799.4776490706964,
+        "y": 779.6748946939432
+      },
+      "size": {
+        "width": 47.33993405818528,
+        "height": 54.23871841842333
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-1",
+      "visualKind": "stickyNote",
+      "title": "We share mistakes openly in retrospectives."
+    },
+    {
+      "id": "n-209",
+      "position": {
+        "x": 878.144007224818,
+        "y": 811.583253464736
+      },
+      "size": {
+        "width": 47.33993405818528,
+        "height": 54.23871841842333
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-1",
+      "visualKind": "stickyNote",
+      "title": "We treat mistakes as learning opportunities."
+    },
+    {
+      "id": "n-210",
+      "position": {
+        "x": 1001.8151080074196,
+        "y": 807.9122927052157
+      },
+      "size": {
+        "width": 47.33993405818528,
+        "height": 54.23871841842333
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-1",
+      "visualKind": "stickyNote",
+      "title": "We dedicate 2h/month for shared learning."
+    },
+    {
+      "id": "n-211",
+      "position": {
+        "x": 169.645035252593,
+        "y": 194.21068862729223
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[dot_voting]"
+    },
+    {
+      "id": "n-212",
+      "position": {
+        "x": 830.8040731666325,
+        "y": 890.1915217987424
+      },
+      "size": {
+        "width": 47.33993405818528,
+        "height": 54.23871841842333
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-1",
+      "visualKind": "stickyNote",
+      "title": "We share learnings from trainings with the team."
+    },
+    {
+      "id": "n-213",
+      "position": {
+        "x": 972.6067046405652,
+        "y": 681.4725642506681
+      },
+      "size": {
+        "width": 47.33993405818528,
+        "height": 54.23871841842333
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-1",
+      "visualKind": "stickyNote",
+      "title": "We celebrate personal development milestones."
+    },
+    {
+      "id": "n-214",
+      "position": {
+        "x": 1036.8817002250098,
+        "y": 729.7542722701518
+      },
+      "size": {
+        "width": 47.33993405818528,
+        "height": 54.23871841842333
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-1",
+      "visualKind": "stickyNote",
+      "title": "We reflect as a team after every project."
+    },
+    {
+      "id": "n-215",
+      "position": {
+        "x": 917.0567354298647,
+        "y": 901.3683935235821
+      },
+      "size": {
+        "width": 47.33993405818528,
+        "height": 54.23871841842333
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-1",
+      "visualKind": "stickyNote",
+      "title": "We use retrospectives to suggest improvements."
+    },
+    {
+      "id": "n-216",
+      "position": {
+        "x": 1437.3859793310212,
+        "y": 912.2998303789617
+      },
+      "size": {
+        "width": 47.33993405818528,
+        "height": 54.23871841842333
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-1",
+      "visualKind": "stickyNote",
+      "title": "We offer help when someone is overloaded."
+    },
+    {
+      "id": "n-217",
+      "position": {
+        "x": 1480.999255562455,
+        "y": 705.6767703268669
+      },
+      "size": {
+        "width": 47.33993405818528,
+        "height": 54.23871841842333
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-1",
+      "visualKind": "stickyNote",
+      "title": "We celebrate small wins in our chat."
+    },
+    {
+      "id": "n-218",
+      "position": {
+        "x": 1605.6481156758155,
+        "y": 664.4946856303958
+      },
+      "size": {
+        "width": 47.33993405818528,
+        "height": 54.23871841842333
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-1",
+      "visualKind": "stickyNote",
+      "title": "We share useful resources openly with the team."
+    },
+    {
+      "id": "n-219",
+      "position": {
+        "x": 1528.3391896206367,
+        "y": 843.2740379113446
+      },
+      "size": {
+        "width": 47.33993405818528,
+        "height": 54.23871841842333
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-1",
+      "visualKind": "stickyNote",
+      "title": "We give credit publicly for contributions."
+    },
+    {
+      "id": "n-220",
+      "position": {
+        "x": 1642.2125538558748,
+        "y": 753.6735742867921
+      },
+      "size": {
+        "width": 47.33993405818528,
+        "height": 54.23871841842333
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-1",
+      "visualKind": "stickyNote",
+      "title": "We ask for help early, not last minute."
+    },
+    {
+      "id": "n-221",
+      "position": {
+        "x": 1627.0188475116147,
+        "y": 862.7484380691366
+      },
+      "size": {
+        "width": 47.33993405818528,
+        "height": 54.23871841842333
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-1",
+      "visualKind": "stickyNote",
+      "title": "We cover for teammates when they’re absent."
+    },
+    {
+      "id": "n-222",
+      "position": {
+        "x": 1549.4846171538948,
+        "y": 944.4302402171651
+      },
+      "size": {
+        "width": 47.33993405818528,
+        "height": 54.23871841842333
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-1",
+      "visualKind": "stickyNote",
+      "title": "We check in on each other’s workload."
+    },
+    {
+      "id": "n-223",
+      "position": {
+        "x": 1415.4911441933027,
+        "y": 832.9963783675365
+      },
+      "size": {
+        "width": 47.33993405818528,
+        "height": 54.23871841842333
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-1",
+      "visualKind": "stickyNote",
+      "title": "We recognize effort, not just outcomes."
+    },
+    {
+      "id": "n-224",
+      "position": {
+        "x": 1497.673676323392,
+        "y": 1007.3691269433974
+      },
+      "size": {
+        "width": 47.33993405818528,
+        "height": 54.23871841842333
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-1",
+      "visualKind": "stickyNote",
+      "title": "We pair up for complex tasks."
+    },
+    {
+      "id": "n-225",
+      "position": {
+        "x": 1558.30818161763,
+        "y": 718.7334040488203
+      },
+      "size": {
+        "width": 47.33993405818528,
+        "height": 54.23871841842333
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-1",
+      "visualKind": "stickyNote",
+      "title": "We share successes across teams, not just internally."
+    },
+    {
+      "id": "n-226",
+      "position": {
+        "x": 1301.7146570273135,
+        "y": 340.9443646855224
+      },
+      "size": {
+        "width": 47.33993405818528,
+        "height": 54.23871841842333
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-1",
+      "visualKind": "stickyNote",
+      "title": "We start and end meetings on time."
+    },
+    {
+      "id": "n-227",
+      "position": {
+        "x": 1387.6781867158124,
+        "y": 353.61269634172174
+      },
+      "size": {
+        "width": 47.33993405818528,
+        "height": 54.23871841842333
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-1",
+      "visualKind": "stickyNote",
+      "title": "We share the agenda at least 24h in advance."
+    },
+    {
+      "id": "n-228",
+      "position": {
+        "x": 1301.7146570273135,
+        "y": 441.91894631707953
+      },
+      "size": {
+        "width": 47.33993405818528,
+        "height": 54.23871841842333
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-1",
+      "visualKind": "stickyNote",
+      "title": "We rotate the facilitator for recurring meetings."
+    },
+    {
+      "id": "n-229",
+      "position": {
+        "x": 1377.6225889698317,
+        "y": 517.1920936478608
+      },
+      "size": {
+        "width": 47.33993405818528,
+        "height": 54.23871841842333
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-1",
+      "visualKind": "stickyNote",
+      "title": "We end every meeting with clear action items."
+    },
+    {
+      "id": "n-230",
+      "position": {
+        "x": 1566.3189497013473,
+        "y": 517.1920936478608
+      },
+      "size": {
+        "width": 47.33993405818528,
+        "height": 54.23871841842333
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-1",
+      "visualKind": "stickyNote",
+      "title": "We keep cameras on during online meetings (unless agreed otherwise)."
+    },
+    {
+      "id": "n-231",
+      "position": {
+        "x": 1539.8698538078888,
+        "y": 417.187328962057
+      },
+      "size": {
+        "width": 47.33993405818528,
+        "height": 54.23871841842333
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-1",
+      "visualKind": "stickyNote",
+      "title": "We cancel meetings without a clear purpose."
+    },
+    {
+      "id": "n-232",
+      "position": {
+        "x": 1402.0543912317507,
+        "y": 611.2537929473682
+      },
+      "size": {
+        "width": 47.33993405818528,
+        "height": 54.23871841842333
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-1",
+      "visualKind": "stickyNote",
+      "title": "We keep meetings under 60 minutes."
+    },
+    {
+      "id": "n-233",
+      "position": {
+        "x": 1510.9682475594445,
+        "y": 476.2973457532115
+      },
+      "size": {
+        "width": 47.33993405818528,
+        "height": 54.23871841842333
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-1",
+      "visualKind": "stickyNote",
+      "title": "We respect “no meeting” focus hours."
+    },
+    {
+      "id": "n-234",
+      "position": {
+        "x": 1444.2447574754979,
+        "y": 395.18308310394593
+      },
+      "size": {
+        "width": 47.33993405818528,
+        "height": 54.23871841842333
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-1",
+      "visualKind": "stickyNote",
+      "title": "We ensure everyone has equal time to speak."
+    },
+    {
+      "id": "n-235",
+      "position": {
+        "x": 1492.5299197497034,
+        "y": 588.7141922125219
+      },
+      "size": {
+        "width": 47.33993405818528,
+        "height": 54.23871841842333
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-1",
+      "visualKind": "stickyNote",
+      "title": "We share meeting notes immediately after."
+    },
+    {
+      "id": "n-236",
+      "position": {
+        "x": 159.80061428315724,
+        "y": 178.26159310250682
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[dot_voting]"
+    },
+    {
+      "id": "n-237",
+      "position": {
+        "x": 151.44360774039183,
+        "y": 198.60376285383956
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[dot_voting]"
+    },
+    {
+      "id": "n-238",
+      "position": {
+        "x": 142.2503616381688,
+        "y": 176.06331679444156
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[dot_voting]"
+    },
+    {
+      "id": "n-239",
+      "position": {
+        "x": 137.55784979163127,
+        "y": 168.4204882958113
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[dot_voting]"
+    },
+    {
+      "id": "n-240",
+      "position": {
+        "x": 153.86408251046365,
+        "y": 197.93715343972661
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[dot_voting]"
+    },
+    {
+      "id": "n-241",
+      "position": {
+        "x": 157.02054037573356,
+        "y": 150.457624384841
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[dot_voting]"
+    },
+    {
+      "id": "n-242",
+      "position": {
+        "x": 153.10761994505214,
+        "y": 120.45591547835103
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[dot_voting]"
+    },
+    {
+      "id": "n-243",
+      "position": {
+        "x": 136.39838261598834,
+        "y": 213.65723798224428
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[dot_voting]"
+    },
+    {
+      "id": "n-244",
+      "position": {
+        "x": 177.79754403154365,
+        "y": 108.97018257893272
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[dot_voting]"
+    },
+    {
+      "id": "n-245",
+      "position": {
+        "x": 170.25735292584557,
+        "y": 192.6951155604663
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[dot_voting]"
+    },
+    {
+      "id": "n-246",
+      "position": {
+        "x": 95.14232891382528,
+        "y": 188.9323928200982
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[dot_voting]"
+    },
+    {
+      "id": "n-247",
+      "position": {
+        "x": 146.56090667371285,
+        "y": 190.0164459318673
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[dot_voting]"
+    },
+    {
+      "id": "n-248",
+      "position": {
+        "x": 164.0810192085686,
+        "y": 199.2612634543242
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[dot_voting]"
+    },
+    {
+      "id": "n-249",
+      "position": {
+        "x": 23.909267057346867,
+        "y": 100.50889248483853
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[dot_voting]"
+    },
+    {
+      "id": "n-250",
+      "position": {
+        "x": 159.47303800762322,
+        "y": 220.18982547573086
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[dot_voting]"
+    },
+    {
+      "id": "n-251",
+      "position": {
+        "x": 165.70579686815122,
+        "y": 53.98526925724806
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[dot_voting]"
+    },
+    {
+      "id": "n-252",
+      "position": {
+        "x": 179.22673395517958,
+        "y": 207.8869838416627
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[dot_voting]"
+    },
+    {
+      "id": "n-253",
+      "position": {
+        "x": 100.34392984008349,
+        "y": 179.07083202161323
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[dot_voting]"
+    },
+    {
+      "id": "n-254",
+      "position": {
+        "x": 184.87637371757063,
+        "y": 207.60382831409515
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[dot_voting]"
+    },
+    {
+      "id": "n-255",
+      "position": {
+        "x": 185.91360012989236,
+        "y": 171.993641245766
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[dot_voting]"
+    },
+    {
+      "id": "n-256",
+      "position": {
+        "x": 179.8349759500257,
+        "y": 144.10618615653738
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[dot_voting]"
+    },
+    {
+      "id": "n-257",
+      "position": {
+        "x": 185.94090281085573,
+        "y": 185.34187988979465
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[dot_voting]"
+    },
+    {
+      "id": "n-258",
+      "position": {
+        "x": 169.60265389998557,
+        "y": 201.26004696836634
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[dot_voting]"
+    },
+    {
+      "id": "n-259",
+      "position": {
+        "x": 142.98726507091953,
+        "y": 186.04676177637435
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[dot_voting]"
+    },
+    {
+      "id": "n-260",
+      "position": {
+        "x": 50.93001631917083,
+        "y": 193.90370124674104
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[dot_voting]"
+    },
+    {
+      "id": "n-261",
+      "position": {
+        "x": 158.3251892298597,
+        "y": 190.75452066227916
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[dot_voting]"
+    },
+    {
+      "id": "n-262",
+      "position": {
+        "x": 147.79961038992008,
+        "y": 209.5099660393813
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[dot_voting]"
+    },
+    {
+      "id": "n-263",
+      "position": {
+        "x": 18.255502227144746,
+        "y": 216.39347769579402
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[dot_voting]"
+    },
+    {
+      "id": "n-264",
+      "position": {
+        "x": 15.671239675818128,
+        "y": 208.6982502949641
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[dot_voting]"
+    },
+    {
+      "id": "n-265",
+      "position": {
+        "x": 170.82394334747949,
+        "y": 206.0361978205536
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[dot_voting]"
+    },
+    {
+      "id": "n-266",
+      "position": {
+        "x": 158.3686337585574,
+        "y": 208.27601218511174
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[dot_voting]"
+    },
+    {
+      "id": "n-267",
+      "position": {
+        "x": 25.90830366849491,
+        "y": 211.0621366306048
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[dot_voting]"
+    },
+    {
+      "id": "n-268",
+      "position": {
+        "x": 158.01766830019375,
+        "y": 192.80900865573432
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[dot_voting]"
+    },
+    {
+      "id": "n-269",
+      "position": {
+        "x": 186.21359484590226,
+        "y": 202.9995268019561
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[dot_voting]"
+    },
+    {
+      "id": "n-270",
+      "position": {
+        "x": 167.0108324547782,
+        "y": 56.3658254092451
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[dot_voting]"
+    },
+    {
+      "id": "n-271",
+      "position": {
+        "x": 25.96570238002799,
+        "y": 202.98771991255094
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[dot_voting]"
+    },
+    {
+      "id": "n-272",
+      "position": {
+        "x": 155.25267772651608,
+        "y": 213.10467097736142
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[dot_voting]"
+    },
+    {
+      "id": "n-273",
+      "position": {
+        "x": 185.79698078457804,
+        "y": 187.2368531893095
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[dot_voting]"
+    },
+    {
+      "id": "n-274",
+      "position": {
+        "x": 159.36535991976197,
+        "y": 195.1995422199716
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[dot_voting]"
+    },
+    {
+      "id": "n-275",
+      "position": {
+        "x": 17851.79053559547,
+        "y": 6709.916564263143
+      },
+      "size": {
+        "width": 470.4405139174849
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#268f88",
+        "fontFamily": "caveat",
+        "align": "center"
+      },
+      "visualKind": "text",
+      "title": "<p><strong>Push Run for writing your Team Agreement Rituals Implementation Guide</strong></p>"
+    },
+    {
+      "id": "n-276",
+      "position": {
+        "x": 1088.6314448954172,
+        "y": 964.9426276433904
+      },
+      "size": {
+        "width": 775.6597399537147
+      },
+      "style": {
+        "fontSize": 28,
+        "textColor": "#268f88",
+        "fontFamily": "spoof",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "text",
+      "title": "<p><strong>Psychological Safety Coach Ideas</strong></p>"
+    },
+    {
+      "id": "n-277",
+      "position": {
+        "x": 558.6879375160526,
+        "y": 1064.4863397352847
+      },
+      "size": {
+        "width": 50.696148378115105,
+        "height": 54.07589160332278
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ_mR20Y%3D/resources/images/3458764517237043759?format=preview&redirect=false"
+        }
+      },
+      "frameId": "f-0",
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-278",
+      "position": {
+        "x": 9806.327205797721,
+        "y": 6656.974593115525
+      },
+      "size": {
+        "width": 1471.8467611112903
+      },
+      "style": {
+        "fontSize": 192,
+        "textColor": "#1a1a1a",
+        "fontFamily": "caveat",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p>Loom instructions</p>"
+    },
+    {
+      "id": "n-279",
+      "position": {
+        "x": 12986.816085591625,
+        "y": 6699.515334017961
+      },
+      "size": {
+        "width": 165.0502108586546
+      },
+      "style": {
+        "fontSize": 17,
+        "textColor": "#268f88",
+        "fontFamily": "caveat",
+        "align": "center"
+      },
+      "visualKind": "text",
+      "title": "<p><strong>You can adjust the prompt!</strong></p>"
+    },
+    {
+      "id": "n-280",
+      "position": {
+        "x": 12435.548949558299,
+        "y": 6483.137352337984
+      },
+      "size": {
+        "width": 264.0803373738474
+      },
+      "style": {
+        "fontSize": 17,
+        "textColor": "#268f88",
+        "fontFamily": "caveat",
+        "align": "center"
+      },
+      "visualKind": "text",
+      "title": "<p><strong>Need slides or anything else? </strong></p><p><strong>Click on the Frame, then find the diamond!</strong></p>"
+    },
+    {
+      "id": "n-281",
+      "position": {
+        "x": 16215.439877390385,
+        "y": 6489.011452062365
+      },
+      "size": {
+        "width": 264.0803373738474
+      },
+      "style": {
+        "fontSize": 17,
+        "textColor": "#268f88",
+        "fontFamily": "caveat",
+        "align": "center"
+      },
+      "visualKind": "text",
+      "title": "<p><strong>Need slides or anything else? </strong></p><p><strong>Click on the Frame, then find the diamond!</strong></p>"
+    },
+    {
+      "id": "n-282",
+      "position": {
+        "x": 16746.160329236634,
+        "y": 6709.21141352529
+      },
+      "size": {
+        "width": 165.0502108586546
+      },
+      "style": {
+        "fontSize": 17,
+        "textColor": "#268f88",
+        "fontFamily": "caveat",
+        "align": "center"
+      },
+      "visualKind": "text",
+      "title": "<p><strong>You can adjust the prompt!</strong></p>"
+    },
+    {
+      "id": "n-283",
+      "position": {
+        "x": 1688.154474735812,
+        "y": 1085.228464596783
+      },
+      "size": {
+        "width": 388.1434877515432,
+        "height": 283.8106181089493
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#268f88",
+        "textColor": "#1a1a1a",
+        "fontSize": 26,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-0",
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-284",
+      "position": {
+        "x": 1688.154474735812,
+        "y": 960.4411025044018
+      },
+      "size": {
+        "width": 388.1434877421786
+      },
+      "style": {
+        "fontSize": 28,
+        "textColor": "#268f88",
+        "fontFamily": "spoof",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "text",
+      "title": "<p><strong>Voted ideas</strong></p>"
+    },
+    {
+      "id": "n-285",
+      "position": {
+        "x": 1617.8336953106364,
+        "y": 1034.1076258022467
+      },
+      "size": {
+        "width": 44.05353997597736,
+        "height": 50.4734025855419
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "stickyNote",
+      "title": "<strong>Appreciation Circle</strong><br /><br />End meetings with 2 minutes where team members acknowledge specific contributions. &#34;I appreciated when you...&#34; format focuses on behaviors not personalities. Reinforces psychological safety and builds trust through regular positive recognition."
+    },
+    {
+      "id": "n-286",
+      "position": {
+        "x": 1670.339010270075,
+        "y": 1035.9902837186883
+      },
+      "size": {
+        "width": 47.33993405818528,
+        "height": 54.23871841842333
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "stickyNote",
+      "title": "Implement a Red/Yellow/Green Check-in at the start of meetings to gauge emotional temperature."
+    },
+    {
+      "id": "n-287",
+      "position": {
+        "x": 1568.614774433404,
+        "y": 1094.6343561347094
+      },
+      "size": {
+        "width": 47.33993405818528,
+        "height": 54.23871841842333
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "stickyNote",
+      "title": "Use a Conflict Resolution Protocol with &#39;I noticed... I felt... I need...&#39; framework."
+    },
+    {
+      "id": "n-288",
+      "position": {
+        "x": 1778.636034271166,
+        "y": 1094.6343561347094
+      },
+      "size": {
+        "width": 47.33993405818528,
+        "height": 54.23871841842333
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "stickyNote",
+      "title": "Rotate an Agreement Guardian Role to remind the team of agreements."
+    },
+    {
+      "id": "n-289",
+      "position": {
+        "x": 1622.7632864339494,
+        "y": 1153.2784285507296
+      },
+      "size": {
+        "width": 47.33993405818528,
+        "height": 54.23871841842333
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "stickyNote",
+      "title": "Rotate meeting roles such as facilitator and timekeeper."
+    },
+    {
+      "id": "n-290",
+      "position": {
+        "x": 170.37334490355022,
+        "y": 25.111755643381287
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[dot_voting]"
+    },
+    {
+      "id": "n-291",
+      "position": {
+        "x": 168.86074162660725,
+        "y": 179.78048272245871
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[dot_voting]"
+    },
+    {
+      "id": "n-292",
+      "position": {
+        "x": 170.1264744948505,
+        "y": 21.026683699825995
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[dot_voting]"
+    },
+    {
+      "id": "n-293",
+      "position": {
+        "x": 181.52245356098294,
+        "y": 200.0286847346207
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[dot_voting]"
+    },
+    {
+      "id": "n-294",
+      "position": {
+        "x": 187.2179250420051,
+        "y": 181.02197653196788
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[dot_voting]"
+    },
+    {
+      "id": "n-295",
+      "position": {
+        "x": 20.886831390341897,
+        "y": 34.435582372874194
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[dot_voting]"
+    },
+    {
+      "id": "n-296",
+      "position": {
+        "x": 180.50809955886686,
+        "y": 21.3290519266301
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[dot_voting]"
+    },
+    {
+      "id": "n-297",
+      "position": {
+        "x": 172.08901600625927,
+        "y": 179.9868825866596
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[dot_voting]"
+    },
+    {
+      "id": "n-298",
+      "position": {
+        "x": 192.3519224840159,
+        "y": 106.59290762708095
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[dot_voting]"
+    },
+    {
+      "id": "n-299",
+      "position": {
+        "x": 189.85401647493183,
+        "y": 94.17120648076205
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[dot_voting]"
+    },
+    {
+      "id": "n-300",
+      "position": {
+        "x": 188.8032686521397,
+        "y": 34.61331526259818
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[dot_voting]"
+    },
+    {
+      "id": "n-301",
+      "position": {
+        "x": 185.91863825315437,
+        "y": 98.59890656232572
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[dot_voting]"
+    },
+    {
+      "id": "n-302",
+      "position": {
+        "x": 1087.508178144467,
+        "y": 1091.5233022973362
+      },
+      "size": {
+        "width": 786.2698246919393,
+        "height": 283.8106181089493
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#268f88",
+        "textColor": "#1a1a1a",
+        "fontSize": 26,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-2",
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-303",
+      "position": {
+        "x": 111.35499482431544,
+        "y": 1153.283003227897
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "frameId": "f-2",
+      "visualKind": "shape",
+      "title": "[dot_voting]"
+    },
+    {
+      "id": "n-304",
+      "position": {
+        "x": 442.4475237665275,
+        "y": 1150.346572160558
+      },
+      "size": {
+        "width": 308.1230453176931
+      },
+      "style": {
+        "fontSize": 28,
+        "textColor": "#268f88",
+        "fontFamily": "caveat",
+        "align": "center"
+      },
+      "frameId": "f-2",
+      "visualKind": "text",
+      "title": "<p><strong>Use Psychological</strong></p><p><strong>safety Coach Sidekick</strong></p><p><strong>for new ideas!</strong></p>"
+    },
+    {
+      "id": "n-305",
+      "position": {
+        "x": 1092.8132205162028,
+        "y": 971.2374653439427
+      },
+      "size": {
+        "width": 775.6597399537147
+      },
+      "style": {
+        "fontSize": 28,
+        "textColor": "#268f88",
+        "fontFamily": "spoof",
+        "align": "center"
+      },
+      "frameId": "f-2",
+      "visualKind": "text",
+      "title": "<p><strong>Psychological Safety Coach Ideas</strong></p>"
+    },
+    {
+      "id": "n-306",
+      "position": {
+        "x": 562.8697131368418,
+        "y": 1070.781177435838
+      },
+      "size": {
+        "width": 50.696148378115105,
+        "height": 54.07589160332278
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ_mR20Y%3D/resources/images/3458764517237043759?format=preview&redirect=false"
+        }
+      },
+      "frameId": "f-2",
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-307",
+      "position": {
+        "x": 1692.3362503565977,
+        "y": 1091.5233022973362
+      },
+      "size": {
+        "width": 388.1434877515432,
+        "height": 283.8106181089493
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#268f88",
+        "textColor": "#1a1a1a",
+        "fontSize": 26,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-2",
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-308",
+      "position": {
+        "x": 1692.3362503565977,
+        "y": 966.735940204955
+      },
+      "size": {
+        "width": 388.1434877421786
+      },
+      "style": {
+        "fontSize": 28,
+        "textColor": "#268f88",
+        "fontFamily": "spoof",
+        "align": "center"
+      },
+      "frameId": "f-2",
+      "visualKind": "text",
+      "title": "<p><strong>Voted ideas</strong></p>"
+    },
+    {
+      "id": "n-309",
+      "position": {
+        "x": 646.428039303672,
+        "y": 332.22889031901866
+      },
+      "size": {
+        "width": 1063.2573616559735,
+        "height": 492.1718646727846
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "frameId": "f-4",
+      "visualKind": "shape",
+      "title": "Team Agreement Workshop AI"
+    },
+    {
+      "id": "n-310",
+      "position": {
+        "x": 1204.1300476594702,
+        "y": 39.368605450082555
+      },
+      "size": {
+        "width": 106.93420410067995,
+        "height": 28.394478528902297
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ_mR20Y%3D/resources/images/3458764517237043755?format=preview&redirect=false"
+        }
+      },
+      "frameId": "f-4",
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-311",
+      "position": {
+        "x": 646.428039303672,
+        "y": 899.7554736869
+      },
+      "size": {
+        "width": 1292.856078607344,
+        "height": 23.568978941523756
+      },
+      "style": {
+        "fillColor": "#268f88",
+        "borderColor": "#ffffff",
+        "textColor": "#ffffff",
+        "fontSize": 18,
+        "fontFamily": "roboto",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-4",
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-312",
+      "position": {
+        "x": 217.94648940457455,
+        "y": 626.331335830809
+      },
+      "size": {
+        "width": 201.42429014132094
+      },
+      "style": {
+        "fontSize": 15,
+        "textColor": "#1a1a1a",
+        "fontFamily": "spoof",
+        "align": "left"
+      },
+      "frameId": "f-4",
+      "visualKind": "text",
+      "title": "<p><strong>Team agreement</strong></p>"
+    },
+    {
+      "id": "n-313",
+      "position": {
+        "x": 299.32905345373047,
+        "y": 732.9263538740491
+      },
+      "size": {
+        "width": 364.18941823552456
+      },
+      "style": {
+        "fontSize": 10,
+        "textColor": "#1a1a1a",
+        "fontFamily": "spoof",
+        "align": "left"
+      },
+      "frameId": "f-4",
+      "visualKind": "text",
+      "title": "<p>Plan about 45 minutes to complete the first frame.</p><p><br /> Agree on the focus areas with your team before the workshop.</p><p><br /> Give everyone 3–5 minutes per area to write down their agreements.</p><p><br /> Once that’s done, read them aloud, group similar ones together if needed, and vote using dots or the voting tool.</p><p><br /></p><p>When you’re ready, just press <strong>Run</strong> — the team agreement will be generated automatically.</p>"
+    },
+    {
+      "id": "n-314",
+      "position": {
+        "x": 887.1856724409558,
+        "y": 626.331335830809
+      },
+      "size": {
+        "width": 201.42429014132094
+      },
+      "style": {
+        "fontSize": 15,
+        "textColor": "#1a1a1a",
+        "fontFamily": "spoof",
+        "align": "left"
+      },
+      "frameId": "f-4",
+      "visualKind": "text",
+      "title": "<p><strong>Team rituals</strong></p>"
+    },
+    {
+      "id": "n-315",
+      "position": {
+        "x": 968.5682364901118,
+        "y": 758.6032743171903
+      },
+      "size": {
+        "width": 364.18941823552456
+      },
+      "style": {
+        "fontSize": 10,
+        "textColor": "#1a1a1a",
+        "fontFamily": "spoof",
+        "align": "left"
+      },
+      "frameId": "f-4",
+      "visualKind": "text",
+      "title": "<p>Plan about 20 minutes for the second frame.</p><p><br /></p><p>If the team is already working together, keep the <strong>Continue</strong> frame; otherwise remove it before the workshop.</p><p><br /></p><p>Give everyone 3–5 minutes to write ideas on how you can live your team agreement day to day.</p><p><br /></p><p>Read them aloud, group similar ones if needed, then vote using dots or the voting tool.</p><p><br /></p><p>Move the winning items into the box labeled <strong>Voted ideas</strong>.</p><p><br /></p><p>When you’re ready, press <strong>Run</strong>—you’ll get a clear step-by-step implementation for the voted ideas.</p>"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e-0",
+      "sourceNodeId": "n-11",
+      "targetNodeId": "n-12",
+      "style": {
+        "lineStyle": "dotted",
+        "arrowHead": "none",
+        "borderColor": "#268f88",
+        "strokeWidth": "3.0",
+        "extra": {
+          "connectorShape": "straight",
+          "sourcePosition": "auto",
+          "targetPosition": "auto"
+        }
+      }
+    },
+    {
+      "id": "e-1",
+      "sourceNodeId": "n-11",
+      "targetNodeId": "n-12",
+      "style": {
+        "lineStyle": "dotted",
+        "arrowHead": "none",
+        "borderColor": "#268f88",
+        "strokeWidth": "3.0",
+        "extra": {
+          "connectorShape": "straight",
+          "sourcePosition": "auto",
+          "targetPosition": "auto"
+        }
+      }
+    },
+    {
+      "id": "e-2",
+      "sourceNodeId": "n-11",
+      "targetNodeId": "n-12",
+      "style": {
+        "lineStyle": "dotted",
+        "arrowHead": "none",
+        "borderColor": "#268f88",
+        "strokeWidth": "3.0",
+        "extra": {
+          "connectorShape": "straight",
+          "sourcePosition": "auto",
+          "targetPosition": "auto"
+        }
+      }
+    },
+    {
+      "id": "e-3",
+      "sourceNodeId": "n-12",
+      "targetNodeId": "n-11",
+      "style": {
+        "lineStyle": "dotted",
+        "arrowHead": "none",
+        "borderColor": "#268f88",
+        "strokeWidth": "3.0",
+        "extra": {
+          "connectorShape": "straight",
+          "sourcePosition": "auto",
+          "targetPosition": "auto"
+        }
+      }
+    },
+    {
+      "id": "e-4",
+      "sourceNodeId": "n-12",
+      "targetNodeId": "n-11",
+      "style": {
+        "lineStyle": "dotted",
+        "arrowHead": "none",
+        "borderColor": "#268f88",
+        "strokeWidth": "3.0",
+        "extra": {
+          "connectorShape": "straight",
+          "sourcePosition": "auto",
+          "targetPosition": "auto"
+        }
+      }
+    },
+    {
+      "id": "e-5",
+      "sourceNodeId": "n-104",
+      "targetNodeId": "n-0",
+      "style": {
+        "lineStyle": "dashed",
+        "arrowHead": "end",
+        "borderColor": "#b0b0b0",
+        "strokeWidth": "2.0",
+        "extra": {
+          "connectorShape": "curved",
+          "sourcePosition": "auto",
+          "targetPosition": "auto"
+        }
+      }
+    },
+    {
+      "id": "e-6",
+      "sourceNodeId": "n-115",
+      "targetNodeId": "n-114",
+      "style": {
+        "lineStyle": "dashed",
+        "arrowHead": "end",
+        "borderColor": "#595959",
+        "strokeWidth": "2.0",
+        "extra": {
+          "connectorShape": "curved",
+          "sourcePosition": "auto",
+          "targetPosition": "auto"
+        }
+      }
+    },
+    {
+      "id": "e-7",
+      "sourceNodeId": "n-120",
+      "targetNodeId": "n-121",
+      "style": {
+        "lineStyle": "dotted",
+        "arrowHead": "none",
+        "borderColor": "#268f88",
+        "strokeWidth": "3.0",
+        "extra": {
+          "connectorShape": "straight",
+          "sourcePosition": "auto",
+          "targetPosition": "auto"
+        }
+      }
+    },
+    {
+      "id": "e-8",
+      "sourceNodeId": "n-120",
+      "targetNodeId": "n-121",
+      "style": {
+        "lineStyle": "dotted",
+        "arrowHead": "none",
+        "borderColor": "#268f88",
+        "strokeWidth": "3.0",
+        "extra": {
+          "connectorShape": "straight",
+          "sourcePosition": "auto",
+          "targetPosition": "auto"
+        }
+      }
+    },
+    {
+      "id": "e-9",
+      "sourceNodeId": "n-120",
+      "targetNodeId": "n-121",
+      "style": {
+        "lineStyle": "dotted",
+        "arrowHead": "none",
+        "borderColor": "#268f88",
+        "strokeWidth": "3.0",
+        "extra": {
+          "connectorShape": "straight",
+          "sourcePosition": "auto",
+          "targetPosition": "auto"
+        }
+      }
+    },
+    {
+      "id": "e-10",
+      "sourceNodeId": "n-121",
+      "targetNodeId": "n-120",
+      "style": {
+        "lineStyle": "dotted",
+        "arrowHead": "none",
+        "borderColor": "#268f88",
+        "strokeWidth": "3.0",
+        "extra": {
+          "connectorShape": "straight",
+          "sourcePosition": "auto",
+          "targetPosition": "auto"
+        }
+      }
+    },
+    {
+      "id": "e-11",
+      "sourceNodeId": "n-121",
+      "targetNodeId": "n-120",
+      "style": {
+        "lineStyle": "dotted",
+        "arrowHead": "none",
+        "borderColor": "#268f88",
+        "strokeWidth": "3.0",
+        "extra": {
+          "connectorShape": "straight",
+          "sourcePosition": "auto",
+          "targetPosition": "auto"
+        }
+      }
+    },
+    {
+      "id": "e-12",
+      "sourceNodeId": "n-304",
+      "targetNodeId": "n-302",
+      "style": {
+        "lineStyle": "dashed",
+        "arrowHead": "end",
+        "borderColor": "#b0b0b0",
+        "strokeWidth": "2.0",
+        "extra": {
+          "connectorShape": "curved",
+          "sourcePosition": "auto",
+          "targetPosition": "auto"
+        }
+      }
+    }
+  ],
+  "annotations": [],
+  "_metadata": {
+    "extracted_at": "2026-02-23T13:00:07.649092",
+    "total_items": 321,
+    "total_connectors": 19,
+    "frames": 5,
+    "nodes": 316,
+    "edges": 13
+  },
+  "_template": {
+    "name": "team-agreement-rituals-workshop",
+    "category": "miroverse",
+    "source": "miroverse",
+    "source_slug": "team-agreement-rituals-workshop",
+    "source_board_id": "uXjVJ_mR20Y=",
+    "tags": [
+      "miro experts",
+      "meetings & workshops",
+      "team building",
+      "ai accelerated",
+      "facilitator"
+    ],
+    "extracted_at": "2026-02-23T13:00:07.649159"
+  }
+}

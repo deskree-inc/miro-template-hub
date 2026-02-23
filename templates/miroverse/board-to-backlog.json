@@ -1,0 +1,1629 @@
+{
+  "frames": [
+    {
+      "id": "f-0",
+      "title": "DROP BOX",
+      "position": {
+        "x": -2285.1640161362902,
+        "y": -4649.654357033314
+      },
+      "size": {
+        "width": 1025.6005283713737,
+        "height": 1724.6297554954597
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-1",
+      "title": "DROP BOX",
+      "position": {
+        "x": 3430.9847723983844,
+        "y": -4649.654357033314
+      },
+      "size": {
+        "width": 1025.6005283713737,
+        "height": 1724.6297554954597
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    }
+  ],
+  "nodes": [
+    {
+      "id": "n-0",
+      "position": {
+        "x": -849.9706602157939,
+        "y": -3392.5692215324643
+      },
+      "size": {
+        "width": 4440.687380021628,
+        "height": 5273.149471521911
+      },
+      "style": {
+        "fillColor": "#f4f4f4",
+        "borderColor": "#ffffff",
+        "textColor": "#ffffff",
+        "fontSize": 64,
+        "fontFamily": "noto_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-1",
+      "position": {
+        "x": -1568.0443633458535,
+        "y": -5511.969234781044
+      },
+      "size": {
+        "width": 784.0,
+        "height": 1954.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "<h1></h1>"
+    },
+    {
+      "id": "n-2",
+      "position": {
+        "x": -2723.255115865476,
+        "y": -5794.957753068118
+      },
+      "size": {
+        "width": 169.2711410359006,
+        "height": 165.61946213368998
+      },
+      "style": {
+        "fillColor": "#1a1a1a",
+        "borderColor": "#ffffff",
+        "textColor": "#ffffff",
+        "fontSize": 64,
+        "fontFamily": "noto_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "circle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": "<p><strong style=\"color:rgb(255,255,255)\">1</strong></p>"
+    },
+    {
+      "id": "n-3",
+      "position": {
+        "x": -2224.898843374136,
+        "y": -5755.045523139725
+      },
+      "size": {
+        "width": 772.7142857142858
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#1a1a1a",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p>Begin the process by capturing all thoughts, user feedback, and team ideas as individual sticky notes. Drop them into the designated Miro frame to create a centralized pool of unstructured insights.</p>"
+    },
+    {
+      "id": "n-4",
+      "position": {
+        "x": -2247.1687104533785,
+        "y": -5835.976530886815
+      },
+      "size": {
+        "width": 738.9091298057142
+      },
+      "style": {
+        "fontSize": 48,
+        "textColor": "#1a1a1a",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong>Capture Raw Insights</strong></p>"
+    },
+    {
+      "id": "n-5",
+      "position": {
+        "x": -978.511878243716,
+        "y": -5757.168201141928
+      },
+      "size": {
+        "width": 772.7142857142858
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#1a1a1a",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p>Run the flow below. The AI will analyze, theme, and synthesize the raw ideas into a coherent, structured Product Requirements Document (PRD).</p>"
+    },
+    {
+      "id": "n-6",
+      "position": {
+        "x": -1000.7817453229591,
+        "y": -5825.242066031876
+      },
+      "size": {
+        "width": 738.9091298057142
+      },
+      "style": {
+        "fontSize": 48,
+        "textColor": "#1a1a1a",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong>Generate a Structured PRD</strong></p>"
+    },
+    {
+      "id": "n-7",
+      "position": {
+        "x": 135.62097804692598,
+        "y": -5744.311058284785
+      },
+      "size": {
+        "width": 772.7142857142858
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#1a1a1a",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p>The generated PRD will be used as the input for the next AI Flow. The AI will deconstruct the requirements into granular user stories and tasks, populating them directly into a data table for prioritization.</p>"
+    },
+    {
+      "id": "n-8",
+      "position": {
+        "x": 113.35111096768469,
+        "y": -5825.242066031876
+      },
+      "size": {
+        "width": 738.9091298057142
+      },
+      "style": {
+        "fontSize": 48,
+        "textColor": "#1a1a1a",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong>Create Backlog Items</strong></p>"
+    },
+    {
+      "id": "n-9",
+      "position": {
+        "x": -441.98695797649725,
+        "y": -5511.969234781044
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[data_table_format]"
+    },
+    {
+      "id": "n-10",
+      "position": {
+        "x": -1483.4087928279032,
+        "y": -5794.957753068118
+      },
+      "size": {
+        "width": 169.2711410359006,
+        "height": 165.61946213368998
+      },
+      "style": {
+        "fillColor": "#1a1a1a",
+        "borderColor": "#ffffff",
+        "textColor": "#ffffff",
+        "fontSize": 64,
+        "fontFamily": "noto_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "circle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": "<p><strong style=\"color:rgb(255,255,255)\">2</strong></p>"
+    },
+    {
+      "id": "n-11",
+      "position": {
+        "x": -357.3513874585469,
+        "y": -5794.957753068118
+      },
+      "size": {
+        "width": 169.2711410359006,
+        "height": 165.61946213368998
+      },
+      "style": {
+        "fillColor": "#1a1a1a",
+        "borderColor": "#ffffff",
+        "textColor": "#ffffff",
+        "fontSize": 64,
+        "fontFamily": "noto_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "circle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": "<p><strong style=\"color:rgb(255,255,255)\">3</strong></p>"
+    },
+    {
+      "id": "n-12",
+      "position": {
+        "x": -837.4305969471361,
+        "y": -6236.531632054199
+      },
+      "size": {
+        "width": 4440.687380021627,
+        "height": 196.0094922660073
+      },
+      "style": {
+        "fillColor": "#1a1a1a",
+        "borderColor": "#ffffff",
+        "textColor": "#ffffff",
+        "fontSize": 80,
+        "fontFamily": "noto_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": "<p><strong>Flow: Board-to-Backlog</strong></p>"
+    },
+    {
+      "id": "n-13",
+      "position": {
+        "x": -2900.1904255141467,
+        "y": -5454.514975543988
+      },
+      "size": {
+        "width": 114.9085184741125,
+        "height": 114.90851847411244
+      },
+      "style": {
+        "fillColor": "#1a1a1a",
+        "borderColor": "#ffffff",
+        "textColor": "#ffffff",
+        "fontSize": 12,
+        "fontFamily": "noto_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "circle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": "<p><strong style=\"color:rgb(255,255,255)\">D</strong><strong>ROP YOUR STICKY NOTES  HERE</strong></p>"
+    },
+    {
+      "id": "n-14",
+      "position": {
+        "x": -668.5237697472867,
+        "y": -5656.728109669008
+      },
+      "size": {
+        "width": 89.90834435966893,
+        "height": 89.9083443596689
+      },
+      "style": {
+        "fillColor": "#1a1a1a",
+        "borderColor": "#ffffff",
+        "textColor": "#ffffff",
+        "fontSize": 18,
+        "fontFamily": "noto_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "circle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": "<p><strong style=\"color:rgb(255,255,255)\">C</strong><strong>LICK RUN</strong></p>"
+    },
+    {
+      "id": "n-15",
+      "position": {
+        "x": 4876.104534380329,
+        "y": -3392.569221532463
+      },
+      "size": {
+        "width": 4440.687380021628,
+        "height": 5273.149471521911
+      },
+      "style": {
+        "fillColor": "#f4f4f4",
+        "borderColor": "#ffffff",
+        "textColor": "#ffffff",
+        "fontSize": 64,
+        "fontFamily": "noto_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-16",
+      "position": {
+        "x": 4178.206173495264,
+        "y": -5511.969234781043
+      },
+      "size": {
+        "width": 784.0,
+        "height": 1105.4399999999998
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "<h1>PRD Title: PetConnect - A Comprehensive Pet Care Platform</h1><h2>1. Introduction &amp; Problem Statement</h2><p><strong>Background:</strong></p><p>PetConnect aims to evolve how pet owners manage pet care and interaction through a holistic digital platform. This platform unites pet management, adoption, care tips, and personalized recommendations, offering an engaging experience for pet owners worldwide.</p><p><strong>Problem Statement:</strong></p><p>Pet owners struggle to find a centralized platform that offers a complete suite of tools for managing pet care, adopting pets, and receiving personalized advice tailored to their unique needs. The lack of an intuitive, user-friendly experience combining these aspects currently forces users to rely on multiple disconnected services, complicating their pet care routine. This problem is critical now as the demand for integrated digital solutions in pet care continues to grow with pet ownership trends surging post-pandemic.</p><h2>2. Target Audience</h2><p><strong>Primary User Persona:</strong></p><ol><li data-list=\"bullet\"><strong>Persona:</strong> Emily, a tech-savvy pet lover aged 28-45.</li><li data-list=\"bullet\"><strong>Key Characteristics:</strong> Owns 1-2 pets, actively seeks out information online, values convenience and personalized experiences, engages regularly with community content.</li><li data-list=\"bullet\"><strong>Goals:</strong> Seamless management of pet care routines, accessing reliable information quickly, and finding efficient pet services.</li><li data-list=\"bullet\"><strong>Frustrations:</strong> Fragmented tools with inconsistent information, lack of personalization, difficulty scheduling vet visits.</li></ol><h2>3. Product Goals &amp; Business Objectives</h2><p><strong>User Goal:</strong></p><p>Users should be able to effortlessly adopt virtual pets, schedule vet appointments, receive personalized pet care recommendations, and access a trove of insightful pet care content within one platform.</p><p><strong>Business Goal:</strong></p><p>By addressing the fragmented pet care experience, PetConnect aims to increase user engagement by 30% in the first six months, reduce user drop-off rates by incorporating engaging onboarding, and develop a viable subscription model to unlock new revenue streams and elevate partnership opportunities with pet shelters.</p><h2>4. Key Features &amp; Scope</h2><p><strong>In Scope:</strong></p><ol><li data-list=\"bullet\"><strong>Virtual Pet Adoption:</strong> Enable users to adopt virtual pets, interact with them, and track their growth.</li><li data-list=\"bullet\"><strong>In-App Vet Scheduling:</strong> Facilitate seamless vet appointment booking within the app.</li><li data-list=\"bullet\"><strong>Personalized Recommendations:</strong> Offer tailored pet care advice based on user preferences and pet profiles.</li><li data-list=\"bullet\"><strong>Pet Care Content:</strong> Regular updates with tips and tricks to enhance pet care knowledge.</li><li data-list=\"bullet\"><strong>Intuitive Swipe Navigation:</strong> Implement user-friendly navigation to browse pets effortlessly.</li><li data-list=\"bullet\"><strong>Robust Search Feature:</strong> Develop advanced search functionality for pet types and breeds.</li><li data-list=\"bullet\"><strong>Dark Mode:</strong> Provide an option for users to browse during late hours comfortably.</li></ol><p><strong>Out of Scope:</strong></p><ol><li data-list=\"bullet\"><strong>Partnerships with Shelters:</strong> While crucial, building these relationships will be considered for post-launch initiatives, focusing first on core user experience.</li><li data-list=\"bullet\"><strong>Animated Avatars:</strong> To maintain simplicity for MVP, this feature will be tabled for future versions.</li><li data-list=\"bullet\"><strong>Subscription Content Model:</strong> Creation of this model along with premium content will be explored post-MVP.</li></ol><h2>5. Assumptions &amp; Open Questions</h2><p><strong>Assumptions:</strong></p><ol><li data-list=\"bullet\">Users are familiar with basic digital navigation, allowing for swipe-based interfaces.</li><li data-list=\"bullet\">Real-time data from pet supply vendors can be seamlessly integrated, enhancing inventory accuracy.</li><li data-list=\"bullet\">Connecting with local pet shelters is feasible and beneficial for promotions.</li></ol><p><strong>Open Questions:</strong></p><ol><li data-list=\"bullet\">What are the definitive must-have features that all potential pet owners prioritize?</li><li data-list=\"bullet\">How can the onboarding process be configured to be more engaging and enjoyable?</li></ol><h2>6. Success Metrics (KPIs)</h2><ol><li data-list=\"bullet\"><strong>Adoption Rate:</strong> 40% of target users engaging with virtual pets within 30 days of launch.</li><li data-list=\"bullet\"><strong>Task Success Rate:</strong> 80% of users should be able to easily adopt pets and schedule vet appointments without assistance.</li><li data-list=\"bullet\"><strong>User Satisfaction (CSAT):</strong> Achieve a score of 85% or higher in post-launch surveys focused on user experience and satisfaction.</li></ol>"
+    },
+    {
+      "id": "n-17",
+      "position": {
+        "x": 3002.8200787306473,
+        "y": -5794.957753068118
+      },
+      "size": {
+        "width": 169.2711410359006,
+        "height": 165.61946213368998
+      },
+      "style": {
+        "fillColor": "#1a1a1a",
+        "borderColor": "#ffffff",
+        "textColor": "#ffffff",
+        "fontSize": 64,
+        "fontFamily": "noto_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "circle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": "<p><strong style=\"color:rgb(255,255,255)\">1</strong></p>"
+    },
+    {
+      "id": "n-18",
+      "position": {
+        "x": 3501.176351221988,
+        "y": -5755.0455231397245
+      },
+      "size": {
+        "width": 772.7142857142858
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#1a1a1a",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p>Begin the process by capturing all thoughts, user feedback, and team ideas as individual sticky notes. Drop them into the designated Miro frame to create a centralized pool of unstructured insights.</p>"
+    },
+    {
+      "id": "n-19",
+      "position": {
+        "x": 3478.906484142745,
+        "y": -5835.976530886815
+      },
+      "size": {
+        "width": 738.9091298057142
+      },
+      "style": {
+        "fontSize": 48,
+        "textColor": "#1a1a1a",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong>Capture Raw Insights</strong></p>"
+    },
+    {
+      "id": "n-20",
+      "position": {
+        "x": 4747.563316352407,
+        "y": -5757.168201141927
+      },
+      "size": {
+        "width": 772.7142857142858
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#1a1a1a",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p>Run the flow below. The AI will analyze, theme, and synthesize the raw ideas into a coherent, structured Product Requirements Document (PRD).</p>"
+    },
+    {
+      "id": "n-21",
+      "position": {
+        "x": 4725.293449273164,
+        "y": -5825.242066031875
+      },
+      "size": {
+        "width": 738.9091298057142
+      },
+      "style": {
+        "fontSize": 48,
+        "textColor": "#1a1a1a",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong>Generate a Structured PRD</strong></p>"
+    },
+    {
+      "id": "n-22",
+      "position": {
+        "x": 5861.696172643049,
+        "y": -5744.311058284784
+      },
+      "size": {
+        "width": 772.7142857142858
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#1a1a1a",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p>The generated PRD will be used as the input for the next AI Flow. The AI will deconstruct the requirements into granular user stories and tasks, populating them directly into a data table for prioritization.</p>"
+    },
+    {
+      "id": "n-23",
+      "position": {
+        "x": 5839.426305563808,
+        "y": -5825.242066031875
+      },
+      "size": {
+        "width": 738.9091298057142
+      },
+      "style": {
+        "fontSize": 48,
+        "textColor": "#1a1a1a",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong>Create Backlog Items</strong></p>"
+    },
+    {
+      "id": "n-24",
+      "position": {
+        "x": 5284.088236619626,
+        "y": -5511.969234781045
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[data_table_format]"
+    },
+    {
+      "id": "n-25",
+      "position": {
+        "x": 4242.66640176822,
+        "y": -5794.957753068118
+      },
+      "size": {
+        "width": 169.2711410359006,
+        "height": 165.61946213368998
+      },
+      "style": {
+        "fillColor": "#1a1a1a",
+        "borderColor": "#ffffff",
+        "textColor": "#ffffff",
+        "fontSize": 64,
+        "fontFamily": "noto_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "circle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": "<p><strong style=\"color:rgb(255,255,255)\">2</strong></p>"
+    },
+    {
+      "id": "n-26",
+      "position": {
+        "x": 5368.723807137576,
+        "y": -5794.957753068118
+      },
+      "size": {
+        "width": 169.2711410359006,
+        "height": 165.61946213368998
+      },
+      "style": {
+        "fillColor": "#1a1a1a",
+        "borderColor": "#ffffff",
+        "textColor": "#ffffff",
+        "fontSize": 64,
+        "fontFamily": "noto_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "circle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": "<p><strong style=\"color:rgb(255,255,255)\">3</strong></p>"
+    },
+    {
+      "id": "n-27",
+      "position": {
+        "x": 4888.644597648987,
+        "y": -6236.531632054199
+      },
+      "size": {
+        "width": 4440.687380021627,
+        "height": 196.0094922660073
+      },
+      "style": {
+        "fillColor": "#1a1a1a",
+        "borderColor": "#ffffff",
+        "textColor": "#ffffff",
+        "fontSize": 80,
+        "fontFamily": "noto_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": "<p><strong>Example Flow: Board-to-Backlog</strong></p>"
+    },
+    {
+      "id": "n-28",
+      "position": {
+        "x": 2825.884769081977,
+        "y": -5454.514975543987
+      },
+      "size": {
+        "width": 114.9085184741125,
+        "height": 114.90851847411244
+      },
+      "style": {
+        "fillColor": "#1a1a1a",
+        "borderColor": "#ffffff",
+        "textColor": "#ffffff",
+        "fontSize": 12,
+        "fontFamily": "noto_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "circle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": "<p><strong style=\"color:rgb(255,255,255)\">D</strong><strong>ROP YOUR STICKY NOTES  HERE</strong></p>"
+    },
+    {
+      "id": "n-29",
+      "position": {
+        "x": 5098.028887054326,
+        "y": -5674.350285293529
+      },
+      "size": {
+        "width": 89.90834435966893,
+        "height": 89.9083443596689
+      },
+      "style": {
+        "fillColor": "#1a1a1a",
+        "borderColor": "#ffffff",
+        "textColor": "#ffffff",
+        "fontSize": 18,
+        "fontFamily": "noto_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "circle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": "<p><strong style=\"color:rgb(255,255,255)\">C</strong><strong>LICK RUN</strong></p>"
+    },
+    {
+      "id": "n-30",
+      "position": {
+        "x": -3266.4791326551335,
+        "y": -5385.58329412707
+      },
+      "size": {
+        "width": 937.0297046663121,
+        "height": 1287.1213263326988
+      },
+      "style": {
+        "fillColor": "#8f8b8b",
+        "borderColor": "#ffffff",
+        "textColor": "#ffffff",
+        "fontSize": 80,
+        "fontFamily": "noto_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-31",
+      "position": {
+        "x": -3615.353373057649,
+        "y": -5450.45101605503
+      },
+      "size": {
+        "width": 114.9085184741125,
+        "height": 114.90851847411244
+      },
+      "style": {
+        "fillColor": "#1a1a1a",
+        "borderColor": "#ffffff",
+        "textColor": "#ffffff",
+        "fontSize": 12,
+        "fontFamily": "noto_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "circle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": "<p><strong style=\"color:rgb(255,255,255)\">G</strong><strong>RAB YOUR STICKIES HERE</strong></p>"
+    },
+    {
+      "id": "n-32",
+      "position": {
+        "x": -3396.279881404396,
+        "y": -5850.635065663874
+      },
+      "size": {
+        "width": 612.516227923143,
+        "height": 54.26483694217667
+      },
+      "style": {
+        "fillColor": "#1a1a1a",
+        "borderColor": "#ffffff",
+        "textColor": "#ffffff",
+        "fontSize": 21,
+        "fontFamily": "noto_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": "<p><strong>Step 1 - Drop sticky notes into the DROP BOX</strong></p>"
+    },
+    {
+      "id": "n-33",
+      "position": {
+        "x": -3396.279881404396,
+        "y": -5766.484533240065
+      },
+      "size": {
+        "width": 612.516227923143,
+        "height": 54.26483694217667
+      },
+      "style": {
+        "fillColor": "#1a1a1a",
+        "borderColor": "#ffffff",
+        "textColor": "#ffffff",
+        "fontSize": 21,
+        "fontFamily": "noto_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": "<p><strong>Step 2 - Click Run</strong></p>"
+    },
+    {
+      "id": "n-34",
+      "position": {
+        "x": -3396.279881404396,
+        "y": -5682.219696297888
+      },
+      "size": {
+        "width": 612.516227923143,
+        "height": 54.26483694217667
+      },
+      "style": {
+        "fillColor": "#1a1a1a",
+        "borderColor": "#ffffff",
+        "textColor": "#ffffff",
+        "fontSize": 21,
+        "fontFamily": "noto_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": "<p><strong>Step 3 - Feel free to use the generated backlog!</strong></p>"
+    },
+    {
+      "id": "n-35",
+      "position": {
+        "x": -3324.4881309746984,
+        "y": -5450.45101605503
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[widgets_stack]"
+    },
+    {
+      "id": "n-36",
+      "position": {
+        "x": 82.50000000000003,
+        "y": 113.99999999999999
+      },
+      "size": {
+        "width": 136.89339618861288,
+        "height": 156.84268508042078
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": ""
+    },
+    {
+      "id": "n-37",
+      "position": {
+        "x": -3196.209965651287,
+        "y": -5450.45101605503
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[widgets_stack]"
+    },
+    {
+      "id": "n-38",
+      "position": {
+        "x": 82.50000000000003,
+        "y": 113.99999999999999
+      },
+      "size": {
+        "width": 136.89339618861288,
+        "height": 156.84268508042078
+      },
+      "style": {
+        "fillColor": "cyan",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": ""
+    },
+    {
+      "id": "n-39",
+      "position": {
+        "x": -3452.781102084398,
+        "y": -5450.45101605503
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[widgets_stack]"
+    },
+    {
+      "id": "n-40",
+      "position": {
+        "x": 82.50000000000003,
+        "y": 113.99999999999999
+      },
+      "size": {
+        "width": 136.89339618861288,
+        "height": 156.84268508042078
+      },
+      "style": {
+        "fillColor": "green",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": ""
+    },
+    {
+      "id": "n-41",
+      "position": {
+        "x": -3196.209965651287,
+        "y": -5282.838896534998
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[widgets_stack]"
+    },
+    {
+      "id": "n-42",
+      "position": {
+        "x": 82.50000000000003,
+        "y": 113.99999999999999
+      },
+      "size": {
+        "width": 136.89339618861288,
+        "height": 156.84268508042078
+      },
+      "style": {
+        "fillColor": "red",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": ""
+    },
+    {
+      "id": "n-43",
+      "position": {
+        "x": -3324.4881309746984,
+        "y": -5282.838896534998
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[widgets_stack]"
+    },
+    {
+      "id": "n-44",
+      "position": {
+        "x": 82.50000000000003,
+        "y": 113.99999999999999
+      },
+      "size": {
+        "width": 136.89339618861288,
+        "height": 156.84268508042078
+      },
+      "style": {
+        "fillColor": "black",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": ""
+    },
+    {
+      "id": "n-45",
+      "position": {
+        "x": -3452.76629629811,
+        "y": -5282.838896534998
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[widgets_stack]"
+    },
+    {
+      "id": "n-46",
+      "position": {
+        "x": 82.50000000000003,
+        "y": 113.99999999999999
+      },
+      "size": {
+        "width": 136.89339618861288,
+        "height": 156.84268508042078
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": ""
+    },
+    {
+      "id": "n-47",
+      "position": {
+        "x": -3324.4881309746984,
+        "y": -5115.256859444037
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[widgets_stack]"
+    },
+    {
+      "id": "n-48",
+      "position": {
+        "x": 82.50000000000003,
+        "y": 113.99999999999999
+      },
+      "size": {
+        "width": 136.89339618861288,
+        "height": 156.84268508042078
+      },
+      "style": {
+        "fillColor": "orange",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": ""
+    },
+    {
+      "id": "n-49",
+      "position": {
+        "x": -3196.209965651287,
+        "y": -5115.256859444037
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[widgets_stack]"
+    },
+    {
+      "id": "n-50",
+      "position": {
+        "x": 82.50000000000003,
+        "y": 113.99999999999999
+      },
+      "size": {
+        "width": 136.89339618861288,
+        "height": 156.84268508042078
+      },
+      "style": {
+        "fillColor": "dark_blue",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": ""
+    },
+    {
+      "id": "n-51",
+      "position": {
+        "x": -3452.781102084398,
+        "y": -5115.256859444037
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[widgets_stack]"
+    },
+    {
+      "id": "n-52",
+      "position": {
+        "x": 82.50000000000003,
+        "y": 113.99999999999999
+      },
+      "size": {
+        "width": 136.89339618861288,
+        "height": 156.84268508042078
+      },
+      "style": {
+        "fillColor": "light_pink",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": ""
+    },
+    {
+      "id": "n-53",
+      "position": {
+        "x": -3196.209965651287,
+        "y": -4947.644739924005
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[widgets_stack]"
+    },
+    {
+      "id": "n-54",
+      "position": {
+        "x": 82.50000000000003,
+        "y": 113.99999999999999
+      },
+      "size": {
+        "width": 136.89339618861288,
+        "height": 156.84268508042078
+      },
+      "style": {
+        "fillColor": "yellow",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": ""
+    },
+    {
+      "id": "n-55",
+      "position": {
+        "x": -3324.4881309746984,
+        "y": -4947.644739924005
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[widgets_stack]"
+    },
+    {
+      "id": "n-56",
+      "position": {
+        "x": 82.50000000000003,
+        "y": 113.99999999999999
+      },
+      "size": {
+        "width": 136.89339618861288,
+        "height": 156.84268508042078
+      },
+      "style": {
+        "fillColor": "light_green",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": ""
+    },
+    {
+      "id": "n-57",
+      "position": {
+        "x": -3452.76629629811,
+        "y": -4947.644739924005
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[widgets_stack]"
+    },
+    {
+      "id": "n-58",
+      "position": {
+        "x": 82.50000000000003,
+        "y": 113.99999999999999
+      },
+      "size": {
+        "width": 136.89339618861288,
+        "height": 156.84268508042078
+      },
+      "style": {
+        "fillColor": "pink",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": ""
+    },
+    {
+      "id": "n-59",
+      "position": {
+        "x": -3396.279881404396,
+        "y": -5933.481769849249
+      },
+      "size": {
+        "width": 452.5714285714286
+      },
+      "style": {
+        "fontSize": 36,
+        "textColor": "#ffffff",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong>How to use this template</strong></p>"
+    },
+    {
+      "id": "n-60",
+      "position": {
+        "x": 266.9819407221197,
+        "y": 172.1949506349173
+      },
+      "size": {
+        "width": 99.99999999999999,
+        "height": 114.57286432160802
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-1",
+      "visualKind": "stickyNote",
+      "title": "Feature: Virtual pet adoption - users can adopt a pet and see it grow."
+    },
+    {
+      "id": "n-61",
+      "position": {
+        "x": 416.9819407221197,
+        "y": 172.1949506349173
+      },
+      "size": {
+        "width": 99.99999999999999,
+        "height": 114.57286432160802
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-1",
+      "visualKind": "stickyNote",
+      "title": "UX Idea: Intuitive swipe navigation for browsing pets."
+    },
+    {
+      "id": "n-62",
+      "position": {
+        "x": 566.9819407221197,
+        "y": 172.1949506349173
+      },
+      "size": {
+        "width": 99.99999999999999,
+        "height": 114.57286432160802
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-1",
+      "visualKind": "stickyNote",
+      "title": "Tech: Should we use React Native for cross-platform support?"
+    },
+    {
+      "id": "n-63",
+      "position": {
+        "x": 716.9819407221197,
+        "y": 172.1949506349173
+      },
+      "size": {
+        "width": 99.99999999999999,
+        "height": 114.57286432160802
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-1",
+      "visualKind": "stickyNote",
+      "title": "Challenge: Handling high traffic during holiday sales."
+    },
+    {
+      "id": "n-64",
+      "position": {
+        "x": 266.9819407221197,
+        "y": 322.1949506349173
+      },
+      "size": {
+        "width": 99.99999999999999,
+        "height": 114.57286432160802
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-1",
+      "visualKind": "stickyNote",
+      "title": "Backend: Implementing a robust search feature for pet types and breeds."
+    },
+    {
+      "id": "n-65",
+      "position": {
+        "x": 416.9819407221197,
+        "y": 322.1949506349173
+      },
+      "size": {
+        "width": 99.99999999999999,
+        "height": 114.57286432160802
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-1",
+      "visualKind": "stickyNote",
+      "title": "Business: Partner with local pet shelters for in-app promotions."
+    },
+    {
+      "id": "n-66",
+      "position": {
+        "x": 566.9819407221197,
+        "y": 322.1949506349173
+      },
+      "size": {
+        "width": 99.99999999999999,
+        "height": 114.57286432160802
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-1",
+      "visualKind": "stickyNote",
+      "title": "Question: How can we make the onboarding process fun and engaging?"
+    },
+    {
+      "id": "n-67",
+      "position": {
+        "x": 716.9819407221197,
+        "y": 322.1949506349173
+      },
+      "size": {
+        "width": 99.99999999999999,
+        "height": 114.57286432160802
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-1",
+      "visualKind": "stickyNote",
+      "title": "Feature: Pet care tips and tricks section - daily updates?"
+    },
+    {
+      "id": "n-68",
+      "position": {
+        "x": 266.9819407221197,
+        "y": 472.1949506349173
+      },
+      "size": {
+        "width": 99.99999999999999,
+        "height": 114.57286432160802
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-1",
+      "visualKind": "stickyNote",
+      "title": "UX: Dark mode option for late-night browsing."
+    },
+    {
+      "id": "n-69",
+      "position": {
+        "x": 416.9819407221197,
+        "y": 472.1949506349173
+      },
+      "size": {
+        "width": 99.99999999999999,
+        "height": 114.57286432160802
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-1",
+      "visualKind": "stickyNote",
+      "title": "Tech: API integration with pet supply vendors for real-time inventory."
+    },
+    {
+      "id": "n-70",
+      "position": {
+        "x": 566.9819407221197,
+        "y": 472.1949506349173
+      },
+      "size": {
+        "width": 99.99999999999999,
+        "height": 114.57286432160802
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-1",
+      "visualKind": "stickyNote",
+      "title": "Challenge: Ensuring data privacy for user profiles and pet info."
+    },
+    {
+      "id": "n-71",
+      "position": {
+        "x": 716.9819407221197,
+        "y": 472.1949506349173
+      },
+      "size": {
+        "width": 99.99999999999999,
+        "height": 114.57286432160802
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-1",
+      "visualKind": "stickyNote",
+      "title": "Frontend: Animated pet avatars for user profiles."
+    },
+    {
+      "id": "n-72",
+      "position": {
+        "x": 266.9819407221197,
+        "y": 622.1949506349173
+      },
+      "size": {
+        "width": 99.99999999999999,
+        "height": 114.57286432160802
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-1",
+      "visualKind": "stickyNote",
+      "title": "Business: Subscription model for premium pet care content."
+    },
+    {
+      "id": "n-73",
+      "position": {
+        "x": 416.9819407221197,
+        "y": 622.1949506349173
+      },
+      "size": {
+        "width": 99.99999999999999,
+        "height": 114.57286432160802
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-1",
+      "visualKind": "stickyNote",
+      "title": "Question: What are the must-have features for pet owners?"
+    },
+    {
+      "id": "n-74",
+      "position": {
+        "x": 566.9819407221197,
+        "y": 622.1949506349173
+      },
+      "size": {
+        "width": 99.99999999999999,
+        "height": 114.57286432160802
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-1",
+      "visualKind": "stickyNote",
+      "title": "Feature: In-app vet appointment scheduling."
+    },
+    {
+      "id": "n-75",
+      "position": {
+        "x": 716.9819407221197,
+        "y": 622.1949506349173
+      },
+      "size": {
+        "width": 99.99999999999999,
+        "height": 114.57286432160802
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-1",
+      "visualKind": "stickyNote",
+      "title": "UX Idea: Personalized pet recommendations based on user preferences."
+    }
+  ],
+  "edges": [
+    {
+      "id": "e-0",
+      "sourceNodeId": "n-15",
+      "targetNodeId": "n-15",
+      "style": {
+        "lineStyle": "solid",
+        "arrowHead": "none",
+        "borderColor": "#333333",
+        "strokeWidth": "2.0",
+        "extra": {
+          "connectorShape": "unknown",
+          "sourcePosition": "auto",
+          "targetPosition": "auto"
+        }
+      }
+    }
+  ],
+  "annotations": [],
+  "_metadata": {
+    "extracted_at": "2026-02-23T13:22:55.105232",
+    "total_items": 78,
+    "total_connectors": 2,
+    "frames": 2,
+    "nodes": 76,
+    "edges": 1
+  },
+  "_template": {
+    "name": "board-to-backlog",
+    "category": "miroverse",
+    "source": "miroverse",
+    "source_slug": "board-to-backlog",
+    "source_board_id": "uXjVJ8gMO2Q=",
+    "tags": [
+      "agile",
+      "ai accelerated",
+      "development",
+      "strategy & planning"
+    ],
+    "extracted_at": "2026-02-23T13:22:55.105283"
+  }
+}

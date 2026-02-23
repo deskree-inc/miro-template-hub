@@ -1,0 +1,425 @@
+{
+  "frames": [
+    {
+      "id": "f-0",
+      "title": "Feature Scope",
+      "position": {
+        "x": 4055.900332554833,
+        "y": 5633.844906004433
+      },
+      "size": {
+        "width": 1533.8400000000004,
+        "height": 1302.61879505692
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-1",
+      "title": "",
+      "position": {
+        "x": 2824.9761090431566,
+        "y": 5436.6220096638435
+      },
+      "size": {
+        "width": 572.9059209934204,
+        "height": 908.173002375742
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    }
+  ],
+  "nodes": [
+    {
+      "id": "n-0",
+      "position": {
+        "x": 54.098468922473444,
+        "y": 274.47921309784294
+      },
+      "size": {
+        "width": 644.0943279260586,
+        "height": 908.1730023757424
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "frameId": "f-0",
+      "visualKind": "shape",
+      "title": "<h1>Main Problem with Registration</h1><p>Users are struggling to register successfully in our app, particularly on mobile devices. Drop-offs are especially high on step 2 of onboarding — “Create Account.” This creates friction before users can even explore workouts or meal plans.</p><p><strong>Registration Flow – Current Issues &amp; Insights</strong></p><p><strong>Core Problem:</strong></p><ol><li data-list=\"bullet\">Current flow requires users to:<ol><li data-list=\"ordered\">Enter email</li><li data-list=\"ordered\">Create a password</li><li data-list=\"ordered\">Confirm email via code</li><li data-list=\"ordered\">Choose fitness goals</li><li data-list=\"ordered\">Set preferences</li><li data-list=\"ordered\">→ This is too long for mobile-first onboarding.</li></ol></li></ol><p></p><p><strong>User Feedback Highlights:</strong></p><ol><li data-list=\"bullet\">“I just wanted to browse first, not set 10 preferences.”</li><li data-list=\"bullet\">“I didn’t get the confirmation email.”</li><li data-list=\"bullet\">“I thought I signed up with Apple, but it asked me for a password again.”</li></ol><p></p><p><strong>Key Observations:</strong></p><ol><li data-list=\"bullet\">38% drop-off during email confirmation step</li><li data-list=\"bullet\">1 in 5 users abandon when asked for too much upfront</li><li data-list=\"bullet\">Many users try to sign in with Google/Apple but don’t complete the flow</li></ol>"
+    },
+    {
+      "id": "n-1",
+      "position": {
+        "x": 851.9474348073146,
+        "y": 404.6106416692718
+      },
+      "size": {
+        "width": 107.46000000000001,
+        "height": 123.12
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "left"
+      },
+      "frameId": "f-0",
+      "visualKind": "stickyNote",
+      "title": "<p>Support <strong>social login</strong> via Google, Apple, and Facebook</p>"
+    },
+    {
+      "id": "n-2",
+      "position": {
+        "x": 991.4074348073137,
+        "y": 404.6106416692718
+      },
+      "size": {
+        "width": 107.46000000000001,
+        "height": 123.12
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "left"
+      },
+      "frameId": "f-0",
+      "visualKind": "stickyNote",
+      "title": "<p>Allow users to <strong>skip goal-setting</strong> and personalize later</p>"
+    },
+    {
+      "id": "n-3",
+      "position": {
+        "x": 1130.86743480732,
+        "y": 404.6106416692718
+      },
+      "size": {
+        "width": 107.46000000000001,
+        "height": 123.12
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "left"
+      },
+      "frameId": "f-0",
+      "visualKind": "stickyNote",
+      "title": "<p>Introduce <strong>magic link</strong> as fallback for email confirmation</p><p><br /></p>"
+    },
+    {
+      "id": "n-4",
+      "position": {
+        "x": 1270.3274348073192,
+        "y": 404.6106416692718
+      },
+      "size": {
+        "width": 107.46000000000001,
+        "height": 123.12
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "left"
+      },
+      "frameId": "f-0",
+      "visualKind": "stickyNote",
+      "title": "<p>Prevent duplicate accounts from partial sign-ups</p><p><br /></p>"
+    },
+    {
+      "id": "n-5",
+      "position": {
+        "x": 1270.3274348073192,
+        "y": 559.7306416692717
+      },
+      "size": {
+        "width": 107.46000000000001,
+        "height": 123.12
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "left"
+      },
+      "frameId": "f-0",
+      "visualKind": "stickyNote",
+      "title": "<p>Don’t ask for password if using a social login</p>"
+    },
+    {
+      "id": "n-6",
+      "position": {
+        "x": 851.9474348073146,
+        "y": 559.7306416692717
+      },
+      "size": {
+        "width": 107.46000000000001,
+        "height": 123.12
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "left"
+      },
+      "frameId": "f-0",
+      "visualKind": "stickyNote",
+      "title": "<p>Add smart defaults (e.g. auto-fill name from device/account)</p>"
+    },
+    {
+      "id": "n-7",
+      "position": {
+        "x": 1130.86743480732,
+        "y": 559.7306416692717
+      },
+      "size": {
+        "width": 107.46000000000001,
+        "height": 123.12
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "left"
+      },
+      "frameId": "f-0",
+      "visualKind": "stickyNote",
+      "title": "<p>Explore biometric login after initial setup (FaceID, TouchID)</p><p><br /></p>"
+    },
+    {
+      "id": "n-8",
+      "position": {
+        "x": 991.4074348073137,
+        "y": 559.7306416692717
+      },
+      "size": {
+        "width": 107.46000000000001,
+        "height": 123.12
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "left"
+      },
+      "frameId": "f-0",
+      "visualKind": "stickyNote",
+      "title": "<p>Users may want to register first, explore later → decouple sign-up from onboarding</p>"
+    },
+    {
+      "id": "n-9",
+      "position": {
+        "x": 5056.820332554838,
+        "y": 4982.535508475973
+      },
+      "size": {
+        "width": 784.0,
+        "height": 1836.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "<h1>Product Requirements Document: Streamlined Mobile Registration Flow</h1><h2>1. Problem Statement</h2><p>Users are abandoning our mobile app registration process due to excessive friction and complexity. The current multi-step flow (email, password, confirmation, goals, preferences) creates significant barriers to entry, with a 38% drop-off rate during email confirmation alone. This prevents users from accessing core app features and impacts user acquisition.</p><h2>2. Goal &amp; Outcome</h2><p><strong>Goal:</strong> Simplify the registration process to increase conversion rates while maintaining security.</p><p><strong>Success Metrics:</strong></p><ol><li data-list=\"bullet\">Reduce registration abandonment rate by 50%</li><li data-list=\"bullet\">Increase successful first-time registrations by 40%</li><li data-list=\"bullet\">Maintain 90%+ completion rate for essential profile information</li></ol><h2>3. Target Users &amp; Use Cases</h2><p><strong>Primary Users:</strong></p><ol><li data-list=\"bullet\">New mobile app users seeking quick access to fitness/meal content</li><li data-list=\"bullet\">Users with existing social media accounts (Google, Apple, Facebook)</li><li data-list=\"bullet\">Users who prefer minimal commitment before exploring features</li></ol><p><strong>Key Use Cases:</strong></p><ol><li data-list=\"bullet\">Quick registration via social login</li><li data-list=\"bullet\">Basic email registration with minimal friction</li><li data-list=\"bullet\">Delayed profile completion after initial access</li></ol><h2>4. Proposed Solution</h2><p><strong>Core Features:</strong></p><ol><li data-list=\"ordered\">Simplified Authentication:</li><li data-list=\"bullet\">Social login integration (Google, Apple, Facebook)</li><li data-list=\"bullet\">Magic link email verification as fallback</li><li data-list=\"bullet\">Smart defaults for user information</li><li data-list=\"bullet\">No password requirement for social login users</li><li data-list=\"ordered\">Decoupled Registration Flow:</li><li data-list=\"bullet\">Minimal required fields for initial access</li><li data-list=\"bullet\">Optional goal-setting and preferences</li><li data-list=\"bullet\">Progressive profile completion</li><li data-list=\"bullet\">Biometric login support post-registration</li></ol><p><strong>Security Measures:</strong></p><ol><li data-list=\"bullet\">Duplicate account prevention system</li><li data-list=\"bullet\">Secure social authentication handling</li><li data-list=\"bullet\">Account linking capabilities</li></ol><h2>5. Out of Scope</h2><ol><li data-list=\"bullet\">Complex profile customization during initial registration</li><li data-list=\"bullet\">Advanced preference settings</li><li data-list=\"bullet\">Multiple account management</li><li data-list=\"bullet\">Password recovery flow</li><li data-list=\"bullet\">Custom authentication methods</li></ol><h2>6. Open Questions / Assumptions</h2><ol><li data-list=\"ordered\">Technical dependencies for social login implementation</li><li data-list=\"ordered\">Security requirements for magic link implementation</li><li data-list=\"ordered\">Data retention policy for incomplete registrations</li><li data-list=\"ordered\">Minimum required user data for core functionality</li><li data-list=\"ordered\">Timeline for biometric authentication integration</li></ol>"
+    },
+    {
+      "id": "n-10",
+      "position": {
+        "x": 6141.727271226548,
+        "y": 4982.535508475973
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[data_table_format]"
+    },
+    {
+      "id": "n-11",
+      "position": {
+        "x": 933.2930729786623,
+        "y": 292.7649273835576
+      },
+      "size": {
+        "width": 268.88931346285716
+      },
+      "style": {
+        "fontSize": 32,
+        "textColor": "#1a1a1a",
+        "fontFamily": "unknown",
+        "align": "left"
+      },
+      "frameId": "f-0",
+      "visualKind": "text",
+      "title": "<p><strong>Requirements</strong></p>"
+    },
+    {
+      "id": "n-12",
+      "position": {
+        "x": 287.91086547543097,
+        "y": 129.71428571428498
+      },
+      "size": {
+        "width": 447.8217309528571
+      },
+      "style": {
+        "fontSize": 46,
+        "textColor": "#1c1c1e",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-1",
+      "visualKind": "text",
+      "title": "<p><strong>Turn Requirements into Polished Specs</strong></p>"
+    },
+    {
+      "id": "n-13",
+      "position": {
+        "x": 289.1994620991173,
+        "y": 619.0114285714277
+      },
+      "size": {
+        "width": 450.3989241942857
+      },
+      "style": {
+        "fontSize": 24,
+        "textColor": "#595959",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "frameId": "f-1",
+      "visualKind": "text",
+      "title": "<p>Drop any kind of requirements into the frame — brainstorm stickies, feature ideas, scope notes, screenshots, or existing product docs.<br /><br />Then run the prompt to turn your raw input into a clean PRD and a ready-to-go task list.<br /><br />Ideal for quickly huddling with your team mates and turning ideas into actionable artefacts.</p>"
+    },
+    {
+      "id": "n-14",
+      "position": {
+        "x": 121.35588972431293,
+        "y": 304.58285714285614
+      },
+      "size": {
+        "width": 114.71177944862234,
+        "height": 131.42857142857233
+      },
+      "style": {
+        "fillColor": "gray",
+        "align": "center"
+      },
+      "frameId": "f-1",
+      "visualKind": "stickyNote",
+      "title": "<p><strong>Messy Requirements</strong></p>"
+    },
+    {
+      "id": "n-15",
+      "position": {
+        "x": 296.5214751507884,
+        "y": 304.58285714285614
+      },
+      "size": {
+        "width": 114.71177944862234,
+        "height": 131.42857142857233
+      },
+      "style": {
+        "fillColor": "gray",
+        "align": "center"
+      },
+      "frameId": "f-1",
+      "visualKind": "stickyNote",
+      "title": "<p><strong> PRD</strong></p>"
+    },
+    {
+      "id": "n-16",
+      "position": {
+        "x": 459.56310684442,
+        "y": 304.58285714285614
+      },
+      "size": {
+        "width": 114.71177944862234,
+        "height": 131.42857142857233
+      },
+      "style": {
+        "fillColor": "gray",
+        "align": "center"
+      },
+      "frameId": "f-1",
+      "visualKind": "stickyNote",
+      "title": "<p><strong> Task List</strong></p>"
+    },
+    {
+      "id": "n-17",
+      "position": {
+        "x": 189.17719295336622,
+        "y": 153.9642152273508
+      },
+      "size": {
+        "width": 189.0,
+        "height": 123.12
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "left"
+      },
+      "frameId": "f-0",
+      "visualKind": "stickyNote",
+      "title": "<p>How do we fix our registration flow?</p>"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e-0",
+      "sourceNodeId": "n-14",
+      "targetNodeId": "n-15",
+      "style": {
+        "lineStyle": "solid",
+        "arrowHead": "end",
+        "borderColor": "#6631d7",
+        "strokeWidth": "3.0",
+        "extra": {
+          "connectorShape": "elbowed",
+          "sourcePosition": "auto",
+          "targetPosition": "auto"
+        }
+      }
+    },
+    {
+      "id": "e-1",
+      "sourceNodeId": "n-15",
+      "targetNodeId": "n-16",
+      "style": {
+        "lineStyle": "solid",
+        "arrowHead": "end",
+        "borderColor": "#6631d7",
+        "strokeWidth": "3.0",
+        "extra": {
+          "connectorShape": "elbowed",
+          "sourcePosition": "auto",
+          "targetPosition": "auto"
+        }
+      }
+    }
+  ],
+  "annotations": [],
+  "_metadata": {
+    "extracted_at": "2026-02-23T13:08:25.322705",
+    "total_items": 20,
+    "total_connectors": 2,
+    "frames": 2,
+    "nodes": 18,
+    "edges": 2
+  },
+  "_template": {
+    "name": "requirements-to-feature-specs",
+    "category": "miroverse",
+    "source": "miroverse",
+    "source_slug": "requirements-to-feature-specs",
+    "source_board_id": "uXjVJ8u_P4Y=",
+    "tags": [
+      "productivity hacks",
+      "ai accelerated"
+    ],
+    "extracted_at": "2026-02-23T13:08:25.322756"
+  }
+}

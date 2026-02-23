@@ -1,0 +1,1960 @@
+{
+  "frames": [
+    {
+      "id": "f-0",
+      "title": "",
+      "position": {
+        "x": -3352.9736212355515,
+        "y": -858.3712652662132
+      },
+      "size": {
+        "width": 559.9999999999999,
+        "height": 196.57142857142816
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-1",
+      "title": "",
+      "position": {
+        "x": -2732.9890337866786,
+        "y": -670.3712652662125
+      },
+      "size": {
+        "width": 359.96917489774637,
+        "height": 572.5714285714291
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-2",
+      "title": "Moodboard",
+      "position": {
+        "x": -1881.1990292858784,
+        "y": -316.8515624999998
+      },
+      "size": {
+        "width": 1279.6108341038546,
+        "height": 1279.6108341038546
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-3",
+      "title": "Copy of Frame",
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "size": {
+        "width": 1280.0000000000005,
+        "height": 720.0
+      },
+      "style": {
+        "fillColor": "#2f2a26"
+      }
+    },
+    {
+      "id": "f-4",
+      "title": "Copy of Frame",
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "size": {
+        "width": 1280.0000000000005,
+        "height": 1064.0
+      },
+      "style": {
+        "fillColor": "#fff9c4"
+      }
+    },
+    {
+      "id": "f-5",
+      "title": "Copy of Frame",
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "size": {
+        "width": 1280.0000000000005,
+        "height": 1200.0
+      },
+      "style": {
+        "fillColor": "#2f2a26"
+      }
+    }
+  ],
+  "nodes": [
+    {
+      "id": "n-0",
+      "position": {
+        "x": 280.00000000000176,
+        "y": 98.28571428571385
+      },
+      "size": {
+        "width": 432.0
+      },
+      "style": {
+        "fontSize": 48,
+        "textColor": "#1c1c1e",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-0",
+      "visualKind": "text",
+      "title": "<p><strong>Moodboarding</strong></p>"
+    },
+    {
+      "id": "n-1",
+      "position": {
+        "x": 210.18669506254753,
+        "y": 178.00000000000057
+      },
+      "size": {
+        "width": 235.56495966857142
+      },
+      "style": {
+        "fontSize": 24,
+        "textColor": "#1a1a1a",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-1",
+      "visualKind": "text",
+      "title": "<p><strong>Create your moodboard</strong></p>"
+    },
+    {
+      "id": "n-2",
+      "position": {
+        "x": 210.18669506254753,
+        "y": 260.85714285714346
+      },
+      "size": {
+        "width": 235.56495966428574
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#595959",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "frameId": "f-1",
+      "visualKind": "text",
+      "title": "<p>Add your favorite inspiration images, colors, and styles.</p>"
+    },
+    {
+      "id": "n-3",
+      "position": {
+        "x": 52.202107613673775,
+        "y": 161.91639332796115
+      },
+      "size": {
+        "width": 40.404215227348686,
+        "height": 40.404215227349596
+      },
+      "style": {
+        "fillColor": "#1c1c1e",
+        "borderColor": "#ffffff",
+        "textColor": "#ffffff",
+        "fontSize": 18,
+        "fontFamily": "unknown",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "circle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-1",
+      "visualKind": "shape",
+      "title": "<p><strong>1</strong></p>"
+    },
+    {
+      "id": "n-4",
+      "position": {
+        "x": 210.18669506254753,
+        "y": 367.7142857142861
+      },
+      "size": {
+        "width": 235.56495966857142
+      },
+      "style": {
+        "fontSize": 24,
+        "textColor": "#1a1a1a",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-1",
+      "visualKind": "text",
+      "title": "<p><strong>Describe your visual moodboard</strong></p>"
+    },
+    {
+      "id": "n-5",
+      "position": {
+        "x": 210.18669506254753,
+        "y": 476.2857142857148
+      },
+      "size": {
+        "width": 235.56495966428574
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#595959",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "frameId": "f-1",
+      "visualKind": "text",
+      "title": "<p>Write a detailed prompt describing how your moodboard should represent the references in the frame.</p>"
+    },
+    {
+      "id": "n-6",
+      "position": {
+        "x": 52.202107613673775,
+        "y": 351.6306790422467
+      },
+      "size": {
+        "width": 40.404215227348686,
+        "height": 40.404215227349596
+      },
+      "style": {
+        "fillColor": "#1c1c1e",
+        "borderColor": "#ffffff",
+        "textColor": "#ffffff",
+        "fontSize": 18,
+        "fontFamily": "unknown",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "circle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-1",
+      "visualKind": "shape",
+      "title": "<p><strong>2</strong></p>"
+    },
+    {
+      "id": "n-7",
+      "position": {
+        "x": 179.9845874488741,
+        "y": 54.85714285714346
+      },
+      "size": {
+        "width": 295.9691749028571
+      },
+      "style": {
+        "fontSize": 32,
+        "textColor": "#1c1c1e",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-1",
+      "visualKind": "text",
+      "title": "<p><strong>How to</strong></p>"
+    },
+    {
+      "id": "n-8",
+      "position": {
+        "x": 1002.9214749401535,
+        "y": 285.1947410738036
+      },
+      "size": {
+        "width": 449.26250206604277,
+        "height": 336.946876549532
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ6tfiig%3D/resources/images/3458764517270892493?format=preview&redirect=false"
+        }
+      },
+      "frameId": "f-2",
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-9",
+      "position": {
+        "x": 288.21693250421015,
+        "y": 234.68874088205382
+      },
+      "size": {
+        "width": 472.83002431452564,
+        "height": 354.6225182358945
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ6tfiig%3D/resources/images/3458764517270892494?format=preview&redirect=false"
+        }
+      },
+      "frameId": "f-2",
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-10",
+      "position": {
+        "x": 646.4968417590243,
+        "y": 977.3350122141482
+      },
+      "size": {
+        "width": 712.849266362259,
+        "height": 495.997607421076
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ6tfiig%3D/resources/images/3458764517270892495?format=preview&redirect=false"
+        }
+      },
+      "frameId": "f-2",
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-11",
+      "position": {
+        "x": 550.0773869162923,
+        "y": 560.4697377293083
+      },
+      "size": {
+        "width": 209.9201202392578,
+        "height": 64.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "frameId": "f-2",
+      "visualKind": "shape",
+      "title": "[unknown]"
+    },
+    {
+      "id": "n-12",
+      "position": {
+        "x": 341.0900685856128,
+        "y": 746.449739666237
+      },
+      "size": {
+        "width": 212.93,
+        "height": 243.96
+      },
+      "style": {
+        "fillColor": "orange",
+        "align": "center"
+      },
+      "frameId": "f-2",
+      "visualKind": "stickyNote",
+      "title": "<p>Autumn</p>"
+    },
+    {
+      "id": "n-13",
+      "position": {
+        "x": -1081.3936122339512,
+        "y": -956.6569795519272
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "Slides"
+    },
+    {
+      "id": "n-14",
+      "position": {
+        "x": 661.754285714286,
+        "y": 115.99999999999994
+      },
+      "size": {
+        "width": 279.92224099036844
+      },
+      "style": {
+        "fontSize": 41,
+        "textColor": "#fff9c4",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "frameId": "f-3",
+      "visualKind": "text",
+      "title": "<p><strong style=\"color:rgb(255,249,196)\">Color Palette</strong></p>"
+    },
+    {
+      "id": "n-15",
+      "position": {
+        "x": 217.0000000000005,
+        "y": 251.99999999999966
+      },
+      "size": {
+        "width": 110.07405024549284,
+        "height": 110.07405024549284
+      },
+      "style": {
+        "fillColor": "#fff9c4",
+        "borderColor": "#d97a2b",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "noto_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-3",
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-16",
+      "position": {
+        "x": 220.08571428571446,
+        "y": 347.9999999999999
+      },
+      "size": {
+        "width": 74.10342311661186
+      },
+      "style": {
+        "fontSize": 20,
+        "textColor": "#fff9c4",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "frameId": "f-3",
+      "visualKind": "text",
+      "title": "<p><strong style=\"color:rgb(255,249,196)\">#fff9c4</strong></p>"
+    },
+    {
+      "id": "n-17",
+      "position": {
+        "x": 220.30607142857139,
+        "y": 378.0
+      },
+      "size": {
+        "width": 88.24167318770185
+      },
+      "style": {
+        "fontSize": 15,
+        "textColor": "#d97a2b",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "frameId": "f-3",
+      "visualKind": "text",
+      "title": "<p><span>Light Yellow</span></p>"
+    },
+    {
+      "id": "n-18",
+      "position": {
+        "x": 427.9999999999999,
+        "y": 251.99999999999966
+      },
+      "size": {
+        "width": 110.07405024549284,
+        "height": 110.07405024549284
+      },
+      "style": {
+        "fillColor": "#f4a261",
+        "borderColor": "#d97a2b",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "noto_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-3",
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-19",
+      "position": {
+        "x": 432.0100000000001,
+        "y": 347.9999999999999
+      },
+      "size": {
+        "width": 84.29264378464228
+      },
+      "style": {
+        "fontSize": 20,
+        "textColor": "#fff9c4",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "frameId": "f-3",
+      "visualKind": "text",
+      "title": "<p><strong style=\"color:rgb(255,249,196)\">#f4a261</strong></p>"
+    },
+    {
+      "id": "n-20",
+      "position": {
+        "x": 432.18214285714345,
+        "y": 378.0
+      },
+      "size": {
+        "width": 100.06787682128255
+      },
+      "style": {
+        "fontSize": 15,
+        "textColor": "#d97a2b",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "frameId": "f-3",
+      "visualKind": "text",
+      "title": "<p><span>Warm Orange</span></p>"
+    },
+    {
+      "id": "n-21",
+      "position": {
+        "x": 638.9999999999999,
+        "y": 251.99999999999966
+      },
+      "size": {
+        "width": 110.07405024549284,
+        "height": 110.07405024549284
+      },
+      "style": {
+        "fillColor": "#b23a48",
+        "borderColor": "#d97a2b",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "noto_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-3",
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-22",
+      "position": {
+        "x": 643.7028571428572,
+        "y": 347.9999999999999
+      },
+      "size": {
+        "width": 88.92410773403742
+      },
+      "style": {
+        "fontSize": 20,
+        "textColor": "#fff9c4",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "frameId": "f-3",
+      "visualKind": "text",
+      "title": "<p><strong style=\"color:rgb(255,249,196)\">#b23a48</strong></p>"
+    },
+    {
+      "id": "n-23",
+      "position": {
+        "x": 641.7275,
+        "y": 378.0
+      },
+      "size": {
+        "width": 70.04751377268647
+      },
+      "style": {
+        "fontSize": 15,
+        "textColor": "#d97a2b",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "frameId": "f-3",
+      "visualKind": "text",
+      "title": "<p><span>Deep Red</span></p>"
+    },
+    {
+      "id": "n-24",
+      "position": {
+        "x": 850.9999999999998,
+        "y": 251.99999999999966
+      },
+      "size": {
+        "width": 110.07405024549284,
+        "height": 110.07405024549284
+      },
+      "style": {
+        "fillColor": "#ffc857",
+        "borderColor": "#d97a2b",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "noto_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-3",
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-25",
+      "position": {
+        "x": 853.778571428571,
+        "y": 347.9999999999999
+      },
+      "size": {
+        "width": 78.73488705126495
+      },
+      "style": {
+        "fontSize": 20,
+        "textColor": "#fff9c4",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "frameId": "f-3",
+      "visualKind": "text",
+      "title": "<p><strong style=\"color:rgb(255,249,196)\">#ffc857</strong></p>"
+    },
+    {
+      "id": "n-26",
+      "position": {
+        "x": 854.2978571428579,
+        "y": 374.9285714285714
+      },
+      "size": {
+        "width": 103.70670870428562
+      },
+      "style": {
+        "fontSize": 15,
+        "textColor": "#d97a2b",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "frameId": "f-3",
+      "visualKind": "text",
+      "title": "<p>Golden Yellow</p>"
+    },
+    {
+      "id": "n-27",
+      "position": {
+        "x": 1062.0000000000002,
+        "y": 251.99999999999966
+      },
+      "size": {
+        "width": 110.07405024549284,
+        "height": 110.07405024549284
+      },
+      "style": {
+        "fillColor": "#8d6e63",
+        "borderColor": "#d97a2b",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "noto_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-3",
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-28",
+      "position": {
+        "x": 1065.7028571428577,
+        "y": 347.9999999999999
+      },
+      "size": {
+        "width": 88.92410773403742
+      },
+      "style": {
+        "fontSize": 20,
+        "textColor": "#fff9c4",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "frameId": "f-3",
+      "visualKind": "text",
+      "title": "<p><strong style=\"color:rgb(255,249,196)\">#8d6e63</strong></p>"
+    },
+    {
+      "id": "n-29",
+      "position": {
+        "x": 1065.1325,
+        "y": 378.0
+      },
+      "size": {
+        "width": 82.78342536872553
+      },
+      "style": {
+        "fontSize": 15,
+        "textColor": "#d97a2b",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "frameId": "f-3",
+      "visualKind": "text",
+      "title": "<p><span>Rich Brown</span></p>"
+    },
+    {
+      "id": "n-30",
+      "position": {
+        "x": 217.0000000000005,
+        "y": 487.99999999999994
+      },
+      "size": {
+        "width": 110.07405024549284,
+        "height": 110.07405024549284
+      },
+      "style": {
+        "fillColor": "#7a7f5f",
+        "borderColor": "#d97a2b",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "noto_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-3",
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-31",
+      "position": {
+        "x": 220.31714285714332,
+        "y": 583.9999999999999
+      },
+      "size": {
+        "width": 79.66117984998921
+      },
+      "style": {
+        "fontSize": 20,
+        "textColor": "#fff9c4",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "frameId": "f-3",
+      "visualKind": "text",
+      "title": "<p><strong style=\"color:rgb(255,249,196)\">#7a7f5f</strong></p>"
+    },
+    {
+      "id": "n-32",
+      "position": {
+        "x": 220.01678571428573,
+        "y": 614.0
+      },
+      "size": {
+        "width": 79.14459348572245
+      },
+      "style": {
+        "fontSize": 15,
+        "textColor": "#d97a2b",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "frameId": "f-3",
+      "visualKind": "text",
+      "title": "<p><span>Earth Olive</span></p>"
+    },
+    {
+      "id": "n-33",
+      "position": {
+        "x": 427.9999999999999,
+        "y": 487.99999999999994
+      },
+      "size": {
+        "width": 110.07405024549284,
+        "height": 110.07405024549284
+      },
+      "style": {
+        "fillColor": "#fff3e0",
+        "borderColor": "#d97a2b",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "noto_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-3",
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-34",
+      "position": {
+        "x": 431.6242857142858,
+        "y": 583.9999999999999
+      },
+      "size": {
+        "width": 75.02971590059408
+      },
+      "style": {
+        "fontSize": 20,
+        "textColor": "#fff9c4",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "frameId": "f-3",
+      "visualKind": "text",
+      "title": "<p><strong style=\"color:rgb(255,249,196)\">#fff3e0</strong></p>"
+    },
+    {
+      "id": "n-35",
+      "position": {
+        "x": 431.13250000000073,
+        "y": 614.0
+      },
+      "size": {
+        "width": 82.78342536872553
+      },
+      "style": {
+        "fontSize": 15,
+        "textColor": "#d97a2b",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "frameId": "f-3",
+      "visualKind": "text",
+      "title": "<p><span>Soft Cream</span></p>"
+    },
+    {
+      "id": "n-36",
+      "position": {
+        "x": 638.9999999999999,
+        "y": 487.99999999999994
+      },
+      "size": {
+        "width": 110.07405024549284,
+        "height": 110.07405024549284
+      },
+      "style": {
+        "fillColor": "#c7b8a5",
+        "borderColor": "#d97a2b",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "noto_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-3",
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-37",
+      "position": {
+        "x": 643.164285714286,
+        "y": 583.9999999999999
+      },
+      "size": {
+        "width": 87.99781495005521
+      },
+      "style": {
+        "fontSize": 20,
+        "textColor": "#fff9c4",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "frameId": "f-3",
+      "visualKind": "text",
+      "title": "<p><strong style=\"color:rgb(255,249,196)\">#c7b8a5</strong></p>"
+    },
+    {
+      "id": "n-38",
+      "position": {
+        "x": 642.4217857142859,
+        "y": 614.0
+      },
+      "size": {
+        "width": 91.88050508176148
+      },
+      "style": {
+        "fontSize": 15,
+        "textColor": "#d97a2b",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "frameId": "f-3",
+      "visualKind": "text",
+      "title": "<p><span>Warm Taupe</span></p>"
+    },
+    {
+      "id": "n-39",
+      "position": {
+        "x": 850.9999999999998,
+        "y": 487.99999999999994
+      },
+      "size": {
+        "width": 110.07405024549284,
+        "height": 110.07405024549284
+      },
+      "style": {
+        "fillColor": "#424242",
+        "borderColor": "#d97a2b",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "noto_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-3",
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-40",
+      "position": {
+        "x": 855.2414285714285,
+        "y": 583.9999999999999
+      },
+      "size": {
+        "width": 89.85040051801961
+      },
+      "style": {
+        "fontSize": 20,
+        "textColor": "#fff9c4",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "frameId": "f-3",
+      "visualKind": "text",
+      "title": "<p><strong style=\"color:rgb(255,249,196)\">#424242</strong></p>"
+    },
+    {
+      "id": "n-41",
+      "position": {
+        "x": 854.2399999999996,
+        "y": 614.0
+      },
+      "size": {
+        "width": 101.88729275725582
+      },
+      "style": {
+        "fontSize": 15,
+        "textColor": "#d97a2b",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "frameId": "f-3",
+      "visualKind": "text",
+      "title": "<p><span>Charcoal Gray</span></p>"
+    },
+    {
+      "id": "n-42",
+      "position": {
+        "x": 1062.0000000000002,
+        "y": 487.99999999999994
+      },
+      "size": {
+        "width": 110.07405024549284,
+        "height": 110.07405024549284
+      },
+      "style": {
+        "fillColor": "#c66a4a",
+        "borderColor": "#d97a2b",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "noto_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-3",
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-43",
+      "position": {
+        "x": 1065.6257142857144,
+        "y": 583.9999999999999
+      },
+      "size": {
+        "width": 87.07152215133095
+      },
+      "style": {
+        "fontSize": 20,
+        "textColor": "#fff9c4",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "frameId": "f-3",
+      "visualKind": "text",
+      "title": "<p><strong style=\"color:rgb(255,249,196)\">#c66a4a</strong></p>"
+    },
+    {
+      "id": "n-44",
+      "position": {
+        "x": 1064.9010714285714,
+        "y": 614.0
+      },
+      "size": {
+        "width": 75.50576160271936
+      },
+      "style": {
+        "fontSize": 15,
+        "textColor": "#d97a2b",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "frameId": "f-3",
+      "visualKind": "text",
+      "title": "<p><span>Terracotta</span></p>"
+    },
+    {
+      "id": "n-45",
+      "position": {
+        "x": 671.8228571428575,
+        "y": 64.00000000000028
+      },
+      "size": {
+        "width": 415.9128332347265
+      },
+      "style": {
+        "fontSize": 41,
+        "textColor": "#2f2a26",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "frameId": "f-4",
+      "visualKind": "text",
+      "title": "<p><strong style=\"color:rgb(47,42,38)\">9-Image Mood Grid</strong></p>"
+    },
+    {
+      "id": "n-46",
+      "position": {
+        "x": 268.000000000001,
+        "y": 275.99999999999983
+      },
+      "size": {
+        "width": 240.78698491201558,
+        "height": 240.78698491201558
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ6tfiig%3D/resources/images/3458764517270892496?format=preview&redirect=false"
+        }
+      },
+      "frameId": "f-4",
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-47",
+      "position": {
+        "x": 617.0000000000005,
+        "y": 275.99999999999983
+      },
+      "size": {
+        "width": 240.78698491201558,
+        "height": 240.78698491201558
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ6tfiig%3D/resources/images/3458764517270892497?format=preview&redirect=false"
+        }
+      },
+      "frameId": "f-4",
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-48",
+      "position": {
+        "x": 966.0000000000008,
+        "y": 275.99999999999983
+      },
+      "size": {
+        "width": 240.78698491201558,
+        "height": 240.78698491201558
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ6tfiig%3D/resources/images/3458764517270892498?format=preview&redirect=false"
+        }
+      },
+      "frameId": "f-4",
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-49",
+      "position": {
+        "x": 268.000000000001,
+        "y": 580.0000000000003
+      },
+      "size": {
+        "width": 240.78698491201558,
+        "height": 240.78698491201558
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ6tfiig%3D/resources/images/3458764517270892499?format=preview&redirect=false"
+        }
+      },
+      "frameId": "f-4",
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-50",
+      "position": {
+        "x": 617.0000000000005,
+        "y": 580.0000000000003
+      },
+      "size": {
+        "width": 240.78698491201558,
+        "height": 240.78698491201558
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ6tfiig%3D/resources/images/3458764517270892500?format=preview&redirect=false"
+        }
+      },
+      "frameId": "f-4",
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-51",
+      "position": {
+        "x": 966.0000000000008,
+        "y": 580.0000000000003
+      },
+      "size": {
+        "width": 240.78698491201558,
+        "height": 240.78698491201558
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ6tfiig%3D/resources/images/3458764517270892501?format=preview&redirect=false"
+        }
+      },
+      "frameId": "f-4",
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-52",
+      "position": {
+        "x": 268.000000000001,
+        "y": 883.9999999999999
+      },
+      "size": {
+        "width": 240.78698491201558,
+        "height": 240.78698491201558
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ6tfiig%3D/resources/images/3458764517270892502?format=preview&redirect=false"
+        }
+      },
+      "frameId": "f-4",
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-53",
+      "position": {
+        "x": 617.0000000000005,
+        "y": 883.9999999999999
+      },
+      "size": {
+        "width": 240.78698491201558,
+        "height": 240.78698491201558
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ6tfiig%3D/resources/images/3458764517270892503?format=preview&redirect=false"
+        }
+      },
+      "frameId": "f-4",
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-54",
+      "position": {
+        "x": 966.0000000000008,
+        "y": 883.9999999999999
+      },
+      "size": {
+        "width": 240.78698491201558,
+        "height": 240.78698491201558
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ6tfiig%3D/resources/images/3458764517270892504?format=preview&redirect=false"
+        }
+      },
+      "frameId": "f-4",
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-55",
+      "position": {
+        "x": 665.8057142857159,
+        "y": 64.00000000000023
+      },
+      "size": {
+        "width": 338.4875325352629
+      },
+      "style": {
+        "fontSize": 41,
+        "textColor": "#fff9c4",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "frameId": "f-5",
+      "visualKind": "text",
+      "title": "<p><strong style=\"color:rgb(255,249,196)\">9 Object Details</strong></p>"
+    },
+    {
+      "id": "n-56",
+      "position": {
+        "x": 245.50000000000165,
+        "y": 296.0
+      },
+      "size": {
+        "width": 312.16312686807737,
+        "height": 275.1851256137322
+      },
+      "style": {
+        "fillColor": "#fff9c4",
+        "borderColor": "#e5e7eb",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "noto_sans",
+        "borderWidth": 0,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-5",
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-57",
+      "position": {
+        "x": 245.50000000000165,
+        "y": 255.99999999999994
+      },
+      "size": {
+        "width": 270.88535802601757,
+        "height": 165.11107536823926
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ6tfiig%3D/resources/images/3458764517270892505?format=preview&redirect=false"
+        }
+      },
+      "frameId": "f-5",
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-58",
+      "position": {
+        "x": 245.50000000000165,
+        "y": 400.0
+      },
+      "size": {
+        "width": 270.8853580260175
+      },
+      "style": {
+        "fontSize": 20,
+        "textColor": "#2f2a26",
+        "fontFamily": "roboto",
+        "align": "center"
+      },
+      "frameId": "f-5",
+      "visualKind": "text",
+      "title": "<p><strong style=\"color:rgb(47,42,38)\">Cable-knit throw blanket in warm cream</strong></p>"
+    },
+    {
+      "id": "n-59",
+      "position": {
+        "x": 639.5000000000019,
+        "y": 296.0
+      },
+      "size": {
+        "width": 312.16312686807737,
+        "height": 275.1851256137322
+      },
+      "style": {
+        "fillColor": "#fff9c4",
+        "borderColor": "#e5e7eb",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "noto_sans",
+        "borderWidth": 0,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-5",
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-60",
+      "position": {
+        "x": 639.5000000000019,
+        "y": 255.99999999999994
+      },
+      "size": {
+        "width": 270.88535802601757,
+        "height": 165.11107536823926
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ6tfiig%3D/resources/images/3458764517270892506?format=preview&redirect=false"
+        }
+      },
+      "frameId": "f-5",
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-61",
+      "position": {
+        "x": 639.5000000000019,
+        "y": 400.0
+      },
+      "size": {
+        "width": 270.8853580260175
+      },
+      "style": {
+        "fontSize": 20,
+        "textColor": "#2f2a26",
+        "fontFamily": "roboto",
+        "align": "center"
+      },
+      "frameId": "f-5",
+      "visualKind": "text",
+      "title": "<p><strong style=\"color:rgb(47,42,38)\">Amber glass candle with wood wick</strong></p>"
+    },
+    {
+      "id": "n-62",
+      "position": {
+        "x": 1034.500000000001,
+        "y": 296.0
+      },
+      "size": {
+        "width": 312.16312686807737,
+        "height": 275.1851256137322
+      },
+      "style": {
+        "fillColor": "#fff9c4",
+        "borderColor": "#e5e7eb",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "noto_sans",
+        "borderWidth": 0,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-5",
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-63",
+      "position": {
+        "x": 1034.500000000001,
+        "y": 255.99999999999994
+      },
+      "size": {
+        "width": 270.88535802601757,
+        "height": 165.11107536823926
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ6tfiig%3D/resources/images/3458764517270892507?format=preview&redirect=false"
+        }
+      },
+      "frameId": "f-5",
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-64",
+      "position": {
+        "x": 1034.500000000001,
+        "y": 400.0
+      },
+      "size": {
+        "width": 270.8853580260175
+      },
+      "style": {
+        "fontSize": 20,
+        "textColor": "#2f2a26",
+        "fontFamily": "roboto",
+        "align": "center"
+      },
+      "frameId": "f-5",
+      "visualKind": "text",
+      "title": "<p><strong style=\"color:rgb(47,42,38)\">Ceramic mug with cinnamon latte</strong></p>"
+    },
+    {
+      "id": "n-65",
+      "position": {
+        "x": 245.50000000000165,
+        "y": 647.9999999999999
+      },
+      "size": {
+        "width": 312.16312686807737,
+        "height": 275.1851256137322
+      },
+      "style": {
+        "fillColor": "#fff9c4",
+        "borderColor": "#e5e7eb",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "noto_sans",
+        "borderWidth": 0,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-5",
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-66",
+      "position": {
+        "x": 245.50000000000165,
+        "y": 608.0000000000001
+      },
+      "size": {
+        "width": 270.88535802601757,
+        "height": 165.11107536823926
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ6tfiig%3D/resources/images/3458764517270892508?format=preview&redirect=false"
+        }
+      },
+      "frameId": "f-5",
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-67",
+      "position": {
+        "x": 245.50000000000165,
+        "y": 752.0000000000001
+      },
+      "size": {
+        "width": 270.8853580260175
+      },
+      "style": {
+        "fontSize": 20,
+        "textColor": "#2f2a26",
+        "fontFamily": "roboto",
+        "align": "center"
+      },
+      "frameId": "f-5",
+      "visualKind": "text",
+      "title": "<p><strong style=\"color:rgb(47,42,38)\">Plaid wool pillow in red and yellow</strong></p>"
+    },
+    {
+      "id": "n-68",
+      "position": {
+        "x": 639.5000000000019,
+        "y": 647.9999999999999
+      },
+      "size": {
+        "width": 312.16312686807737,
+        "height": 275.1851256137322
+      },
+      "style": {
+        "fillColor": "#fff9c4",
+        "borderColor": "#e5e7eb",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "noto_sans",
+        "borderWidth": 0,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-5",
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-69",
+      "position": {
+        "x": 639.5000000000019,
+        "y": 608.0000000000001
+      },
+      "size": {
+        "width": 270.88535802601757,
+        "height": 165.11107536823926
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ6tfiig%3D/resources/images/3458764517270892509?format=preview&redirect=false"
+        }
+      },
+      "frameId": "f-5",
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-70",
+      "position": {
+        "x": 639.5000000000019,
+        "y": 752.0000000000001
+      },
+      "size": {
+        "width": 270.8853580260175
+      },
+      "style": {
+        "fontSize": 20,
+        "textColor": "#2f2a26",
+        "fontFamily": "roboto",
+        "align": "center"
+      },
+      "frameId": "f-5",
+      "visualKind": "text",
+      "title": "<p><strong style=\"color:rgb(47,42,38)\">Terracotta planter with olive foliage</strong></p>"
+    },
+    {
+      "id": "n-71",
+      "position": {
+        "x": 1034.500000000001,
+        "y": 647.9999999999999
+      },
+      "size": {
+        "width": 312.16312686807737,
+        "height": 275.1851256137322
+      },
+      "style": {
+        "fillColor": "#fff9c4",
+        "borderColor": "#e5e7eb",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "noto_sans",
+        "borderWidth": 0,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-5",
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-72",
+      "position": {
+        "x": 1034.500000000001,
+        "y": 608.0000000000001
+      },
+      "size": {
+        "width": 270.88535802601757,
+        "height": 165.11107536823926
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ6tfiig%3D/resources/images/3458764517270892510?format=preview&redirect=false"
+        }
+      },
+      "frameId": "f-5",
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-73",
+      "position": {
+        "x": 1034.500000000001,
+        "y": 752.0000000000001
+      },
+      "size": {
+        "width": 270.8853580260175
+      },
+      "style": {
+        "fontSize": 20,
+        "textColor": "#2f2a26",
+        "fontFamily": "roboto",
+        "align": "center"
+      },
+      "frameId": "f-5",
+      "visualKind": "text",
+      "title": "<p><strong style=\"color:rgb(47,42,38)\">Copper kettle with soft patina</strong></p>"
+    },
+    {
+      "id": "n-74",
+      "position": {
+        "x": 245.50000000000165,
+        "y": 1000.0
+      },
+      "size": {
+        "width": 312.16312686807737,
+        "height": 275.1851256137322
+      },
+      "style": {
+        "fillColor": "#fff9c4",
+        "borderColor": "#e5e7eb",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "noto_sans",
+        "borderWidth": 0,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-5",
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-75",
+      "position": {
+        "x": 245.50000000000165,
+        "y": 960.0000000000002
+      },
+      "size": {
+        "width": 270.88535802601757,
+        "height": 165.11107536823926
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ6tfiig%3D/resources/images/3458764517270892511?format=preview&redirect=false"
+        }
+      },
+      "frameId": "f-5",
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-76",
+      "position": {
+        "x": 245.50000000000165,
+        "y": 1104.0000000000002
+      },
+      "size": {
+        "width": 270.8853580260175
+      },
+      "style": {
+        "fontSize": 20,
+        "textColor": "#2f2a26",
+        "fontFamily": "roboto",
+        "align": "center"
+      },
+      "frameId": "f-5",
+      "visualKind": "text",
+      "title": "<p><strong style=\"color:rgb(47,42,38)\">Woven storage basket in natural jute</strong></p>"
+    },
+    {
+      "id": "n-77",
+      "position": {
+        "x": 639.5000000000019,
+        "y": 1000.0
+      },
+      "size": {
+        "width": 312.16312686807737,
+        "height": 275.1851256137322
+      },
+      "style": {
+        "fillColor": "#fff9c4",
+        "borderColor": "#e5e7eb",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "noto_sans",
+        "borderWidth": 0,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-5",
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-78",
+      "position": {
+        "x": 639.5000000000019,
+        "y": 960.0000000000002
+      },
+      "size": {
+        "width": 270.88535802601757,
+        "height": 165.11107536823926
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ6tfiig%3D/resources/images/3458764517270892512?format=preview&redirect=false"
+        }
+      },
+      "frameId": "f-5",
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-79",
+      "position": {
+        "x": 639.5000000000019,
+        "y": 1104.0000000000002
+      },
+      "size": {
+        "width": 270.8853580260175
+      },
+      "style": {
+        "fontSize": 20,
+        "textColor": "#2f2a26",
+        "fontFamily": "roboto",
+        "align": "center"
+      },
+      "frameId": "f-5",
+      "visualKind": "text",
+      "title": "<p><strong style=\"color:rgb(47,42,38)\">Rust-toned velvet sofa cushion</strong></p>"
+    },
+    {
+      "id": "n-80",
+      "position": {
+        "x": 1034.500000000001,
+        "y": 1000.0
+      },
+      "size": {
+        "width": 312.16312686807737,
+        "height": 275.1851256137322
+      },
+      "style": {
+        "fillColor": "#fff9c4",
+        "borderColor": "#e5e7eb",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "noto_sans",
+        "borderWidth": 0,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-5",
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-81",
+      "position": {
+        "x": 1034.500000000001,
+        "y": 960.0000000000002
+      },
+      "size": {
+        "width": 270.88535802601757,
+        "height": 165.11107536823926
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ6tfiig%3D/resources/images/3458764517270892513?format=preview&redirect=false"
+        }
+      },
+      "frameId": "f-5",
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-82",
+      "position": {
+        "x": 1034.500000000001,
+        "y": 1088.0
+      },
+      "size": {
+        "width": 258.43568810204624
+      },
+      "style": {
+        "fontSize": 20,
+        "textColor": "#2f2a26",
+        "fontFamily": "roboto",
+        "align": "center"
+      },
+      "frameId": "f-5",
+      "visualKind": "text",
+      "title": "<p><strong style=\"color:rgb(47,42,38)\">Soft-glow fairy light string</strong></p>"
+    },
+    {
+      "id": "n-83",
+      "position": {
+        "x": 554.020068585613,
+        "y": 139.76229589252114
+      },
+      "size": {
+        "width": 212.93,
+        "height": 243.96
+      },
+      "style": {
+        "fillColor": "orange",
+        "align": "center"
+      },
+      "frameId": "f-2",
+      "visualKind": "stickyNote",
+      "title": "<p>Cozy</p>"
+    },
+    {
+      "id": "n-84",
+      "position": {
+        "x": 835.6983837693253,
+        "y": 416.7349968255934
+      },
+      "size": {
+        "width": 212.93,
+        "height": 243.96
+      },
+      "style": {
+        "fillColor": "orange",
+        "align": "center"
+      },
+      "frameId": "f-2",
+      "visualKind": "stickyNote",
+      "title": "<p>Apartment</p>"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e-0",
+      "sourceNodeId": "n-3",
+      "targetNodeId": "n-6",
+      "style": {
+        "lineStyle": "dotted",
+        "arrowHead": "none",
+        "borderColor": "#b0b0b0",
+        "strokeWidth": "2.0",
+        "extra": {
+          "connectorShape": "curved",
+          "sourcePosition": "auto",
+          "targetPosition": "auto"
+        }
+      }
+    }
+  ],
+  "annotations": [],
+  "_metadata": {
+    "extracted_at": "2026-02-23T12:47:39.692450",
+    "total_items": 91,
+    "total_connectors": 1,
+    "frames": 6,
+    "nodes": 85,
+    "edges": 1
+  },
+  "_template": {
+    "name": "moodboarding",
+    "category": "miroverse",
+    "source": "miroverse",
+    "source_slug": "moodboarding-ai",
+    "source_board_id": "uXjVJ6tfiig=",
+    "tags": [
+      "image creation",
+      "mood board",
+      "ai accelerated"
+    ],
+    "extracted_at": "2026-02-23T12:47:39.692488"
+  }
+}

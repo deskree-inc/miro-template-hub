@@ -1,0 +1,2829 @@
+{
+  "frames": [
+    {
+      "id": "f-0",
+      "title": "Text Left and Image Right Slide",
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "size": {
+        "width": 3450.455713276735,
+        "height": 1940.8813387181638
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-1",
+      "title": "Title Slide",
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "size": {
+        "width": 3450.455713276735,
+        "height": 1940.8813387181638
+      },
+      "style": {
+        "fillColor": "#ffdd33"
+      }
+    },
+    {
+      "id": "f-2",
+      "title": "Two Column Image and Text Slide",
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "size": {
+        "width": 3450.455713276735,
+        "height": 1940.8813387181638
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-3",
+      "title": "Quote Slide",
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "size": {
+        "width": 3450.455713276735,
+        "height": 1940.8813387181638
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-4",
+      "title": "Table Slide",
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "size": {
+        "width": 3450.455713276735,
+        "height": 1940.8813387181638
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-5",
+      "title": "Metrics Slide",
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "size": {
+        "width": 3450.455713276735,
+        "height": 1940.8813387181638
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-6",
+      "title": "Table Slide",
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "size": {
+        "width": 3450.455713276735,
+        "height": 1940.8813387181638
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-7",
+      "title": "Matrix Slide",
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "size": {
+        "width": 3450.455713276735,
+        "height": 1940.8813387181638
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-8",
+      "title": "Sticky Timeline Slide",
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "size": {
+        "width": 3450.455713276735,
+        "height": 1940.8813387181638
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-9",
+      "title": "Alignment Scale Slide",
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "size": {
+        "width": 3450.455713276735,
+        "height": 1940.8813387181638
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-10",
+      "title": "Section Title Slide",
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "size": {
+        "width": 3450.455713276735,
+        "height": 1940.8813387181638
+      },
+      "style": {
+        "fillColor": "#ffdd33"
+      }
+    },
+    {
+      "id": "f-11",
+      "title": "Copy of Section Title Slide",
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "size": {
+        "width": 3450.455713276735,
+        "height": 1940.8813387181638
+      },
+      "style": {
+        "fillColor": "#ffdd33"
+      }
+    },
+    {
+      "id": "f-12",
+      "title": "Feedback Slide",
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "size": {
+        "width": 3450.455713276735,
+        "height": 1940.8813387181638
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-13",
+      "title": "Thank You Slide",
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "size": {
+        "width": 3450.455713276735,
+        "height": 1940.8813387181638
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-14",
+      "title": "Three Column Icons Slide",
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "size": {
+        "width": 3450.455713276735,
+        "height": 1940.8813387181638
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-15",
+      "title": "",
+      "position": {
+        "x": -11532.602176914417,
+        "y": -3906.8568754550242
+      },
+      "size": {
+        "width": 905.3615635338202,
+        "height": 472.9542178399513
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-16",
+      "title": "",
+      "position": {
+        "x": -10628.581526326598,
+        "y": -3906.8568754550242
+      },
+      "size": {
+        "width": 633.3344126084019,
+        "height": 472.9542178399515
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-17",
+      "title": "",
+      "position": {
+        "x": -10628.581526326598,
+        "y": -3058.911914499816
+      },
+      "size": {
+        "width": 633.3344126084019,
+        "height": 922.20561532722
+      },
+      "style": {
+        "fillColor": "#f0f0f0"
+      }
+    },
+    {
+      "id": "f-18",
+      "title": "",
+      "position": {
+        "x": -10628.581526326598,
+        "y": -2217.114237821059
+      },
+      "size": {
+        "width": 633.3344126084019,
+        "height": 461.3897380302952
+      },
+      "style": {
+        "fillColor": "#f0f0f0"
+      }
+    },
+    {
+      "id": "f-19",
+      "title": "",
+      "position": {
+        "x": 10317.475118431594,
+        "y": -3877.2278109701674
+      },
+      "size": {
+        "width": 633.334412608402,
+        "height": 532.2123468096657
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    }
+  ],
+  "nodes": [
+    {
+      "id": "n-0",
+      "position": {
+        "x": -10014.601201699115,
+        "y": -4143.333984375
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "Go to market plan"
+    },
+    {
+      "id": "n-1",
+      "position": {
+        "x": 877.7375462772807,
+        "y": 768.7623754125881
+      },
+      "size": {
+        "width": 1211.2342157373787
+      },
+      "style": {
+        "fontSize": 136,
+        "textColor": "#1c1c1e",
+        "fontFamily": "roobert",
+        "align": "left"
+      },
+      "frameId": "f-0",
+      "visualKind": "text",
+      "title": "<p><strong>What we are launching</strong></p>"
+    },
+    {
+      "id": "n-2",
+      "position": {
+        "x": 877.737546277268,
+        "y": 1234.9250083303427
+      },
+      "size": {
+        "width": 1211.2342157179294
+      },
+      "style": {
+        "fontSize": 61,
+        "textColor": "#1c1c1e",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-0",
+      "visualKind": "text",
+      "title": "<p>This paragraph is a simple placeholder designed to show the template&#39;s layout. Use this space to explain your main points or a key concept.</p>"
+    },
+    {
+      "id": "n-3",
+      "position": {
+        "x": 2587.274275794163,
+        "y": 970.4406693591189
+      },
+      "size": {
+        "width": 1726.3628749651411,
+        "height": 1940.881338718206
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ83YvOQ%3D/resources/images/3458764517258276891?format=preview&redirect=false"
+        }
+      },
+      "frameId": "f-0",
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-4",
+      "position": {
+        "x": 1722.36071235102,
+        "y": 842.0463137695725
+      },
+      "size": {
+        "width": 3096.9516089161802
+      },
+      "style": {
+        "fontSize": 190,
+        "textColor": "#1c1c1e",
+        "fontFamily": "roobert_pro",
+        "align": "center"
+      },
+      "frameId": "f-1",
+      "visualKind": "text",
+      "title": "<p><strong style=\"background-color:transparent\">Go To Market Plan <br /></strong><span style=\"background-color:transparent\">for [product/feature X]</span></p>"
+    },
+    {
+      "id": "n-5",
+      "position": {
+        "x": 1722.3607123510203,
+        "y": 1191.6549036751103
+      },
+      "size": {
+        "width": 2900.4805478574394
+      },
+      "style": {
+        "fontSize": 81,
+        "textColor": "#1c1c1e",
+        "fontFamily": "unknown",
+        "align": "center"
+      },
+      "frameId": "f-1",
+      "visualKind": "text",
+      "title": "<p><strong>Your Name </strong>- Role, Team or Company</p>"
+    },
+    {
+      "id": "n-6",
+      "position": {
+        "x": 877.7375462772804,
+        "y": 1457.0553610437266
+      },
+      "size": {
+        "width": 1211.2342157179294
+      },
+      "style": {
+        "fontSize": 61,
+        "textColor": "#1c1c1e",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-2",
+      "visualKind": "text",
+      "title": "<p>This paragraph is a placeholder. Replace it to explain your main points or key concepts.</p>"
+    },
+    {
+      "id": "n-7",
+      "position": {
+        "x": 877.7375462772832,
+        "y": 1235.360839277
+      },
+      "size": {
+        "width": 1211.2342157179291
+      },
+      "style": {
+        "fontSize": 81,
+        "textColor": "#1c1c1e",
+        "fontFamily": "roobert_pro",
+        "align": "left"
+      },
+      "frameId": "f-2",
+      "visualKind": "text",
+      "title": "<p><strong>The problem</strong></p>"
+    },
+    {
+      "id": "n-8",
+      "position": {
+        "x": 2566.9838784247568,
+        "y": 1457.0553610437266
+      },
+      "size": {
+        "width": 1211.2342157179294
+      },
+      "style": {
+        "fontSize": 61,
+        "textColor": "#1c1c1e",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-2",
+      "visualKind": "text",
+      "title": "<p>This paragraph is a placeholder. Replace it to explain your main points or key concepts.</p>"
+    },
+    {
+      "id": "n-9",
+      "position": {
+        "x": 2566.983878424749,
+        "y": 1235.360839277
+      },
+      "size": {
+        "width": 1211.2342157179291
+      },
+      "style": {
+        "fontSize": 81,
+        "textColor": "#1c1c1e",
+        "fontFamily": "roobert_pro",
+        "align": "left"
+      },
+      "frameId": "f-2",
+      "visualKind": "text",
+      "title": "<p><strong>The value</strong></p>"
+    },
+    {
+      "id": "n-10",
+      "position": {
+        "x": 2566.9838784247568,
+        "y": 660.2794314793991
+      },
+      "size": {
+        "width": 1211.2342157270357,
+        "height": 796.1483328093436
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ83YvOQ%3D/resources/images/3458764517258276892?format=preview&redirect=false"
+        }
+      },
+      "frameId": "f-2",
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-11",
+      "position": {
+        "x": 877.7375462772928,
+        "y": 660.2794314793991
+      },
+      "size": {
+        "width": 1211.2342157270357,
+        "height": 796.1483328093436
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ83YvOQ%3D/resources/images/3458764517258276892?format=preview&redirect=false"
+        }
+      },
+      "frameId": "f-2",
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-12",
+      "position": {
+        "x": 1725.2278566383675,
+        "y": 1336.3289466819986
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "frameId": "f-3",
+      "visualKind": "shape",
+      "title": "[people_sticker]"
+    },
+    {
+      "id": "n-13",
+      "position": {
+        "x": 1725.2278566383552,
+        "y": 1495.4234263113406
+      },
+      "size": {
+        "width": 1039.5303302499547
+      },
+      "style": {
+        "fontSize": 47,
+        "textColor": "#1c1c1e",
+        "fontFamily": "unknown",
+        "align": "center"
+      },
+      "frameId": "f-3",
+      "visualKind": "text",
+      "title": "<p><strong style=\"background-color:transparent\">Name</strong></p>"
+    },
+    {
+      "id": "n-14",
+      "position": {
+        "x": 1725.2278566383552,
+        "y": 1567.5366468991958
+      },
+      "size": {
+        "width": 1039.5303302499547
+      },
+      "style": {
+        "fontSize": 47,
+        "textColor": "#1c1c1e",
+        "fontFamily": "unknown",
+        "align": "center"
+      },
+      "frameId": "f-3",
+      "visualKind": "text",
+      "title": "<p><span style=\"background-color:transparent\">Role</span></p>"
+    },
+    {
+      "id": "n-15",
+      "position": {
+        "x": 1725.2278566383552,
+        "y": 1011.5456609069702
+      },
+      "size": {
+        "width": 2894.746259308593
+      },
+      "style": {
+        "fontSize": 95,
+        "textColor": "#1a1a1a",
+        "fontFamily": "unknown",
+        "align": "center"
+      },
+      "frameId": "f-3",
+      "visualKind": "text",
+      "title": "<p>A concise, relevant quote that summarizes the core idea of your presentation can be placed here.</p><p><br /></p>"
+    },
+    {
+      "id": "n-16",
+      "position": {
+        "x": 1725.2278566383638,
+        "y": 653.6759589308283
+      },
+      "size": {
+        "width": 646.5882081809037
+      },
+      "style": {
+        "fontSize": 272,
+        "textColor": "#1a1a1a",
+        "fontFamily": "open_sans",
+        "align": "center"
+      },
+      "frameId": "f-3",
+      "visualKind": "text",
+      "title": "<p><strong> “</strong></p>"
+    },
+    {
+      "id": "n-17",
+      "position": {
+        "x": 1681.5705848879952,
+        "y": 1145.275206737434
+      },
+      "size": {
+        "width": 2807.431715799033,
+        "height": 1064.2167078461548
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "frameId": "f-4",
+      "visualKind": "shape",
+      "title": "[table]"
+    },
+    {
+      "id": "n-18",
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "size": {
+        "width": 504.1033512755945,
+        "height": 76.9420904578539
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[table_text]"
+    },
+    {
+      "id": "n-19",
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "size": {
+        "width": 504.1033512755945,
+        "height": 76.9420904578539
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[table_text]"
+    },
+    {
+      "id": "n-20",
+      "position": {
+        "x": 1721.0031990879402,
+        "y": 340.0030263740183
+      },
+      "size": {
+        "width": 2886.2969441989408
+      },
+      "style": {
+        "fontSize": 136,
+        "textColor": "#090909",
+        "fontFamily": "roobert_pro",
+        "align": "left"
+      },
+      "frameId": "f-4",
+      "visualKind": "text",
+      "title": "<p><strong>Messaging</strong></p>"
+    },
+    {
+      "id": "n-21",
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "size": {
+        "width": 871.5681626001725,
+        "height": 76.9420904578539
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[table_text]"
+    },
+    {
+      "id": "n-22",
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "size": {
+        "width": 1430.0616123028706,
+        "height": 76.9420904578539
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[table_text]"
+    },
+    {
+      "id": "n-23",
+      "position": {
+        "x": 975.9730768085567,
+        "y": 850.4808900875494
+      },
+      "size": {
+        "width": 1407.7052767889224
+      },
+      "style": {
+        "fontSize": 136,
+        "textColor": "#1c1c1e",
+        "fontFamily": "roobert",
+        "align": "left"
+      },
+      "frameId": "f-5",
+      "visualKind": "text",
+      "title": "<p><strong>Metrics</strong></p>"
+    },
+    {
+      "id": "n-24",
+      "position": {
+        "x": 2242.907825919158,
+        "y": 740.5024910698319
+      },
+      "size": {
+        "width": 563.082110700982
+      },
+      "style": {
+        "fontSize": 61,
+        "textColor": "#1c1c1e",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-5",
+      "visualKind": "text",
+      "title": "<p>Metric 1</p>"
+    },
+    {
+      "id": "n-25",
+      "position": {
+        "x": 2891.059930930344,
+        "y": 740.5024910698319
+      },
+      "size": {
+        "width": 563.082110700982
+      },
+      "style": {
+        "fontSize": 61,
+        "textColor": "#1c1c1e",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-5",
+      "visualKind": "text",
+      "title": "<p>Metric 2</p>"
+    },
+    {
+      "id": "n-26",
+      "position": {
+        "x": 2242.9078259191556,
+        "y": 605.8946198179926
+      },
+      "size": {
+        "width": 563.0821107350184
+      },
+      "style": {
+        "fontSize": 136,
+        "textColor": "#ffdd33",
+        "fontFamily": "roobert",
+        "align": "left"
+      },
+      "frameId": "f-5",
+      "visualKind": "text",
+      "title": "<p><strong>50%</strong></p>"
+    },
+    {
+      "id": "n-27",
+      "position": {
+        "x": 2891.059930930352,
+        "y": 605.8946198179926
+      },
+      "size": {
+        "width": 563.0821107350184
+      },
+      "style": {
+        "fontSize": 136,
+        "textColor": "#ffdd33",
+        "fontFamily": "roobert",
+        "align": "left"
+      },
+      "frameId": "f-5",
+      "visualKind": "text",
+      "title": "<p><strong>50%</strong></p>"
+    },
+    {
+      "id": "n-28",
+      "position": {
+        "x": 2242.9078259191456,
+        "y": 1358.5154562592763
+      },
+      "size": {
+        "width": 563.082110700982
+      },
+      "style": {
+        "fontSize": 61,
+        "textColor": "#1c1c1e",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-5",
+      "visualKind": "text",
+      "title": "<p>Metric 1</p>"
+    },
+    {
+      "id": "n-29",
+      "position": {
+        "x": 2891.0599309303316,
+        "y": 1358.5154562592763
+      },
+      "size": {
+        "width": 563.082110700982
+      },
+      "style": {
+        "fontSize": 61,
+        "textColor": "#1c1c1e",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-5",
+      "visualKind": "text",
+      "title": "<p>Metric 2</p>"
+    },
+    {
+      "id": "n-30",
+      "position": {
+        "x": 2242.9078259191556,
+        "y": 1223.907585007437
+      },
+      "size": {
+        "width": 563.0821107350184
+      },
+      "style": {
+        "fontSize": 136,
+        "textColor": "#ffdd33",
+        "fontFamily": "roobert",
+        "align": "left"
+      },
+      "frameId": "f-5",
+      "visualKind": "text",
+      "title": "<p><strong>50%</strong></p>"
+    },
+    {
+      "id": "n-31",
+      "position": {
+        "x": 2891.059930930352,
+        "y": 1223.907585007437
+      },
+      "size": {
+        "width": 563.0821107350184
+      },
+      "style": {
+        "fontSize": 136,
+        "textColor": "#ffdd33",
+        "fontFamily": "roobert",
+        "align": "left"
+      },
+      "frameId": "f-5",
+      "visualKind": "text",
+      "title": "<p><strong>50%</strong></p>"
+    },
+    {
+      "id": "n-32",
+      "position": {
+        "x": 975.9730768085567,
+        "y": 1061.2262881434133
+      },
+      "size": {
+        "width": 1407.7052767743357
+      },
+      "style": {
+        "fontSize": 61,
+        "textColor": "#1c1c1e",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-5",
+      "visualKind": "text",
+      "title": "<p>A short paragraph to explain what these metrics are about.</p>"
+    },
+    {
+      "id": "n-33",
+      "position": {
+        "x": 1719.8547269884739,
+        "y": 1143.4458184116984
+      },
+      "size": {
+        "width": 2884.0,
+        "height": 1060.5579311946826
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "frameId": "f-6",
+      "visualKind": "shape",
+      "title": "[table]"
+    },
+    {
+      "id": "n-34",
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "size": {
+        "width": 574.4125029008748,
+        "height": 76.9420904578539
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[table_text]"
+    },
+    {
+      "id": "n-35",
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "size": {
+        "width": 574.4125029008748,
+        "height": 76.9420904578539
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[table_text]"
+    },
+    {
+      "id": "n-36",
+      "position": {
+        "x": 1721.0031990879406,
+        "y": 340.0030263740183
+      },
+      "size": {
+        "width": 2886.2969441989408
+      },
+      "style": {
+        "fontSize": 136,
+        "textColor": "#090909",
+        "fontFamily": "roobert_pro",
+        "align": "left"
+      },
+      "frameId": "f-6",
+      "visualKind": "text",
+      "title": "<p><strong>Marketing &amp; sales plan</strong></p>"
+    },
+    {
+      "id": "n-37",
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "size": {
+        "width": 577.0656784339042,
+        "height": 76.9420904578539
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[table_text]"
+    },
+    {
+      "id": "n-38",
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "size": {
+        "width": 577.0656784339042,
+        "height": 76.9420904578539
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[table_text]"
+    },
+    {
+      "id": "n-39",
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "size": {
+        "width": 577.0656784339042,
+        "height": 76.9420904578539
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[table_text]"
+    },
+    {
+      "id": "n-40",
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "size": {
+        "width": 574.4125029008748,
+        "height": 76.9420904578539
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[table_text]"
+    },
+    {
+      "id": "n-41",
+      "position": {
+        "x": 1725.2278566383675,
+        "y": 969.4692458328796
+      },
+      "size": {
+        "width": 27.229216454706986,
+        "height": 1048.6130159966172
+      },
+      "style": {
+        "fillColor": "#f0f0f0",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 61,
+        "fontFamily": "noto_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-7",
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-42",
+      "position": {
+        "x": 1725.2278566383675,
+        "y": 970.4406693589829
+      },
+      "size": {
+        "width": 27.229216454706986,
+        "height": 1048.6130159966583
+      },
+      "style": {
+        "fillColor": "#f0f0f0",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 61,
+        "fontFamily": "noto_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-7",
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-43",
+      "position": {
+        "x": 2341.0131010165614,
+        "y": 970.4406693589829
+      },
+      "size": {
+        "width": 182.95747275974747,
+        "height": 45.592519816841296
+      },
+      "style": {
+        "fillColor": "#f0f0f0",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 34,
+        "fontFamily": "noto_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "right_arrow"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-7",
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-44",
+      "position": {
+        "x": 1109.4426122601612,
+        "y": 970.4406693589829
+      },
+      "size": {
+        "width": 182.95747275974747,
+        "height": 45.592519816841296
+      },
+      "style": {
+        "fillColor": "#f0f0f0",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 34,
+        "fontFamily": "noto_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "right_arrow"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-7",
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-45",
+      "position": {
+        "x": 1725.2278566383552,
+        "y": 353.6840014546856
+      },
+      "size": {
+        "width": 182.95747275974747,
+        "height": 45.592519816841296
+      },
+      "style": {
+        "fillColor": "#f0f0f0",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 34,
+        "fontFamily": "noto_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "right_arrow"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-7",
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-46",
+      "position": {
+        "x": 1725.2278566383552,
+        "y": 1585.2544902110735
+      },
+      "size": {
+        "width": 182.95747275974747,
+        "height": 45.592519816841296
+      },
+      "style": {
+        "fillColor": "#f0f0f0",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 34,
+        "fontFamily": "noto_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "right_arrow"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-7",
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-47",
+      "position": {
+        "x": 1725.2278566383675,
+        "y": 197.37290043381938
+      },
+      "size": {
+        "width": 758.5105738553466
+      },
+      "style": {
+        "fontSize": 47,
+        "textColor": "#1c1c1e",
+        "fontFamily": "unknown",
+        "align": "center"
+      },
+      "frameId": "f-7",
+      "visualKind": "text",
+      "title": "<p><strong style=\"background-color:transparent\">Label</strong></p>"
+    },
+    {
+      "id": "n-48",
+      "position": {
+        "x": 798.1272556766226,
+        "y": 340.0030263745149
+      },
+      "size": {
+        "width": 1040.5450573763026
+      },
+      "style": {
+        "fontSize": 136,
+        "textColor": "#090909",
+        "fontFamily": "roobert_pro",
+        "align": "left"
+      },
+      "frameId": "f-7",
+      "visualKind": "text",
+      "title": "<p><strong>Competitors</strong></p>"
+    },
+    {
+      "id": "n-49",
+      "position": {
+        "x": 2032.9490900206888,
+        "y": 663.2265594281813
+      },
+      "size": {
+        "width": 242.05158024699665,
+        "height": 277.32542862469967
+      },
+      "style": {
+        "fillColor": "yellow",
+        "align": "center"
+      },
+      "frameId": "f-7",
+      "visualKind": "stickyNote",
+      "title": "<p>Competitor 2</p>"
+    },
+    {
+      "id": "n-50",
+      "position": {
+        "x": 1401.1142383983429,
+        "y": 1299.1867528093567
+      },
+      "size": {
+        "width": 242.05158024699665,
+        "height": 277.32542862469967
+      },
+      "style": {
+        "fillColor": "yellow",
+        "align": "center"
+      },
+      "frameId": "f-7",
+      "visualKind": "stickyNote",
+      "title": "<p>Competitor 3</p>"
+    },
+    {
+      "id": "n-51",
+      "position": {
+        "x": 1401.1142383983429,
+        "y": 663.2265594281813
+      },
+      "size": {
+        "width": 242.05158024699665,
+        "height": 277.32542862469967
+      },
+      "style": {
+        "fillColor": "yellow",
+        "align": "center"
+      },
+      "frameId": "f-7",
+      "visualKind": "stickyNote",
+      "title": "<p>Competitor 1</p>"
+    },
+    {
+      "id": "n-52",
+      "position": {
+        "x": 2032.9490900206888,
+        "y": 1299.1867528093567
+      },
+      "size": {
+        "width": 242.05158024699665,
+        "height": 277.32542862469967
+      },
+      "style": {
+        "fillColor": "yellow",
+        "align": "center"
+      },
+      "frameId": "f-7",
+      "visualKind": "stickyNote",
+      "title": "<p>Competitor 4</p>"
+    },
+    {
+      "id": "n-53",
+      "position": {
+        "x": 1725.2278566383675,
+        "y": 1729.7573312639224
+      },
+      "size": {
+        "width": 758.5105738553466
+      },
+      "style": {
+        "fontSize": 47,
+        "textColor": "#1c1c1e",
+        "fontFamily": "unknown",
+        "align": "center"
+      },
+      "frameId": "f-7",
+      "visualKind": "text",
+      "title": "<p><strong style=\"background-color:transparent\">Label</strong></p>"
+    },
+    {
+      "id": "n-54",
+      "position": {
+        "x": 2858.698400498478,
+        "y": 970.4406693590819
+      },
+      "size": {
+        "width": 758.5105738553466
+      },
+      "style": {
+        "fontSize": 47,
+        "textColor": "#1c1c1e",
+        "fontFamily": "unknown",
+        "align": "left"
+      },
+      "frameId": "f-7",
+      "visualKind": "text",
+      "title": "<p><strong style=\"background-color:transparent\">Label</strong></p>"
+    },
+    {
+      "id": "n-55",
+      "position": {
+        "x": 608.4085176972017,
+        "y": 970.4406693590819
+      },
+      "size": {
+        "width": 758.5105738553466
+      },
+      "style": {
+        "fontSize": 47,
+        "textColor": "#1c1c1e",
+        "fontFamily": "unknown",
+        "align": "right"
+      },
+      "frameId": "f-7",
+      "visualKind": "text",
+      "title": "<p><strong style=\"background-color:transparent\">Label</strong></p>"
+    },
+    {
+      "id": "n-56",
+      "position": {
+        "x": 1722.360712351019,
+        "y": 340.00302637387233
+      },
+      "size": {
+        "width": 2900.4805478451867
+      },
+      "style": {
+        "fontSize": 136,
+        "textColor": "#1c1c1e",
+        "fontFamily": "roobert_pro",
+        "align": "left"
+      },
+      "frameId": "f-8",
+      "visualKind": "text",
+      "title": "<p><strong>Timeline title</strong></p>"
+    },
+    {
+      "id": "n-57",
+      "position": {
+        "x": 553.6614937716906,
+        "y": 659.8455095936908
+      },
+      "size": {
+        "width": 563.0821107155689
+      },
+      "style": {
+        "fontSize": 81,
+        "textColor": "#1c1c1e",
+        "fontFamily": "roobert_pro",
+        "align": "left"
+      },
+      "frameId": "f-8",
+      "visualKind": "text",
+      "title": "<p><strong>Jan</strong></p>"
+    },
+    {
+      "id": "n-58",
+      "position": {
+        "x": 1332.7943061579147,
+        "y": 659.8455095936414
+      },
+      "size": {
+        "width": 563.0821107155689
+      },
+      "style": {
+        "fontSize": 81,
+        "textColor": "#1c1c1e",
+        "fontFamily": "roobert_pro",
+        "align": "left"
+      },
+      "frameId": "f-8",
+      "visualKind": "text",
+      "title": "<p><strong>Feb</strong></p>"
+    },
+    {
+      "id": "n-59",
+      "position": {
+        "x": 2111.9271185441366,
+        "y": 659.8455095936414
+      },
+      "size": {
+        "width": 563.0821107155689
+      },
+      "style": {
+        "fontSize": 81,
+        "textColor": "#1c1c1e",
+        "fontFamily": "roobert_pro",
+        "align": "left"
+      },
+      "frameId": "f-8",
+      "visualKind": "text",
+      "title": "<p><strong>Mar</strong></p>"
+    },
+    {
+      "id": "n-60",
+      "position": {
+        "x": 2891.0599309303484,
+        "y": 659.8455095936414
+      },
+      "size": {
+        "width": 563.0821107155689
+      },
+      "style": {
+        "fontSize": 81,
+        "textColor": "#1c1c1e",
+        "fontFamily": "roobert_pro",
+        "align": "left"
+      },
+      "frameId": "f-8",
+      "visualKind": "text",
+      "title": "<p><strong>Apr</strong></p>"
+    },
+    {
+      "id": "n-61",
+      "position": {
+        "x": 555.2821158612642,
+        "y": 948.2691404469053
+      },
+      "size": {
+        "width": 563.0821107158308,
+        "height": 366.80777498059837
+      },
+      "style": {
+        "fillColor": "yellow",
+        "align": "center"
+      },
+      "frameId": "f-8",
+      "visualKind": "stickyNote",
+      "title": ""
+    },
+    {
+      "id": "n-62",
+      "position": {
+        "x": 555.2821158612642,
+        "y": 1315.0769154275015
+      },
+      "size": {
+        "width": 563.0821107158308,
+        "height": 366.80777498059837
+      },
+      "style": {
+        "fillColor": "yellow",
+        "align": "center"
+      },
+      "frameId": "f-8",
+      "visualKind": "stickyNote",
+      "title": ""
+    },
+    {
+      "id": "n-63",
+      "position": {
+        "x": 1332.7943061579115,
+        "y": 948.2691404469053
+      },
+      "size": {
+        "width": 563.0821107158308,
+        "height": 366.80777498059837
+      },
+      "style": {
+        "fillColor": "yellow",
+        "align": "center"
+      },
+      "frameId": "f-8",
+      "visualKind": "stickyNote",
+      "title": ""
+    },
+    {
+      "id": "n-64",
+      "position": {
+        "x": 1332.7943061579115,
+        "y": 1315.0769154275015
+      },
+      "size": {
+        "width": 563.0821107158308,
+        "height": 366.80777498059837
+      },
+      "style": {
+        "fillColor": "yellow",
+        "align": "center"
+      },
+      "frameId": "f-8",
+      "visualKind": "stickyNote",
+      "title": ""
+    },
+    {
+      "id": "n-65",
+      "position": {
+        "x": 2111.9271185441416,
+        "y": 948.2691404469053
+      },
+      "size": {
+        "width": 563.0821107158308,
+        "height": 366.80777498059837
+      },
+      "style": {
+        "fillColor": "yellow",
+        "align": "center"
+      },
+      "frameId": "f-8",
+      "visualKind": "stickyNote",
+      "title": ""
+    },
+    {
+      "id": "n-66",
+      "position": {
+        "x": 2111.9271185441416,
+        "y": 1315.0769154275015
+      },
+      "size": {
+        "width": 563.0821107158308,
+        "height": 366.80777498059837
+      },
+      "style": {
+        "fillColor": "yellow",
+        "align": "center"
+      },
+      "frameId": "f-8",
+      "visualKind": "stickyNote",
+      "title": ""
+    },
+    {
+      "id": "n-67",
+      "position": {
+        "x": 2891.0599309303548,
+        "y": 948.2691404469053
+      },
+      "size": {
+        "width": 563.0821107158308,
+        "height": 366.80777498059837
+      },
+      "style": {
+        "fillColor": "yellow",
+        "align": "center"
+      },
+      "frameId": "f-8",
+      "visualKind": "stickyNote",
+      "title": ""
+    },
+    {
+      "id": "n-68",
+      "position": {
+        "x": 2891.0599309303548,
+        "y": 1315.0769154275015
+      },
+      "size": {
+        "width": 563.0821107158308,
+        "height": 366.80777498059837
+      },
+      "style": {
+        "fillColor": "yellow",
+        "align": "center"
+      },
+      "frameId": "f-8",
+      "visualKind": "stickyNote",
+      "title": ""
+    },
+    {
+      "id": "n-69",
+      "position": {
+        "x": 1725.2278566383552,
+        "y": 340.00302637421896
+      },
+      "size": {
+        "width": 2894.7462593377672
+      },
+      "style": {
+        "fontSize": 136,
+        "textColor": "#1c1c1e",
+        "fontFamily": "roobert_pro",
+        "align": "left"
+      },
+      "frameId": "f-9",
+      "visualKind": "text",
+      "title": "<p><strong>Alignment scale</strong></p>"
+    },
+    {
+      "id": "n-70",
+      "position": {
+        "x": 277.8547269884707,
+        "y": 920.2715252210162
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "frameId": "f-9",
+      "visualKind": "shape",
+      "title": "[alignment_scale]"
+    },
+    {
+      "id": "n-71",
+      "position": {
+        "x": 1336.9640231210833,
+        "y": 484.33561778816045
+      },
+      "size": {
+        "width": 2118.218592246899
+      },
+      "style": {
+        "fontSize": 61,
+        "textColor": "#1c1c1e",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-9",
+      "visualKind": "text",
+      "title": "<p>A short description about the topic you seek alignment on.</p>"
+    },
+    {
+      "id": "n-72",
+      "position": {
+        "x": 1764.8957094987045,
+        "y": 969.469245832831
+      },
+      "size": {
+        "width": 2815.4105535972944
+      },
+      "style": {
+        "fontSize": 190,
+        "textColor": "#1c1c1e",
+        "fontFamily": "roobert_pro",
+        "align": "left"
+      },
+      "frameId": "f-10",
+      "visualKind": "text",
+      "title": "<p><strong style=\"background-color:transparent\">Action plan</strong></p>"
+    },
+    {
+      "id": "n-73",
+      "position": {
+        "x": 1764.8001479785548,
+        "y": 1191.6549036751103
+      },
+      "size": {
+        "width": 2815.219430548711
+      },
+      "style": {
+        "fontSize": 81,
+        "textColor": "#1c1c1e",
+        "fontFamily": "unknown",
+        "align": "left"
+      },
+      "frameId": "f-10",
+      "visualKind": "text",
+      "title": "<p>One line to explain what this section is about</p>"
+    },
+    {
+      "id": "n-74",
+      "position": {
+        "x": 1764.8957094987045,
+        "y": 969.469245832831
+      },
+      "size": {
+        "width": 2815.4105535972944
+      },
+      "style": {
+        "fontSize": 190,
+        "textColor": "#1c1c1e",
+        "fontFamily": "roobert_pro",
+        "align": "left"
+      },
+      "frameId": "f-11",
+      "visualKind": "text",
+      "title": "<p><strong style=\"background-color:transparent\">Next steps</strong></p>"
+    },
+    {
+      "id": "n-75",
+      "position": {
+        "x": 1764.8001479785548,
+        "y": 1191.6549036751103
+      },
+      "size": {
+        "width": 2815.219430548711
+      },
+      "style": {
+        "fontSize": 81,
+        "textColor": "#1c1c1e",
+        "fontFamily": "unknown",
+        "align": "left"
+      },
+      "frameId": "f-11",
+      "visualKind": "text",
+      "title": "<p>One line to explain what this section is about</p>"
+    },
+    {
+      "id": "n-76",
+      "position": {
+        "x": 981.7073653832481,
+        "y": 340.00302637397135
+      },
+      "size": {
+        "width": 1407.7052767889224
+      },
+      "style": {
+        "fontSize": 136,
+        "textColor": "#1c1c1e",
+        "fontFamily": "roobert_pro",
+        "align": "left"
+      },
+      "frameId": "f-12",
+      "visualKind": "text",
+      "title": "<p><strong>Feedback</strong></p>"
+    },
+    {
+      "id": "n-77",
+      "position": {
+        "x": 983.901621422565,
+        "y": 572.1972202830284
+      },
+      "size": {
+        "width": 1412.0937888912736
+      },
+      "style": {
+        "fontSize": 68,
+        "textColor": "#1c1c1e",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-12",
+      "visualKind": "text",
+      "title": "<p>A short description with key points to explain what the feedback is about.</p>"
+    },
+    {
+      "id": "n-78",
+      "position": {
+        "x": 2131.4881413319363,
+        "y": 425.3999155735347
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "frameId": "f-12",
+      "visualKind": "shape",
+      "title": "[widgets_stack]"
+    },
+    {
+      "id": "n-79",
+      "position": {
+        "x": 82.50000000004809,
+        "y": 114.00000000000672
+      },
+      "size": {
+        "width": 540.6607645916959,
+        "height": 619.4505242558123
+      },
+      "style": {
+        "fillColor": "gray",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": ""
+    },
+    {
+      "id": "n-80",
+      "position": {
+        "x": 2612.143988199157,
+        "y": 424.58336879899514
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "frameId": "f-12",
+      "visualKind": "shape",
+      "title": "[widgets_stack]"
+    },
+    {
+      "id": "n-81",
+      "position": {
+        "x": 82.50000000004819,
+        "y": 113.99999999998721
+      },
+      "size": {
+        "width": 540.6607645916957,
+        "height": 619.4505242558122
+      },
+      "style": {
+        "fillColor": "yellow",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": ""
+    },
+    {
+      "id": "n-82",
+      "position": {
+        "x": 3089.634805658274,
+        "y": 424.58336879899514
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "frameId": "f-12",
+      "visualKind": "shape",
+      "title": "[widgets_stack]"
+    },
+    {
+      "id": "n-83",
+      "position": {
+        "x": 82.50000000004785,
+        "y": 114.00000000000672
+      },
+      "size": {
+        "width": 540.6607645916945,
+        "height": 619.4505242558107
+      },
+      "style": {
+        "fillColor": "black",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": ""
+    },
+    {
+      "id": "n-84",
+      "position": {
+        "x": 1301.0917272368258,
+        "y": 969.4692458327805
+      },
+      "size": {
+        "width": 1494.8604669867686
+      },
+      "style": {
+        "fontSize": 190,
+        "textColor": "#1c1c1e",
+        "fontFamily": "roobert_pro",
+        "align": "left"
+      },
+      "frameId": "f-13",
+      "visualKind": "text",
+      "title": "<p><strong style=\"background-color:transparent\">Thank you</strong></p>"
+    },
+    {
+      "id": "n-85",
+      "position": {
+        "x": 1303.6982220435007,
+        "y": 1279.0667748788526
+      },
+      "size": {
+        "width": 1489.6474773344855
+      },
+      "style": {
+        "fontSize": 81,
+        "textColor": "#1c1c1e",
+        "fontFamily": "unknown",
+        "align": "left"
+      },
+      "frameId": "f-13",
+      "visualKind": "text",
+      "title": "<p><strong>Your Name</strong></p>"
+    },
+    {
+      "id": "n-86",
+      "position": {
+        "x": 1303.6982220435011,
+        "y": 1372.476502823837
+      },
+      "size": {
+        "width": 1489.6474773344855
+      },
+      "style": {
+        "fontSize": 81,
+        "textColor": "#1c1c1e",
+        "fontFamily": "unknown",
+        "align": "left"
+      },
+      "frameId": "f-13",
+      "visualKind": "text",
+      "title": "<p>Paragraph for closing notes.</p>"
+    },
+    {
+      "id": "n-87",
+      "position": {
+        "x": 2541.869564458386,
+        "y": 970.4406693590819
+      },
+      "size": {
+        "width": 986.695207512862,
+        "height": 986.695207512862
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "frameId": "f-13",
+      "visualKind": "shape",
+      "title": "[stamp]"
+    },
+    {
+      "id": "n-88",
+      "position": {
+        "x": 1722.3607123510064,
+        "y": 340.00302637388734
+      },
+      "size": {
+        "width": 2730.340559310503
+      },
+      "style": {
+        "fontSize": 136,
+        "textColor": "#1c1c1e",
+        "fontFamily": "roobert",
+        "align": "center"
+      },
+      "frameId": "f-14",
+      "visualKind": "text",
+      "title": "<p><strong>Value proposition</strong></p>"
+    },
+    {
+      "id": "n-89",
+      "position": {
+        "x": 694.4320214506481,
+        "y": 1289.4297785361587
+      },
+      "size": {
+        "width": 844.623166053904
+      },
+      "style": {
+        "fontSize": 68,
+        "textColor": "#1c1c1e",
+        "fontFamily": "roobert_pro",
+        "align": "center"
+      },
+      "frameId": "f-14",
+      "visualKind": "text",
+      "title": "<p><strong>Value 1</strong></p>"
+    },
+    {
+      "id": "n-90",
+      "position": {
+        "x": 694.4320214506481,
+        "y": 1473.4115505002865
+      },
+      "size": {
+        "width": 844.6231660733536
+      },
+      "style": {
+        "fontSize": 61,
+        "textColor": "#1c1c1e",
+        "fontFamily": "noto_sans",
+        "align": "center"
+      },
+      "frameId": "f-14",
+      "visualKind": "text",
+      "title": "<p>A short sentence to explain your main point.</p>"
+    },
+    {
+      "id": "n-91",
+      "position": {
+        "x": 2750.2894032513896,
+        "y": 1289.4297785361587
+      },
+      "size": {
+        "width": 844.623166053904
+      },
+      "style": {
+        "fontSize": 68,
+        "textColor": "#1c1c1e",
+        "fontFamily": "roobert_pro",
+        "align": "center"
+      },
+      "frameId": "f-14",
+      "visualKind": "text",
+      "title": "<p><strong>Value 3</strong></p>"
+    },
+    {
+      "id": "n-92",
+      "position": {
+        "x": 2750.2894032513896,
+        "y": 1473.4115505002865
+      },
+      "size": {
+        "width": 844.6231660733536
+      },
+      "style": {
+        "fontSize": 61,
+        "textColor": "#1c1c1e",
+        "fontFamily": "noto_sans",
+        "align": "center"
+      },
+      "frameId": "f-14",
+      "visualKind": "text",
+      "title": "<p>A short sentence to explain your main point.</p>"
+    },
+    {
+      "id": "n-93",
+      "position": {
+        "x": 2750.289403251377,
+        "y": 967.2640620942027
+      },
+      "size": {
+        "width": 350.961587739542,
+        "height": 350.96158773951674
+      },
+      "style": {
+        "fillColor": "#f0f0f0",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 51,
+        "fontFamily": "roobert_pro",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "circle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-14",
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-94",
+      "position": {
+        "x": 1722.360712351019,
+        "y": 1289.4297785362096
+      },
+      "size": {
+        "width": 844.623166053904
+      },
+      "style": {
+        "fontSize": 68,
+        "textColor": "#1c1c1e",
+        "fontFamily": "roobert_pro",
+        "align": "center"
+      },
+      "frameId": "f-14",
+      "visualKind": "text",
+      "title": "<p><strong>Value 2</strong></p>"
+    },
+    {
+      "id": "n-95",
+      "position": {
+        "x": 1722.360712351019,
+        "y": 1473.4115505002865
+      },
+      "size": {
+        "width": 844.6231660733536
+      },
+      "style": {
+        "fontSize": 61,
+        "textColor": "#1c1c1e",
+        "fontFamily": "noto_sans",
+        "align": "center"
+      },
+      "frameId": "f-14",
+      "visualKind": "text",
+      "title": "<p>A short sentence to explain your main point.</p>"
+    },
+    {
+      "id": "n-96",
+      "position": {
+        "x": 1722.360712351019,
+        "y": 967.2640620942027
+      },
+      "size": {
+        "width": 350.961587739542,
+        "height": 350.96158773951674
+      },
+      "style": {
+        "fillColor": "#f0f0f0",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 51,
+        "fontFamily": "roobert_pro",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "circle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-14",
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-97",
+      "position": {
+        "x": 694.4320214506356,
+        "y": 967.2640620942027
+      },
+      "size": {
+        "width": 350.961587739542,
+        "height": 350.96158773951674
+      },
+      "style": {
+        "fillColor": "#f0f0f0",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 51,
+        "fontFamily": "roobert_pro",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "circle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-14",
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-98",
+      "position": {
+        "x": 694.4320214506361,
+        "y": 970.4406693590819
+      },
+      "size": {
+        "width": 137.0383569398387,
+        "height": 137.0383569398387
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "frameId": "f-14",
+      "visualKind": "shape",
+      "title": "[mockup]"
+    },
+    {
+      "id": "n-99",
+      "position": {
+        "x": 2750.289403251377,
+        "y": 967.2640620942027
+      },
+      "size": {
+        "width": 135.50973854982234,
+        "height": 135.50973854982234
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "frameId": "f-14",
+      "visualKind": "shape",
+      "title": "[mockup]"
+    },
+    {
+      "id": "n-100",
+      "position": {
+        "x": 1722.360712351019,
+        "y": 967.2640620942027
+      },
+      "size": {
+        "width": 135.5097385498222,
+        "height": 135.5097385498222
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "frameId": "f-14",
+      "visualKind": "shape",
+      "title": "[mockup]"
+    },
+    {
+      "id": "n-101",
+      "position": {
+        "x": 427.182254674641,
+        "y": 113.17882035439095
+      },
+      "size": {
+        "width": 714.9282026474751
+      },
+      "style": {
+        "fontSize": 76,
+        "textColor": "#1c1c1e",
+        "fontFamily": "roobert",
+        "align": "left"
+      },
+      "frameId": "f-15",
+      "visualKind": "text",
+      "title": "<p><strong>Got To Market Plan</strong></p>"
+    },
+    {
+      "id": "n-102",
+      "position": {
+        "x": 440.4919688192645,
+        "y": 279.9999999999999
+      },
+      "size": {
+        "width": 741.5476309619435
+      },
+      "style": {
+        "fontSize": 38,
+        "textColor": "#595959",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "frameId": "f-15",
+      "visualKind": "text",
+      "title": "<p>Create a clean, engaging, and persuasive presentation that your audience will remember.</p>"
+    },
+    {
+      "id": "n-103",
+      "position": {
+        "x": 251.57570798795402,
+        "y": 185.70088147439128
+      },
+      "size": {
+        "width": 390.5489899042211
+      },
+      "style": {
+        "fontSize": 42,
+        "textColor": "#1a1a1a",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-16",
+      "visualKind": "text",
+      "title": "<p><strong>Fill in the deck</strong></p>"
+    },
+    {
+      "id": "n-104",
+      "position": {
+        "x": 316.66720630420093,
+        "y": 297.800618150688
+      },
+      "size": {
+        "width": 520.7319865238809
+      },
+      "style": {
+        "fontSize": 31,
+        "textColor": "#595959",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "frameId": "f-16",
+      "visualKind": "text",
+      "title": "<p>Replace the content in the slides and start building out your presentation.</p>"
+    },
+    {
+      "id": "n-105",
+      "position": {
+        "x": 91.8450619329229,
+        "y": 91.84506193292327
+      },
+      "size": {
+        "width": 71.08769778741554,
+        "height": 71.08769778741714
+      },
+      "style": {
+        "fillColor": "#1c1c1e",
+        "borderColor": "#ffffff",
+        "textColor": "#ffffff",
+        "fontSize": 31,
+        "fontFamily": "roobert_pro",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "circle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-16",
+      "visualKind": "shape",
+      "title": "<p><strong>1</strong></p>"
+    },
+    {
+      "id": "n-106",
+      "position": {
+        "x": 303.5747078528369,
+        "y": 297.30641173639896
+      },
+      "size": {
+        "width": 533.7763992936924
+      },
+      "style": {
+        "fontSize": 24,
+        "textColor": "#595959",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "frameId": "f-17",
+      "visualKind": "text",
+      "title": "<ol><li data-list=\"ordered\"><span class=\"ql-ui\"></span>Click the &#39;More&#39; dots in the Slide context menu and select &#39;Styles&#39;.</li><li data-list=\"ordered\"><span class=\"ql-ui\"></span>Apply your brand style or choose from one of the preset styles.</li></ol>"
+    },
+    {
+      "id": "n-107",
+      "position": {
+        "x": 272.44070386076817,
+        "y": 182.68899628680418
+      },
+      "size": {
+        "width": 432.27898164849717
+      },
+      "style": {
+        "fontSize": 31,
+        "textColor": "#1a1a1a",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-17",
+      "visualKind": "text",
+      "title": "<p><strong>Style your presentation</strong></p>"
+    },
+    {
+      "id": "n-108",
+      "position": {
+        "x": 113.0840164449113,
+        "y": 90.59046404019836
+      },
+      "size": {
+        "width": 113.56560681138791,
+        "height": 68.57850200196476
+      },
+      "style": {
+        "fillColor": "#1c1c1e",
+        "borderColor": "#ffffff",
+        "textColor": "#ffffff",
+        "fontSize": 24,
+        "fontFamily": "roobert_pro",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-17",
+      "visualKind": "shape",
+      "title": "<p><strong>Tip </strong></p>"
+    },
+    {
+      "id": "n-109",
+      "position": {
+        "x": 242.34870465976599,
+        "y": 434.89184886667016
+      },
+      "size": {
+        "width": 372.0949832410916,
+        "height": 42.40788411938912
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ83YvOQ%3D/resources/images/3458764517258276893?format=preview&redirect=false"
+        }
+      },
+      "frameId": "f-17",
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-110",
+      "position": {
+        "x": 421.0748323437314,
+        "y": 670.1036415850656
+      },
+      "size": {
+        "width": 356.25068535937083,
+        "height": 416.74608476001873
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ83YvOQ%3D/resources/images/3458764517258276894?format=preview&redirect=false"
+        }
+      },
+      "frameId": "f-17",
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-111",
+      "position": {
+        "x": 323.18941268852575,
+        "y": 262.1181535868882
+      },
+      "size": {
+        "width": 533.7763992936924
+      },
+      "style": {
+        "fontSize": 24,
+        "textColor": "#595959",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "frameId": "f-18",
+      "visualKind": "text",
+      "title": "<p>Click the &#39;Expand&#39; button in the Slide context menu to enter Focus mode.</p>"
+    },
+    {
+      "id": "n-112",
+      "position": {
+        "x": 272.44070386076817,
+        "y": 182.6889962868036
+      },
+      "size": {
+        "width": 432.27898164849717
+      },
+      "style": {
+        "fontSize": 31,
+        "textColor": "#1a1a1a",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-18",
+      "visualKind": "text",
+      "title": "<p><strong>Work in Focus mode</strong></p>"
+    },
+    {
+      "id": "n-113",
+      "position": {
+        "x": 113.0840164449113,
+        "y": 90.59046404019776
+      },
+      "size": {
+        "width": 113.56560681138791,
+        "height": 68.57850200196476
+      },
+      "style": {
+        "fillColor": "#1c1c1e",
+        "borderColor": "#ffffff",
+        "textColor": "#ffffff",
+        "fontSize": 24,
+        "fontFamily": "roobert_pro",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-18",
+      "visualKind": "shape",
+      "title": "<p><strong>Tip </strong></p>"
+    },
+    {
+      "id": "n-114",
+      "position": {
+        "x": 272.44070386076817,
+        "y": 343.93995664620707
+      },
+      "size": {
+        "width": 432.2789816430974,
+        "height": 49.267089819617716
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ83YvOQ%3D/resources/images/3458764517258276893?format=preview&redirect=false"
+        }
+      },
+      "frameId": "f-18",
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-115",
+      "position": {
+        "x": 372.16694128771303,
+        "y": 344.1330551782321
+      },
+      "size": {
+        "width": 59.42132003414515,
+        "height": 59.88196967859017
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#659df2",
+        "textColor": "#1a1a1a",
+        "fontSize": 18,
+        "fontFamily": "roobert_pro",
+        "borderWidth": 3,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 0.0
+      },
+      "frameId": "f-18",
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-116",
+      "position": {
+        "x": 406.6976380821892,
+        "y": 434.89184886667016
+      },
+      "size": {
+        "width": 48.36114258532988,
+        "height": 48.73605083583804
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#659df2",
+        "textColor": "#1a1a1a",
+        "fontSize": 18,
+        "fontFamily": "roobert_pro",
+        "borderWidth": 3,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 0.0
+      },
+      "frameId": "f-17",
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-117",
+      "position": {
+        "x": 420.86977757753846,
+        "y": 545.2846553304596
+      },
+      "size": {
+        "width": 341.21929001886923,
+        "height": 48.73605083583804
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#659df2",
+        "textColor": "#1a1a1a",
+        "fontSize": 18,
+        "fontFamily": "roobert_pro",
+        "borderWidth": 3,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 0.0
+      },
+      "frameId": "f-17",
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-118",
+      "position": {
+        "x": 10903.025146181328,
+        "y": -4143.333984374999
+      },
+      "size": {
+        "width": 784.0,
+        "height": 1105.4399999999998
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "<h1></h1>"
+    },
+    {
+      "id": "n-119",
+      "position": {
+        "x": 316.667206304201,
+        "y": 185.70088147439066
+      },
+      "size": {
+        "width": 520.7319865389616
+      },
+      "style": {
+        "fontSize": 42,
+        "textColor": "#1a1a1a",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-19",
+      "visualKind": "text",
+      "title": "<p><strong>Generate Feedback</strong></p>"
+    },
+    {
+      "id": "n-120",
+      "position": {
+        "x": 316.667206304201,
+        "y": 346.21150237507055
+      },
+      "size": {
+        "width": 520.731986523881
+      },
+      "style": {
+        "fontSize": 31,
+        "textColor": "#595959",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "frameId": "f-19",
+      "visualKind": "text",
+      "title": "<p>Get instant feedback on your deck on how to improve it. You can adjust the prompt if you want to focus on a specific thing, like narrative.</p>"
+    },
+    {
+      "id": "n-121",
+      "position": {
+        "x": 91.84506193292614,
+        "y": 91.84506193292447
+      },
+      "size": {
+        "width": 71.08769778741555,
+        "height": 71.08769778741716
+      },
+      "style": {
+        "fillColor": "#1c1c1e",
+        "borderColor": "#ffffff",
+        "textColor": "#ffffff",
+        "fontSize": 31,
+        "fontFamily": "roobert_pro",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "circle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-19",
+      "visualKind": "shape",
+      "title": "<p><strong>2</strong></p>"
+    }
+  ],
+  "edges": [],
+  "annotations": [],
+  "_metadata": {
+    "extracted_at": "2026-02-23T13:07:47.367639",
+    "total_items": 142,
+    "total_connectors": 0,
+    "frames": 20,
+    "nodes": 122,
+    "edges": 0
+  },
+  "_template": {
+    "name": "ai-go-to-market-plan",
+    "category": "miroverse",
+    "source": "miroverse",
+    "source_slug": "go-to-market-plan-ai",
+    "source_board_id": "uXjVJ83YvOQ=",
+    "tags": [
+      "position statement templates",
+      "presentation & slides",
+      "research & design",
+      "ai accelerated"
+    ],
+    "extracted_at": "2026-02-23T13:07:47.367679"
+  }
+}

@@ -1,0 +1,401 @@
+{
+  "frames": [
+    {
+      "id": "f-0",
+      "title": "",
+      "position": {
+        "x": -1695.3459886518021,
+        "y": 470.5357266788717
+      },
+      "size": {
+        "width": 571.385025105114,
+        "height": 301.9168618791782
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-1",
+      "title": "",
+      "position": {
+        "x": -1695.3459886518021,
+        "y": 1008.1624631799216
+      },
+      "size": {
+        "width": 571.3850251051141,
+        "height": 549.1245684027867
+      },
+      "style": {
+        "fillColor": "#f0f0f0"
+      }
+    }
+  ],
+  "nodes": [
+    {
+      "id": "n-0",
+      "position": {
+        "x": 282.33510662171636,
+        "y": 71.42857142857383
+      },
+      "size": {
+        "width": 476.67021325714285
+      },
+      "style": {
+        "fontSize": 48,
+        "textColor": "#1c1c1e",
+        "fontFamily": "roobert",
+        "align": "left"
+      },
+      "frameId": "f-0",
+      "visualKind": "text",
+      "title": "<p><strong>Mindmap</strong></p>"
+    },
+    {
+      "id": "n-1",
+      "position": {
+        "x": 277.99999999999386,
+        "y": 221.14285714285825
+      },
+      "size": {
+        "width": 468.0
+      },
+      "style": {
+        "fontSize": 24,
+        "textColor": "#595959",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "frameId": "f-0",
+      "visualKind": "text",
+      "title": "<p>Create a mindmap using our mindmap features. Create with AI can also help you create a first version of the mindmap</p>"
+    },
+    {
+      "id": "n-2",
+      "position": {
+        "x": 276.4553376447839,
+        "y": 205.61750053157652
+      },
+      "size": {
+        "width": 463.09089477631477
+      },
+      "style": {
+        "fontSize": 28,
+        "textColor": "#1a1a1a",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-1",
+      "visualKind": "text",
+      "title": "<p><strong>Create a doc to explain and summarize the mindmap</strong></p>"
+    },
+    {
+      "id": "n-3",
+      "position": {
+        "x": 102.0227423127788,
+        "y": 81.72938899168571
+      },
+      "size": {
+        "width": 102.45722608337798,
+        "height": 61.87051944119157
+      },
+      "style": {
+        "fillColor": "#1c1c1e",
+        "borderColor": "#ffffff",
+        "textColor": "#ffffff",
+        "fontSize": 22,
+        "fontFamily": "roobert_pro",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-1",
+      "visualKind": "shape",
+      "title": "<p><strong>Tip </strong></p>"
+    },
+    {
+      "id": "n-4",
+      "position": {
+        "x": 267.2181627370108,
+        "y": 393.6732039362813
+      },
+      "size": {
+        "width": 481.56524458354994
+      },
+      "style": {
+        "fontSize": 22,
+        "textColor": "#595959",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "frameId": "f-1",
+      "visualKind": "text",
+      "title": "<ol><li data-list=\"ordered\"><span class=\"ql-ui\"></span>Create a mindmap from scratch using the mindmap feature in the template</li><li data-list=\"ordered\"><span class=\"ql-ui\"></span>Connect the diagram to a document to create a summary of your mindmap</li><li data-list=\"ordered\"><span class=\"ql-ui\"></span>You can also use AI to create the mindmap with a prompt</li></ol>"
+    },
+    {
+      "id": "n-5",
+      "position": {
+        "x": 713.6483793823334,
+        "y": 319.57729573928214
+      },
+      "size": {
+        "width": 784.0,
+        "height": 1105.4399999999998
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "<h1></h1>"
+    },
+    {
+      "id": "n-6",
+      "position": {
+        "x": -917.8341708271637,
+        "y": 515.0277040624198
+      },
+      "size": {
+        "width": 859.0,
+        "height": 246.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "Mindmap"
+    },
+    {
+      "id": "n-7",
+      "position": {
+        "x": 603.0,
+        "y": 136.0
+      },
+      "size": {
+        "width": 75.19999999999999,
+        "height": 64.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mindmap_node]"
+    },
+    {
+      "id": "n-8",
+      "position": {
+        "x": 184.0,
+        "y": -52.0
+      },
+      "size": {
+        "width": 45.119999999999976,
+        "height": 36.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mindmap_node]"
+    },
+    {
+      "id": "n-9",
+      "position": {
+        "x": 184.0,
+        "y": 0.0
+      },
+      "size": {
+        "width": 45.119999999999976,
+        "height": 36.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mindmap_node]"
+    },
+    {
+      "id": "n-10",
+      "position": {
+        "x": 184.0,
+        "y": 52.0
+      },
+      "size": {
+        "width": 45.119999999999976,
+        "height": 36.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mindmap_node]"
+    },
+    {
+      "id": "n-11",
+      "position": {
+        "x": -184.0,
+        "y": -26.0
+      },
+      "size": {
+        "width": 45.11999999999999,
+        "height": 36.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mindmap_node]"
+    },
+    {
+      "id": "n-12",
+      "position": {
+        "x": -183.0,
+        "y": 0.0
+      },
+      "size": {
+        "width": 45.119999999999976,
+        "height": 36.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mindmap_node]"
+    },
+    {
+      "id": "n-13",
+      "position": {
+        "x": -164.0,
+        "y": -52.0
+      },
+      "size": {
+        "width": 45.119999999999976,
+        "height": 36.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mindmap_node]"
+    },
+    {
+      "id": "n-14",
+      "position": {
+        "x": -164.0,
+        "y": 0.0
+      },
+      "size": {
+        "width": 45.119999999999976,
+        "height": 36.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mindmap_node]"
+    },
+    {
+      "id": "n-15",
+      "position": {
+        "x": -164.0,
+        "y": 52.0
+      },
+      "size": {
+        "width": 45.119999999999976,
+        "height": 36.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mindmap_node]"
+    }
+  ],
+  "edges": [],
+  "annotations": [],
+  "_metadata": {
+    "extracted_at": "2026-02-23T12:37:11.575064",
+    "total_items": 18,
+    "total_connectors": 0,
+    "frames": 2,
+    "nodes": 16,
+    "edges": 0
+  },
+  "_template": {
+    "name": "mind-map-ai-template",
+    "category": "miroverse",
+    "source": "miroverse",
+    "source_slug": "mind-map-template-ai",
+    "source_board_id": "uXjVJ7n1L4Q=",
+    "tags": [
+      "brain map",
+      "ideation & brainstorming",
+      "circle map templates",
+      "thinking maps",
+      "research & design",
+      "diagramming & mapping",
+      "ai accelerated",
+      "mind maps",
+      "education"
+    ],
+    "extracted_at": "2026-02-23T12:37:11.575153"
+  }
+}

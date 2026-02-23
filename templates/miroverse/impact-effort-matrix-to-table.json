@@ -1,0 +1,1259 @@
+{
+  "frames": [
+    {
+      "id": "f-0",
+      "title": "Impact/Effort Matrix",
+      "position": {
+        "x": -620.6998982129935,
+        "y": -142.81640624999864
+      },
+      "size": {
+        "width": 2092.1702188114064,
+        "height": 2114.8173216396513
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-1",
+      "title": "",
+      "position": {
+        "x": -2534.896364969978,
+        "y": -719.4446309578493
+      },
+      "size": {
+        "width": 572.9059209934204,
+        "height": 961.5608722239549
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-2",
+      "title": "",
+      "position": {
+        "x": -1930.685798671062,
+        "y": -826.7411131438835
+      },
+      "size": {
+        "width": 359.9691748977464,
+        "height": 746.9679078518819
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    }
+  ],
+  "nodes": [
+    {
+      "id": "n-0",
+      "position": {
+        "x": 1104.4340942931392,
+        "y": 1956.8713101586934
+      },
+      "size": {
+        "width": 684.8217892802043
+      },
+      "style": {
+        "fontSize": 48,
+        "textColor": "#151515",
+        "fontFamily": "unknown",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "text",
+      "title": "<p><strong>Effort</strong></p>"
+    },
+    {
+      "id": "n-1",
+      "position": {
+        "x": 1528.5037890496021,
+        "y": 542.0904398417431
+      },
+      "size": {
+        "width": 811.7024146031632,
+        "height": 811.7024146031632
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#dedaff",
+        "textColor": "#6631d7",
+        "fontSize": 36,
+        "fontFamily": "noto_sans",
+        "borderWidth": 2,
+        "borderStyle": "dashed",
+        "align": "right",
+        "verticalAlign": "top",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 0.0
+      },
+      "frameId": "f-0",
+      "visualKind": "shape",
+      "title": "<p><span style=\"color:rgb(102,49,215)\">Big Bets</span></p>"
+    },
+    {
+      "id": "n-2",
+      "position": {
+        "x": 1234.1669062644285,
+        "y": 248.1887285950313
+      },
+      "size": {
+        "width": 144.7129740645685,
+        "height": 165.8017994307619
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "stickyNote",
+      "title": "<p>Improve wearable sync reliability</p>"
+    },
+    {
+      "id": "n-3",
+      "position": {
+        "x": 1716.3363148293572,
+        "y": 782.2625828522275
+      },
+      "size": {
+        "width": 144.7129740645685,
+        "height": 165.8017994307619
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "stickyNote",
+      "title": "<p>Expand meal database and search coverage</p>"
+    },
+    {
+      "id": "n-4",
+      "position": {
+        "x": 1790.4902966282368,
+        "y": 466.3630357885711
+      },
+      "size": {
+        "width": 144.7129740645685,
+        "height": 165.8017994307619
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "stickyNote",
+      "title": "<p>Redesign training plans for variety and engagement</p>"
+    },
+    {
+      "id": "n-5",
+      "position": {
+        "x": 1422.7133491962775,
+        "y": 450.6589839907017
+      },
+      "size": {
+        "width": 144.7129740645685,
+        "height": 165.8017994307619
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "stickyNote",
+      "title": "<p>Implement calendar sync for blocking workout time</p>"
+    },
+    {
+      "id": "n-6",
+      "position": {
+        "x": 1409.0505451735132,
+        "y": 761.6840912581272
+      },
+      "size": {
+        "width": 144.7129740645685,
+        "height": 165.8017994307619
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "stickyNote",
+      "title": "<p>Develop advanced workout analytics</p>"
+    },
+    {
+      "id": "n-7",
+      "position": {
+        "x": 695.7972787411306,
+        "y": 542.0904398417431
+      },
+      "size": {
+        "width": 811.7024146031632,
+        "height": 811.7024146031632
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#adf0c7",
+        "textColor": "#067429",
+        "fontSize": 36,
+        "fontFamily": "noto_sans",
+        "borderWidth": 2,
+        "borderStyle": "dashed",
+        "align": "left",
+        "verticalAlign": "top",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 0.0
+      },
+      "frameId": "f-0",
+      "visualKind": "shape",
+      "title": "<p><span style=\"color:rgb(6,116,41)\">Quick Wins </span></p>"
+    },
+    {
+      "id": "n-8",
+      "position": {
+        "x": 465.5135950006895,
+        "y": 422.60462844496465
+      },
+      "size": {
+        "width": 144.7129740645685,
+        "height": 165.8017994307619
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "stickyNote",
+      "title": "<p>Rewrite confusing fitness terminology</p>"
+    },
+    {
+      "id": "n-9",
+      "position": {
+        "x": 670.3907341185966,
+        "y": 348.534178151657
+      },
+      "size": {
+        "width": 144.7129740645685,
+        "height": 165.8017994307619
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "stickyNote",
+      "title": "<p>Add short “quick-start” workout presets</p>"
+    },
+    {
+      "id": "n-10",
+      "position": {
+        "x": 933.0854273810708,
+        "y": 284.8571845599388
+      },
+      "size": {
+        "width": 144.7129740645685,
+        "height": 165.8017994307619
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "stickyNote",
+      "title": "<p>Simplify navigation by surfacing key stats on the home screen</p>"
+    },
+    {
+      "id": "n-11",
+      "position": {
+        "x": 449.9341030439116,
+        "y": 655.440576067939
+      },
+      "size": {
+        "width": 144.7129740645685,
+        "height": 165.8017994307619
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "stickyNote",
+      "title": "<p>Add milestone markers to progress charts</p>"
+    },
+    {
+      "id": "n-12",
+      "position": {
+        "x": 884.7006816759038,
+        "y": 761.6840912581272
+      },
+      "size": {
+        "width": 144.7129740645685,
+        "height": 165.8017994307619
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "stickyNote",
+      "title": "<p>Introduce customizable notification settings</p>"
+    },
+    {
+      "id": "n-13",
+      "position": {
+        "x": 1302.7721879672679,
+        "y": 1180.6652008862081
+      },
+      "size": {
+        "width": 144.7129740645685,
+        "height": 165.8017994307619
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "stickyNote",
+      "title": "<p>Full overhaul of all progress screens</p>"
+    },
+    {
+      "id": "n-14",
+      "position": {
+        "x": 1528.5037890496021,
+        "y": 1367.412079525532
+      },
+      "size": {
+        "width": 811.7024146031632,
+        "height": 811.7024146031632
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#ffc6c6",
+        "textColor": "#bd0a0a",
+        "fontSize": 36,
+        "fontFamily": "noto_sans",
+        "borderWidth": 2,
+        "borderStyle": "dashed",
+        "align": "right",
+        "verticalAlign": "bottom",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 0.0
+      },
+      "frameId": "f-0",
+      "visualKind": "shape",
+      "title": "<p><span style=\"color:rgb(189,10,10)\">Deprioritize</span></p>"
+    },
+    {
+      "id": "n-15",
+      "position": {
+        "x": 1581.9906331221916,
+        "y": 1164.753117300016
+      },
+      "size": {
+        "width": 144.7129740645685,
+        "height": 165.8017994307619
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "stickyNote",
+      "title": "<p>Large-scale rewrite of training plan content</p>"
+    },
+    {
+      "id": "n-16",
+      "position": {
+        "x": 1745.7194169141455,
+        "y": 1330.5549167307788
+      },
+      "size": {
+        "width": 144.7129740645685,
+        "height": 165.8017994307619
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "stickyNote",
+      "title": "<p>Custom GIF/video rework for all exercise demos</p>"
+    },
+    {
+      "id": "n-17",
+      "position": {
+        "x": 1437.2776590576211,
+        "y": 1425.2835046318203
+      },
+      "size": {
+        "width": 144.7129740645685,
+        "height": 165.8017994307619
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "stickyNote",
+      "title": "<p>Full onboarding redesign from scratch</p>"
+    },
+    {
+      "id": "n-18",
+      "position": {
+        "x": 695.7972787411306,
+        "y": 1367.412079525532
+      },
+      "size": {
+        "width": 811.7024146031632,
+        "height": 811.7024146031632
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#c6dcff",
+        "textColor": "#305bab",
+        "fontSize": 36,
+        "fontFamily": "noto_sans",
+        "borderWidth": 2,
+        "borderStyle": "dashed",
+        "align": "left",
+        "verticalAlign": "bottom",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 0.0
+      },
+      "frameId": "f-0",
+      "visualKind": "shape",
+      "title": "<p>Fill-Ins</p>"
+    },
+    {
+      "id": "n-19",
+      "position": {
+        "x": 654.2789464703799,
+        "y": 1129.6079605385646
+      },
+      "size": {
+        "width": 144.7129740645685,
+        "height": 165.8017994307619
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "stickyNote",
+      "title": "<p>Minor copy clean-up in settings</p>"
+    },
+    {
+      "id": "n-20",
+      "position": {
+        "x": 974.7336804822041,
+        "y": 1109.2266530956647
+      },
+      "size": {
+        "width": 144.7129740645685,
+        "height": 165.8017994307619
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "stickyNote",
+      "title": "<p>Small layout tweaks to low-usage screens</p>"
+    },
+    {
+      "id": "n-21",
+      "position": {
+        "x": 944.2229263673996,
+        "y": 1436.1907233390964
+      },
+      "size": {
+        "width": 144.7129740645685,
+        "height": 165.8017994307619
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "stickyNote",
+      "title": "<p>Improve icon consistency in secondary screens</p>"
+    },
+    {
+      "id": "n-22",
+      "position": {
+        "x": 479.0552182910085,
+        "y": 1375.462387461116
+      },
+      "size": {
+        "width": 144.7129740645685,
+        "height": 165.8017994307619
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "stickyNote",
+      "title": "<p>Clean up profile page formatting</p>"
+    },
+    {
+      "id": "n-23",
+      "position": {
+        "x": 624.1930754666882,
+        "y": -1200.2250670698254
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[data_table_format]"
+    },
+    {
+      "id": "n-24",
+      "position": {
+        "x": 317.8432267178721,
+        "y": 1836.1246150351787
+      },
+      "size": {
+        "width": 55.794310556644504
+      },
+      "style": {
+        "fontSize": 32,
+        "textColor": "#595959",
+        "fontFamily": "unknown",
+        "align": "left"
+      },
+      "frameId": "f-0",
+      "visualKind": "text",
+      "title": "<p><strong>1</strong></p>"
+    },
+    {
+      "id": "n-25",
+      "position": {
+        "x": 714.9968803066238,
+        "y": 1836.1246150351787
+      },
+      "size": {
+        "width": 55.794310556644504
+      },
+      "style": {
+        "fontSize": 32,
+        "textColor": "#595959",
+        "fontFamily": "unknown",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "text",
+      "title": "<p><strong>2</strong></p>"
+    },
+    {
+      "id": "n-26",
+      "position": {
+        "x": 1112.15053389537,
+        "y": 1836.1246150351787
+      },
+      "size": {
+        "width": 55.794310556644504
+      },
+      "style": {
+        "fontSize": 32,
+        "textColor": "#595959",
+        "fontFamily": "unknown",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "text",
+      "title": "<p><strong>3</strong></p>"
+    },
+    {
+      "id": "n-27",
+      "position": {
+        "x": 1509.304187484118,
+        "y": 1836.1246150351787
+      },
+      "size": {
+        "width": 55.794310556644504
+      },
+      "style": {
+        "fontSize": 32,
+        "textColor": "#595959",
+        "fontFamily": "unknown",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "text",
+      "title": "<p><strong>4</strong></p>"
+    },
+    {
+      "id": "n-28",
+      "position": {
+        "x": 1906.4578410728661,
+        "y": 1836.1246150351787
+      },
+      "size": {
+        "width": 55.794310556644504
+      },
+      "style": {
+        "fontSize": 32,
+        "textColor": "#595959",
+        "fontFamily": "unknown",
+        "align": "right"
+      },
+      "frameId": "f-0",
+      "visualKind": "text",
+      "title": "<p><strong>5</strong></p>"
+    },
+    {
+      "id": "n-29",
+      "position": {
+        "x": 108.04525830131001,
+        "y": 934.0797350607634
+      },
+      "size": {
+        "width": 684.8217892802043
+      },
+      "style": {
+        "fontSize": 48,
+        "textColor": "#151515",
+        "fontFamily": "unknown",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "text",
+      "title": "<p><strong>Impact</strong></p>"
+    },
+    {
+      "id": "n-30",
+      "position": {
+        "x": 221.93555787472155,
+        "y": 1736.103481840483
+      },
+      "size": {
+        "width": 55.794310556644504
+      },
+      "style": {
+        "fontSize": 32,
+        "textColor": "#595959",
+        "fontFamily": "unknown",
+        "align": "left"
+      },
+      "frameId": "f-0",
+      "visualKind": "text",
+      "title": "<p><strong>1</strong></p>"
+    },
+    {
+      "id": "n-31",
+      "position": {
+        "x": 231.58704750838456,
+        "y": 1338.949828251735
+      },
+      "size": {
+        "width": 55.794310556644504
+      },
+      "style": {
+        "fontSize": 32,
+        "textColor": "#595959",
+        "fontFamily": "unknown",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "text",
+      "title": "<p><strong>2</strong></p>"
+    },
+    {
+      "id": "n-32",
+      "position": {
+        "x": 231.58704750838456,
+        "y": 941.7961746629869
+      },
+      "size": {
+        "width": 55.794310556644504
+      },
+      "style": {
+        "fontSize": 32,
+        "textColor": "#595959",
+        "fontFamily": "unknown",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "text",
+      "title": "<p><strong>3</strong></p>"
+    },
+    {
+      "id": "n-33",
+      "position": {
+        "x": 231.58704750838456,
+        "y": 544.6425210742407
+      },
+      "size": {
+        "width": 55.794310556644504
+      },
+      "style": {
+        "fontSize": 32,
+        "textColor": "#595959",
+        "fontFamily": "unknown",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "text",
+      "title": "<p><strong>4</strong></p>"
+    },
+    {
+      "id": "n-34",
+      "position": {
+        "x": 231.58704750838456,
+        "y": 164.13638781848272
+      },
+      "size": {
+        "width": 55.794310556644504
+      },
+      "style": {
+        "fontSize": 32,
+        "textColor": "#595959",
+        "fontFamily": "unknown",
+        "align": "right"
+      },
+      "frameId": "f-0",
+      "visualKind": "text",
+      "title": "<p><strong>5</strong></p>"
+    },
+    {
+      "id": "n-35",
+      "position": {
+        "x": 108.04525830131001,
+        "y": 174.59782104785404
+      },
+      "size": {
+        "width": 76.7171770153862
+      },
+      "style": {
+        "fontSize": 32,
+        "textColor": "#595959",
+        "fontFamily": "unknown",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "text",
+      "title": "<p><strong>high</strong></p>"
+    },
+    {
+      "id": "n-36",
+      "position": {
+        "x": 108.04525830131001,
+        "y": 1733.778718900622
+      },
+      "size": {
+        "width": 60.443836436364876
+      },
+      "style": {
+        "fontSize": 32,
+        "textColor": "#595959",
+        "fontFamily": "unknown",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "text",
+      "title": "<p><strong>low</strong></p>"
+    },
+    {
+      "id": "n-37",
+      "position": {
+        "x": 1895.9964078434912,
+        "y": 1956.8713101586934
+      },
+      "size": {
+        "width": 76.7171770153862
+      },
+      "style": {
+        "fontSize": 32,
+        "textColor": "#595959",
+        "fontFamily": "unknown",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "text",
+      "title": "<p><strong>high</strong></p>"
+    },
+    {
+      "id": "n-38",
+      "position": {
+        "x": 320.16798965773137,
+        "y": 1956.8713101586934
+      },
+      "size": {
+        "width": 60.443836436364876
+      },
+      "style": {
+        "fontSize": 32,
+        "textColor": "#595959",
+        "fontFamily": "unknown",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "text",
+      "title": "<p><strong>low</strong></p>"
+    },
+    {
+      "id": "n-39",
+      "position": {
+        "x": 287.91086547543097,
+        "y": 162.5714285714289
+      },
+      "size": {
+        "width": 447.8217309528571
+      },
+      "style": {
+        "fontSize": 46,
+        "textColor": "#1c1c1e",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-1",
+      "visualKind": "text",
+      "title": "<p><strong>Impact–Effort Prioritization to Tasks</strong></p>"
+    },
+    {
+      "id": "n-40",
+      "position": {
+        "x": 289.1994620991173,
+        "y": 675.1510532319166
+      },
+      "size": {
+        "width": 450.3989241942857
+      },
+      "style": {
+        "fontSize": 24,
+        "textColor": "#595959",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "frameId": "f-1",
+      "visualKind": "text",
+      "title": "<p>Run a collaborative impact–effort exercise with your team — drag stickies, debate impact and effort, and overlay team excitement with dot voting.</p><p><br /></p><p>When you’re done, the flow turns the messy board into a clean, structured, prioritized task table.<br /><br /></p><p>A fast way to go from visual exploration to an actionable backlog — aligned with team energy and clear prioritization logic.</p>"
+    },
+    {
+      "id": "n-41",
+      "position": {
+        "x": 121.35588972431293,
+        "y": 356.5796246604873
+      },
+      "size": {
+        "width": 114.71177944862234,
+        "height": 131.42857142857233
+      },
+      "style": {
+        "fillColor": "gray",
+        "align": "center"
+      },
+      "frameId": "f-1",
+      "visualKind": "stickyNote",
+      "title": "<p><strong>Impact/Effort Exercise</strong></p>"
+    },
+    {
+      "id": "n-42",
+      "position": {
+        "x": 296.5214751507884,
+        "y": 356.5796246604873
+      },
+      "size": {
+        "width": 114.71177944862234,
+        "height": 131.42857142857233
+      },
+      "style": {
+        "fillColor": "gray",
+        "align": "center"
+      },
+      "frameId": "f-1",
+      "visualKind": "stickyNote",
+      "title": "<p><strong>Task List</strong></p>"
+    },
+    {
+      "id": "n-43",
+      "position": {
+        "x": 171.09365647929752,
+        "y": 175.7909861536708
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[dot_voting]"
+    },
+    {
+      "id": "n-44",
+      "position": {
+        "x": 116.72895686044066,
+        "y": 207.44680609651346
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[dot_voting]"
+    },
+    {
+      "id": "n-45",
+      "position": {
+        "x": 194.22399923829295,
+        "y": 155.7528773831093
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[dot_voting]"
+    },
+    {
+      "id": "n-46",
+      "position": {
+        "x": 135.46981202920074,
+        "y": 205.32497320446612
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[dot_voting]"
+    },
+    {
+      "id": "n-47",
+      "position": {
+        "x": 809.6240603593594,
+        "y": 811.3651998776375
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "frameId": "f-0",
+      "visualKind": "shape",
+      "title": "[dot_voting]"
+    },
+    {
+      "id": "n-48",
+      "position": {
+        "x": 864.3365896608245,
+        "y": 1138.199072265327
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "frameId": "f-0",
+      "visualKind": "shape",
+      "title": "[dot_voting]"
+    },
+    {
+      "id": "n-49",
+      "position": {
+        "x": 883.0979630066465,
+        "y": 1178.254278640369
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "frameId": "f-0",
+      "visualKind": "shape",
+      "title": "[dot_voting]"
+    },
+    {
+      "id": "n-50",
+      "position": {
+        "x": 26.75576659133428,
+        "y": 193.55915663063269
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[dot_voting]"
+    },
+    {
+      "id": "n-51",
+      "position": {
+        "x": 1458.5688899695595,
+        "y": 1508.320905029054
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "frameId": "f-0",
+      "visualKind": "shape",
+      "title": "[dot_voting]"
+    },
+    {
+      "id": "n-52",
+      "position": {
+        "x": 197.20731130764216,
+        "y": 209.20765222369155
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[dot_voting]"
+    },
+    {
+      "id": "n-53",
+      "position": {
+        "x": 1517.4750422194172,
+        "y": 1454.6425312896197
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "frameId": "f-0",
+      "visualKind": "shape",
+      "title": "[dot_voting]"
+    },
+    {
+      "id": "n-54",
+      "position": {
+        "x": 1521.2452313943793,
+        "y": 1413.6915996246305
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "frameId": "f-0",
+      "visualKind": "shape",
+      "title": "[dot_voting]"
+    },
+    {
+      "id": "n-55",
+      "position": {
+        "x": 189.7142857142866,
+        "y": 55.59994068424379
+      },
+      "size": {
+        "width": 315.4285714285714
+      },
+      "style": {
+        "fontSize": 24,
+        "textColor": "#1a1a1a",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-2",
+      "visualKind": "text",
+      "title": "<p><strong>How to Use These Tools</strong></p>"
+    },
+    {
+      "id": "n-56",
+      "position": {
+        "x": 154.73529411764721,
+        "y": 315.1936720640969
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "frameId": "f-2",
+      "visualKind": "shape",
+      "title": "[widgets_stack]"
+    },
+    {
+      "id": "n-57",
+      "position": {
+        "x": 82.5,
+        "y": 114.0
+      },
+      "size": {
+        "width": 335.05161764705883,
+        "height": 383.8782352941177
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": ""
+    },
+    {
+      "id": "n-58",
+      "position": {
+        "x": 179.98435836975514,
+        "y": 110.52494682587889
+      },
+      "size": {
+        "width": 295.96871674285717
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#595959",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "frameId": "f-2",
+      "visualKind": "text",
+      "title": "<p>Pull stickies from the sticky stack to add your tasks.</p>"
+    },
+    {
+      "id": "n-59",
+      "position": {
+        "x": 179.9845874488732,
+        "y": 544.0769567317766
+      },
+      "size": {
+        "width": 295.96871674285717
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#595959",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "frameId": "f-2",
+      "visualKind": "text",
+      "title": "<p>Use the colored dots to vote for the tasks you’re most excited about.</p>"
+    },
+    {
+      "id": "n-60",
+      "position": {
+        "x": 32.0002127163265,
+        "y": 592.8147825820906
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "frameId": "f-2",
+      "visualKind": "shape",
+      "title": "[dot_voting]"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e-0",
+      "sourceNodeId": "n-41",
+      "targetNodeId": "n-42",
+      "style": {
+        "lineStyle": "solid",
+        "arrowHead": "end",
+        "borderColor": "#6631d7",
+        "strokeWidth": "3.0",
+        "extra": {
+          "connectorShape": "elbowed",
+          "sourcePosition": "auto",
+          "targetPosition": "auto"
+        }
+      }
+    }
+  ],
+  "annotations": [],
+  "_metadata": {
+    "extracted_at": "2026-02-23T12:57:52.182140",
+    "total_items": 64,
+    "total_connectors": 3,
+    "frames": 3,
+    "nodes": 61,
+    "edges": 1
+  },
+  "_template": {
+    "name": "impact-effort-matrix-to-table",
+    "category": "miroverse",
+    "source": "miroverse",
+    "source_slug": "impact-effort-matrix-to-table",
+    "source_board_id": "uXjVJny9HGs=",
+    "tags": [
+      "ai accelerated"
+    ],
+    "extracted_at": "2026-02-23T12:57:52.182239"
+  }
+}

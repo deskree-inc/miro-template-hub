@@ -1,0 +1,1852 @@
+{
+  "frames": [
+    {
+      "id": "f-0",
+      "title": "PDF Resume",
+      "position": {
+        "x": -3081.9897347504702,
+        "y": 2501.8605191651613
+      },
+      "size": {
+        "width": 833.2730544062039,
+        "height": 1141.6668505642149
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    }
+  ],
+  "nodes": [
+    {
+      "id": "n-0",
+      "position": {
+        "x": -2028.0225589928693,
+        "y": -1855.3931723774253
+      },
+      "size": {
+        "width": 3427.5129901664973,
+        "height": 1012.6575319699635
+      },
+      "style": {
+        "fillColor": "#659df2",
+        "borderColor": "#ffffff",
+        "textColor": "#9a9994",
+        "fontSize": 80,
+        "fontFamily": "open_sans",
+        "borderWidth": 24,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 0.4
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-1",
+      "position": {
+        "x": -2071.063990733413,
+        "y": -1887.0310835601008
+      },
+      "size": {
+        "width": 3427.5129901664973,
+        "height": 1012.6575319699634
+      },
+      "style": {
+        "fillColor": "#659df2",
+        "borderColor": "#ffffff",
+        "textColor": "#9a9994",
+        "fontSize": 80,
+        "fontFamily": "open_sans",
+        "borderWidth": 24,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-2",
+      "position": {
+        "x": -1704.183568849275,
+        "y": -2099.799894447493
+      },
+      "size": {
+        "width": 2324.2244631758804
+      },
+      "style": {
+        "fontSize": 161,
+        "textColor": "#ffffff",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong style=\"color:rgb(255,255,255)\">AI Job Application Assistant</strong></p>"
+    },
+    {
+      "id": "n-3",
+      "position": {
+        "x": -1900.1648599995626,
+        "y": -1867.644216954729
+      },
+      "size": {
+        "width": 1932.2618808884577
+      },
+      "style": {
+        "fontSize": 55,
+        "textColor": "#ffffff",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong style=\"color:rgb(255,255,255)\">Objective: </strong><span style=\"color:rgb(255,255,255)\">Create targeted resume and cover letters for job applications. </span></p>"
+    },
+    {
+      "id": "n-4",
+      "position": {
+        "x": -2792.6184098052186,
+        "y": -1714.4647063217578
+      },
+      "size": {
+        "width": 147.3547812743215
+      },
+      "style": {
+        "fontSize": 33,
+        "textColor": "#ffffff",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong style=\"color:rgb(255,255,255)\">Progress</strong></p>"
+    },
+    {
+      "id": "n-5",
+      "position": {
+        "x": -2233.5177724495766,
+        "y": -1714.4647063217578
+      },
+      "size": {
+        "width": 846.0215281196051,
+        "height": 67.68172224956841
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mockup]"
+    },
+    {
+      "id": "n-6",
+      "position": {
+        "x": -1509.8460367973616,
+        "y": -1706.0740193136562
+      },
+      "size": {
+        "width": 374.9882664293066,
+        "height": 84.46309626577136
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#e6e6e6",
+        "textColor": "#1a1a1a",
+        "fontSize": 33,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": "<p><br /></p>"
+    },
+    {
+      "id": "n-7",
+      "position": {
+        "x": -1638.3421229851726,
+        "y": -1706.0740193136562
+      },
+      "size": {
+        "width": 45.0921735047104,
+        "height": 45.0921735047104
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mockup]"
+    },
+    {
+      "id": "n-8",
+      "position": {
+        "x": -1424.1619085090683,
+        "y": -1706.0740193136562
+      },
+      "size": {
+        "width": 317.3488130291343
+      },
+      "style": {
+        "fontSize": 41,
+        "textColor": "#1a1a1a",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong>10 - 30 min</strong></p>"
+    },
+    {
+      "id": "n-9",
+      "position": {
+        "x": -3335.729878301841,
+        "y": -1962.173853993463
+      },
+      "size": {
+        "width": 534.4132422233474,
+        "height": 534.4132422233474
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[stamp]"
+    },
+    {
+      "id": "n-10",
+      "position": {
+        "x": -3140.859519550528,
+        "y": 1241.5129343139276
+      },
+      "size": {
+        "width": 1287.9219325322667,
+        "height": 4121.983024309361
+      },
+      "style": {
+        "fillColor": "#c6dcff",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 15,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 0.3
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-11",
+      "position": {
+        "x": -3154.1099289741533,
+        "y": -789.8053176604059
+      },
+      "size": {
+        "width": 973.3494053055492,
+        "height": 105.04475151335208
+      },
+      "style": {
+        "fillColor": "#2d9bf0",
+        "borderColor": "#ffffff",
+        "textColor": "#ffffff",
+        "fontSize": 52,
+        "fontFamily": "open_sans",
+        "borderWidth": 20,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": "<p><strong></strong></p>"
+    },
+    {
+      "id": "n-12",
+      "position": {
+        "x": -3179.562043223362,
+        "y": -809.572222534223
+      },
+      "size": {
+        "width": 973.3494053055492,
+        "height": 105.04475151335208
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#ffffff",
+        "textColor": "#2d9bf0",
+        "fontSize": 52,
+        "fontFamily": "open_sans",
+        "borderWidth": 20,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": "<p><strong style=\"color:rgb(45,155,240)\">01 Current Resume</strong></p>"
+    },
+    {
+      "id": "n-13",
+      "position": {
+        "x": -3166.8359860987575,
+        "y": -532.0757384328646
+      },
+      "size": {
+        "width": 998.8015195547575,
+        "height": 261.2302388320251
+      },
+      "style": {
+        "fillColor": "#659df2",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 52,
+        "fontFamily": "open_sans",
+        "borderWidth": 20,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-14",
+      "position": {
+        "x": -3062.044993701439,
+        "y": -532.0757384328646
+      },
+      "size": {
+        "width": 649.77315211887
+      },
+      "style": {
+        "fontSize": 27,
+        "textColor": "#ffffff",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p>Add in your current resume below into the doc or as a PDF into the frame placeholder below. Delete the section that you do not use.</p>"
+    },
+    {
+      "id": "n-15",
+      "position": {
+        "x": -3505.5269238562882,
+        "y": -532.0757384328646
+      },
+      "size": {
+        "width": 196.70942045714287
+      },
+      "style": {
+        "fontSize": 80,
+        "textColor": "#ffffff",
+        "fontFamily": "open_sans",
+        "align": "center"
+      },
+      "visualKind": "text",
+      "title": "<p>01</p>"
+    },
+    {
+      "id": "n-16",
+      "position": {
+        "x": -1720.937587018262,
+        "y": 385.54965798694195
+      },
+      "size": {
+        "width": 1287.9219325322663,
+        "height": 2410.0564716553895
+      },
+      "style": {
+        "fillColor": "#c6dcff",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 15,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 0.3
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-17",
+      "position": {
+        "x": -1734.1879964418868,
+        "y": -789.8053176604056
+      },
+      "size": {
+        "width": 973.3494053055492,
+        "height": 105.04475151335208
+      },
+      "style": {
+        "fillColor": "#2d9bf0",
+        "borderColor": "#ffffff",
+        "textColor": "#ffffff",
+        "fontSize": 52,
+        "fontFamily": "open_sans",
+        "borderWidth": 20,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": "<p><strong></strong></p>"
+    },
+    {
+      "id": "n-18",
+      "position": {
+        "x": -1759.6401106910953,
+        "y": -809.5722225342228
+      },
+      "size": {
+        "width": 973.3494053055492,
+        "height": 105.04475151335208
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#ffffff",
+        "textColor": "#2d9bf0",
+        "fontSize": 52,
+        "fontFamily": "open_sans",
+        "borderWidth": 20,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": "<p><strong style=\"color:rgb(45,155,240)\">02 Paste in Job Description</strong></p>"
+    },
+    {
+      "id": "n-19",
+      "position": {
+        "x": -1746.914053566491,
+        "y": -532.0757384328643
+      },
+      "size": {
+        "width": 998.8015195547575,
+        "height": 261.2302388320251
+      },
+      "style": {
+        "fillColor": "#659df2",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 52,
+        "fontFamily": "open_sans",
+        "borderWidth": 20,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-20",
+      "position": {
+        "x": -1646.835721011533,
+        "y": -532.0757384328643
+      },
+      "size": {
+        "width": 649.77315211887
+      },
+      "style": {
+        "fontSize": 27,
+        "textColor": "#ffffff",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p>Paste in the job description for the position you are targeting with this application.</p>"
+    },
+    {
+      "id": "n-21",
+      "position": {
+        "x": -2085.6049913240217,
+        "y": -532.0757384328643
+      },
+      "size": {
+        "width": 196.70942045714287
+      },
+      "style": {
+        "fontSize": 80,
+        "textColor": "#ffffff",
+        "fontFamily": "open_sans",
+        "align": "center"
+      },
+      "visualKind": "text",
+      "title": "<p>02</p>"
+    },
+    {
+      "id": "n-22",
+      "position": {
+        "x": -2246.31481334387,
+        "y": -139.49851094149187
+      },
+      "size": {
+        "width": 1019.8853780067034,
+        "height": 1438.0383829894515
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "<h1>Paste Job Description here:</h1>"
+    },
+    {
+      "id": "n-23",
+      "position": {
+        "x": -146.1041830923025,
+        "y": 385.5496579869419
+      },
+      "size": {
+        "width": 1597.7448753196527,
+        "height": 2410.0564716553895
+      },
+      "style": {
+        "fillColor": "#c6dcff",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 15,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 0.3
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-24",
+      "position": {
+        "x": -314.26606390962013,
+        "y": -789.8053176604058
+      },
+      "size": {
+        "width": 973.3494053055492,
+        "height": 105.04475151335208
+      },
+      "style": {
+        "fillColor": "#2d9bf0",
+        "borderColor": "#ffffff",
+        "textColor": "#ffffff",
+        "fontSize": 52,
+        "fontFamily": "open_sans",
+        "borderWidth": 20,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": "<p><strong></strong></p>"
+    },
+    {
+      "id": "n-25",
+      "position": {
+        "x": -339.71817815882866,
+        "y": -809.5722225342229
+      },
+      "size": {
+        "width": 973.3494053055492,
+        "height": 105.04475151335208
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#ffffff",
+        "textColor": "#2d9bf0",
+        "fontSize": 52,
+        "fontFamily": "open_sans",
+        "borderWidth": 20,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": "<p><strong style=\"color:rgb(45,155,240)\">03 Top Keywords</strong></p>"
+    },
+    {
+      "id": "n-26",
+      "position": {
+        "x": -326.9921210342244,
+        "y": -532.0757384328645
+      },
+      "size": {
+        "width": 998.8015195547575,
+        "height": 261.2302388320251
+      },
+      "style": {
+        "fillColor": "#659df2",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 52,
+        "fontFamily": "open_sans",
+        "borderWidth": 20,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-27",
+      "position": {
+        "x": -217.184761193278,
+        "y": -532.0757384328645
+      },
+      "size": {
+        "width": 649.77315211887
+      },
+      "style": {
+        "fontSize": 27,
+        "textColor": "#ffffff",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p>Miro&#39;s AI will call out important keywords that were noted in the job description you provided. Use these keywords to update your resume to increase your chances of passing ATS systems.</p>"
+    },
+    {
+      "id": "n-28",
+      "position": {
+        "x": -665.6830587917551,
+        "y": -532.0757384328645
+      },
+      "size": {
+        "width": 196.70942045714287
+      },
+      "style": {
+        "fontSize": 80,
+        "textColor": "#ffffff",
+        "fontFamily": "open_sans",
+        "align": "center"
+      },
+      "visualKind": "text",
+      "title": "<p>03</p>"
+    },
+    {
+      "id": "n-29",
+      "position": {
+        "x": 1427.303805500338,
+        "y": 385.5496579869418
+      },
+      "size": {
+        "width": 1287.921932532266,
+        "height": 2410.0564716553895
+      },
+      "style": {
+        "fillColor": "#c6dcff",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 15,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 0.3
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-30",
+      "position": {
+        "x": 1414.0533960767139,
+        "y": -789.8053176604058
+      },
+      "size": {
+        "width": 973.3494053055492,
+        "height": 105.04475151335208
+      },
+      "style": {
+        "fillColor": "#2d9bf0",
+        "borderColor": "#ffffff",
+        "textColor": "#ffffff",
+        "fontSize": 52,
+        "fontFamily": "open_sans",
+        "borderWidth": 20,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": "<p><strong></strong></p>"
+    },
+    {
+      "id": "n-31",
+      "position": {
+        "x": 1388.6012818275053,
+        "y": -809.5722225342229
+      },
+      "size": {
+        "width": 973.3494053055492,
+        "height": 105.04475151335208
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#ffffff",
+        "textColor": "#2d9bf0",
+        "fontSize": 52,
+        "fontFamily": "open_sans",
+        "borderWidth": 20,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": "<p><strong style=\"color:rgb(45,155,240)\">04 Resume Suggestions</strong></p>"
+    },
+    {
+      "id": "n-32",
+      "position": {
+        "x": 1401.3273389521096,
+        "y": -532.0757384328645
+      },
+      "size": {
+        "width": 998.8015195547575,
+        "height": 261.2302388320251
+      },
+      "style": {
+        "fillColor": "#659df2",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 52,
+        "fontFamily": "open_sans",
+        "borderWidth": 20,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-33",
+      "position": {
+        "x": 1511.134698793056,
+        "y": -532.0757384328645
+      },
+      "size": {
+        "width": 649.77315211887
+      },
+      "style": {
+        "fontSize": 27,
+        "textColor": "#ffffff",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p>Miro&#39;s AI will review your resume and the job description and suggest ways to update your resume to improve your chances of getting the position. Update your resume in Step 1 as you see fit</p>"
+    },
+    {
+      "id": "n-34",
+      "position": {
+        "x": 1062.6364011945793,
+        "y": -532.0757384328645
+      },
+      "size": {
+        "width": 196.70942045714287
+      },
+      "style": {
+        "fontSize": 80,
+        "textColor": "#ffffff",
+        "fontFamily": "open_sans",
+        "align": "center"
+      },
+      "visualKind": "text",
+      "title": "<p>04</p>"
+    },
+    {
+      "id": "n-35",
+      "position": {
+        "x": 2860.2868792485074,
+        "y": 385.5496579869417
+      },
+      "size": {
+        "width": 1316.044214964072,
+        "height": 2410.05647165539
+      },
+      "style": {
+        "fillColor": "#c6dcff",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 15,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 0.3
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-36",
+      "position": {
+        "x": 2832.9753286089795,
+        "y": -789.8053176604058
+      },
+      "size": {
+        "width": 973.3494053055492,
+        "height": 105.04475151335208
+      },
+      "style": {
+        "fillColor": "#2d9bf0",
+        "borderColor": "#ffffff",
+        "textColor": "#ffffff",
+        "fontSize": 52,
+        "fontFamily": "open_sans",
+        "borderWidth": 20,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": "<p><strong></strong></p>"
+    },
+    {
+      "id": "n-37",
+      "position": {
+        "x": 2807.523214359771,
+        "y": -809.5722225342229
+      },
+      "size": {
+        "width": 973.3494053055492,
+        "height": 105.04475151335208
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#ffffff",
+        "textColor": "#2d9bf0",
+        "fontSize": 52,
+        "fontFamily": "open_sans",
+        "borderWidth": 20,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": "<p><strong style=\"color:rgb(45,155,240)\">05 Cover Letter</strong></p>"
+    },
+    {
+      "id": "n-38",
+      "position": {
+        "x": 2820.249271484375,
+        "y": -532.0757384328645
+      },
+      "size": {
+        "width": 998.8015195547575,
+        "height": 261.2302388320251
+      },
+      "style": {
+        "fillColor": "#659df2",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 52,
+        "fontFamily": "open_sans",
+        "borderWidth": 20,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-39",
+      "position": {
+        "x": 2930.0566313253216,
+        "y": -532.0757384328645
+      },
+      "size": {
+        "width": 649.77315211887
+      },
+      "style": {
+        "fontSize": 27,
+        "textColor": "#ffffff",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p>MIro&#39;s AI will draft a cover letter for you that aligns your experience with the job description you provided. Feel free to edit the output as you please</p>"
+    },
+    {
+      "id": "n-40",
+      "position": {
+        "x": 2481.558333726845,
+        "y": -532.0757384328645
+      },
+      "size": {
+        "width": 196.70942045714287
+      },
+      "style": {
+        "fontSize": 80,
+        "textColor": "#ffffff",
+        "fontFamily": "open_sans",
+        "align": "center"
+      },
+      "visualKind": "text",
+      "title": "<p>05</p>"
+    },
+    {
+      "id": "n-41",
+      "position": {
+        "x": -798.5078387742298,
+        "y": -139.49851094149193
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[data_table_format]"
+    },
+    {
+      "id": "n-42",
+      "position": {
+        "x": 901.9265791747309,
+        "y": -139.49851094149187
+      },
+      "size": {
+        "width": 784.0,
+        "height": 1105.4399999999998
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "<h1></h1>"
+    },
+    {
+      "id": "n-43",
+      "position": {
+        "x": 2320.8485117069963,
+        "y": -139.49851094149187
+      },
+      "size": {
+        "width": 784.0,
+        "height": 1105.4399999999998
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "<h1></h1>"
+    },
+    {
+      "id": "n-44",
+      "position": {
+        "x": -4203.5831314108955,
+        "y": 196.7232264233413
+      },
+      "size": {
+        "width": 589.8723849611195,
+        "height": 308.33103814928785
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 52,
+        "fontFamily": "open_sans",
+        "borderWidth": 20,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-45",
+      "position": {
+        "x": -4156.509395872374,
+        "y": 180.2420344941644
+      },
+      "size": {
+        "width": 338.2488874086711
+      },
+      "style": {
+        "fontSize": 23,
+        "textColor": "#595959",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong>Tip: </strong>Use the &#34;Resume and Cover letter&#34; sidekick to get an existing PDF resume into text format so that it works in this flow</p>"
+    },
+    {
+      "id": "n-46",
+      "position": {
+        "x": -4391.40981057674,
+        "y": 234.45912142713664
+      },
+      "size": {
+        "width": 139.80953588416736,
+        "height": 139.80953588416736
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[stamp]"
+    },
+    {
+      "id": "n-47",
+      "position": {
+        "x": 566.4713532608828,
+        "y": -762.3212571698199
+      },
+      "size": {
+        "width": 268.88656512240414,
+        "height": 83.43038544549832
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 26,
+        "fontFamily": "noto_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-48",
+      "position": {
+        "x": 607.5024273967022,
+        "y": -737.6600148717938
+      },
+      "size": {
+        "width": 118.56326323531849
+      },
+      "style": {
+        "fontSize": 25,
+        "textColor": "#8f7fee",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong style=\"color:rgb(143,127,238)\">AI Action</strong></p>"
+    },
+    {
+      "id": "n-49",
+      "position": {
+        "x": 498.90161465528286,
+        "y": -803.1682456574482
+      },
+      "size": {
+        "width": 104.83173668480246,
+        "height": 104.83173668480246
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[stamp]"
+    },
+    {
+      "id": "n-50",
+      "position": {
+        "x": -2557.303602462503,
+        "y": -789.8053176604053
+      },
+      "size": {
+        "width": 344.2757328869376,
+        "height": 84.86263001744048
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 26,
+        "fontFamily": "noto_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": "<p></p>"
+    },
+    {
+      "id": "n-51",
+      "position": {
+        "x": -2650.2440841264483,
+        "y": -839.0110155695622
+      },
+      "size": {
+        "width": 120.81009835621579,
+        "height": 120.81009835621579
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[stamp]"
+    },
+    {
+      "id": "n-52",
+      "position": {
+        "x": -2518.962095034329,
+        "y": -767.3783133745873
+      },
+      "size": {
+        "width": 187.107649793237
+      },
+      "style": {
+        "fontSize": 25,
+        "textColor": "#bd0a0a",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong style=\"color:rgb(189,10,10)\">Human Action</strong></p>"
+    },
+    {
+      "id": "n-53",
+      "position": {
+        "x": 3416.04800957487,
+        "y": -759.9648024773326
+      },
+      "size": {
+        "width": 463.9287236667679,
+        "height": 84.86263001744048
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 26,
+        "fontFamily": "noto_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": "<p></p>"
+    },
+    {
+      "id": "n-54",
+      "position": {
+        "x": 3456.3638494426323,
+        "y": -736.4925227221465
+      },
+      "size": {
+        "width": 311.228565992711
+      },
+      "style": {
+        "fontSize": 25,
+        "textColor": "#305bab",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong style=\"color:rgb(48,91,171)\">Cyborg Action (You &#43; AI)</strong></p>"
+    },
+    {
+      "id": "n-55",
+      "position": {
+        "x": 3252.000458911615,
+        "y": -848.5458037773537
+      },
+      "size": {
+        "width": 111.23010091754549,
+        "height": 111.23010091754549
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[stamp]"
+    },
+    {
+      "id": "n-56",
+      "position": {
+        "x": -1187.1082446110051,
+        "y": -789.8053176604051
+      },
+      "size": {
+        "width": 344.2757328869376,
+        "height": 84.86263001744048
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 26,
+        "fontFamily": "noto_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": "<p></p>"
+    },
+    {
+      "id": "n-57",
+      "position": {
+        "x": -1280.0487262749505,
+        "y": -839.011015569562
+      },
+      "size": {
+        "width": 120.81009835621579,
+        "height": 120.81009835621579
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[stamp]"
+    },
+    {
+      "id": "n-58",
+      "position": {
+        "x": -1148.7667371828313,
+        "y": -767.378313374587
+      },
+      "size": {
+        "width": 187.107649793237
+      },
+      "style": {
+        "fontSize": 25,
+        "textColor": "#bd0a0a",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong style=\"color:rgb(189,10,10)\">Human Action</strong></p>"
+    },
+    {
+      "id": "n-59",
+      "position": {
+        "x": 1974.3582311263774,
+        "y": -762.464198969956
+      },
+      "size": {
+        "width": 268.88656512240414,
+        "height": 83.43038544549832
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 26,
+        "fontFamily": "noto_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-60",
+      "position": {
+        "x": 2015.3893052621968,
+        "y": -737.8029566719299
+      },
+      "size": {
+        "width": 118.56326323531849
+      },
+      "style": {
+        "fontSize": 25,
+        "textColor": "#8f7fee",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong style=\"color:rgb(143,127,238)\">AI Action</strong></p>"
+    },
+    {
+      "id": "n-61",
+      "position": {
+        "x": 1906.7884925207775,
+        "y": -803.3111874575843
+      },
+      "size": {
+        "width": 104.83173668480246,
+        "height": 104.83173668480246
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[stamp]"
+    },
+    {
+      "id": "n-62",
+      "position": {
+        "x": -3650.8022085538796,
+        "y": -139.49851094149187
+      },
+      "size": {
+        "width": 1019.8853780067034,
+        "height": 1438.0383829894515
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "<h1>Placeholder Resume — [Your Full Name]</h1><p>Email | Phone Number | Location | LinkedIn</p><h2>Professional Summary</h2><p>Results-oriented [Job Title] with [X] years of experience in [industry/discipline]. Proven track record delivering [type of outcomes: e.g., revenue growth, product launches, process improvements] through strong [skill 1], [skill 2], and [skill 3]. Comfortable working in [team size / environments: e.g., cross-functional teams, fast-paced startups, regulated industries]. Seeking a role where I can contribute [specific value you bring].</p><p>Example:</p><ol><li data-list=\"bullet\">Strategic Product Manager with 6 years’ experience launching SaaS products, improving user retention by 18% and increasing ARR by $1.2M through data-driven feature prioritization and stakeholder alignment.</li></ol><h2>Core Skills</h2><ol><li data-list=\"bullet\">Technical / Functional: [Skill A], [Skill B], [Skill C]</li><li data-list=\"bullet\">Tools &amp; Technologies: [Tool 1], [Tool 2], [Tool 3]</li><li data-list=\"bullet\">Methods &amp; Practices: [Method 1], [Method 2]</li></ol><h2>Professional Experience</h2><h3>[Most Recent Job Title] — [Company], [City, State]</h3><p>[Month YYYY] – Present</p><ol><li data-list=\"bullet\">Lead [team size]-person team to deliver [product/initiative], achieving [measurable outcome] (e.g., increased X by Y%).</li><li data-list=\"bullet\">Implemented [process/tool], reducing [time/cost/error rate] by [X%] and improving [metric].</li><li data-list=\"bullet\">Coordinated with [stakeholders] to prioritize roadmap items, resulting in [impact, e.g., improved NPS, higher conversion].</li></ol><h3>[Previous Job Title] — [Company], [City, State]</h3><p>[Month YYYY] – [Month YYYY]</p><ol><li data-list=\"bullet\">Designed and executed [project/campaign], delivering [result with metric].</li><li data-list=\"bullet\">Automated [task/process] using [tool/technique], saving [X hours/month] and decreasing error rate by [Y%].</li><li data-list=\"bullet\">Mentored [number] junior staff, improving team productivity and retention.</li></ol><h2>Education</h2><ol><li data-list=\"bullet\">[Degree], [Major] — [University], [City, State]<br>[Month YYYY] – [Month YYYY] (or Graduation Year)<br>Relevant coursework: [Course 1], [Course 2] | GPA: [X.XX] (optional)</li></ol>"
+    },
+    {
+      "id": "n-63",
+      "position": {
+        "x": 298.0243626569837,
+        "y": -1536.2146397656527
+      },
+      "size": {
+        "width": 813.5678937486558,
+        "height": 374.3004667464185
+      },
+      "style": {
+        "fillColor": "#c6dcff",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 27,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 0.5
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-64",
+      "position": {
+        "x": 275.67421259806014,
+        "y": -1561.1553340733326
+      },
+      "size": {
+        "width": 813.5678937486558,
+        "height": 374.3004667464185
+      },
+      "style": {
+        "fillColor": "#659df2",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 27,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 0.6
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-65",
+      "position": {
+        "x": 318.17828635540917,
+        "y": -1593.581145639784
+      },
+      "size": {
+        "width": 330.1553463241771
+      },
+      "style": {
+        "fontSize": 27,
+        "textColor": "#ffffff",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p>Senior Product Manager</p>"
+    },
+    {
+      "id": "n-66",
+      "position": {
+        "x": 376.14649849433994,
+        "y": -1650.5263929797575
+      },
+      "size": {
+        "width": 446.09177060007227
+      },
+      "style": {
+        "fontSize": 59,
+        "textColor": "#ffffff",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong>Daiana Kaplan</strong></p>"
+    },
+    {
+      "id": "n-67",
+      "position": {
+        "x": 297.5930252644674,
+        "y": -1465.8224868998227
+      },
+      "size": {
+        "width": 671.6051235254336
+      },
+      "style": {
+        "fontSize": 17,
+        "textColor": "#ffffff",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p>Hey, thanks for checking out this board. I hope it&#39;s useful to you in your job search. Make sure to check out my other templates on the Miroverse!</p>"
+    },
+    {
+      "id": "n-68",
+      "position": {
+        "x": 48.12991029795225,
+        "y": -1606.6718767150962
+      },
+      "size": {
+        "width": 172.67889359600554,
+        "height": 172.67889359600554
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJvaFJwE%3D/resources/images/3458764517350315422?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-69",
+      "position": {
+        "x": 197.23171210902518,
+        "y": -1530.9829132529987
+      },
+      "size": {
+        "width": 88.26219782944125,
+        "height": 21.300966671810922
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#e6e6e6",
+        "textColor": "#1a1a1a",
+        "fontSize": 8,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": "<p><br /></p>"
+    },
+    {
+      "id": "n-70",
+      "position": {
+        "x": 169.24353189827102,
+        "y": -1530.9829132529987
+      },
+      "size": {
+        "width": 11.37191184610405,
+        "height": 11.37191184610405
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mockup]"
+    },
+    {
+      "id": "n-71",
+      "position": {
+        "x": 210.05756535314794,
+        "y": -1530.9829132529987
+      },
+      "size": {
+        "width": 56.15985772016765
+      },
+      "style": {
+        "fontSize": 10,
+        "textColor": "#1a1a1a",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong style=\"color:rgb(26,26,26)\"><a href=\"https://www.linkedin.com/in/daianakaplan/\">LinkedIn</a></strong></p>"
+    },
+    {
+      "id": "n-72",
+      "position": {
+        "x": 299.5850871871228,
+        "y": -1530.9829132529987
+      },
+      "size": {
+        "width": 97.79350864843711,
+        "height": 21.300966671810922
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#e6e6e6",
+        "textColor": "#1a1a1a",
+        "fontSize": 8,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": "<p><br /></p>"
+    },
+    {
+      "id": "n-73",
+      "position": {
+        "x": 310.29370468182066,
+        "y": -1530.9829132529987
+      },
+      "size": {
+        "width": 61.45669703868644
+      },
+      "style": {
+        "fontSize": 10,
+        "textColor": "#1a1a1a",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong style=\"color:rgb(26,26,26)\"><a href=\"https://miro.com/miroverse/profile/daiana-kaplan/?social&#61;copy-link?social&#61;copy-link?social&#61;copy-link?social&#61;copy-link\">Miroverse</a></strong></p>"
+    },
+    {
+      "id": "n-74",
+      "position": {
+        "x": 267.25149277526003,
+        "y": -1530.9829132529987
+      },
+      "size": {
+        "width": 11.190626206992391,
+        "height": 11.190626206992391
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJvaFJwE%3D/resources/images/3458764517350315421?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-75",
+      "position": {
+        "x": -3447.626438647399,
+        "y": 1671.3096616058442
+      },
+      "size": {
+        "width": 370.9320411156765,
+        "height": 193.88916015719124
+      },
+      "style": {
+        "fillColor": "#659df2",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 32,
+        "fontFamily": "open_sans",
+        "borderWidth": 20,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-76",
+      "position": {
+        "x": -3492.7654454337753,
+        "y": 1669.4894023882846
+      },
+      "size": {
+        "width": 222.9442677809476
+      },
+      "style": {
+        "fontSize": 17,
+        "textColor": "#ffffff",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong>OR:</strong></p><p><br /></p><p>Add your PDF resume to the frame below</p>"
+    },
+    {
+      "id": "n-77",
+      "position": {
+        "x": -3334.7140675580013,
+        "y": 1643.7220518978143
+      },
+      "size": {
+        "width": 115.30971149078775,
+        "height": 115.30971149078775
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[stamp]"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e-0",
+      "sourceNodeId": "n-75",
+      "targetNodeId": "n-10",
+      "style": {
+        "lineStyle": "solid",
+        "arrowHead": "end",
+        "borderColor": "#333333",
+        "strokeWidth": "5.0",
+        "extra": {
+          "connectorShape": "curved",
+          "sourcePosition": "auto",
+          "targetPosition": "auto"
+        }
+      }
+    }
+  ],
+  "annotations": [],
+  "_metadata": {
+    "extracted_at": "2026-02-23T13:10:01.612617",
+    "total_items": 79,
+    "total_connectors": 1,
+    "frames": 1,
+    "nodes": 78,
+    "edges": 1
+  },
+  "_template": {
+    "name": "ai-powered-job-applications",
+    "category": "miroverse",
+    "source": "miroverse",
+    "source_slug": "ai-powered-job-applications",
+    "source_board_id": "uXjVJvaFJwE=",
+    "tags": [
+      "personal productivity",
+      "hr & recruitment",
+      "ai accelerated",
+      "strategy & planning",
+      "product management"
+    ],
+    "extracted_at": "2026-02-23T13:10:01.612661"
+  }
+}

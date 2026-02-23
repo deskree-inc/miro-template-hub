@@ -1,0 +1,4939 @@
+{
+  "frames": [
+    {
+      "id": "f-0",
+      "title": "",
+      "position": {
+        "x": -2931.4117872811084,
+        "y": -1784.7529662354373
+      },
+      "size": {
+        "width": 559.9999999999999,
+        "height": 353.7142857142859
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-1",
+      "title": "",
+      "position": {
+        "x": -2311.427199832232,
+        "y": -1867.122287193189
+      },
+      "size": {
+        "width": 359.9691748977464,
+        "height": 188.9756437987782
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-2",
+      "title": "",
+      "position": {
+        "x": -2311.427199832232,
+        "y": -966.6179416635564
+      },
+      "size": {
+        "width": 359.9691748977464,
+        "height": 225.67198327445072
+      },
+      "style": {
+        "fillColor": "#f0f0f0"
+      }
+    },
+    {
+      "id": "f-3",
+      "title": "References",
+      "position": {
+        "x": -1390.709742167261,
+        "y": -670.3758454048825
+      },
+      "size": {
+        "width": 1417.4657404321952,
+        "height": 818.1561757917984
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-4",
+      "title": "",
+      "position": {
+        "x": -341.9922845022902,
+        "y": -1867.122287193189
+      },
+      "size": {
+        "width": 359.9691748977464,
+        "height": 188.9756437987782
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-5",
+      "title": "",
+      "position": {
+        "x": -2311.427199832232,
+        "y": 154.7308177001712
+      },
+      "size": {
+        "width": 359.9691748977464,
+        "height": 188.9756437987782
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-6",
+      "title": "",
+      "position": {
+        "x": -1390.709742167261,
+        "y": 1433.3210836966812
+      },
+      "size": {
+        "width": 1417.4657404321952,
+        "height": 818.1561757917983
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-7",
+      "title": "",
+      "position": {
+        "x": -2311.427199832232,
+        "y": 363.2794925610301
+      },
+      "size": {
+        "width": 359.9691748977464,
+        "height": 164.12170592293958
+      },
+      "style": {
+        "fillColor": "#f0f0f0"
+      }
+    },
+    {
+      "id": "f-8",
+      "title": "",
+      "position": {
+        "x": -2931.4117872811084,
+        "y": 288.5287100864963
+      },
+      "size": {
+        "width": 559.9999999999999,
+        "height": 456.5714285714282
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-9",
+      "title": "",
+      "position": {
+        "x": -341.9922845022902,
+        "y": 154.73081770017131
+      },
+      "size": {
+        "width": 359.9691748977464,
+        "height": 188.9756437987782
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-10",
+      "title": "",
+      "position": {
+        "x": -2311.427199832232,
+        "y": 1137.0789874380075
+      },
+      "size": {
+        "width": 359.9691748977464,
+        "height": 225.67198327445072
+      },
+      "style": {
+        "fillColor": "#f0f0f0"
+      }
+    },
+    {
+      "id": "f-11",
+      "title": "",
+      "position": {
+        "x": -2311.427199832232,
+        "y": -1658.5736123323304
+      },
+      "size": {
+        "width": 359.9691748977464,
+        "height": 164.12170592293958
+      },
+      "style": {
+        "fillColor": "#f0f0f0"
+      }
+    }
+  ],
+  "nodes": [
+    {
+      "id": "n-0",
+      "position": {
+        "x": 280.0,
+        "y": 176.85714285714295
+      },
+      "size": {
+        "width": 560.0,
+        "height": 353.71428571428584
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 24,
+        "fontFamily": "roobert_pro",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 0.0
+      },
+      "frameId": "f-0",
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-1",
+      "position": {
+        "x": 280.00000000000176,
+        "y": 132.57142857142827
+      },
+      "size": {
+        "width": 432.0
+      },
+      "style": {
+        "fontSize": 48,
+        "textColor": "#1c1c1e",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-0",
+      "visualKind": "text",
+      "title": "<p><strong>From user flow to prototype</strong></p>"
+    },
+    {
+      "id": "n-2",
+      "position": {
+        "x": 279.99999999999994,
+        "y": 255.4285714285714
+      },
+      "size": {
+        "width": 432.0
+      },
+      "style": {
+        "fontSize": 24,
+        "textColor": "#595959",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "frameId": "f-0",
+      "visualKind": "text",
+      "title": "<p>Transform a user flow diagram straight into a prototype.</p>"
+    },
+    {
+      "id": "n-3",
+      "position": {
+        "x": 179.9845874488732,
+        "y": 122.6899295130639
+      },
+      "size": {
+        "width": 295.9691749028571
+      },
+      "style": {
+        "fontSize": 24,
+        "textColor": "#1a1a1a",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-1",
+      "visualKind": "text",
+      "title": "<p><strong>Add a flow diagram of the user journey</strong></p>"
+    },
+    {
+      "id": "n-4",
+      "position": {
+        "x": 52.20210761367562,
+        "y": 52.20210761367579
+      },
+      "size": {
+        "width": 40.404215227348686,
+        "height": 40.404215227349596
+      },
+      "style": {
+        "fillColor": "#1c1c1e",
+        "borderColor": "#ffffff",
+        "textColor": "#ffffff",
+        "fontSize": 18,
+        "fontFamily": "roobert_pro",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "circle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-1",
+      "visualKind": "shape",
+      "title": "<p><strong>1</strong></p>"
+    },
+    {
+      "id": "n-5",
+      "position": {
+        "x": -2099.4426123833587,
+        "y": -1961.610109092578
+      },
+      "size": {
+        "width": 1417.4657404321952,
+        "height": 818.1561757917962
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "Diagram"
+    },
+    {
+      "id": "n-6",
+      "position": {
+        "x": 146.77205613727529,
+        "y": 395.906853790922
+      },
+      "size": {
+        "width": 213.5441122745514,
+        "height": 142.36274151636758
+      },
+      "style": {
+        "fillColor": "#FFFFFF",
+        "borderColor": "#000000",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-7",
+      "position": {
+        "x": 533.9464118956193,
+        "y": 395.906853790922
+      },
+      "size": {
+        "width": 213.5441122745514,
+        "height": 142.36274151636758
+      },
+      "style": {
+        "fillColor": "#FFFFFF",
+        "borderColor": "#000000",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-8",
+      "position": {
+        "x": 921.9618813955503,
+        "y": 395.906853790922
+      },
+      "size": {
+        "width": 213.5441122745514,
+        "height": 213.5441122745514
+      },
+      "style": {
+        "fillColor": "#FFFFFF",
+        "borderColor": "#000000",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-9",
+      "position": {
+        "x": 1270.693684294919,
+        "y": 395.906853790922
+      },
+      "size": {
+        "width": 213.5441122745514,
+        "height": 142.36274151636758
+      },
+      "style": {
+        "fillColor": "#FFFFFF",
+        "borderColor": "#000000",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-10",
+      "position": {
+        "x": 921.9618813955522,
+        "y": 706.9748050336143
+      },
+      "size": {
+        "width": 213.5441122745514,
+        "height": 142.36274151636758
+      },
+      "style": {
+        "fillColor": "#FFFFFF",
+        "borderColor": "#000000",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-11",
+      "position": {
+        "x": 1270.693684294919,
+        "y": 111.1813707581855
+      },
+      "size": {
+        "width": 213.5441122745514,
+        "height": 142.36274151636758
+      },
+      "style": {
+        "fillColor": "#FFFFFF",
+        "borderColor": "#000000",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-12",
+      "position": {
+        "x": 179.9845874488732,
+        "y": 173.6719832744507
+      },
+      "size": {
+        "width": 295.9691749
+      },
+      "style": {
+        "fontSize": 14,
+        "textColor": "#595959",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "frameId": "f-2",
+      "visualKind": "text",
+      "title": "<p>Insert a screenshot of your product to guide the visual style and tone of the prototype.</p>"
+    },
+    {
+      "id": "n-13",
+      "position": {
+        "x": 64.08165987443968,
+        "y": 52.12170592293958
+      },
+      "size": {
+        "width": 64.16331974887929,
+        "height": 40.243411845879635
+      },
+      "style": {
+        "fillColor": "#1c1c1e",
+        "borderColor": "#ffffff",
+        "textColor": "#ffffff",
+        "fontSize": 14,
+        "fontFamily": "noto_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-2",
+      "visualKind": "shape",
+      "title": "<p><strong>Tip </strong></p>"
+    },
+    {
+      "id": "n-14",
+      "position": {
+        "x": 179.9845874488732,
+        "y": 117.95769756016514
+      },
+      "size": {
+        "width": 295.96917489428574
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#1a1a1a",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-2",
+      "visualKind": "text",
+      "title": "<p><strong>Your product can guide the look and feel</strong></p>"
+    },
+    {
+      "id": "n-15",
+      "position": {
+        "x": 708.7328702160976,
+        "y": 409.0780878958992
+      },
+      "size": {
+        "width": 983.5385201094846,
+        "height": 626.4478524015027
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ872KPY%3D/resources/images/3458764517258781659?format=preview&redirect=false"
+        }
+      },
+      "frameId": "f-3",
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-16",
+      "position": {
+        "x": -130.0076970534169,
+        "y": -1961.610109092578
+      },
+      "size": {
+        "width": 3017.817921834526,
+        "height": 1188.7659133389895
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "Prototype"
+    },
+    {
+      "id": "n-17",
+      "position": {
+        "x": 267.4999999999991,
+        "y": 446.9797457998651
+      },
+      "size": {
+        "width": 375.0,
+        "height": 667.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "Type User Name"
+    },
+    {
+      "id": "n-18",
+      "position": {
+        "x": 742.4999999999991,
+        "y": 482.4797457998651
+      },
+      "size": {
+        "width": 375.0,
+        "height": 738.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "Go to Search"
+    },
+    {
+      "id": "n-19",
+      "position": {
+        "x": 1217.4999999999982,
+        "y": 489.4797457998651
+      },
+      "size": {
+        "width": 375.0,
+        "height": 752.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "User Found Decision"
+    },
+    {
+      "id": "n-20",
+      "position": {
+        "x": 1692.4999999999982,
+        "y": 446.9797457998651
+      },
+      "size": {
+        "width": 375.0,
+        "height": 667.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "Select User"
+    },
+    {
+      "id": "n-21",
+      "position": {
+        "x": 2167.499999999998,
+        "y": 570.9797457998651
+      },
+      "size": {
+        "width": 375.0,
+        "height": 915.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "View User Profile"
+    },
+    {
+      "id": "n-22",
+      "position": {
+        "x": 2642.499999999998,
+        "y": 446.9797457998651
+      },
+      "size": {
+        "width": 375.0,
+        "height": 667.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "Display Empty State"
+    },
+    {
+      "id": "n-23",
+      "position": {
+        "x": 187.5,
+        "y": 36.0
+      },
+      "size": {
+        "width": 375.0,
+        "height": 72.0
+      },
+      "style": {
+        "fillColor": "#4f7eff",
+        "borderColor": "#e5e7eb",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "noto_sans",
+        "borderWidth": 0,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-24",
+      "position": {
+        "x": 26.0,
+        "y": 36.0
+      },
+      "size": {
+        "width": 20.0,
+        "height": 20.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mockup]"
+    },
+    {
+      "id": "n-25",
+      "position": {
+        "x": 93.71928571428572,
+        "y": 36.0
+      },
+      "size": {
+        "width": 99.43857142714286
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#ffffff",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><span>User Search</span></p>"
+    },
+    {
+      "id": "n-26",
+      "position": {
+        "x": 269.0,
+        "y": 36.0
+      },
+      "size": {
+        "width": 68.0,
+        "height": 28.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[input_button]"
+    },
+    {
+      "id": "n-27",
+      "position": {
+        "x": 339.0,
+        "y": 36.0
+      },
+      "size": {
+        "width": 40.0,
+        "height": 40.0
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ872KPY%3D/resources/images/3458764517258781660?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-28",
+      "position": {
+        "x": 187.5,
+        "y": 241.0
+      },
+      "size": {
+        "width": 327.0,
+        "height": 278.0
+      },
+      "style": {
+        "fillColor": "#f9f9f9",
+        "borderColor": "#e5e7eb",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "noto_sans",
+        "borderWidth": 0,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-29",
+      "position": {
+        "x": 187.5,
+        "y": 140.0
+      },
+      "size": {
+        "width": 296.93571428571425
+      },
+      "style": {
+        "fontSize": 20,
+        "textColor": "#262626",
+        "fontFamily": "roboto",
+        "align": "center"
+      },
+      "visualKind": "text",
+      "title": "<p><span>Enter Username</span></p>"
+    },
+    {
+      "id": "n-30",
+      "position": {
+        "x": 193.7775,
+        "y": 180.0
+      },
+      "size": {
+        "width": 291.555
+      },
+      "style": {
+        "fontSize": 14,
+        "textColor": "#404040",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "Username"
+    },
+    {
+      "id": "n-31",
+      "position": {
+        "x": 187.5,
+        "y": 223.0
+      },
+      "size": {
+        "width": 279.0,
+        "height": 50.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[input_text]"
+    },
+    {
+      "id": "n-32",
+      "position": {
+        "x": 187.5,
+        "y": 296.0
+      },
+      "size": {
+        "width": 279.0,
+        "height": 48.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[input_button]"
+    },
+    {
+      "id": "n-33",
+      "position": {
+        "x": 187.5,
+        "y": 346.0
+      },
+      "size": {
+        "width": 291.555
+      },
+      "style": {
+        "fontSize": 14,
+        "textColor": "#525252",
+        "fontFamily": "roboto",
+        "align": "center"
+      },
+      "visualKind": "text",
+      "title": "<p><span>Enter a username to find users in the system</span></p>"
+    },
+    {
+      "id": "n-34",
+      "position": {
+        "x": 187.0,
+        "y": 484.0
+      },
+      "size": {
+        "width": 280.0,
+        "height": 160.0
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ872KPY%3D/resources/images/3458764517258781661?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-35",
+      "position": {
+        "x": 187.5,
+        "y": 631.0
+      },
+      "size": {
+        "width": 375.0,
+        "height": 72.0
+      },
+      "style": {
+        "fillColor": "#266fd5",
+        "borderColor": "#e5e7eb",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "noto_sans",
+        "borderWidth": 0,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-36",
+      "position": {
+        "x": 54.0,
+        "y": 621.0
+      },
+      "size": {
+        "width": 20.0,
+        "height": 20.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mockup]"
+    },
+    {
+      "id": "n-37",
+      "position": {
+        "x": 54.33249999999998,
+        "y": 647.0
+      },
+      "size": {
+        "width": 38.66500000285714
+      },
+      "style": {
+        "fontSize": 12,
+        "textColor": "#ffffff",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><span>Search</span></p>"
+    },
+    {
+      "id": "n-38",
+      "position": {
+        "x": 130.0,
+        "y": 621.0
+      },
+      "size": {
+        "width": 18.0,
+        "height": 18.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mockup]"
+    },
+    {
+      "id": "n-39",
+      "position": {
+        "x": 130.2875,
+        "y": 647.0
+      },
+      "size": {
+        "width": 36.574999997142854
+      },
+      "style": {
+        "fontSize": 12,
+        "textColor": "#ffffff",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><span>Profile</span></p>"
+    },
+    {
+      "id": "n-40",
+      "position": {
+        "x": 221.0,
+        "y": 621.0
+      },
+      "size": {
+        "width": 18.0,
+        "height": 18.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mockup]"
+    },
+    {
+      "id": "n-41",
+      "position": {
+        "x": 223.0525,
+        "y": 647.0
+      },
+      "size": {
+        "width": 72.105
+      },
+      "style": {
+        "fontSize": 12,
+        "textColor": "#ffffff",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><span>Notifications</span></p>"
+    },
+    {
+      "id": "n-42",
+      "position": {
+        "x": 317.0,
+        "y": 621.0
+      },
+      "size": {
+        "width": 20.0,
+        "height": 20.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mockup]"
+    },
+    {
+      "id": "n-43",
+      "position": {
+        "x": 317.99,
+        "y": 647.0
+      },
+      "size": {
+        "width": 45.979999997142855
+      },
+      "style": {
+        "fontSize": 12,
+        "textColor": "#ffffff",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><span>Settings</span></p>"
+    },
+    {
+      "id": "n-44",
+      "position": {
+        "x": 187.5,
+        "y": 36.0
+      },
+      "size": {
+        "width": 375.0,
+        "height": 72.0
+      },
+      "style": {
+        "fillColor": "#4f7eff",
+        "borderColor": "#e5e7eb",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "noto_sans",
+        "borderWidth": 0,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-45",
+      "position": {
+        "x": 26.0,
+        "y": 36.0
+      },
+      "size": {
+        "width": 20.0,
+        "height": 20.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mockup]"
+    },
+    {
+      "id": "n-46",
+      "position": {
+        "x": 93.71928571428566,
+        "y": 36.0
+      },
+      "size": {
+        "width": 99.43857142714286
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#ffffff",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><span>User Search</span></p>"
+    },
+    {
+      "id": "n-47",
+      "position": {
+        "x": 269.0,
+        "y": 36.0
+      },
+      "size": {
+        "width": 68.0,
+        "height": 28.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[input_button]"
+    },
+    {
+      "id": "n-48",
+      "position": {
+        "x": 339.0,
+        "y": 36.0
+      },
+      "size": {
+        "width": 40.0,
+        "height": 40.0
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ872KPY%3D/resources/images/3458764517258781662?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-49",
+      "position": {
+        "x": 187.5,
+        "y": 203.0
+      },
+      "size": {
+        "width": 343.0,
+        "height": 214.0
+      },
+      "style": {
+        "fillColor": "#f9f9f9",
+        "borderColor": "#e5e7eb",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "noto_sans",
+        "borderWidth": 0,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-50",
+      "position": {
+        "x": 187.5,
+        "y": 126.0
+      },
+      "size": {
+        "width": 330.99285714285713
+      },
+      "style": {
+        "fontSize": 20,
+        "textColor": "#262626",
+        "fontFamily": "roboto",
+        "align": "center"
+      },
+      "visualKind": "text",
+      "title": "<p><span>Search for a User</span></p>"
+    },
+    {
+      "id": "n-51",
+      "position": {
+        "x": 195.49714285714288,
+        "y": 168.0
+      },
+      "size": {
+        "width": 326.9942857142857
+      },
+      "style": {
+        "fontSize": 16,
+        "textColor": "#404040",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "Username"
+    },
+    {
+      "id": "n-52",
+      "position": {
+        "x": 187.5,
+        "y": 209.0
+      },
+      "size": {
+        "width": 311.0,
+        "height": 42.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[input_text]"
+    },
+    {
+      "id": "n-53",
+      "position": {
+        "x": 187.5,
+        "y": 270.0
+      },
+      "size": {
+        "width": 159.0,
+        "height": 48.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[input_button]"
+    },
+    {
+      "id": "n-54",
+      "position": {
+        "x": 187.5,
+        "y": 484.0
+      },
+      "size": {
+        "width": 343.0,
+        "height": 316.0
+      },
+      "style": {
+        "fillColor": "#f9f9f9",
+        "borderColor": "#e5e7eb",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "noto_sans",
+        "borderWidth": 0,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-55",
+      "position": {
+        "x": 196.4967857142857,
+        "y": 356.0
+      },
+      "size": {
+        "width": 328.99357143000003
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#262626",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><span>Recent Searches</span></p>"
+    },
+    {
+      "id": "n-56",
+      "position": {
+        "x": 187.5,
+        "y": 420.0
+      },
+      "size": {
+        "width": 311.0,
+        "height": 76.0
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#e5e7eb",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "noto_sans",
+        "borderWidth": 0,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-57",
+      "position": {
+        "x": 68.0,
+        "y": 420.0
+      },
+      "size": {
+        "width": 40.0,
+        "height": 40.0
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ872KPY%3D/resources/images/3458764517258781663?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-58",
+      "position": {
+        "x": 160.98285714285714,
+        "y": 410.0
+      },
+      "size": {
+        "width": 121.96571428571428
+      },
+      "style": {
+        "fontSize": 16,
+        "textColor": "#262626",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><span>Sarah Johnson</span></p>"
+    },
+    {
+      "id": "n-59",
+      "position": {
+        "x": 160.61,
+        "y": 432.0
+      },
+      "size": {
+        "width": 121.22
+      },
+      "style": {
+        "fontSize": 14,
+        "textColor": "#525252",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><span>Marketing Director</span></p>"
+    },
+    {
+      "id": "n-60",
+      "position": {
+        "x": 187.5,
+        "y": 504.0
+      },
+      "size": {
+        "width": 311.0,
+        "height": 76.0
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#e5e7eb",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "noto_sans",
+        "borderWidth": 0,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-61",
+      "position": {
+        "x": 68.0,
+        "y": 504.0
+      },
+      "size": {
+        "width": 40.0,
+        "height": 40.0
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ872KPY%3D/resources/images/3458764517258781664?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-62",
+      "position": {
+        "x": 151.51999999999998,
+        "y": 494.0
+      },
+      "size": {
+        "width": 103.03999999999999
+      },
+      "style": {
+        "fontSize": 16,
+        "textColor": "#262626",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><span>Michael Chen</span></p>"
+    },
+    {
+      "id": "n-63",
+      "position": {
+        "x": 151.20500000000004,
+        "y": 516.0
+      },
+      "size": {
+        "width": 102.41
+      },
+      "style": {
+        "fontSize": 14,
+        "textColor": "#525252",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><span>UX Designer</span></p>"
+    },
+    {
+      "id": "n-64",
+      "position": {
+        "x": 187.5,
+        "y": 588.0
+      },
+      "size": {
+        "width": 311.0,
+        "height": 76.0
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#e5e7eb",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "noto_sans",
+        "borderWidth": 0,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-65",
+      "position": {
+        "x": 68.0,
+        "y": 588.0
+      },
+      "size": {
+        "width": 40.0,
+        "height": 40.0
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ872KPY%3D/resources/images/3458764517258781665?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-66",
+      "position": {
+        "x": 154.14857142857147,
+        "y": 578.0
+      },
+      "size": {
+        "width": 108.29714285714286
+      },
+      "style": {
+        "fontSize": 16,
+        "textColor": "#262626",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><span>Aisha Patel</span></p>"
+    },
+    {
+      "id": "n-67",
+      "position": {
+        "x": 153.8175,
+        "y": 600.0
+      },
+      "size": {
+        "width": 107.635
+      },
+      "style": {
+        "fontSize": 14,
+        "textColor": "#525252",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><span>Project Manager</span></p>"
+    },
+    {
+      "id": "n-68",
+      "position": {
+        "x": 187.5,
+        "y": 702.0
+      },
+      "size": {
+        "width": 375.0,
+        "height": 72.0
+      },
+      "style": {
+        "fillColor": "#266fd5",
+        "borderColor": "#e5e7eb",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "noto_sans",
+        "borderWidth": 0,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-69",
+      "position": {
+        "x": 54.0,
+        "y": 692.0
+      },
+      "size": {
+        "width": 20.0,
+        "height": 20.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mockup]"
+    },
+    {
+      "id": "n-70",
+      "position": {
+        "x": 54.33249999999998,
+        "y": 718.0
+      },
+      "size": {
+        "width": 38.66500000285714
+      },
+      "style": {
+        "fontSize": 12,
+        "textColor": "#ffffff",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><span>Search</span></p>"
+    },
+    {
+      "id": "n-71",
+      "position": {
+        "x": 130.0,
+        "y": 692.0
+      },
+      "size": {
+        "width": 18.0,
+        "height": 18.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mockup]"
+    },
+    {
+      "id": "n-72",
+      "position": {
+        "x": 130.28750000000002,
+        "y": 718.0
+      },
+      "size": {
+        "width": 36.574999997142854
+      },
+      "style": {
+        "fontSize": 12,
+        "textColor": "#ffffff",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><span>Profile</span></p>"
+    },
+    {
+      "id": "n-73",
+      "position": {
+        "x": 221.0,
+        "y": 692.0
+      },
+      "size": {
+        "width": 18.0,
+        "height": 18.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mockup]"
+    },
+    {
+      "id": "n-74",
+      "position": {
+        "x": 223.0525,
+        "y": 718.0
+      },
+      "size": {
+        "width": 72.105
+      },
+      "style": {
+        "fontSize": 12,
+        "textColor": "#ffffff",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><span>Notifications</span></p>"
+    },
+    {
+      "id": "n-75",
+      "position": {
+        "x": 317.0,
+        "y": 692.0
+      },
+      "size": {
+        "width": 20.0,
+        "height": 20.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mockup]"
+    },
+    {
+      "id": "n-76",
+      "position": {
+        "x": 317.99,
+        "y": 718.0
+      },
+      "size": {
+        "width": 45.979999997142855
+      },
+      "style": {
+        "fontSize": 12,
+        "textColor": "#ffffff",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><span>Settings</span></p>"
+    },
+    {
+      "id": "n-77",
+      "position": {
+        "x": 187.5,
+        "y": 36.0
+      },
+      "size": {
+        "width": 375.0,
+        "height": 72.0
+      },
+      "style": {
+        "fillColor": "#4f7eff",
+        "borderColor": "#e5e7eb",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "noto_sans",
+        "borderWidth": 0,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-78",
+      "position": {
+        "x": 26.0,
+        "y": 36.0
+      },
+      "size": {
+        "width": 20.0,
+        "height": 20.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mockup]"
+    },
+    {
+      "id": "n-79",
+      "position": {
+        "x": 93.71928571428566,
+        "y": 36.0
+      },
+      "size": {
+        "width": 99.43857142714286
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#ffffff",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><span>User Search</span></p>"
+    },
+    {
+      "id": "n-80",
+      "position": {
+        "x": 269.0,
+        "y": 36.0
+      },
+      "size": {
+        "width": 68.0,
+        "height": 28.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[input_button]"
+    },
+    {
+      "id": "n-81",
+      "position": {
+        "x": 339.0,
+        "y": 36.0
+      },
+      "size": {
+        "width": 40.0,
+        "height": 40.0
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ872KPY%3D/resources/images/3458764517258781666?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-82",
+      "position": {
+        "x": 187.5,
+        "y": 310.0
+      },
+      "size": {
+        "width": 343.0,
+        "height": 428.0
+      },
+      "style": {
+        "fillColor": "#f9f9f9",
+        "borderColor": "#e5e7eb",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "noto_sans",
+        "borderWidth": 0,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-83",
+      "position": {
+        "x": 187.5,
+        "y": 140.0
+      },
+      "size": {
+        "width": 45.0,
+        "height": 45.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mockup]"
+    },
+    {
+      "id": "n-84",
+      "position": {
+        "x": 187.5,
+        "y": 186.0
+      },
+      "size": {
+        "width": 313.9642857142857
+      },
+      "style": {
+        "fontSize": 20,
+        "textColor": "#262626",
+        "fontFamily": "roboto",
+        "align": "center"
+      },
+      "visualKind": "text",
+      "title": "<p><span>User Found?</span></p>"
+    },
+    {
+      "id": "n-85",
+      "position": {
+        "x": 187.5,
+        "y": 232.0
+      },
+      "size": {
+        "width": 295.0
+      },
+      "style": {
+        "fontSize": 16,
+        "textColor": "#525252",
+        "fontFamily": "roboto",
+        "align": "center"
+      },
+      "visualKind": "text",
+      "title": "<p><span>We need to confirm if this user exists in our system</span></p>"
+    },
+    {
+      "id": "n-86",
+      "position": {
+        "x": 187.5,
+        "y": 321.0
+      },
+      "size": {
+        "width": 295.0,
+        "height": 82.0
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#e5e7eb",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "noto_sans",
+        "borderWidth": 0,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-87",
+      "position": {
+        "x": 81.0,
+        "y": 321.0
+      },
+      "size": {
+        "width": 50.0,
+        "height": 50.0
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ872KPY%3D/resources/images/3458764517258781667?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-88",
+      "position": {
+        "x": 213.68000000000006,
+        "y": 311.0
+      },
+      "size": {
+        "width": 191.35999999999999
+      },
+      "style": {
+        "fontSize": 16,
+        "textColor": "#262626",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><span>Sarah Johnson</span></p>"
+    },
+    {
+      "id": "n-89",
+      "position": {
+        "x": 213.09500000000003,
+        "y": 333.0
+      },
+      "size": {
+        "width": 190.19
+      },
+      "style": {
+        "fontSize": 14,
+        "textColor": "#737373",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><span>sarahjohnson&#64;example.com</span></p>"
+    },
+    {
+      "id": "n-90",
+      "position": {
+        "x": 187.5,
+        "y": 410.0
+      },
+      "size": {
+        "width": 295.0,
+        "height": 48.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[input_button]"
+    },
+    {
+      "id": "n-91",
+      "position": {
+        "x": 187.5,
+        "y": 475.0
+      },
+      "size": {
+        "width": 295.0,
+        "height": 50.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[input_button]"
+    },
+    {
+      "id": "n-92",
+      "position": {
+        "x": 187.5,
+        "y": 602.0
+      },
+      "size": {
+        "width": 343.0,
+        "height": 108.0
+      },
+      "style": {
+        "fillColor": "#f9f9f9",
+        "borderColor": "#e5e7eb",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "noto_sans",
+        "borderWidth": 0,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-93",
+      "position": {
+        "x": 187.0,
+        "y": 578.0
+      },
+      "size": {
+        "width": 20.0,
+        "height": 20.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mockup]"
+    },
+    {
+      "id": "n-94",
+      "position": {
+        "x": 187.5,
+        "y": 620.0
+      },
+      "size": {
+        "width": 311.0
+      },
+      "style": {
+        "fontSize": 14,
+        "textColor": "#404040",
+        "fontFamily": "roboto",
+        "align": "center"
+      },
+      "visualKind": "text",
+      "title": "<p><span>If this is not the user you&#39;re looking for, we&#39;ll help you find the right one or create a new profile.</span></p>"
+    },
+    {
+      "id": "n-95",
+      "position": {
+        "x": 187.5,
+        "y": 716.0
+      },
+      "size": {
+        "width": 375.0,
+        "height": 72.0
+      },
+      "style": {
+        "fillColor": "#266fd5",
+        "borderColor": "#e5e7eb",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "noto_sans",
+        "borderWidth": 0,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-96",
+      "position": {
+        "x": 54.0,
+        "y": 706.0
+      },
+      "size": {
+        "width": 20.0,
+        "height": 20.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mockup]"
+    },
+    {
+      "id": "n-97",
+      "position": {
+        "x": 54.33249999999998,
+        "y": 732.0
+      },
+      "size": {
+        "width": 38.66500000285714
+      },
+      "style": {
+        "fontSize": 12,
+        "textColor": "#ffffff",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><span>Search</span></p>"
+    },
+    {
+      "id": "n-98",
+      "position": {
+        "x": 130.0,
+        "y": 706.0
+      },
+      "size": {
+        "width": 18.0,
+        "height": 18.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mockup]"
+    },
+    {
+      "id": "n-99",
+      "position": {
+        "x": 130.2874999999999,
+        "y": 732.0
+      },
+      "size": {
+        "width": 36.574999997142854
+      },
+      "style": {
+        "fontSize": 12,
+        "textColor": "#ffffff",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><span>Profile</span></p>"
+    },
+    {
+      "id": "n-100",
+      "position": {
+        "x": 221.0,
+        "y": 706.0
+      },
+      "size": {
+        "width": 18.0,
+        "height": 18.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mockup]"
+    },
+    {
+      "id": "n-101",
+      "position": {
+        "x": 223.0525,
+        "y": 732.0
+      },
+      "size": {
+        "width": 72.105
+      },
+      "style": {
+        "fontSize": 12,
+        "textColor": "#ffffff",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><span>Notifications</span></p>"
+    },
+    {
+      "id": "n-102",
+      "position": {
+        "x": 317.0,
+        "y": 706.0
+      },
+      "size": {
+        "width": 20.0,
+        "height": 20.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mockup]"
+    },
+    {
+      "id": "n-103",
+      "position": {
+        "x": 317.99,
+        "y": 732.0
+      },
+      "size": {
+        "width": 45.979999997142855
+      },
+      "style": {
+        "fontSize": 12,
+        "textColor": "#ffffff",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><span>Settings</span></p>"
+    },
+    {
+      "id": "n-104",
+      "position": {
+        "x": 187.5,
+        "y": 36.0
+      },
+      "size": {
+        "width": 375.0,
+        "height": 72.0
+      },
+      "style": {
+        "fillColor": "#4f7eff",
+        "borderColor": "#e5e7eb",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "noto_sans",
+        "borderWidth": 0,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-105",
+      "position": {
+        "x": 26.0,
+        "y": 36.0
+      },
+      "size": {
+        "width": 20.0,
+        "height": 20.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mockup]"
+    },
+    {
+      "id": "n-106",
+      "position": {
+        "x": 93.71928571428566,
+        "y": 36.0
+      },
+      "size": {
+        "width": 99.43857142714286
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#ffffff",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><span>User Search</span></p>"
+    },
+    {
+      "id": "n-107",
+      "position": {
+        "x": 269.0,
+        "y": 36.0
+      },
+      "size": {
+        "width": 68.0,
+        "height": 28.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[input_button]"
+    },
+    {
+      "id": "n-108",
+      "position": {
+        "x": 339.0,
+        "y": 36.0
+      },
+      "size": {
+        "width": 40.0,
+        "height": 40.0
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ872KPY%3D/resources/images/3458764517258781668?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-109",
+      "position": {
+        "x": 198.5250000000001,
+        "y": 102.0
+      },
+      "size": {
+        "width": 365.05
+      },
+      "style": {
+        "fontSize": 20,
+        "textColor": "#ffffff",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><span>Select User</span></p>"
+    },
+    {
+      "id": "n-110",
+      "position": {
+        "x": 195.21749999999997,
+        "y": 126.0
+      },
+      "size": {
+        "width": 358.435
+      },
+      "style": {
+        "fontSize": 14,
+        "textColor": "#ffffff",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><span>We found the following users matching your search</span></p>"
+    },
+    {
+      "id": "n-111",
+      "position": {
+        "x": 187.5,
+        "y": 317.5
+      },
+      "size": {
+        "width": 343.0,
+        "height": 331.0
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#e5e7eb",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "noto_sans",
+        "borderWidth": 0,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-112",
+      "position": {
+        "x": 187.5,
+        "y": 246.0
+      },
+      "size": {
+        "width": 311.0,
+        "height": 8.0
+      },
+      "style": {
+        "fillColor": "#e5e7eb",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "noto_sans",
+        "borderWidth": 1,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-113",
+      "position": {
+        "x": 69.0,
+        "y": 205.0
+      },
+      "size": {
+        "width": 50.0,
+        "height": 50.0
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ872KPY%3D/resources/images/3458764517258781669?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-114",
+      "position": {
+        "x": 219.02857142857147,
+        "y": 195.0
+      },
+      "size": {
+        "width": 226.05714285714285
+      },
+      "style": {
+        "fontSize": 16,
+        "textColor": "#262626",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><span>Sarah Johnson</span></p>"
+    },
+    {
+      "id": "n-115",
+      "position": {
+        "x": 218.3375000000001,
+        "y": 217.0
+      },
+      "size": {
+        "width": 224.675
+      },
+      "style": {
+        "fontSize": 14,
+        "textColor": "#525252",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><span>Marketing Director</span></p>"
+    },
+    {
+      "id": "n-116",
+      "position": {
+        "x": 326.0,
+        "y": 205.0
+      },
+      "size": {
+        "width": 10.0,
+        "height": 10.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mockup]"
+    },
+    {
+      "id": "n-117",
+      "position": {
+        "x": 187.5,
+        "y": 321.0
+      },
+      "size": {
+        "width": 311.0,
+        "height": 8.0
+      },
+      "style": {
+        "fillColor": "#e5e7eb",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "noto_sans",
+        "borderWidth": 1,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-118",
+      "position": {
+        "x": 69.0,
+        "y": 280.0
+      },
+      "size": {
+        "width": 50.0,
+        "height": 50.0
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ872KPY%3D/resources/images/3458764517258781670?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-119",
+      "position": {
+        "x": 219.02857142857147,
+        "y": 270.0
+      },
+      "size": {
+        "width": 226.05714285714285
+      },
+      "style": {
+        "fontSize": 16,
+        "textColor": "#262626",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><span>Michael Chen</span></p>"
+    },
+    {
+      "id": "n-120",
+      "position": {
+        "x": 218.3375000000001,
+        "y": 292.0
+      },
+      "size": {
+        "width": 224.675
+      },
+      "style": {
+        "fontSize": 14,
+        "textColor": "#525252",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><span>Product Manager</span></p>"
+    },
+    {
+      "id": "n-121",
+      "position": {
+        "x": 326.0,
+        "y": 280.0
+      },
+      "size": {
+        "width": 10.0,
+        "height": 10.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mockup]"
+    },
+    {
+      "id": "n-122",
+      "position": {
+        "x": 187.5,
+        "y": 396.0
+      },
+      "size": {
+        "width": 311.0,
+        "height": 8.0
+      },
+      "style": {
+        "fillColor": "#e5e7eb",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "noto_sans",
+        "borderWidth": 1,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-123",
+      "position": {
+        "x": 69.0,
+        "y": 355.0
+      },
+      "size": {
+        "width": 50.0,
+        "height": 50.0
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ872KPY%3D/resources/images/3458764517258781671?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-124",
+      "position": {
+        "x": 219.02857142857147,
+        "y": 345.0
+      },
+      "size": {
+        "width": 226.05714285714285
+      },
+      "style": {
+        "fontSize": 16,
+        "textColor": "#262626",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><span>Aisha Patel</span></p>"
+    },
+    {
+      "id": "n-125",
+      "position": {
+        "x": 218.3375000000001,
+        "y": 367.0
+      },
+      "size": {
+        "width": 224.675
+      },
+      "style": {
+        "fontSize": 14,
+        "textColor": "#525252",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><span>UX Designer</span></p>"
+    },
+    {
+      "id": "n-126",
+      "position": {
+        "x": 326.0,
+        "y": 355.0
+      },
+      "size": {
+        "width": 10.0,
+        "height": 10.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mockup]"
+    },
+    {
+      "id": "n-127",
+      "position": {
+        "x": 69.0,
+        "y": 430.0
+      },
+      "size": {
+        "width": 50.0,
+        "height": 50.0
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ872KPY%3D/resources/images/3458764517258781672?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-128",
+      "position": {
+        "x": 219.02857142857147,
+        "y": 420.0
+      },
+      "size": {
+        "width": 226.05714285714285
+      },
+      "style": {
+        "fontSize": 16,
+        "textColor": "#262626",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><span>James Wilson</span></p>"
+    },
+    {
+      "id": "n-129",
+      "position": {
+        "x": 218.3375000000001,
+        "y": 442.0
+      },
+      "size": {
+        "width": 224.675
+      },
+      "style": {
+        "fontSize": 14,
+        "textColor": "#525252",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><span>Software Engineer</span></p>"
+    },
+    {
+      "id": "n-130",
+      "position": {
+        "x": 326.0,
+        "y": 430.0
+      },
+      "size": {
+        "width": 10.0,
+        "height": 10.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mockup]"
+    },
+    {
+      "id": "n-131",
+      "position": {
+        "x": 187.5,
+        "y": 523.0
+      },
+      "size": {
+        "width": 343.0,
+        "height": 48.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[input_button]"
+    },
+    {
+      "id": "n-132",
+      "position": {
+        "x": 187.5,
+        "y": 631.0
+      },
+      "size": {
+        "width": 375.0,
+        "height": 72.0
+      },
+      "style": {
+        "fillColor": "#266fd5",
+        "borderColor": "#e5e7eb",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "noto_sans",
+        "borderWidth": 0,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-133",
+      "position": {
+        "x": 54.0,
+        "y": 621.0
+      },
+      "size": {
+        "width": 20.0,
+        "height": 20.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mockup]"
+    },
+    {
+      "id": "n-134",
+      "position": {
+        "x": 54.33249999999998,
+        "y": 647.0
+      },
+      "size": {
+        "width": 38.66500000285714
+      },
+      "style": {
+        "fontSize": 12,
+        "textColor": "#ffffff",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><span>Search</span></p>"
+    },
+    {
+      "id": "n-135",
+      "position": {
+        "x": 130.0,
+        "y": 621.0
+      },
+      "size": {
+        "width": 18.0,
+        "height": 18.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mockup]"
+    },
+    {
+      "id": "n-136",
+      "position": {
+        "x": 130.2874999999999,
+        "y": 647.0
+      },
+      "size": {
+        "width": 36.574999997142854
+      },
+      "style": {
+        "fontSize": 12,
+        "textColor": "#ffffff",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><span>Profile</span></p>"
+    },
+    {
+      "id": "n-137",
+      "position": {
+        "x": 221.0,
+        "y": 621.0
+      },
+      "size": {
+        "width": 18.0,
+        "height": 18.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mockup]"
+    },
+    {
+      "id": "n-138",
+      "position": {
+        "x": 223.0525,
+        "y": 647.0
+      },
+      "size": {
+        "width": 72.105
+      },
+      "style": {
+        "fontSize": 12,
+        "textColor": "#ffffff",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><span>Notifications</span></p>"
+    },
+    {
+      "id": "n-139",
+      "position": {
+        "x": 317.0,
+        "y": 621.0
+      },
+      "size": {
+        "width": 20.0,
+        "height": 20.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mockup]"
+    },
+    {
+      "id": "n-140",
+      "position": {
+        "x": 317.99,
+        "y": 647.0
+      },
+      "size": {
+        "width": 45.979999997142855
+      },
+      "style": {
+        "fontSize": 12,
+        "textColor": "#ffffff",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><span>Settings</span></p>"
+    },
+    {
+      "id": "n-141",
+      "position": {
+        "x": 187.5,
+        "y": 36.0
+      },
+      "size": {
+        "width": 375.0,
+        "height": 72.0
+      },
+      "style": {
+        "fillColor": "#4f7eff",
+        "borderColor": "#e5e7eb",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "noto_sans",
+        "borderWidth": 0,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-142",
+      "position": {
+        "x": 26.0,
+        "y": 36.0
+      },
+      "size": {
+        "width": 20.0,
+        "height": 20.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mockup]"
+    },
+    {
+      "id": "n-143",
+      "position": {
+        "x": 93.71928571428566,
+        "y": 36.0
+      },
+      "size": {
+        "width": 99.43857142714286
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#ffffff",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><span>User Search</span></p>"
+    },
+    {
+      "id": "n-144",
+      "position": {
+        "x": 269.0,
+        "y": 36.0
+      },
+      "size": {
+        "width": 68.0,
+        "height": 28.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[input_button]"
+    },
+    {
+      "id": "n-145",
+      "position": {
+        "x": 339.0,
+        "y": 36.0
+      },
+      "size": {
+        "width": 40.0,
+        "height": 40.0
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ872KPY%3D/resources/images/3458764517258781673?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-146",
+      "position": {
+        "x": 187.5,
+        "y": 457.5
+      },
+      "size": {
+        "width": 343.0,
+        "height": 739.0
+      },
+      "style": {
+        "fillColor": "#f9f9f9",
+        "borderColor": "#e5e7eb",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "noto_sans",
+        "borderWidth": 0,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-147",
+      "position": {
+        "x": 187.0,
+        "y": 162.0
+      },
+      "size": {
+        "width": 100.0,
+        "height": 100.0
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ872KPY%3D/resources/images/3458764517258781674?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-148",
+      "position": {
+        "x": 193.24857142857127,
+        "y": 240.0
+      },
+      "size": {
+        "width": 174.49714285714285
+      },
+      "style": {
+        "fontSize": 24,
+        "textColor": "#262626",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><span>Sarah Johnson</span></p>"
+    },
+    {
+      "id": "n-149",
+      "position": {
+        "x": 189.95249999999987,
+        "y": 266.0
+      },
+      "size": {
+        "width": 113.905
+      },
+      "style": {
+        "fontSize": 14,
+        "textColor": "#266fd5",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><span>Product Manager</span></p>"
+    },
+    {
+      "id": "n-150",
+      "position": {
+        "x": 187.5,
+        "y": 304.0
+      },
+      "size": {
+        "width": 295.0,
+        "height": 8.0
+      },
+      "style": {
+        "fillColor": "#e5e5e5",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "noto_sans",
+        "borderWidth": 1,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-151",
+      "position": {
+        "x": 52.0,
+        "y": 331.0
+      },
+      "size": {
+        "width": 24.0,
+        "height": 24.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mockup]"
+    },
+    {
+      "id": "n-152",
+      "position": {
+        "x": 185.55428571428592,
+        "y": 331.0
+      },
+      "size": {
+        "width": 227.10857142857142
+      },
+      "style": {
+        "fontSize": 16,
+        "textColor": "#404040",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><span>sarah.johnson&#64;company.com</span></p>"
+    },
+    {
+      "id": "n-153",
+      "position": {
+        "x": 52.0,
+        "y": 371.0
+      },
+      "size": {
+        "width": 24.0,
+        "height": 24.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mockup]"
+    },
+    {
+      "id": "n-154",
+      "position": {
+        "x": 129.82857142857142,
+        "y": 371.0
+      },
+      "size": {
+        "width": 115.65714285714286
+      },
+      "style": {
+        "fontSize": 16,
+        "textColor": "#404040",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><span>(555) 123-4567</span></p>"
+    },
+    {
+      "id": "n-155",
+      "position": {
+        "x": 52.0,
+        "y": 411.0
+      },
+      "size": {
+        "width": 24.0,
+        "height": 24.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mockup]"
+    },
+    {
+      "id": "n-156",
+      "position": {
+        "x": 156.11428571428587,
+        "y": 411.0
+      },
+      "size": {
+        "width": 168.2285714285714
+      },
+      "style": {
+        "fontSize": 16,
+        "textColor": "#404040",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><span>Marketing Department</span></p>"
+    },
+    {
+      "id": "n-157",
+      "position": {
+        "x": 52.0,
+        "y": 451.0
+      },
+      "size": {
+        "width": 24.0,
+        "height": 24.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mockup]"
+    },
+    {
+      "id": "n-158",
+      "position": {
+        "x": 148.75428571428574,
+        "y": 451.0
+      },
+      "size": {
+        "width": 153.5085714285714
+      },
+      "style": {
+        "fontSize": 16,
+        "textColor": "#404040",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><span>San Francisco Office</span></p>"
+    },
+    {
+      "id": "n-159",
+      "position": {
+        "x": 187.5,
+        "y": 485.0
+      },
+      "size": {
+        "width": 295.0,
+        "height": 8.0
+      },
+      "style": {
+        "fillColor": "#e5e5e5",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "noto_sans",
+        "borderWidth": 1,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-160",
+      "position": {
+        "x": 195.0857142857144,
+        "y": 510.0
+      },
+      "size": {
+        "width": 310.1714285714285
+      },
+      "style": {
+        "fontSize": 16,
+        "textColor": "#262626",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><span>About</span></p>"
+    },
+    {
+      "id": "n-161",
+      "position": {
+        "x": 187.5,
+        "y": 570.0
+      },
+      "size": {
+        "width": 295.0
+      },
+      "style": {
+        "fontSize": 14,
+        "textColor": "#525252",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><span>Product Manager with 5&#43; years of experience in SaaS products. Specializes in user research and agile methodologies. Currently leading the mobile app development team.</span></p>"
+    },
+    {
+      "id": "n-162",
+      "position": {
+        "x": 187.5,
+        "y": 630.0
+      },
+      "size": {
+        "width": 295.0,
+        "height": 8.0
+      },
+      "style": {
+        "fillColor": "#e5e5e5",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "noto_sans",
+        "borderWidth": 1,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-163",
+      "position": {
+        "x": 195.0857142857144,
+        "y": 655.0
+      },
+      "size": {
+        "width": 310.1714285714285
+      },
+      "style": {
+        "fontSize": 16,
+        "textColor": "#262626",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><span>Skills</span></p>"
+    },
+    {
+      "id": "n-164",
+      "position": {
+        "x": 113.15000000000009,
+        "y": 687.0
+      },
+      "size": {
+        "width": 146.29999999714286
+      },
+      "style": {
+        "fontSize": 12,
+        "textColor": "#266fd5",
+        "fontFamily": "roboto",
+        "align": "center"
+      },
+      "visualKind": "text",
+      "title": "<p><span>Product Management</span></p>"
+    },
+    {
+      "id": "n-165",
+      "position": {
+        "x": 240.29500000000007,
+        "y": 687.0
+      },
+      "size": {
+        "width": 106.59
+      },
+      "style": {
+        "fontSize": 12,
+        "textColor": "#266fd5",
+        "fontFamily": "roboto",
+        "align": "center"
+      },
+      "visualKind": "text",
+      "title": "<p><span>User Research</span></p>"
+    },
+    {
+      "id": "n-166",
+      "position": {
+        "x": 66.64750000000004,
+        "y": 719.0
+      },
+      "size": {
+        "width": 53.295
+      },
+      "style": {
+        "fontSize": 12,
+        "textColor": "#266fd5",
+        "fontFamily": "roboto",
+        "align": "center"
+      },
+      "visualKind": "text",
+      "title": "<p><span>Agile</span></p>"
+    },
+    {
+      "id": "n-167",
+      "position": {
+        "x": 128.8275000000001,
+        "y": 719.0
+      },
+      "size": {
+        "width": 61.65499999714285
+      },
+      "style": {
+        "fontSize": 12,
+        "textColor": "#266fd5",
+        "fontFamily": "roboto",
+        "align": "center"
+      },
+      "visualKind": "text",
+      "title": "<p><span>Scrum</span></p>"
+    },
+    {
+      "id": "n-168",
+      "position": {
+        "x": 206.27750000000015,
+        "y": 719.0
+      },
+      "size": {
+        "width": 82.55500000285714
+      },
+      "style": {
+        "fontSize": 12,
+        "textColor": "#266fd5",
+        "fontFamily": "roboto",
+        "align": "center"
+      },
+      "visualKind": "text",
+      "title": "<p><span>UX Design</span></p>"
+    },
+    {
+      "id": "n-169",
+      "position": {
+        "x": 187.5,
+        "y": 779.0
+      },
+      "size": {
+        "width": 295.0,
+        "height": 48.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[input_button]"
+    },
+    {
+      "id": "n-170",
+      "position": {
+        "x": 187.5,
+        "y": 879.0
+      },
+      "size": {
+        "width": 375.0,
+        "height": 72.0
+      },
+      "style": {
+        "fillColor": "#266fd5",
+        "borderColor": "#e5e7eb",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "noto_sans",
+        "borderWidth": 0,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-171",
+      "position": {
+        "x": 54.0,
+        "y": 869.0
+      },
+      "size": {
+        "width": 20.0,
+        "height": 20.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mockup]"
+    },
+    {
+      "id": "n-172",
+      "position": {
+        "x": 54.33249999999998,
+        "y": 895.0
+      },
+      "size": {
+        "width": 38.66500000285714
+      },
+      "style": {
+        "fontSize": 12,
+        "textColor": "#ffffff",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><span>Search</span></p>"
+    },
+    {
+      "id": "n-173",
+      "position": {
+        "x": 130.0,
+        "y": 869.0
+      },
+      "size": {
+        "width": 18.0,
+        "height": 18.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mockup]"
+    },
+    {
+      "id": "n-174",
+      "position": {
+        "x": 130.2874999999999,
+        "y": 895.0
+      },
+      "size": {
+        "width": 36.574999997142854
+      },
+      "style": {
+        "fontSize": 12,
+        "textColor": "#ffffff",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><span>Profile</span></p>"
+    },
+    {
+      "id": "n-175",
+      "position": {
+        "x": 221.0,
+        "y": 869.0
+      },
+      "size": {
+        "width": 18.0,
+        "height": 18.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mockup]"
+    },
+    {
+      "id": "n-176",
+      "position": {
+        "x": 223.05249999999978,
+        "y": 895.0
+      },
+      "size": {
+        "width": 72.105
+      },
+      "style": {
+        "fontSize": 12,
+        "textColor": "#ffffff",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><span>Notifications</span></p>"
+    },
+    {
+      "id": "n-177",
+      "position": {
+        "x": 317.0,
+        "y": 869.0
+      },
+      "size": {
+        "width": 20.0,
+        "height": 20.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mockup]"
+    },
+    {
+      "id": "n-178",
+      "position": {
+        "x": 317.9899999999998,
+        "y": 895.0
+      },
+      "size": {
+        "width": 45.979999997142855
+      },
+      "style": {
+        "fontSize": 12,
+        "textColor": "#ffffff",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><span>Settings</span></p>"
+    },
+    {
+      "id": "n-179",
+      "position": {
+        "x": 187.5,
+        "y": 36.0
+      },
+      "size": {
+        "width": 375.0,
+        "height": 72.0
+      },
+      "style": {
+        "fillColor": "#4f7eff",
+        "borderColor": "#e5e7eb",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "noto_sans",
+        "borderWidth": 0,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-180",
+      "position": {
+        "x": 26.0,
+        "y": 36.0
+      },
+      "size": {
+        "width": 20.0,
+        "height": 20.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mockup]"
+    },
+    {
+      "id": "n-181",
+      "position": {
+        "x": 93.71928571428589,
+        "y": 36.0
+      },
+      "size": {
+        "width": 99.43857142714286
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#ffffff",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><span>User Search</span></p>"
+    },
+    {
+      "id": "n-182",
+      "position": {
+        "x": 269.0,
+        "y": 36.0
+      },
+      "size": {
+        "width": 68.0,
+        "height": 28.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[input_button]"
+    },
+    {
+      "id": "n-183",
+      "position": {
+        "x": 339.0,
+        "y": 36.0
+      },
+      "size": {
+        "width": 40.0,
+        "height": 40.0
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ872KPY%3D/resources/images/3458764517258781675?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-184",
+      "position": {
+        "x": 187.5,
+        "y": 299.0
+      },
+      "size": {
+        "width": 327.0,
+        "height": 376.0
+      },
+      "style": {
+        "fillColor": "#f9f9f9",
+        "borderColor": "#e5e7eb",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "noto_sans",
+        "borderWidth": 0,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-185",
+      "position": {
+        "x": 187.0,
+        "y": 195.0
+      },
+      "size": {
+        "width": 120.0,
+        "height": 120.0
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ872KPY%3D/resources/images/3458764517258781676?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-186",
+      "position": {
+        "x": 187.0,
+        "y": 293.0
+      },
+      "size": {
+        "width": 146.87142857142857
+      },
+      "style": {
+        "fontSize": 20,
+        "textColor": "#262626",
+        "fontFamily": "roboto",
+        "align": "center"
+      },
+      "visualKind": "text",
+      "title": "<p><span>No users found</span></p>"
+    },
+    {
+      "id": "n-187",
+      "position": {
+        "x": 187.5,
+        "y": 355.0
+      },
+      "size": {
+        "width": 279.0
+      },
+      "style": {
+        "fontSize": 16,
+        "textColor": "#525252",
+        "fontFamily": "roboto",
+        "align": "center"
+      },
+      "visualKind": "text",
+      "title": "<p><span>We couldn&#39;t find any users matching your search criteria. Please try a different name or check your spelling.</span></p>"
+    },
+    {
+      "id": "n-188",
+      "position": {
+        "x": 187.5,
+        "y": 439.0
+      },
+      "size": {
+        "width": 279.0,
+        "height": 48.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[input_button]"
+    },
+    {
+      "id": "n-189",
+      "position": {
+        "x": 187.0,
+        "y": 521.0
+      },
+      "size": {
+        "width": 221.54
+      },
+      "style": {
+        "fontSize": 14,
+        "textColor": "#ffffff",
+        "fontFamily": "roboto",
+        "align": "center"
+      },
+      "visualKind": "text",
+      "title": "<p><span>Need help finding a user?</span></p>"
+    },
+    {
+      "id": "n-190",
+      "position": {
+        "x": 187.0,
+        "y": 545.0
+      },
+      "size": {
+        "width": 221.54
+      },
+      "style": {
+        "fontSize": 14,
+        "textColor": "#ffffff",
+        "fontFamily": "roboto",
+        "align": "center"
+      },
+      "visualKind": "text",
+      "title": "<p><span>Try using a full name or username</span></p>"
+    },
+    {
+      "id": "n-191",
+      "position": {
+        "x": 187.5,
+        "y": 631.0
+      },
+      "size": {
+        "width": 375.0,
+        "height": 72.0
+      },
+      "style": {
+        "fillColor": "#266fd5",
+        "borderColor": "#e5e7eb",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "noto_sans",
+        "borderWidth": 0,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-192",
+      "position": {
+        "x": 54.0,
+        "y": 621.0
+      },
+      "size": {
+        "width": 20.0,
+        "height": 20.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mockup]"
+    },
+    {
+      "id": "n-193",
+      "position": {
+        "x": 54.33249999999998,
+        "y": 647.0
+      },
+      "size": {
+        "width": 38.66500000285714
+      },
+      "style": {
+        "fontSize": 12,
+        "textColor": "#ffffff",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><span>Search</span></p>"
+    },
+    {
+      "id": "n-194",
+      "position": {
+        "x": 130.0,
+        "y": 621.0
+      },
+      "size": {
+        "width": 18.0,
+        "height": 18.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mockup]"
+    },
+    {
+      "id": "n-195",
+      "position": {
+        "x": 130.2874999999999,
+        "y": 647.0
+      },
+      "size": {
+        "width": 36.574999997142854
+      },
+      "style": {
+        "fontSize": 12,
+        "textColor": "#ffffff",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><span>Profile</span></p>"
+    },
+    {
+      "id": "n-196",
+      "position": {
+        "x": 221.0,
+        "y": 621.0
+      },
+      "size": {
+        "width": 18.0,
+        "height": 18.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mockup]"
+    },
+    {
+      "id": "n-197",
+      "position": {
+        "x": 223.05249999999978,
+        "y": 647.0
+      },
+      "size": {
+        "width": 72.105
+      },
+      "style": {
+        "fontSize": 12,
+        "textColor": "#ffffff",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><span>Notifications</span></p>"
+    },
+    {
+      "id": "n-198",
+      "position": {
+        "x": 317.0,
+        "y": 621.0
+      },
+      "size": {
+        "width": 20.0,
+        "height": 20.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mockup]"
+    },
+    {
+      "id": "n-199",
+      "position": {
+        "x": 317.9899999999998,
+        "y": 647.0
+      },
+      "size": {
+        "width": 45.979999997142855
+      },
+      "style": {
+        "fontSize": 12,
+        "textColor": "#ffffff",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><span>Settings</span></p>"
+    },
+    {
+      "id": "n-200",
+      "position": {
+        "x": 179.9845874488732,
+        "y": 122.6899295130639
+      },
+      "size": {
+        "width": 295.9691749028571
+      },
+      "style": {
+        "fontSize": 24,
+        "textColor": "#1a1a1a",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-4",
+      "visualKind": "text",
+      "title": "<p><strong>Select &#39;Run&#39; with the example prompt</strong></p>"
+    },
+    {
+      "id": "n-201",
+      "position": {
+        "x": 52.20210761367562,
+        "y": 52.20210761367579
+      },
+      "size": {
+        "width": 40.404215227348686,
+        "height": 40.404215227349596
+      },
+      "style": {
+        "fillColor": "#1c1c1e",
+        "borderColor": "#ffffff",
+        "textColor": "#ffffff",
+        "fontSize": 18,
+        "fontFamily": "roobert_pro",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "circle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-4",
+      "visualKind": "shape",
+      "title": "<p><strong>2</strong></p>"
+    },
+    {
+      "id": "n-202",
+      "position": {
+        "x": 179.9845874488732,
+        "y": 122.6899295130639
+      },
+      "size": {
+        "width": 295.9691749028571
+      },
+      "style": {
+        "fontSize": 24,
+        "textColor": "#1a1a1a",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-5",
+      "visualKind": "text",
+      "title": "<p><strong>Add a flow diagram of the user journey</strong></p>"
+    },
+    {
+      "id": "n-203",
+      "position": {
+        "x": 52.20210761367562,
+        "y": 52.20210761367579
+      },
+      "size": {
+        "width": 40.404215227348686,
+        "height": 40.404215227349596
+      },
+      "style": {
+        "fillColor": "#1c1c1e",
+        "borderColor": "#ffffff",
+        "textColor": "#ffffff",
+        "fontSize": 18,
+        "fontFamily": "roobert_pro",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "circle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-5",
+      "visualKind": "shape",
+      "title": "<p><strong>1</strong></p>"
+    },
+    {
+      "id": "n-204",
+      "position": {
+        "x": 708.7328702160976,
+        "y": 360.0366931685954
+      },
+      "size": {
+        "width": 983.5385201094845,
+        "height": 626.4478524015032
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ872KPY%3D/resources/images/3458764517258781677?format=preview&redirect=false"
+        }
+      },
+      "frameId": "f-6",
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-205",
+      "position": {
+        "x": 179.98458744887412,
+        "y": 112.24341184587941
+      },
+      "size": {
+        "width": 295.9691749
+      },
+      "style": {
+        "fontSize": 14,
+        "textColor": "#222428",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "frameId": "f-7",
+      "visualKind": "text",
+      "title": "<p><em style=\"color:rgb(34,36,40);background-color:rgb(222,218,255)\">The more details you add to your prompt, the better your results will be.</em></p>"
+    },
+    {
+      "id": "n-206",
+      "position": {
+        "x": 64.08165987443968,
+        "y": 52.12170592293957
+      },
+      "size": {
+        "width": 64.16331974887929,
+        "height": 40.243411845879635
+      },
+      "style": {
+        "fillColor": "#1c1c1e",
+        "borderColor": "#ffffff",
+        "textColor": "#ffffff",
+        "fontSize": 14,
+        "fontFamily": "noto_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-7",
+      "visualKind": "shape",
+      "title": "<p><strong>Tip </strong></p>"
+    },
+    {
+      "id": "n-207",
+      "position": {
+        "x": 280.00000000000176,
+        "y": 98.285714285714
+      },
+      "size": {
+        "width": 432.0
+      },
+      "style": {
+        "fontSize": 48,
+        "textColor": "#1c1c1e",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-8",
+      "visualKind": "text",
+      "title": "<p><strong>Try it for yourself</strong></p>"
+    },
+    {
+      "id": "n-208",
+      "position": {
+        "x": 259.99999999999994,
+        "y": 272.5714285714282
+      },
+      "size": {
+        "width": 432.0
+      },
+      "style": {
+        "fontSize": 24,
+        "textColor": "#595959",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "frameId": "f-8",
+      "visualKind": "text",
+      "title": "<ol><li data-list=\"ordered\"><span class=\"ql-ui\"></span>Add a flow diagram of the user journey.</li><li data-list=\"ordered\"><span class=\"ql-ui\"></span>Replace the image with the look and feel of your product.</li><li data-list=\"ordered\"><span class=\"ql-ui\"></span>Hit the &#39;Run&#39; button with the example prompt.</li><li data-list=\"ordered\"><span class=\"ql-ui\"></span>Review the generated result.</li></ol>"
+    },
+    {
+      "id": "n-209",
+      "position": {
+        "x": 179.9845874488732,
+        "y": 122.6899295130639
+      },
+      "size": {
+        "width": 295.9691749028571
+      },
+      "style": {
+        "fontSize": 24,
+        "textColor": "#1a1a1a",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-9",
+      "visualKind": "text",
+      "title": "<p><strong>Select &#39;Run&#39; with the example prompt</strong></p>"
+    },
+    {
+      "id": "n-210",
+      "position": {
+        "x": 52.20210761367562,
+        "y": 52.20210761367579
+      },
+      "size": {
+        "width": 40.404215227348686,
+        "height": 40.404215227349596
+      },
+      "style": {
+        "fillColor": "#1c1c1e",
+        "borderColor": "#ffffff",
+        "textColor": "#ffffff",
+        "fontSize": 18,
+        "fontFamily": "roobert_pro",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "circle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-9",
+      "visualKind": "shape",
+      "title": "<p><strong>2</strong></p>"
+    },
+    {
+      "id": "n-211",
+      "position": {
+        "x": -130.00769705341736,
+        "y": 60.242995800782296
+      },
+      "size": {
+        "width": 2977.5548297953333,
+        "height": 1188.7659133389898
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "Prototype"
+    },
+    {
+      "id": "n-212",
+      "position": {
+        "x": -2099.4426123833587,
+        "y": 60.242995800781955
+      },
+      "size": {
+        "width": 1417.4657404321952,
+        "height": 900.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "Diagram"
+    },
+    {
+      "id": "n-213",
+      "position": {
+        "x": 179.9845874488732,
+        "y": 173.6719832744507
+      },
+      "size": {
+        "width": 295.9691749
+      },
+      "style": {
+        "fontSize": 14,
+        "textColor": "#595959",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "frameId": "f-10",
+      "visualKind": "text",
+      "title": "<p>Insert a screenshot of your product to guide the visual style and tone of the prototype.</p>"
+    },
+    {
+      "id": "n-214",
+      "position": {
+        "x": 64.08165987443968,
+        "y": 52.12170592293958
+      },
+      "size": {
+        "width": 64.16331974887929,
+        "height": 40.243411845879635
+      },
+      "style": {
+        "fillColor": "#1c1c1e",
+        "borderColor": "#ffffff",
+        "textColor": "#ffffff",
+        "fontSize": 14,
+        "fontFamily": "noto_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-10",
+      "visualKind": "shape",
+      "title": "<p><strong>Tip </strong></p>"
+    },
+    {
+      "id": "n-215",
+      "position": {
+        "x": 179.9845874488732,
+        "y": 117.95769756016514
+      },
+      "size": {
+        "width": 295.96917489428574
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#1a1a1a",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-10",
+      "visualKind": "text",
+      "title": "<p><strong>Your product can guide the look and feel</strong></p>"
+    },
+    {
+      "id": "n-216",
+      "position": {
+        "x": 280.0,
+        "y": 228.2857142857142
+      },
+      "size": {
+        "width": 560.0,
+        "height": 456.571428571428
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 24,
+        "fontFamily": "roobert_pro",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 0.0
+      },
+      "frameId": "f-8",
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-217",
+      "position": {
+        "x": 179.98458744887412,
+        "y": 112.24341184587941
+      },
+      "size": {
+        "width": 295.9691749
+      },
+      "style": {
+        "fontSize": 14,
+        "textColor": "#222428",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "frameId": "f-11",
+      "visualKind": "text",
+      "title": "<p><em style=\"color:rgb(34,36,40);background-color:rgb(222,218,255)\">The more details you add to your prompt, the better your results will be.</em></p>"
+    },
+    {
+      "id": "n-218",
+      "position": {
+        "x": 64.08165987443968,
+        "y": 52.12170592293957
+      },
+      "size": {
+        "width": 64.16331974887929,
+        "height": 40.243411845879635
+      },
+      "style": {
+        "fillColor": "#1c1c1e",
+        "borderColor": "#ffffff",
+        "textColor": "#ffffff",
+        "fontSize": 14,
+        "fontFamily": "noto_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-11",
+      "visualKind": "shape",
+      "title": "<p><strong>Tip </strong></p>"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e-0",
+      "sourceNodeId": "n-9",
+      "targetNodeId": "n-11",
+      "style": {
+        "lineStyle": "solid",
+        "arrowHead": "end",
+        "borderColor": "#595959",
+        "strokeWidth": "2.0",
+        "extra": {
+          "connectorShape": "elbowed",
+          "sourcePosition": "auto",
+          "targetPosition": "auto"
+        }
+      }
+    },
+    {
+      "id": "e-1",
+      "sourceNodeId": "n-8",
+      "targetNodeId": "n-10",
+      "style": {
+        "lineStyle": "solid",
+        "arrowHead": "end",
+        "borderColor": "#595959",
+        "strokeWidth": "2.0",
+        "extra": {
+          "connectorShape": "elbowed",
+          "sourcePosition": "auto",
+          "targetPosition": "auto"
+        }
+      },
+      "label": "<p>No</p>"
+    },
+    {
+      "id": "e-2",
+      "sourceNodeId": "n-10",
+      "targetNodeId": "n-6",
+      "style": {
+        "lineStyle": "solid",
+        "arrowHead": "end",
+        "borderColor": "#595959",
+        "strokeWidth": "2.0",
+        "extra": {
+          "connectorShape": "elbowed",
+          "sourcePosition": "auto",
+          "targetPosition": "auto"
+        }
+      }
+    },
+    {
+      "id": "e-3",
+      "sourceNodeId": "n-8",
+      "targetNodeId": "n-9",
+      "style": {
+        "lineStyle": "solid",
+        "arrowHead": "end",
+        "borderColor": "#595959",
+        "strokeWidth": "2.0",
+        "extra": {
+          "connectorShape": "elbowed",
+          "sourcePosition": "auto",
+          "targetPosition": "auto"
+        }
+      },
+      "label": "<p>Yes</p>"
+    },
+    {
+      "id": "e-4",
+      "sourceNodeId": "n-7",
+      "targetNodeId": "n-8",
+      "style": {
+        "lineStyle": "solid",
+        "arrowHead": "end",
+        "borderColor": "#595959",
+        "strokeWidth": "2.0",
+        "extra": {
+          "connectorShape": "elbowed",
+          "sourcePosition": "auto",
+          "targetPosition": "auto"
+        }
+      }
+    },
+    {
+      "id": "e-5",
+      "sourceNodeId": "n-6",
+      "targetNodeId": "n-7",
+      "style": {
+        "lineStyle": "solid",
+        "arrowHead": "end",
+        "borderColor": "#595959",
+        "strokeWidth": "2.0",
+        "extra": {
+          "connectorShape": "elbowed",
+          "sourcePosition": "auto",
+          "targetPosition": "auto"
+        }
+      }
+    },
+    {
+      "id": "e-6",
+      "sourceNodeId": "n-0",
+      "targetNodeId": "n-216",
+      "style": {
+        "lineStyle": "dotted",
+        "arrowHead": "end",
+        "borderColor": "#b0b0b0",
+        "strokeWidth": "2.0",
+        "extra": {
+          "connectorShape": "elbowed",
+          "sourcePosition": "auto",
+          "targetPosition": "auto"
+        }
+      }
+    }
+  ],
+  "annotations": [],
+  "_metadata": {
+    "extracted_at": "2026-02-23T12:49:21.323010",
+    "total_items": 231,
+    "total_connectors": 7,
+    "frames": 12,
+    "nodes": 219,
+    "edges": 7
+  },
+  "_template": {
+    "name": "from-user-flow-to-prototype-with-ai",
+    "category": "miroverse",
+    "source": "miroverse",
+    "source_slug": "from-user-flow-to-prototype-ai",
+    "source_board_id": "uXjVJ872KPY=",
+    "tags": [
+      "ai accelerated"
+    ],
+    "extracted_at": "2026-02-23T12:49:21.323080"
+  }
+}

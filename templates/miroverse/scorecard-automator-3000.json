@@ -1,0 +1,439 @@
+{
+  "frames": [],
+  "nodes": [
+    {
+      "id": "n-0",
+      "position": {
+        "x": -1896.7988325646827,
+        "y": -98.964905524659
+      },
+      "size": {
+        "width": 1434.3702998321392,
+        "height": 2268.5650725568744
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#b0b0b0",
+        "textColor": "#1a1a1a",
+        "fontSize": 35,
+        "fontFamily": "roobert_pro",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-1",
+      "position": {
+        "x": -644.0513654634442,
+        "y": -1028.7317710995333
+      },
+      "size": {
+        "width": 536.1997711404814,
+        "height": 409.03134140712575
+      },
+      "style": {
+        "fillColor": "#ffdd33",
+        "borderColor": "#1a1a1a",
+        "textColor": "#1a1a1a",
+        "fontSize": 44,
+        "fontFamily": "roobert_pro",
+        "borderWidth": 4,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": "<p><br /></p><p><br /></p><p><strong>Conduct all your candidate interviews</strong></p>"
+    },
+    {
+      "id": "n-2",
+      "position": {
+        "x": 52.54669138710506,
+        "y": -1028.7317710995333
+      },
+      "size": {
+        "width": 536.1997711404814,
+        "height": 409.03134140712575
+      },
+      "style": {
+        "fillColor": "#ffdd33",
+        "borderColor": "#1a1a1a",
+        "textColor": "#1a1a1a",
+        "fontSize": 44,
+        "fontFamily": "roobert_pro",
+        "borderWidth": 4,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": "<p><br /></p><p><br /></p><p><strong>Schedule 30 mins </strong></p><p><strong>w/ hiring manager</strong></p>"
+    },
+    {
+      "id": "n-3",
+      "position": {
+        "x": 765.8755761217944,
+        "y": -1028.7317710995333
+      },
+      "size": {
+        "width": 536.1997711404814,
+        "height": 409.03134140712575
+      },
+      "style": {
+        "fillColor": "#ffdd33",
+        "borderColor": "#1a1a1a",
+        "textColor": "#1a1a1a",
+        "fontSize": 44,
+        "fontFamily": "roobert_pro",
+        "borderWidth": 4,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": "<p><br /></p><p><br /></p><p><strong>Share feedback &amp; download transcript</strong></p>"
+    },
+    {
+      "id": "n-4",
+      "position": {
+        "x": 1525.8625998972184,
+        "y": -1028.7317710995333
+      },
+      "size": {
+        "width": 536.1997711404814,
+        "height": 409.03134140712575
+      },
+      "style": {
+        "fillColor": "#6edb8c",
+        "borderColor": "#1a1a1a",
+        "textColor": "#1a1a1a",
+        "fontSize": 44,
+        "fontFamily": "roobert_pro",
+        "borderWidth": 4,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": "<p><br /></p><p><strong>Use this Flow!</strong></p>"
+    },
+    {
+      "id": "n-5",
+      "position": {
+        "x": 49.93393067624231,
+        "y": -248.71688962898196
+      },
+      "size": {
+        "width": 984.04150390625,
+        "height": 983.297119140625
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[workflow_ai_node]"
+    },
+    {
+      "id": "n-6",
+      "position": {
+        "x": -912.1512510336843,
+        "y": -215.1646294899857
+      },
+      "size": {
+        "width": 622.8779515863556,
+        "height": 878.2579117367612
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "<h1>Paste Transcript of feedback here</h1>"
+    },
+    {
+      "id": "n-7",
+      "position": {
+        "x": 1333.4553559799854,
+        "y": -215.16462948998577
+      },
+      "size": {
+        "width": 622.8779515863556,
+        "height": 878.2579117367612
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "<h1></h1>"
+    },
+    {
+      "id": "n-8",
+      "position": {
+        "x": -644.0513654634442,
+        "y": -1112.8343764530005
+      },
+      "size": {
+        "width": 178.28571428571428
+      },
+      "style": {
+        "fontSize": 64,
+        "textColor": "#1a1a1a",
+        "fontFamily": "roobert_pro",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong><em>Step 1</em></strong></p>"
+    },
+    {
+      "id": "n-9",
+      "position": {
+        "x": -1896.798832564683,
+        "y": 236.4454936555498
+      },
+      "size": {
+        "width": 1089.138776136285
+      },
+      "style": {
+        "fontSize": 59,
+        "textColor": "#1a1a1a",
+        "fontFamily": "roobert_pro",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><em>Are you behind on submitting your scorecards? Has the recruiter already gotten the hiring manager to DM you - pleading for you to submit your feedback to your team&#39;s hiring platform? Well... we&#39;ve got the tool for you! </em></p><p><br /></p><p><em>Introducing the Scorecard Automator 3000. Simply schedule a 30 minute meeting with the hiring manager and the automator will do the rest - generating detailed, concise, beautiful summaries that you can copy&#43;paste into your scorecard. </em></p>"
+    },
+    {
+      "id": "n-10",
+      "position": {
+        "x": 765.8755761217944,
+        "y": -616.1652388133004
+      },
+      "size": {
+        "width": 428.9426730932606
+      },
+      "style": {
+        "fontSize": 23,
+        "textColor": "#1a1a1a",
+        "fontFamily": "roobert_pro",
+        "align": "center"
+      },
+      "visualKind": "text",
+      "title": "<p><strong><em>Important!</em></strong><em> Make sure you record the call transcript before you start. Then go candidate by candidate having a discussion on what you liked and didn&#39;t like about each.</em></p>"
+    },
+    {
+      "id": "n-11",
+      "position": {
+        "x": 771.4321004900703,
+        "y": -749.0227175882048
+      },
+      "size": {
+        "width": 87.05988228342487,
+        "height": 87.05988228342487
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJC8sULs%3D/resources/images/3458764517219278412?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-12",
+      "position": {
+        "x": -1935.054969889872,
+        "y": -829.125539124238
+      },
+      "size": {
+        "width": 1165.6510507677092,
+        "height": 658.8462460860965
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJC8sULs%3D/resources/images/3458764517219278413?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-13",
+      "position": {
+        "x": 53.403834244247264,
+        "y": -1112.8343764530005
+      },
+      "size": {
+        "width": 192.0
+      },
+      "style": {
+        "fontSize": 64,
+        "textColor": "#1a1a1a",
+        "fontFamily": "roobert_pro",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong><em>Step 2</em></strong></p>"
+    },
+    {
+      "id": "n-14",
+      "position": {
+        "x": 765.8755761217944,
+        "y": -1112.8343764530005
+      },
+      "size": {
+        "width": 192.0
+      },
+      "style": {
+        "fontSize": 64,
+        "textColor": "#1a1a1a",
+        "fontFamily": "roobert_pro",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong><em>Step 3</em></strong></p>"
+    },
+    {
+      "id": "n-15",
+      "position": {
+        "x": 1528.1483141829322,
+        "y": -1112.8343764530005
+      },
+      "size": {
+        "width": 196.57142857142856
+      },
+      "style": {
+        "fontSize": 64,
+        "textColor": "#1a1a1a",
+        "fontFamily": "roobert_pro",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong><em>Step 4</em></strong></p>"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e-0",
+      "sourceNodeId": "n-1",
+      "targetNodeId": "n-2",
+      "style": {
+        "lineStyle": "solid",
+        "arrowHead": "end",
+        "borderColor": "#333333",
+        "strokeWidth": "5.0",
+        "extra": {
+          "connectorShape": "curved",
+          "sourcePosition": "auto",
+          "targetPosition": "auto"
+        }
+      }
+    },
+    {
+      "id": "e-1",
+      "sourceNodeId": "n-2",
+      "targetNodeId": "n-3",
+      "style": {
+        "lineStyle": "solid",
+        "arrowHead": "end",
+        "borderColor": "#333333",
+        "strokeWidth": "5.0",
+        "extra": {
+          "connectorShape": "curved",
+          "sourcePosition": "auto",
+          "targetPosition": "auto"
+        }
+      }
+    },
+    {
+      "id": "e-2",
+      "sourceNodeId": "n-3",
+      "targetNodeId": "n-4",
+      "style": {
+        "lineStyle": "solid",
+        "arrowHead": "end",
+        "borderColor": "#333333",
+        "strokeWidth": "5.0",
+        "extra": {
+          "connectorShape": "curved",
+          "sourcePosition": "auto",
+          "targetPosition": "auto"
+        }
+      }
+    },
+    {
+      "id": "e-3",
+      "sourceNodeId": "n-4",
+      "targetNodeId": "n-6",
+      "style": {
+        "lineStyle": "solid",
+        "arrowHead": "end",
+        "borderColor": "#333333",
+        "strokeWidth": "5.0",
+        "extra": {
+          "connectorShape": "curved",
+          "sourcePosition": "auto",
+          "targetPosition": "auto"
+        }
+      }
+    }
+  ],
+  "annotations": [],
+  "_metadata": {
+    "extracted_at": "2026-02-23T13:55:45.243621",
+    "total_items": 16,
+    "total_connectors": 4,
+    "frames": 0,
+    "nodes": 16,
+    "edges": 4
+  },
+  "_template": {
+    "name": "scorecard-automator-3000",
+    "category": "miroverse",
+    "source": "miroverse",
+    "source_slug": "scorecard-automator-3000",
+    "source_board_id": "uXjVJC8sULs=",
+    "tags": [
+      "ai accelerated",
+      "productivity hacks"
+    ],
+    "extracted_at": "2026-02-23T13:55:45.243712"
+  }
+}

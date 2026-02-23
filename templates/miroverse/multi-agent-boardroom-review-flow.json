@@ -1,0 +1,3376 @@
+{
+  "frames": [
+    {
+      "id": "f-0",
+      "title": "Frame",
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "size": {
+        "width": 1280.0,
+        "height": 720.0
+      },
+      "style": {
+        "fillColor": "#0f172a"
+      }
+    },
+    {
+      "id": "f-1",
+      "title": "Frame",
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "size": {
+        "width": 1280.0,
+        "height": 720.0
+      },
+      "style": {
+        "fillColor": "#0f172a"
+      }
+    },
+    {
+      "id": "f-2",
+      "title": "Frame",
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "size": {
+        "width": 1280.0,
+        "height": 720.0
+      },
+      "style": {
+        "fillColor": "#0f172a"
+      }
+    },
+    {
+      "id": "f-3",
+      "title": "Frame",
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "size": {
+        "width": 1280.0,
+        "height": 720.0
+      },
+      "style": {
+        "fillColor": "#0f172a"
+      }
+    },
+    {
+      "id": "f-4",
+      "title": "Frame",
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "size": {
+        "width": 1280.0,
+        "height": 720.0
+      },
+      "style": {
+        "fillColor": "#0f172a"
+      }
+    },
+    {
+      "id": "f-5",
+      "title": "Frame",
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "size": {
+        "width": 1280.0,
+        "height": 720.0
+      },
+      "style": {
+        "fillColor": "#0f172a"
+      }
+    },
+    {
+      "id": "f-6",
+      "title": "Frame",
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "size": {
+        "width": 1280.0,
+        "height": 720.0
+      },
+      "style": {
+        "fillColor": "#0f172a"
+      }
+    },
+    {
+      "id": "f-7",
+      "title": "Frame",
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "size": {
+        "width": 1280.0,
+        "height": 720.0
+      },
+      "style": {
+        "fillColor": "#0f172a"
+      }
+    },
+    {
+      "id": "f-8",
+      "title": "Frame",
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "size": {
+        "width": 1280.0,
+        "height": 720.0
+      },
+      "style": {
+        "fillColor": "#0f172a"
+      }
+    },
+    {
+      "id": "f-9",
+      "title": "Frame",
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "size": {
+        "width": 1280.0,
+        "height": 720.0
+      },
+      "style": {
+        "fillColor": "#0f172a"
+      }
+    },
+    {
+      "id": "f-10",
+      "title": "Frame",
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "size": {
+        "width": 1280.0,
+        "height": 720.0
+      },
+      "style": {
+        "fillColor": "#0f172a"
+      }
+    },
+    {
+      "id": "f-11",
+      "title": "Frame",
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "size": {
+        "width": 1280.0,
+        "height": 720.0
+      },
+      "style": {
+        "fillColor": "#0f172a"
+      }
+    }
+  ],
+  "nodes": [
+    {
+      "id": "n-0",
+      "position": {
+        "x": 777.0128773446659,
+        "y": -271.99999999999994
+      },
+      "size": {
+        "width": 784.0,
+        "height": 1105.4399999999998
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "<h1>Odyssey Initiative CRO Assessment</h1><p>We are underpricing in non-commoditized Tier 2 markets and underutilizing the Travel Token as a margin weapon. 12% is timid. Target 25–30% blended margin with aggressive pricing, fees, FX capture, and token economics.</p><h2>Where We’re Too Timid</h2><ol><li data-list=\"bullet\">Single lever on GDS bypass (12%) ignores willingness-to-pay and scarcity economics.</li><li data-list=\"bullet\">Token limited to off-peak smoothing; no monetization, lock-in, or breakage strategy.</li><li data-list=\"bullet\">Staffing cuts risk Platinum churn without a paid concierge tier to monetize service.</li></ol><h2>Travel Token: Turn It Into a Margin Engine</h2><ol><li data-list=\"bullet\">Closed-loop redemption: Tokens redeem only within our ecosystem against pre-marked rates (built-in spread).</li><li data-list=\"bullet\">Dynamic earn/burn: Higher token multipliers on high-margin inventory; devalue redemption for low-margin items.</li><li data-list=\"bullet\">Staking for status: Stake tokens to unlock tiers; unstake penalties create breakage and float.</li><li data-list=\"bullet\">Non-refundable tokenized deposits: Cancellation converts to partial token credit (not cash), protecting margin.</li><li data-list=\"bullet\">FX and payment spread: Quote in USD; capture 2–3% FX margin on local settlement; add 1% crypto processing fee.</li><li data-list=\"bullet\">Access fees: Token-gated drops for scarce villas; auction premium slots; charge “priority allocation” fees.</li></ol><h2>Tier 2 Markets: Pricing and Supply Control</h2><ol><li data-list=\"bullet\">Dynamic, scarcity-based pricing: 15–25% premiums on peak weeks and short-notice bookings.</li><li data-list=\"bullet\">Concierge upsell: $1,000–$3,000/month “Platinum Pod” subscription (visa, logistics, on-call human). Add 8–12% service fee on complex itineraries.</li><li data-list=\"bullet\">Supplier take rate: Minimum guarantees + exclusivity for boutique properties; 5–10% override for preferred placement.</li><li data-list=\"bullet\">Local experiences bundling: Opaque packages with 30–40% blended margins; tiered add-ons (security, driver, workspace).</li><li data-list=\"bullet\">Yield on last‑mile: Introduce “expedition” and “priority visa” fees; charge for itinerary changes and late amendments.</li></ol><h2>Margin Target and Plan</h2><ol><li data-list=\"bullet\">Aim 25–30% within 2 quarters in the three markets.</li><li data-list=\"bullet\">Mix: +8–12% dynamic pricing, +4–6% token economics (spread/breakage), +5–7% fees/FX, +5% supplier overrides.</li></ol><h2>Challenge Core Assumptions</h2><ol><li data-list=\"bullet\">Capacity: Validate weekly inventory; create waitlists and auction scarcity.</li><li data-list=\"bullet\">AI on visas/logistics: Keep elite human pods for exceptions; monetize as premium.</li><li data-list=\"bullet\">Platinum perception: Do not cut the top-tier experience—convert to paid concierge.</li></ol><h2>Next 30 Days</h2><ol><li data-list=\"bullet\">Implement dynamic pricing and fee framework.</li><li data-list=\"bullet\">Launch Token v2 (closed-loop, staking, deposits).</li><li data-list=\"bullet\">Negotiate exclusivity and overrides with top 30 suppliers per city.</li><li data-list=\"bullet\">Pilot Platinum Pod with 50 clients; attach 30% of Tier 2 bookings to add-ons.</li></ol>"
+    },
+    {
+      "id": "n-1",
+      "position": {
+        "x": -761.1538088722226,
+        "y": 1848.3413066817081
+      },
+      "size": {
+        "width": 784.0,
+        "height": 100.00000000000001
+      },
+      "style": {
+        "fillColor": "#ffdd33",
+        "borderColor": "#1a1a1a",
+        "textColor": "#1a1a1a",
+        "fontSize": 64,
+        "fontFamily": "roobert_pro",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": "<p><strong>The problem</strong></p>"
+    },
+    {
+      "id": "n-2",
+      "position": {
+        "x": 1169.0128773446659,
+        "y": -742.0
+      },
+      "size": {
+        "width": 784.0,
+        "height": 100.00000000000001
+      },
+      "style": {
+        "fillColor": "#ffdd33",
+        "borderColor": "#1a1a1a",
+        "textColor": "#1a1a1a",
+        "fontSize": 64,
+        "fontFamily": "roobert_pro",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": "<p><strong>The analysis</strong></p>"
+    },
+    {
+      "id": "n-3",
+      "position": {
+        "x": 3032.0,
+        "y": -750.0
+      },
+      "size": {
+        "width": 784.0,
+        "height": 100.00000000000001
+      },
+      "style": {
+        "fillColor": "#ffdd33",
+        "borderColor": "#1a1a1a",
+        "textColor": "#1a1a1a",
+        "fontSize": 64,
+        "fontFamily": "roobert_pro",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": "<p><strong>The critique</strong></p>"
+    },
+    {
+      "id": "n-4",
+      "position": {
+        "x": 5274.4561683016045,
+        "y": -750.0
+      },
+      "size": {
+        "width": 784.0,
+        "height": 100.00000000000001
+      },
+      "style": {
+        "fillColor": "#ffdd33",
+        "borderColor": "#1a1a1a",
+        "textColor": "#1a1a1a",
+        "fontSize": 64,
+        "fontFamily": "roobert_pro",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": "<p><strong>The verdict</strong></p>"
+    },
+    {
+      "id": "n-5",
+      "position": {
+        "x": 1169.0128773446659,
+        "y": -647.0
+      },
+      "size": {
+        "width": 784.0,
+        "height": 89.99999999999997
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#1a1a1a",
+        "textColor": "#1a1a1a",
+        "fontSize": 24,
+        "fontFamily": "roobert_pro",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "left",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 0.0
+      },
+      "visualKind": "shape",
+      "title": "<p><span style=\"background-color:rgb(255,221,51)\">Three specialized agents (The Strategist, The Skeptic, The Operator) analyze the problem independently.</span></p>"
+    },
+    {
+      "id": "n-6",
+      "position": {
+        "x": 3032.0,
+        "y": -655.0
+      },
+      "size": {
+        "width": 784.0,
+        "height": 89.99999999999997
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#1a1a1a",
+        "textColor": "#1a1a1a",
+        "fontSize": 24,
+        "fontFamily": "roobert_pro",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "left",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 0.0
+      },
+      "visualKind": "shape",
+      "title": "<p><span style=\"background-color:rgb(255,221,51)\">The agents review each other’s work to find &#34;blind spots.&#34;</span></p>"
+    },
+    {
+      "id": "n-7",
+      "position": {
+        "x": 5274.4561683016045,
+        "y": -655.0
+      },
+      "size": {
+        "width": 784.0,
+        "height": 89.99999999999997
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#1a1a1a",
+        "textColor": "#1a1a1a",
+        "fontSize": 24,
+        "fontFamily": "roobert_pro",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "left",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 0.0
+      },
+      "visualKind": "shape",
+      "title": "<p><span style=\"background-color:rgb(255,221,51)\">The &#34;Chairman&#34; model synthesizes the debate into a one-page executive brief.</span></p>"
+    },
+    {
+      "id": "n-8",
+      "position": {
+        "x": 777.0128773446659,
+        "y": 1411.96
+      },
+      "size": {
+        "width": 784.0,
+        "height": 1105.4399999999998
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "<h1>Legal Risk Assessment: Odyssey Initiative</h1><p>This analysis identifies critical legal, reputational, and operational liabilities embedded in the proposed \"Odyssey AI\" strategy. The initiative's aggressive automation targets create material exposure across employment law, consumer protection, and brand integrity.</p><h2>AI-Driven Booking Liability: The Fraudulent Hotel Problem</h2><p>Bypassing GDS to \"scrape\" local inventory in Tbilisi, Almaty, and Medellin exposes us to <strong>direct consumer liability</strong> when the AI books:</p><ol><li data-list=\"bullet\">Non-existent properties (common in unregulated markets)</li><li data-list=\"bullet\">Unlicensed accommodations violating local tourism laws</li><li data-list=\"bullet\">Properties with falsified safety certifications</li></ol><p><strong>Worst case:</strong> A Platinum client arrives at a \"scraped\" hotel that doesn't exist or is unsafe. We face breach of contract claims, negligence lawsuits, and regulatory action in jurisdictions where we lack legal infrastructure. Our insurance likely excludes AI-driven booking errors as \"known risks.\"</p><h2>Visa Misinformation: Cross-Border Legal Catastrophe</h2><p>Georgia, Kazakhstan, and Colombia have volatile visa regimes that change quarterly. When our AI provides outdated information:</p><ol><li data-list=\"bullet\">Clients are denied entry or detained at borders</li><li data-list=\"bullet\">We face litigation for <strong>negligent misrepresentation</strong></li><li data-list=\"bullet\">Local authorities may ban our operations for facilitating illegal entry</li></ol><p>Unlike human consultants who document uncertainty (\"check with embassy\"), AI generates confident but wrong answers. This creates <strong>discoverable evidence of corporate recklessness</strong>.</p><h2>The 45% Reduction: Employment Law Minefield</h2><p>Mass layoffs trigger:</p><ol><li data-list=\"bullet\">WARN Act violations (US) if not executed properly</li><li data-list=\"bullet\">Wrongful termination claims citing age/performance discrimination</li><li data-list=\"bullet\">\"Constructive discharge\" suits from remaining staff facing impossible workloads</li></ol><p><strong>Brain drain risk:</strong> Our best consultants are already receiving LinkedIn messages from competitors. Losing institutional knowledge about high-net-worth client preferences is <strong>irreversible operational damage</strong>.</p><h2>Reputational Catastrophe with Platinum Clients</h2><p>High-net-worth individuals pay premiums for <strong>human judgment and crisis management</strong>. When AI fails during a visa emergency or double-books a villa:</p><ol><li data-list=\"bullet\">Platinum clients defect to competitors offering white-glove service</li><li data-list=\"bullet\">Social media amplifies complaints (\"luxury brand replaced me with a chatbot\")</li><li data-list=\"bullet\">Lifetime value loss: $2M+ per defecting Platinum household</li></ol><h2>Crypto Loyalty Token: Regulatory Nightmare</h2><p>Operating crypto rewards across Georgia, Kazakhstan, and Colombia creates:</p><ol><li data-list=\"bullet\">Securities law violations (tokens may be unregistered securities)</li><li data-list=\"bullet\">Money laundering exposure (KYC/AML compliance gaps)</li><li data-list=\"bullet\">Tax reporting chaos across incompatible jurisdictions</li></ol><h2>Recommendation</h2><p><strong>Halt the initiative</strong> until we secure: robust legal review in all target jurisdictions, enforceable insurance for AI errors, phased reduction plan preserving senior talent, and regulatory clearance for crypto program.</p>"
+    },
+    {
+      "id": "n-9",
+      "position": {
+        "x": 777.0128773446659,
+        "y": 3688.0
+      },
+      "size": {
+        "width": 784.0,
+        "height": 1105.4399999999998
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "<p><strong>To:</strong> Global Leadership Team<strong>From:</strong> Head of Operations<strong>Subject:</strong> Operational Risk Analysis: Odyssey Initiative</p><p>This document outlines critical operational risks associated with the \"2026 Odyssey Initiative.\" The proposed shift to an AI-only model, particularly in emerging markets, presents significant friction points that will likely lead to the churn of high-net-worth (HNW) clients.</p><h3>\"Last-Mile\" Logistics in Almaty &amp; Tbilisi</h3><p>An AI-first model is ill-suited for the on-the-ground realities of our target markets. While an AI can scrape and book services, it cannot manage the complexities of \"last-mile\" delivery.</p><p>In cities like Almaty and Tbilisi, luxury service depends on reliable local partners, navigating potential language barriers, and resolving issues that require human intervention. An AI cannot personally vet a local driver's reliability, handle a last-minute hotel standards issue, or provide the immediate, nuanced support required during an unforeseen travel disruption. This is a critical gap between automated booking and luxury service delivery.</p><h3>High-Friction System Changes</h3><p>The proposed changes to booking and loyalty will create significant barriers for our existing client base.</p><ol><li data-list=\"bullet\"><strong>Crypto-Token Loyalty:</strong> Forcing HNW clients, who value simplicity and reliability, to adopt a volatile and complex crypto-token system is a major point of friction. They are accustomed to straightforward points systems, and the perceived hassle of managing a crypto wallet will likely deter engagement and erode loyalty.</li><li data-list=\"bullet\"><strong>WhatsApp-Only Service:</strong> Limiting communication to WhatsApp removes the high-touch, multi-channel support that defines luxury service. HNW clients expect to resolve complex issues over the phone with an experienced agent, not through a restrictive chatbot interface.</li></ol><h3>Critical Churn Points for HNW Travelers</h3><p>The reduction in human staff combined with AI limitations will create specific failure points, causing clients to churn to competitors.</p><ol><li data-list=\"bullet\"><strong>Complex Itinerary Changes:</strong> An AI will struggle to understand and execute nuanced, multi-part changes to a complex itinerary, a common request from HNW travelers.</li><li data-list=\"bullet\"><strong>On-the-Ground Emergencies:</strong> During a medical issue, flight cancellation, or security concern, a chatbot is an unacceptable substitute for an empathetic, decisive human agent.</li><li data-list=\"bullet\"><strong>Service Quality Failures:</strong> When a scraped \"boutique\" hotel fails to meet luxury standards, the client has no effective, immediate recourse through an AI.</li><li data-list=\"bullet\"><strong>Lack of Personalization:</strong> The AI cannot fulfill the implicit, nuanced preferences (e.g., \"a quiet room,\" \"a driver who understands my business needs\") that are the hallmark of premium service.</li></ol>"
+    },
+    {
+      "id": "n-10",
+      "position": {
+        "x": 643.4778773446659,
+        "y": 29.980000000000032
+      },
+      "size": {
+        "width": 212.93,
+        "height": 243.96
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "<p>The Growth CRO</p>"
+    },
+    {
+      "id": "n-11",
+      "position": {
+        "x": 643.4778773446658,
+        "y": 1649.98
+      },
+      "size": {
+        "width": 212.93,
+        "height": 243.96
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "<p>The Risk Cousel</p>"
+    },
+    {
+      "id": "n-12",
+      "position": {
+        "x": 643.4778773446658,
+        "y": 3899.1000000000017
+      },
+      "size": {
+        "width": 212.93,
+        "height": 243.96
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "<p>The ruthless COO</p>"
+    },
+    {
+      "id": "n-13",
+      "position": {
+        "x": 2640.0,
+        "y": 1560.0
+      },
+      "size": {
+        "width": 784.0,
+        "height": 1105.4399999999998
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "<h1>RISK COUNSEL ASSESSMENT: ODYSSEY INITIATIVE GROWTH STRATEGY</h1><p>This analysis evaluates the proposed margin expansion strategy through the lens of legal liability exposure and brand safety. The plan aggressively targets 25-30% margins through tokenization, pricing opacity, and service monetization. Multiple regulatory trip wires and class action vectors exist.</p><h2>Three Most Dangerous 'Leap of Faith' Assumptions</h2><h3>1. Travel Tokens Are Not Securities Subject to SEC Regulation</h3><p><strong>The Assumption:</strong> A closed-loop token with staking, lockup periods, unstaking penalties, value fluctuation tied to company-determined \"multipliers,\" and investment-like characteristics can operate without securities registration.</p><p><strong>Legal Exposure:</strong> The Howey Test is triggered when customers exchange money for tokens with expectation of profit derived from company efforts (dynamic earn/burn ratios, tier unlocking). Staking with \"float\" and breakage revenue creates unregistered security characteristics. SEC enforcement typically seeks disgorgement, civil penalties of $200K+ per violation, and injunctive relief. Non-refundable tokenized deposits converting cancellations to company-controlled credits may violate state consumer protection statutes requiring refund rights.</p><p><strong>Brand Smoking Gun:</strong> Regulatory cease-and-desist orders freeze the entire token program mid-deployment, stranding customer deposits and triggering coordinated social media backlash from locked-in \"investors.\"</p><h3>2. Hidden FX Markups and Opaque Bundling Do Not Constitute Deceptive Trade Practices</h3><p><strong>The Assumption:</strong> Capturing 2-3% FX spreads on \"USD quotes\" with local settlement, 30-40% margins on opaque packages, and undisclosed 5-10% supplier overrides comply with pricing disclosure requirements.</p><p><strong>Legal Exposure:</strong> The FTC Act Section 5 prohibits deceptive practices; material omissions regarding markups trigger state UDAP statutes across all operating jurisdictions. Financial services laws in EU (PSD2) and California (CCPA price discrimination rules) require transparent fee disclosure. Class action pattern: systematic hidden fees affecting thousands of transactions create per-transaction statutory damages ($500-$1,500 per violation × transaction volume). Payment processor agreements (Visa/Mastercard) prohibit undisclosed currency conversion markups above interchange rates.</p><p><strong>Discovery Nightmare:</strong> Internal communications showing deliberate opacity (\"opaque packages,\" \"built-in spread\") become Exhibit A in bad faith findings, triggering punitive damages.</p><h3>3. Service Degradation for Existing Platinum Members Is Contractually and Reputationally Manageable</h3><p><strong>The Assumption:</strong> Existing Platinum members can be migrated from included concierge services to $1,000-$3,000/month paid tiers without breach of membership terms or brand destruction.</p><p><strong>Legal Exposure:</strong> Existing membership agreements likely promise specified service levels; unilateral degradation constitutes material breach. Even \"at-will\" terms face unconscionability challenges when applied retroactively to paid memberships. State laws (California, New York) provide consumer protection against bait-and-switch tactics. Arbitration clauses may not survive mass opt-out if changes are material.</p><p><strong>Class Action Profile:</strong> Named plaintiffs are sophisticated, high-net-worth travelers with resources to fund litigation. \"Premium service fraud\" narrative resonates with juries.</p><h2>The 'Smoking Gun' Growth Lever</h2><p><strong>Travel Token V2 (Closed-Loop System with Staking and Breakage)</strong></p><p>If this plan fails, the token mechanism creates the most concentrated and irreversible legal liability:</p><ol><li data-list=\"bullet\"><strong>Multi-Jurisdictional Regulatory Exposure:</strong> Simultaneous SEC (securities), CFPB (consumer financial product), FinCEN (money services business), and state money transmitter investigations across 50+ jurisdictions</li><li data-list=\"bullet\"><strong>Criminal Referral Risk:</strong> Deliberate design of \"breakage\" and \"float\" revenue from customer forfeitures may trigger wire fraud referrals if marketed as \"rewards\" rather than disclosed as profit centers</li><li data-list=\"bullet\"><strong>Unwind Impossibility:</strong> Once customers stake tokens with penalties, regulatory freeze orders create immediate liquidity crisis; company cannot refund without admitting token value manipulation</li><li data-list=\"bullet\"><strong>Social Media Accelerant:</strong> Crypto-skeptic and travel communities converge; #OdysseyScam trends as customers realize non-refundable deposits and devalued redemptions trap their funds</li><li data-list=\"bullet\"><strong>Systematic Harm Documentation:</strong> Every token transaction creates digital evidence of: rate manipulation (dynamic earn/burn), unconscionable forfeiture (unstaking penalties), and unjust enrichment (breakage revenue)</li></ol><p><strong>Litigation Endgame:</strong> Plaintiffs establish pattern-and-practice across entire customer base. Token T&amp;Cs become unenforceable as adhesion contracts with hidden wealth transfer mechanisms. Demand for rescission requires returning all token \"profits\"—potentially exceeding company capitalization.</p><p><strong>Reputation Contagion:</strong> Regulatory action against token spreads to scrutiny of all pricing practices, triggering payment processor terminations and supplier exodus.</p><p>The token is an unforced error that converts a pricing dispute into an existential regulatory crisis.</p>"
+    },
+    {
+      "id": "n-14",
+      "position": {
+        "x": 2640.0,
+        "y": 3680.0
+      },
+      "size": {
+        "width": 784.0,
+        "height": 1105.4399999999998
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "<h1>Operational Review: Odyssey AI Risk Assessment</h1><p>This document provides an operational analysis of the Risk Counsel's critique of the Odyssey AI initiative. It differentiates between risks that can be mitigated through improved processes and technology versus those that pose a fundamental threat to the business. The focus is on providing actionable guidance for moving forward.</p><h3>Mitigable Risks Through Automation &amp; Process</h3><p>These concerns, while serious, are addressable with targeted investment in technology and revised operational workflows.</p><ol><li data-list=\"bullet\"><strong>AI Booking &amp; Visa Misinformation:</strong> These are technical challenges, not insurmountable flaws. The risk of booking fraudulent hotels or providing outdated visa information can be significantly reduced by implementing a robust, multi-layered system. This includes using AI to pull data exclusively from official government APIs in real-time, creating automated verification for new property listings, and programming the AI to cite sources and confidence levels. A \"human-in-the-loop\" model for exception handling would provide a final layer of security.</li><li data-list=\"bullet\"><strong>Crypto Loyalty Token:</strong> The regulatory concerns are standard for any fintech initiative. This is a compliance challenge that can be managed with a dedicated legal and compliance framework, a phased rollout starting in a single jurisdiction, and clear adherence to KYC/AML protocols. It is a resource-intensive task, not an operational impossibility.</li></ol><h3>True Showstoppers: Strategic &amp; Irreversible Risks</h3><p>These risks conflict with our core business model and threaten irreversible damage.</p><ol><li data-list=\"bullet\"><strong>Loss of Institutional Knowledge:</strong> A 45% staff reduction, particularly among senior consultants, poses an existential threat. The nuanced knowledge of high-net-worth client preferences and crisis management skills is our primary differentiator. This \"brain drain\" is irreversible and cannot be fully automated or documented.</li><li data-list=\"bullet\"><strong>Platinum Client Defection:</strong> This is a direct consequence of the above. High-value clients pay a premium for human judgment and relationships, not automation. Replacing their trusted advisors with a chatbot risks mass defection to competitors who still offer white-glove service, leading to a catastrophic loss of revenue and brand equity.</li></ol><h3>Recommendation: Pivot to a Hybrid Model</h3><p>The counsel's recommendation to halt the initiative is based on a model that replaces humans. Instead, we should pivot the Odyssey AI strategy to a <strong>hybrid model.</strong></p><p>Focus AI development on augmenting, not replacing, our top consultants. Use automation to handle routine tasks, data gathering, and initial verification, freeing up our experts to focus on high-value client interaction and crisis management. This approach mitigates the showstopper risks by preserving institutional knowledge and our core value proposition for Platinum clients, while still leveraging AI for efficiency gains.</p>"
+    },
+    {
+      "id": "n-15",
+      "position": {
+        "x": 2640.0,
+        "y": -280.0000000000001
+      },
+      "size": {
+        "width": 784.0,
+        "height": 1105.4399999999998
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "<h1>CRO Assessment: Unnecessary Bottlenecks in Odyssey Initiative</h1><p>This review highlights two areas where operational caution will slow adoption and hand advantage to faster competitors. Both can be de-risked with controlled rollouts while preserving luxury standards.</p><h2>Bottleneck 1: Delaying Tokenized Loyalty</h2><p>Ops view: Crypto-token loyalty is too complex/volatile for HNW clients.</p><p>Why this caution is a bottleneck:</p><ol><li data-list=\"bullet\">Network effects accrue early. Partners will align with the first scalable earn/burn network; late entry raises partner cost and lowers breakage economics.</li><li data-list=\"bullet\">Tokenized rewards enable instant settlement, dynamic incentives, and cross-partner portability—key to capturing share in fragmented luxury supply.</li></ol><p>How to de-risk without delay:</p><ol><li data-list=\"bullet\">Abstract complexity: custodial wallets, one-tap earn/burn, fiat-denominated balances by default; “advanced mode” optional.</li><li data-list=\"bullet\">Volatility controls: stablecoin or off-chain points with on-chain settlement; treasury hedging; price bands for partner redemptions.</li><li data-list=\"bullet\">Compliance: KYC via embedded provider; jurisdiction gating.</li></ol><p>Decision: Launch tokenized loyalty in opt-in pilot markets/segments now; iterate UX—don’t wait for perfect.</p><p>KPIs/Guardrails:</p><ol><li data-list=\"bullet\">Activation rate &gt;60% of new bookings</li><li data-list=\"bullet\">Earn-to-burn cycle time &lt;24h</li><li data-list=\"bullet\">CSAT on redemption ≥4.6/5</li><li data-list=\"bullet\">Slippage/FX impact &lt;50 bps per transaction</li></ol><h2>Bottleneck 2: Insisting on Full Multi-Channel Before Launch</h2><p>Ops view: WhatsApp-only removes high-touch support.</p><p>Why this caution is a bottleneck:</p><ol><li data-list=\"bullet\">Speed to habit matters. A single dominant channel lowers CAC, increases responsiveness, and lets us ship AI workflows weekly.</li><li data-list=\"bullet\">Competitors already convert via messaging-first concierge; waiting for full telephony/Email parity cedes mindshare.</li></ol><p>How to de-risk without delay:</p><ol><li data-list=\"bullet\">WhatsApp-first, not WhatsApp-only: automated triage with 2-click human escalation and callback within SLA.</li><li data-list=\"bullet\">Voice as an escalation, not a prerequisite: “tap-to-call-back” for emergencies and complex itinerary changes.</li><li data-list=\"bullet\">High-value client routing: priority queue to senior concierges triggered by account tier or risk signals.</li></ol><p>Decision: Ship messaging-first service with defined human failovers now; layer additional channels later.</p><p>KPIs/Guardrails:</p><ol><li data-list=\"bullet\">First-response time &lt;60s; human handoff SLA &lt;5m for priority clients</li><li data-list=\"bullet\">Containment rate (resolved in-chat) ≥70% without CSAT drop</li><li data-list=\"bullet\">Emergency callback initiation &lt;2m; resolution NPS ≥70</li><li data-list=\"bullet\">Churn among HNW pilot cohort ≤ baseline</li></ol><h2>Immediate Actions (30–60 days)</h2><ol><li data-list=\"bullet\">Stand up tokenized loyalty pilot with custodial wallet and fiat display; integrate 3 launch partners.</li><li data-list=\"bullet\">Deploy WhatsApp-first concierge with proactive human escalation rules and 24/7 callback pod.</li><li data-list=\"bullet\">Weekly review: KPIs above; expand scope only on green metrics.</li></ol><p>These moves capture early network and channel advantage while keeping luxury-grade safety nets.</p>"
+    },
+    {
+      "id": "n-16",
+      "position": {
+        "x": 643.4778773446659,
+        "y": 259.9800000000001
+      },
+      "size": {
+        "width": 212.93,
+        "height": 243.96
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "<p>GPT 5</p>"
+    },
+    {
+      "id": "n-17",
+      "position": {
+        "x": 643.4778773446658,
+        "y": 1893.94
+      },
+      "size": {
+        "width": 212.93,
+        "height": 243.96
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "<p>Claude 4.5 Sonnet</p>"
+    },
+    {
+      "id": "n-18",
+      "position": {
+        "x": 643.4778773446658,
+        "y": 4159.100000000001
+      },
+      "size": {
+        "width": 212.93,
+        "height": 243.96
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "<p>Gemini 2.5 Pro</p>"
+    },
+    {
+      "id": "n-19",
+      "position": {
+        "x": 3960.0,
+        "y": 1962.159951171875
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[workflow_ai_node]"
+    },
+    {
+      "id": "n-20",
+      "position": {
+        "x": 4882.4561683016045,
+        "y": 251.98000000000002
+      },
+      "size": {
+        "width": 784.0,
+        "height": 1105.4399999999998
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "<h1>Executive Decision: Odyssey Initiative</h1><h2>Overview</h2><p>The Executive Chairman has issued a conditional approval for the Odyssey Initiative following comprehensive review of competing perspectives from Growth, Risk, and Operations leadership. The decision reconciles speed-to-market advantages with regulatory compliance and operational sustainability through strategic redesign rather than wholesale rejection.</p><h2>Core Strategic Verdict</h2><p><strong>Status: CONDITIONAL GO</strong> with structural amendments</p><p>The initiative proceeds with modifications that preserve competitive timing, eliminate existential legal risks, and protect operational capacity.</p><h2>Immediate Approvals</h2><h3>Deploy Now</h3><ol><li data-list=\"bullet\"><strong>AI-Augmented Consultants</strong>: AI enhances rather than replaces senior staff, preserving institutional knowledge</li><li data-list=\"bullet\"><strong>WhatsApp-First Service</strong>: Messaging channel with mandatory &lt;60s response time and &lt;5min human escalation</li><li data-list=\"bullet\"><strong>Transparent Premium Pricing</strong>: Disclosed curator's fee model (10-15% markup) replaces hidden bundling</li><li data-list=\"bullet\"><strong>Consultant Retention Program</strong>: Maximum 15% reduction limited to back-office roles only</li></ol><h2>Critical Rejections</h2><h3>Blocked Components</h3><ol><li data-list=\"bullet\"><strong>Travel Token V2 (Original)</strong>: Securities violation under Howey Test due to staking penalties and breakage revenue model</li><li data-list=\"bullet\"><strong>Hidden FX Markups</strong>: Legal exposure outweighs 2-3% margin gains</li><li data-list=\"bullet\"><strong>45% Staff Reduction</strong>: Operationally catastrophic to core value proposition</li><li data-list=\"bullet\"><strong>Service Tier Degradation</strong>: Existing Platinum members must be grandfathered</li></ol><h2>Conditional Approvals</h2><h3>Proceed with Safeguards</h3><ol><li data-list=\"bullet\"><strong>Blockchain Rewards (Redesigned)</strong>: Requires licensed fintech partner, SEC pre-clearance, and elimination of staking penalties</li><li data-list=\"bullet\"><strong>Service Tiering</strong>: Permitted for new memberships only; create \"Odyssey Signature\" tier above Platinum for upsell</li><li data-list=\"bullet\"><strong>Multi-Jurisdiction Expansion</strong>: Gate on pilot success metrics (&gt;60% activation, &lt;50bps slippage, 4.6+ CSAT)</li></ol><h2>Execution Kill Switches</h2><h3>Automatic Program Termination Triggers</h3><ol><li data-list=\"bullet\">HNW client churn &gt;5% above baseline</li><li data-list=\"bullet\">Any regulatory inquiry on token/payment systems</li><li data-list=\"bullet\">Concierge satisfaction &lt;4.5/5 for 30 consecutive days</li><li data-list=\"bullet\">Loyalty program activation &lt;50%</li></ol><h2>90-Day Success Metrics</h2><ol><li data-list=\"bullet\">Maintain NPS in Platinum+ segments</li><li data-list=\"bullet\">Zero regulatory inquiries or actions</li><li data-list=\"bullet\">Senior consultant attrition &lt;10%</li><li data-list=\"bullet\">WhatsApp channel &gt;70% containment rate</li></ol><h2>Governance Structure</h2><p>Weekly synchronization meetings mandatory between CRO, Legal Counsel, and Operations leadership. Executive Chairman retains unilateral kill-switch authority on tokenization and staffing programs.</p><h2>Next Actions</h2><p><strong>Phase 1 execution authorized immediately</strong> with the following priorities:</p><ol><li data-list=\"ordered\">Terminate original token design; engage licensed fintech compliance partner</li><li data-list=\"ordered\">Launch WhatsApp pilot with 24/7 human escalation capability</li><li data-list=\"ordered\">Implement transparent pricing across all service packages</li><li data-list=\"ordered\">Deploy AI co-pilot tools to senior consultants with compensation adjustments</li></ol><p><strong>Target: 20-25% margin expansion through compliant premium services within 12 months.</strong></p>"
+    },
+    {
+      "id": "n-21",
+      "position": {
+        "x": 4746.465,
+        "y": 647.9700000000001
+      },
+      "size": {
+        "width": 212.93,
+        "height": 243.96
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "<p>The Chairman</p>"
+    },
+    {
+      "id": "n-22",
+      "position": {
+        "x": 4746.465,
+        "y": 891.9300000000002
+      },
+      "size": {
+        "width": 212.93,
+        "height": 243.96
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "<p>Claude 4.5 Sonnet</p>"
+    },
+    {
+      "id": "n-23",
+      "position": {
+        "x": -4444.891736002105,
+        "y": -350.64062324389465
+      },
+      "size": {
+        "width": 470.21652799579056,
+        "height": 554.5825541269614
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[stamp]"
+    },
+    {
+      "id": "n-24",
+      "position": {
+        "x": 6320.0,
+        "y": 1431.1599023437498
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[data_table_format]"
+    },
+    {
+      "id": "n-25",
+      "position": {
+        "x": 6426.465,
+        "y": 1176.3599023437498
+      },
+      "size": {
+        "width": 212.93,
+        "height": 243.96
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "<p>Project tracker</p>"
+    },
+    {
+      "id": "n-26",
+      "position": {
+        "x": 6320.0,
+        "y": -40.0
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "Slides"
+    },
+    {
+      "id": "n-27",
+      "position": {
+        "x": 319.5,
+        "y": 255.0
+      },
+      "size": {
+        "width": 449.0
+      },
+      "style": {
+        "fontSize": 64,
+        "textColor": "#00b8d9",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-0",
+      "visualKind": "text",
+      "title": "<p><strong style=\"color:rgb(0,184,217)\">Odyssey Initiative Decision</strong></p>"
+    },
+    {
+      "id": "n-28",
+      "position": {
+        "x": 319.5,
+        "y": 459.0
+      },
+      "size": {
+        "width": 449.0
+      },
+      "style": {
+        "fontSize": 20,
+        "textColor": "#00b8d9",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-0",
+      "visualKind": "text",
+      "title": "<p><span><strong>CONDITIONAL GO</strong> with structural amendments balancing competitive timing with regulatory compliance and operational sustainability</span></p>"
+    },
+    {
+      "id": "n-29",
+      "position": {
+        "x": 126.5,
+        "y": 592.5
+      },
+      "size": {
+        "width": 63.0,
+        "height": 63.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "frameId": "f-0",
+      "visualKind": "shape",
+      "title": "[mockup]"
+    },
+    {
+      "id": "n-30",
+      "position": {
+        "x": 251.81035714285713,
+        "y": 579.5
+      },
+      "size": {
+        "width": 157.62071428714287
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#f8fafc",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-0",
+      "visualKind": "text",
+      "title": "<p><strong style=\"color:rgb(248,250,252)\">Alex Morgan</strong></p>"
+    },
+    {
+      "id": "n-31",
+      "position": {
+        "x": 251.33142857142855,
+        "y": 605.0
+      },
+      "size": {
+        "width": 156.66285714285715
+      },
+      "style": {
+        "fontSize": 16,
+        "textColor": "#f8fafc",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-0",
+      "visualKind": "text",
+      "title": "<p><span>Executive Chairman</span></p>"
+    },
+    {
+      "id": "n-32",
+      "position": {
+        "x": 960.0,
+        "y": 360.0
+      },
+      "size": {
+        "width": 640.0,
+        "height": 720.0
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVGYxO_0M%3D/resources/images/3458764517497122814?format=preview&redirect=false"
+        }
+      },
+      "frameId": "f-0",
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-33",
+      "position": {
+        "x": 639.5,
+        "y": 101.0
+      },
+      "size": {
+        "width": 1257.0171428571427
+      },
+      "style": {
+        "fontSize": 48,
+        "textColor": "#00b8d9",
+        "fontFamily": "noto_sans",
+        "align": "center"
+      },
+      "frameId": "f-1",
+      "visualKind": "text",
+      "title": "<p><strong style=\"color:rgb(0,184,217)\">Agenda</strong></p>"
+    },
+    {
+      "id": "n-34",
+      "position": {
+        "x": 173.74285714285725,
+        "y": 203.0
+      },
+      "size": {
+        "width": 82.28571428571428
+      },
+      "style": {
+        "fontSize": 48,
+        "textColor": "#7c3aed",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-1",
+      "visualKind": "text",
+      "title": "<p><strong style=\"color:rgb(124,58,237)\">1</strong></p>"
+    },
+    {
+      "id": "n-35",
+      "position": {
+        "x": 344.99285714285725,
+        "y": 204.0
+      },
+      "size": {
+        "width": 249.98571428571427
+      },
+      "style": {
+        "fontSize": 30,
+        "textColor": "#00b8d9",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-1",
+      "visualKind": "text",
+      "title": "<p><span>Strategic verdict</span></p>"
+    },
+    {
+      "id": "n-36",
+      "position": {
+        "x": 173.74285714285725,
+        "y": 283.0
+      },
+      "size": {
+        "width": 82.28571428571428
+      },
+      "style": {
+        "fontSize": 48,
+        "textColor": "#7c3aed",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-1",
+      "visualKind": "text",
+      "title": "<p><strong style=\"color:rgb(124,58,237)\">2</strong></p>"
+    },
+    {
+      "id": "n-37",
+      "position": {
+        "x": 374.59642857142853,
+        "y": 284.0
+      },
+      "size": {
+        "width": 309.1928571428571
+      },
+      "style": {
+        "fontSize": 30,
+        "textColor": "#00b8d9",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-1",
+      "visualKind": "text",
+      "title": "<p><span>Decision framework</span></p>"
+    },
+    {
+      "id": "n-38",
+      "position": {
+        "x": 173.74285714285725,
+        "y": 363.0
+      },
+      "size": {
+        "width": 82.28571428571428
+      },
+      "style": {
+        "fontSize": 48,
+        "textColor": "#7c3aed",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-1",
+      "visualKind": "text",
+      "title": "<p><strong style=\"color:rgb(124,58,237)\">3</strong></p>"
+    },
+    {
+      "id": "n-39",
+      "position": {
+        "x": 384.4642857142858,
+        "y": 364.0
+      },
+      "size": {
+        "width": 328.92857142857144
+      },
+      "style": {
+        "fontSize": 30,
+        "textColor": "#00b8d9",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-1",
+      "visualKind": "text",
+      "title": "<p><span>Immediate approvals</span></p>"
+    },
+    {
+      "id": "n-40",
+      "position": {
+        "x": 173.74285714285725,
+        "y": 443.0
+      },
+      "size": {
+        "width": 82.28571428571428
+      },
+      "style": {
+        "fontSize": 48,
+        "textColor": "#7c3aed",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-1",
+      "visualKind": "text",
+      "title": "<p><strong style=\"color:rgb(124,58,237)\">4</strong></p>"
+    },
+    {
+      "id": "n-41",
+      "position": {
+        "x": 352.6678571428572,
+        "y": 444.0
+      },
+      "size": {
+        "width": 265.3357142785714
+      },
+      "style": {
+        "fontSize": 30,
+        "textColor": "#00b8d9",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-1",
+      "visualKind": "text",
+      "title": "<p><span>Critical rejections</span></p>"
+    },
+    {
+      "id": "n-42",
+      "position": {
+        "x": 718.7428571428572,
+        "y": 203.0
+      },
+      "size": {
+        "width": 82.28571428571428
+      },
+      "style": {
+        "fontSize": 48,
+        "textColor": "#7c3aed",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-1",
+      "visualKind": "text",
+      "title": "<p><strong style=\"color:rgb(124,58,237)\">5</strong></p>"
+    },
+    {
+      "id": "n-43",
+      "position": {
+        "x": 934.3017857142859,
+        "y": 204.0
+      },
+      "size": {
+        "width": 336.6035714357143
+      },
+      "style": {
+        "fontSize": 30,
+        "textColor": "#00b8d9",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-1",
+      "visualKind": "text",
+      "title": "<p><span>Conditional approvals</span></p>"
+    },
+    {
+      "id": "n-44",
+      "position": {
+        "x": 718.7428571428572,
+        "y": 283.0
+      },
+      "size": {
+        "width": 82.28571428571428
+      },
+      "style": {
+        "fontSize": 48,
+        "textColor": "#7c3aed",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-1",
+      "visualKind": "text",
+      "title": "<p><strong style=\"color:rgb(124,58,237)\">6</strong></p>"
+    },
+    {
+      "id": "n-45",
+      "position": {
+        "x": 905.7946428571427,
+        "y": 284.0
+      },
+      "size": {
+        "width": 279.58928571428567
+      },
+      "style": {
+        "fontSize": 30,
+        "textColor": "#00b8d9",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-1",
+      "visualKind": "text",
+      "title": "<p><span>Risk management</span></p>"
+    },
+    {
+      "id": "n-46",
+      "position": {
+        "x": 718.7428571428572,
+        "y": 363.0
+      },
+      "size": {
+        "width": 82.28571428571428
+      },
+      "style": {
+        "fontSize": 48,
+        "textColor": "#7c3aed",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-1",
+      "visualKind": "text",
+      "title": "<p><strong style=\"color:rgb(124,58,237)\">7</strong></p>"
+    },
+    {
+      "id": "n-47",
+      "position": {
+        "x": 887.7035714285712,
+        "y": 364.0
+      },
+      "size": {
+        "width": 243.40714285714284
+      },
+      "style": {
+        "fontSize": 30,
+        "textColor": "#00b8d9",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-1",
+      "visualKind": "text",
+      "title": "<p><span>Success metrics</span></p>"
+    },
+    {
+      "id": "n-48",
+      "position": {
+        "x": 718.7428571428572,
+        "y": 461.0
+      },
+      "size": {
+        "width": 82.28571428571428
+      },
+      "style": {
+        "fontSize": 48,
+        "textColor": "#7c3aed",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-1",
+      "visualKind": "text",
+      "title": "<p><strong style=\"color:rgb(124,58,237)\">8</strong></p>"
+    },
+    {
+      "id": "n-49",
+      "position": {
+        "x": 952.0,
+        "y": 460.5
+      },
+      "size": {
+        "width": 372.0
+      },
+      "style": {
+        "fontSize": 30,
+        "textColor": "#00b8d9",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-1",
+      "visualKind": "text",
+      "title": "<p><span>Governance and next steps</span></p>"
+    },
+    {
+      "id": "n-50",
+      "position": {
+        "x": 314.63428571428585,
+        "y": 212.0
+      },
+      "size": {
+        "width": 503.26857143999996
+      },
+      "style": {
+        "fontSize": 48,
+        "textColor": "#00b8d9",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-2",
+      "visualKind": "text",
+      "title": "<p><strong style=\"color:rgb(0,184,217)\">Strategic Verdict</strong></p>"
+    },
+    {
+      "id": "n-51",
+      "position": {
+        "x": 281.0,
+        "y": 406.0
+      },
+      "size": {
+        "width": 435.99999999857147
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#f8fafc",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-2",
+      "visualKind": "text",
+      "title": "<p><span><strong>CONDITIONAL GO</strong> with structural amendments. Proceed with redesigned structure to capture speed-to-market advantages while eliminating legal risk and protecting operational capacity. The initiative balances competitive timing with regulatory compliance through strategic modifications that preserve the core value proposition while safeguarding against existential threats.</span></p>"
+    },
+    {
+      "id": "n-52",
+      "position": {
+        "x": 960.0,
+        "y": 360.0
+      },
+      "size": {
+        "width": 640.0,
+        "height": 720.0
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVGYxO_0M%3D/resources/images/3458764517497122813?format=preview&redirect=false"
+        }
+      },
+      "frameId": "f-2",
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-53",
+      "position": {
+        "x": 281.0,
+        "y": 140.0
+      },
+      "size": {
+        "width": 436.00000001142854
+      },
+      "style": {
+        "fontSize": 48,
+        "textColor": "#00b8d9",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-3",
+      "visualKind": "text",
+      "title": "<p><strong style=\"color:rgb(0,184,217)\">Immediate Approvals</strong></p>"
+    },
+    {
+      "id": "n-54",
+      "position": {
+        "x": 67.0,
+        "y": 252.0
+      },
+      "size": {
+        "width": 8.0,
+        "height": 8.0
+      },
+      "style": {
+        "fillColor": "#00b8d9",
+        "borderColor": "#e5e7eb",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "noto_sans",
+        "borderWidth": 0,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-3",
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-55",
+      "position": {
+        "x": 291.0,
+        "y": 284.0
+      },
+      "size": {
+        "width": 416.00000000571436
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#f8fafc",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-3",
+      "visualKind": "text",
+      "title": "<p><span>AI-augmented consultants enhance senior staff capabilities, preserving institutional knowledge while improving service delivery</span></p>"
+    },
+    {
+      "id": "n-56",
+      "position": {
+        "x": 67.0,
+        "y": 356.0
+      },
+      "size": {
+        "width": 8.0,
+        "height": 8.0
+      },
+      "style": {
+        "fillColor": "#00b8d9",
+        "borderColor": "#e5e7eb",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "noto_sans",
+        "borderWidth": 0,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-3",
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-57",
+      "position": {
+        "x": 291.0,
+        "y": 388.0
+      },
+      "size": {
+        "width": 416.00000000571436
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#f8fafc",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-3",
+      "visualKind": "text",
+      "title": "<p><span>WhatsApp-first service channel with mandatory sub-60 second response time and under 5 minute human escalation protocol</span></p>"
+    },
+    {
+      "id": "n-58",
+      "position": {
+        "x": 67.0,
+        "y": 459.0
+      },
+      "size": {
+        "width": 8.0,
+        "height": 8.0
+      },
+      "style": {
+        "fillColor": "#00b8d9",
+        "borderColor": "#e5e7eb",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "noto_sans",
+        "borderWidth": 0,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-3",
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-59",
+      "position": {
+        "x": 291.0,
+        "y": 491.0
+      },
+      "size": {
+        "width": 416.00000000571436
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#f8fafc",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-3",
+      "visualKind": "text",
+      "title": "<p><span>Transparent premium pricing model with disclosed 10-15% curator&#39;s fee, replacing hidden bundling practices</span></p>"
+    },
+    {
+      "id": "n-60",
+      "position": {
+        "x": 67.0,
+        "y": 563.0
+      },
+      "size": {
+        "width": 8.0,
+        "height": 8.0
+      },
+      "style": {
+        "fillColor": "#00b8d9",
+        "borderColor": "#e5e7eb",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "noto_sans",
+        "borderWidth": 0,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-3",
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-61",
+      "position": {
+        "x": 291.0,
+        "y": 595.0
+      },
+      "size": {
+        "width": 416.00000000571436
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#f8fafc",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-3",
+      "visualKind": "text",
+      "title": "<p><span>Consultant retention program limits workforce reduction to maximum 15% in back-office roles only</span></p>"
+    },
+    {
+      "id": "n-62",
+      "position": {
+        "x": 960.0,
+        "y": 360.0
+      },
+      "size": {
+        "width": 640.0,
+        "height": 720.0
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVGYxO_0M%3D/resources/images/3458764517497122818?format=preview&redirect=false"
+        }
+      },
+      "frameId": "f-3",
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-63",
+      "position": {
+        "x": 320.0,
+        "y": 360.0
+      },
+      "size": {
+        "width": 640.0,
+        "height": 720.0
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVGYxO_0M%3D/resources/images/3458764517497122808?format=preview&redirect=false"
+        }
+      },
+      "frameId": "f-4",
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-64",
+      "position": {
+        "x": 954.6342857142854,
+        "y": 184.0
+      },
+      "size": {
+        "width": 503.26857143999996
+      },
+      "style": {
+        "fontSize": 48,
+        "textColor": "#00b8d9",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-4",
+      "visualKind": "text",
+      "title": "<p><strong style=\"color:rgb(0,184,217)\">Critical Rejections</strong></p>"
+    },
+    {
+      "id": "n-65",
+      "position": {
+        "x": 707.0,
+        "y": 266.0
+      },
+      "size": {
+        "width": 8.0,
+        "height": 8.0
+      },
+      "style": {
+        "fillColor": "#00b8d9",
+        "borderColor": "#e5e7eb",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "noto_sans",
+        "borderWidth": 0,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-4",
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-66",
+      "position": {
+        "x": 931.0,
+        "y": 298.0
+      },
+      "size": {
+        "width": 416.00000000571436
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#f8fafc",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-4",
+      "visualKind": "text",
+      "title": "<p><span><strong>Travel Token V2</strong> violates securities laws under Howey Test due to staking penalties and breakage revenue model</span></p>"
+    },
+    {
+      "id": "n-67",
+      "position": {
+        "x": 707.0,
+        "y": 370.0
+      },
+      "size": {
+        "width": 8.0,
+        "height": 8.0
+      },
+      "style": {
+        "fillColor": "#00b8d9",
+        "borderColor": "#e5e7eb",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "noto_sans",
+        "borderWidth": 0,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-4",
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-68",
+      "position": {
+        "x": 931.0,
+        "y": 387.5
+      },
+      "size": {
+        "width": 416.00000000571436
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#f8fafc",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-4",
+      "visualKind": "text",
+      "title": "<p><span><strong>Hidden FX markups</strong> create unacceptable legal exposure despite 2-3% margin gains</span></p>"
+    },
+    {
+      "id": "n-69",
+      "position": {
+        "x": 707.0,
+        "y": 444.0
+      },
+      "size": {
+        "width": 8.0,
+        "height": 8.0
+      },
+      "style": {
+        "fillColor": "#00b8d9",
+        "borderColor": "#e5e7eb",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "noto_sans",
+        "borderWidth": 0,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-4",
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-70",
+      "position": {
+        "x": 931.0,
+        "y": 461.5
+      },
+      "size": {
+        "width": 416.00000000571436
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#f8fafc",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-4",
+      "visualKind": "text",
+      "title": "<p><span><strong>45% staff reduction</strong> deemed operationally catastrophic to core value proposition</span></p>"
+    },
+    {
+      "id": "n-71",
+      "position": {
+        "x": 707.0,
+        "y": 519.0
+      },
+      "size": {
+        "width": 8.0,
+        "height": 8.0
+      },
+      "style": {
+        "fillColor": "#00b8d9",
+        "borderColor": "#e5e7eb",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "noto_sans",
+        "borderWidth": 0,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-4",
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-72",
+      "position": {
+        "x": 931.0,
+        "y": 536.5
+      },
+      "size": {
+        "width": 416.00000000571436
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#f8fafc",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-4",
+      "visualKind": "text",
+      "title": "<p><span><strong>Service tier degradation</strong> blocked for existing Platinum members who must be grandfathered</span></p>"
+    },
+    {
+      "id": "n-73",
+      "position": {
+        "x": 281.0,
+        "y": 163.0
+      },
+      "size": {
+        "width": 436.00000001142854
+      },
+      "style": {
+        "fontSize": 48,
+        "textColor": "#00b8d9",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-5",
+      "visualKind": "text",
+      "title": "<p><strong style=\"color:rgb(0,184,217)\">Conditional Approvals</strong></p>"
+    },
+    {
+      "id": "n-74",
+      "position": {
+        "x": 67.0,
+        "y": 275.0
+      },
+      "size": {
+        "width": 8.0,
+        "height": 8.0
+      },
+      "style": {
+        "fillColor": "#00b8d9",
+        "borderColor": "#e5e7eb",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "noto_sans",
+        "borderWidth": 0,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-5",
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-75",
+      "position": {
+        "x": 291.0,
+        "y": 321.5
+      },
+      "size": {
+        "width": 416.00000000571436
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#f8fafc",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-5",
+      "visualKind": "text",
+      "title": "<p><span>Redesigned blockchain rewards program requires licensed fintech partner and SEC pre-clearance, eliminating staking penalties from original design</span></p>"
+    },
+    {
+      "id": "n-76",
+      "position": {
+        "x": 67.0,
+        "y": 408.0
+      },
+      "size": {
+        "width": 8.0,
+        "height": 8.0
+      },
+      "style": {
+        "fillColor": "#00b8d9",
+        "borderColor": "#e5e7eb",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "noto_sans",
+        "borderWidth": 0,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-5",
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-77",
+      "position": {
+        "x": 291.0,
+        "y": 454.5
+      },
+      "size": {
+        "width": 416.00000000571436
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#f8fafc",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-5",
+      "visualKind": "text",
+      "title": "<p><span>Service tiering permitted for new memberships only with creation of Odyssey Signature tier above Platinum for premium upsell opportunities</span></p>"
+    },
+    {
+      "id": "n-78",
+      "position": {
+        "x": 67.0,
+        "y": 541.0
+      },
+      "size": {
+        "width": 8.0,
+        "height": 8.0
+      },
+      "style": {
+        "fillColor": "#00b8d9",
+        "borderColor": "#e5e7eb",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "noto_sans",
+        "borderWidth": 0,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-5",
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-79",
+      "position": {
+        "x": 291.0,
+        "y": 573.0
+      },
+      "size": {
+        "width": 416.00000000571436
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#f8fafc",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-5",
+      "visualKind": "text",
+      "title": "<p><span>Multi-jurisdiction expansion gated on pilot success metrics including activation above 60%, slippage below 50bps, and CSAT above 4.6</span></p>"
+    },
+    {
+      "id": "n-80",
+      "position": {
+        "x": 960.0,
+        "y": 360.0
+      },
+      "size": {
+        "width": 640.0,
+        "height": 720.0
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVGYxO_0M%3D/resources/images/3458764517497122811?format=preview&redirect=false"
+        }
+      },
+      "frameId": "f-5",
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-81",
+      "position": {
+        "x": 320.0,
+        "y": 360.0
+      },
+      "size": {
+        "width": 640.0,
+        "height": 720.0
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVGYxO_0M%3D/resources/images/3458764517497122810?format=preview&redirect=false"
+        }
+      },
+      "frameId": "f-6",
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-82",
+      "position": {
+        "x": 954.6342857142863,
+        "y": 199.0
+      },
+      "size": {
+        "width": 503.26857143999996
+      },
+      "style": {
+        "fontSize": 48,
+        "textColor": "#00b8d9",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-6",
+      "visualKind": "text",
+      "title": "<p><strong style=\"color:rgb(0,184,217)\">Risk Management</strong></p>"
+    },
+    {
+      "id": "n-83",
+      "position": {
+        "x": 707.0,
+        "y": 281.0
+      },
+      "size": {
+        "width": 8.0,
+        "height": 8.0
+      },
+      "style": {
+        "fillColor": "#00b8d9",
+        "borderColor": "#e5e7eb",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "noto_sans",
+        "borderWidth": 0,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-6",
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-84",
+      "position": {
+        "x": 931.0,
+        "y": 298.5
+      },
+      "size": {
+        "width": 416.00000000571436
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#f8fafc",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-6",
+      "visualKind": "text",
+      "title": "<p><span>HNW client churn</span> exceeding 5% above baseline triggers automatic termination</p>"
+    },
+    {
+      "id": "n-85",
+      "position": {
+        "x": 707.0,
+        "y": 355.0
+      },
+      "size": {
+        "width": 8.0,
+        "height": 8.0
+      },
+      "style": {
+        "fillColor": "#00b8d9",
+        "borderColor": "#e5e7eb",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "noto_sans",
+        "borderWidth": 0,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-6",
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-86",
+      "position": {
+        "x": 931.0,
+        "y": 372.5
+      },
+      "size": {
+        "width": 416.00000000571436
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#f8fafc",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-6",
+      "visualKind": "text",
+      "title": "<p><span>Any regulatory inquiry</span> on token or payment systems halts program immediately</p>"
+    },
+    {
+      "id": "n-87",
+      "position": {
+        "x": 707.0,
+        "y": 429.0
+      },
+      "size": {
+        "width": 8.0,
+        "height": 8.0
+      },
+      "style": {
+        "fillColor": "#00b8d9",
+        "borderColor": "#e5e7eb",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "noto_sans",
+        "borderWidth": 0,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-6",
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-88",
+      "position": {
+        "x": 931.0,
+        "y": 446.5
+      },
+      "size": {
+        "width": 416.00000000571436
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#f8fafc",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-6",
+      "visualKind": "text",
+      "title": "<p><span>Concierge satisfaction</span> below 4.5/5 for 30 consecutive days activates kill switch</p>"
+    },
+    {
+      "id": "n-89",
+      "position": {
+        "x": 707.0,
+        "y": 504.0
+      },
+      "size": {
+        "width": 8.0,
+        "height": 8.0
+      },
+      "style": {
+        "fillColor": "#00b8d9",
+        "borderColor": "#e5e7eb",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "noto_sans",
+        "borderWidth": 0,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-6",
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-90",
+      "position": {
+        "x": 931.0,
+        "y": 521.5
+      },
+      "size": {
+        "width": 416.00000000571436
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#f8fafc",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-6",
+      "visualKind": "text",
+      "title": "<p><span>Loyalty program activation</span> falling below 50% terminates initiative</p>"
+    },
+    {
+      "id": "n-91",
+      "position": {
+        "x": 281.0,
+        "y": 289.0
+      },
+      "size": {
+        "width": 436.00000001142854
+      },
+      "style": {
+        "fontSize": 48,
+        "textColor": "#00b8d9",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-7",
+      "visualKind": "text",
+      "title": "<p><strong style=\"color:rgb(0,184,217)\">90-Day Success Metrics</strong></p>"
+    },
+    {
+      "id": "n-92",
+      "position": {
+        "x": 281.0,
+        "y": 431.5
+      },
+      "size": {
+        "width": 435.99999999857147
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#f8fafc",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-7",
+      "visualKind": "text",
+      "title": "<p><span>Board oversight requires disciplined execution against defined leading indicators in client satisfaction, compliance, talent stability, and channel efficiency.</span></p>"
+    },
+    {
+      "id": "n-93",
+      "position": {
+        "x": 843.6407142857151,
+        "y": 246.0
+      },
+      "size": {
+        "width": 281.2814285542857
+      },
+      "style": {
+        "fontSize": 52,
+        "textColor": "#7c3aed",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-7",
+      "visualKind": "text",
+      "title": "<p><strong style=\"color:rgb(124,58,237)\">70%&#43;</strong></p>"
+    },
+    {
+      "id": "n-94",
+      "position": {
+        "x": 830.0844642857137,
+        "y": 306.0
+      },
+      "size": {
+        "width": 254.16892857714285
+      },
+      "style": {
+        "fontSize": 17,
+        "textColor": "#f8fafc",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-7",
+      "visualKind": "text",
+      "title": "<p><span>WhatsApp containment rate</span></p>"
+    },
+    {
+      "id": "n-95",
+      "position": {
+        "x": 1115.6407142857151,
+        "y": 246.0
+      },
+      "size": {
+        "width": 281.2814285542857
+      },
+      "style": {
+        "fontSize": 52,
+        "textColor": "#7c3aed",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-7",
+      "visualKind": "text",
+      "title": "<p><strong style=\"color:rgb(124,58,237)\">&lt;10%</strong></p>"
+    },
+    {
+      "id": "n-96",
+      "position": {
+        "x": 1095.5,
+        "y": 318.5
+      },
+      "size": {
+        "width": 241.00000000571427
+      },
+      "style": {
+        "fontSize": 17,
+        "textColor": "#f8fafc",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-7",
+      "visualKind": "text",
+      "title": "<p><span>Senior consultant attrition ceiling</span></p>"
+    },
+    {
+      "id": "n-97",
+      "position": {
+        "x": 843.6407142857151,
+        "y": 414.0
+      },
+      "size": {
+        "width": 281.2814285542857
+      },
+      "style": {
+        "fontSize": 52,
+        "textColor": "#7c3aed",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-7",
+      "visualKind": "text",
+      "title": "<p><strong style=\"color:rgb(124,58,237)\">4.6&#43;</strong></p>"
+    },
+    {
+      "id": "n-98",
+      "position": {
+        "x": 823.5,
+        "y": 486.5
+      },
+      "size": {
+        "width": 241.00000000571427
+      },
+      "style": {
+        "fontSize": 17,
+        "textColor": "#f8fafc",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-7",
+      "visualKind": "text",
+      "title": "<p><span>Maintain NPS in Platinum&#43; segments</span></p>"
+    },
+    {
+      "id": "n-99",
+      "position": {
+        "x": 1115.6407142857151,
+        "y": 414.0
+      },
+      "size": {
+        "width": 281.2814285542857
+      },
+      "style": {
+        "fontSize": 52,
+        "textColor": "#7c3aed",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-7",
+      "visualKind": "text",
+      "title": "<p><strong style=\"color:rgb(124,58,237)\">0</strong></p>"
+    },
+    {
+      "id": "n-100",
+      "position": {
+        "x": 1095.5,
+        "y": 486.5
+      },
+      "size": {
+        "width": 241.00000000571427
+      },
+      "style": {
+        "fontSize": 17,
+        "textColor": "#f8fafc",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-7",
+      "visualKind": "text",
+      "title": "<p><span>Regulatory inquiries or actions</span></p>"
+    },
+    {
+      "id": "n-101",
+      "position": {
+        "x": 320.0,
+        "y": 360.0
+      },
+      "size": {
+        "width": 640.0,
+        "height": 720.0
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVGYxO_0M%3D/resources/images/3458764517497122825?format=preview&redirect=false"
+        }
+      },
+      "frameId": "f-8",
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-102",
+      "position": {
+        "x": 921.0,
+        "y": 200.0
+      },
+      "size": {
+        "width": 436.00000001142854
+      },
+      "style": {
+        "fontSize": 48,
+        "textColor": "#00b8d9",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-8",
+      "visualKind": "text",
+      "title": "<p><strong style=\"color:rgb(0,184,217)\">Governance Model</strong></p>"
+    },
+    {
+      "id": "n-103",
+      "position": {
+        "x": 921.0,
+        "y": 350.5
+      },
+      "size": {
+        "width": 435.99999999857147
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#f8fafc",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-8",
+      "visualKind": "text",
+      "title": "<p><span><strong>Weekly synchronization meetings</strong> are mandatory between CRO, Legal Counsel, and Operations leadership to ensure alignment and oversight throughout execution.</span></p>"
+    },
+    {
+      "id": "n-104",
+      "position": {
+        "x": 921.0,
+        "y": 506.5
+      },
+      "size": {
+        "width": 435.99999999857147
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#f8fafc",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-8",
+      "visualKind": "text",
+      "title": "<p><span><strong>Executive Chairman retains unilateral kill-switch authority</strong> on tokenization and staffing programs, enabling immediate termination if risk thresholds are breached or strategic objectives are compromised.</span></p>"
+    },
+    {
+      "id": "n-105",
+      "position": {
+        "x": 281.0,
+        "y": 140.0
+      },
+      "size": {
+        "width": 436.00000001142854
+      },
+      "style": {
+        "fontSize": 48,
+        "textColor": "#00b8d9",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-9",
+      "visualKind": "text",
+      "title": "<p><strong style=\"color:rgb(0,184,217)\">Phase 1 Next Steps</strong></p>"
+    },
+    {
+      "id": "n-106",
+      "position": {
+        "x": 67.0,
+        "y": 252.0
+      },
+      "size": {
+        "width": 8.0,
+        "height": 8.0
+      },
+      "style": {
+        "fillColor": "#00b8d9",
+        "borderColor": "#e5e7eb",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "noto_sans",
+        "borderWidth": 0,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-9",
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-107",
+      "position": {
+        "x": 291.0,
+        "y": 284.0
+      },
+      "size": {
+        "width": 416.00000000571436
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#f8fafc",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-9",
+      "visualKind": "text",
+      "title": "<p><span>Terminate original token design and engage licensed fintech compliance partner for redesigned blockchain rewards system</span></p>"
+    },
+    {
+      "id": "n-108",
+      "position": {
+        "x": 67.0,
+        "y": 356.0
+      },
+      "size": {
+        "width": 8.0,
+        "height": 8.0
+      },
+      "style": {
+        "fillColor": "#00b8d9",
+        "borderColor": "#e5e7eb",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "noto_sans",
+        "borderWidth": 0,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-9",
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-109",
+      "position": {
+        "x": 291.0,
+        "y": 388.0
+      },
+      "size": {
+        "width": 416.00000000571436
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#f8fafc",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-9",
+      "visualKind": "text",
+      "title": "<p><span>Launch WhatsApp pilot with mandatory sub-60-second response times and 24/7 human escalation capability</span></p>"
+    },
+    {
+      "id": "n-110",
+      "position": {
+        "x": 67.0,
+        "y": 459.0
+      },
+      "size": {
+        "width": 8.0,
+        "height": 8.0
+      },
+      "style": {
+        "fillColor": "#00b8d9",
+        "borderColor": "#e5e7eb",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "noto_sans",
+        "borderWidth": 0,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-9",
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-111",
+      "position": {
+        "x": 291.0,
+        "y": 491.0
+      },
+      "size": {
+        "width": 416.00000000571436
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#f8fafc",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-9",
+      "visualKind": "text",
+      "title": "<p><span>Implement transparent curator&#39;s fee pricing model (10-15% markup) across all service packages</span></p>"
+    },
+    {
+      "id": "n-112",
+      "position": {
+        "x": 67.0,
+        "y": 563.0
+      },
+      "size": {
+        "width": 8.0,
+        "height": 8.0
+      },
+      "style": {
+        "fillColor": "#00b8d9",
+        "borderColor": "#e5e7eb",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "noto_sans",
+        "borderWidth": 0,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-9",
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-113",
+      "position": {
+        "x": 291.0,
+        "y": 595.0
+      },
+      "size": {
+        "width": 416.00000000571436
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#f8fafc",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-9",
+      "visualKind": "text",
+      "title": "<p><span>Deploy AI co-pilot tools to senior consultants with corresponding compensation structure adjustments</span></p>"
+    },
+    {
+      "id": "n-114",
+      "position": {
+        "x": 960.0,
+        "y": 360.0
+      },
+      "size": {
+        "width": 640.0,
+        "height": 720.0
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVGYxO_0M%3D/resources/images/3458764517497122819?format=preview&redirect=false"
+        }
+      },
+      "frameId": "f-9",
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-115",
+      "position": {
+        "x": 320.0,
+        "y": 360.0
+      },
+      "size": {
+        "width": 640.0,
+        "height": 720.0
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVGYxO_0M%3D/resources/images/3458764517497122815?format=preview&redirect=false"
+        }
+      },
+      "frameId": "f-10",
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-116",
+      "position": {
+        "x": 954.6342857142863,
+        "y": 153.0
+      },
+      "size": {
+        "width": 503.26857143999996
+      },
+      "style": {
+        "fontSize": 48,
+        "textColor": "#00b8d9",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-10",
+      "visualKind": "text",
+      "title": "<p><strong style=\"color:rgb(0,184,217)\">Financial Target</strong></p>"
+    },
+    {
+      "id": "n-117",
+      "position": {
+        "x": 921.0,
+        "y": 405.5
+      },
+      "size": {
+        "width": 435.99999999857147
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#f8fafc",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-10",
+      "visualKind": "text",
+      "title": "<p><span><strong>12-Month Objective:</strong> Achieve <strong>20–25% margin expansion</strong> through compliant premium services driven by redesigned offerings and disciplined execution. This target is delivered through transparent curator&#39;s fee pricing models, AI-augmented consultant productivity gains, WhatsApp-first service efficiency, and the new Odyssey Signature tier—all while maintaining regulatory compliance and operational sustainability. Success requires meeting 90-day benchmarks including maintained NPS in Platinum&#43; segments, zero regulatory inquiries, and senior consultant attrition below 10%.</span></p>"
+    },
+    {
+      "id": "n-118",
+      "position": {
+        "x": 640.0,
+        "y": 311.0
+      },
+      "size": {
+        "width": 288.5714285828571
+      },
+      "style": {
+        "fontSize": 48,
+        "textColor": "#00b8d9",
+        "fontFamily": "noto_sans",
+        "align": "center"
+      },
+      "frameId": "f-11",
+      "visualKind": "text",
+      "title": "<p><strong style=\"color:rgb(0,184,217)\">Thank You</strong></p>"
+    },
+    {
+      "id": "n-119",
+      "position": {
+        "x": 639.5,
+        "y": 377.5
+      },
+      "size": {
+        "width": 162.64857142285715
+      },
+      "style": {
+        "fontSize": 24,
+        "textColor": "#f8fafc",
+        "fontFamily": "noto_sans",
+        "align": "center"
+      },
+      "frameId": "f-11",
+      "visualKind": "text",
+      "title": "<p><strong style=\"color:rgb(248,250,252)\">Alex Morgan</strong></p>"
+    },
+    {
+      "id": "n-120",
+      "position": {
+        "x": 640.0,
+        "y": 413.5
+      },
+      "size": {
+        "width": 710.9142857142857
+      },
+      "style": {
+        "fontSize": 24,
+        "textColor": "#f8fafc",
+        "fontFamily": "noto_sans",
+        "align": "center"
+      },
+      "frameId": "f-11",
+      "visualKind": "text",
+      "title": "<p><span>For board oversight and guidance on disciplined execution</span></p>"
+    },
+    {
+      "id": "n-121",
+      "position": {
+        "x": 6426.465,
+        "y": -298.02
+      },
+      "size": {
+        "width": 212.93,
+        "height": 243.96
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "<p>Exec presentation</p>"
+    },
+    {
+      "id": "n-122",
+      "position": {
+        "x": 6309.007609914305,
+        "y": -562.3823664738344
+      },
+      "size": {
+        "width": 322.2075742765441,
+        "height": 257.976652607037
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[stamp]"
+    },
+    {
+      "id": "n-123",
+      "position": {
+        "x": 643.4778773446658,
+        "y": 2018.825887395984
+      },
+      "size": {
+        "width": 174.5014947089286,
+        "height": 37.651774791967995
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVGYxO_0M%3D/resources/images/3458764517497122801?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-124",
+      "position": {
+        "x": 643.477877344666,
+        "y": 403.6829545373806
+      },
+      "size": {
+        "width": 159.9235916862372,
+        "height": 43.445909074761104
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVGYxO_0M%3D/resources/images/3458764517497122802?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-125",
+      "position": {
+        "x": 634.7711738969986,
+        "y": 4273.934972854126
+      },
+      "size": {
+        "width": 129.54234779399707,
+        "height": 47.86994570825048
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVGYxO_0M%3D/resources/images/3458764517497122806?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-126",
+      "position": {
+        "x": 4746.465,
+        "y": 1018.825887395984
+      },
+      "size": {
+        "width": 174.5014947089286,
+        "height": 37.651774791967995
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVGYxO_0M%3D/resources/images/3458764517497122801?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-127",
+      "position": {
+        "x": 6300.0,
+        "y": 3050.0
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[data_table_format]"
+    },
+    {
+      "id": "n-128",
+      "position": {
+        "x": -1153.1538088722225,
+        "y": 2095.317161780076
+      },
+      "size": {
+        "width": 784.0,
+        "height": 1105.4399999999998
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "<h1>\"2026 Odyssey Initiative\"</h1><p><strong>To:</strong> Global Leadership Team</p><p><strong>From:</strong> VP of Strategy</p><p><strong>Subject:</strong> Strategic Shift: From Travel Agency to \"AI Lifestyle Partner\"</p><h3>1. The Vision</h3><p>By 2026, we will retire our legacy manual booking desk. We are launching <strong>Odyssey AI</strong>, an autonomous agent that handles end-to-end travel (flights, hotels, and local experiences) via WhatsApp and Voice.</p><h3>2. Market Expansion: The \"Hidden Gems\" Strategy</h3><p>We are shifting marketing spend away from saturated markets (London, NYC, Tokyo) to \"Tier 2\" emerging destinations: <strong>Tbilisi (Georgia), Almaty (Kazakhstan), and Medellin (Colombia).</strong> We aim to be the #1 provider for \"Digital Nomad\" luxury travel in these regions.</p><h3>3. Operational Changes</h3><ol><li data-list=\"bullet\"><strong>Staffing:</strong> Reduce human travel consultant headcount by <strong>45%</strong> by Q2 2026.</li><li data-list=\"bullet\"><strong>Partnerships:</strong> We will bypass traditional Global Distribution Systems (GDS) and use AI to \"scrape\" and book local boutique inventory directly to increase margins by 12%.</li><li data-list=\"bullet\"><strong>Loyalty:</strong> Transition from \"Points\" to a crypto-based \"Travel Token\" that customers earn for booking off-peak.</li></ol><h3>4. Assumptions</h3><ol><li data-list=\"bullet\">Local \"Tier 2\" infrastructure can handle a 400% increase in luxury-seeking travelers.</li><li data-list=\"bullet\">Our AI can navigate complex international visa requirements and local \"last-mile\" logistics better than human agents.</li><li data-list=\"bullet\">The 45% staff reduction will not impact our \"Platinum\" high-net-worth clients' perception of service.</li></ol><p></p>"
+    },
+    {
+      "id": "n-129",
+      "position": {
+        "x": -1435.0,
+        "y": 2197.658580890038
+      },
+      "size": {
+        "width": 489.9999999999999,
+        "height": 204.68283821992432
+      },
+      "style": {
+        "fillColor": "#6edb8c",
+        "borderColor": "#1a1a1a",
+        "textColor": "#1a1a1a",
+        "fontSize": 30,
+        "fontFamily": "roobert_pro",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "left",
+        "verticalAlign": "top",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": "<p><strong style=\"background-color:rgb(255,255,255)\">Note:</strong></p><p><br /></p><p>Replace the content on this doc with your initial strategy memo</p>"
+    },
+    {
+      "id": "n-130",
+      "position": {
+        "x": -3083.0000000000005,
+        "y": 1600.378580890038
+      },
+      "size": {
+        "width": 1753.999999999999,
+        "height": 3200.757161780076
+      },
+      "style": {
+        "fillColor": "#ffdd33",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 64,
+        "fontFamily": "roobert_pro",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "left",
+        "verticalAlign": "top",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": "<p><strong>30-second intro to Flows</strong></p>"
+    },
+    {
+      "id": "n-131",
+      "position": {
+        "x": -3231.0000000000005,
+        "y": 527.5915537727222
+      },
+      "size": {
+        "width": 630.0000000000003,
+        "height": 579.3193069306934
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVGYxO_0M%3D/resources/images/3458764517497122807?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-132",
+      "position": {
+        "x": -3000.9147121535184,
+        "y": 1002.7512072380689
+      },
+      "size": {
+        "width": 1090.170575692964,
+        "height": 230.00000000000003
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVGYxO_0M%3D/resources/images/3458764517497122820?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-133",
+      "position": {
+        "x": -3180.9999999999995,
+        "y": 1761.4319003073754
+      },
+      "size": {
+        "width": 730.0,
+        "height": 1147.0
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVGYxO_0M%3D/resources/images/3458764517497122809?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-134",
+      "position": {
+        "x": -3706.0000000000005,
+        "y": 337.9319003073755
+      },
+      "size": {
+        "width": 200.0000000000001,
+        "height": 200.00000000000017
+      },
+      "style": {
+        "fillColor": "#6edb8c",
+        "borderColor": "#1a1a1a",
+        "textColor": "#1a1a1a",
+        "fontSize": 144,
+        "fontFamily": "roobert_pro",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "circle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": "<p>1</p>"
+    },
+    {
+      "id": "n-135",
+      "position": {
+        "x": -3706.0000000000005,
+        "y": 1002.7512072380689
+      },
+      "size": {
+        "width": 200.0000000000001,
+        "height": 200.00000000000017
+      },
+      "style": {
+        "fillColor": "#6edb8c",
+        "borderColor": "#1a1a1a",
+        "textColor": "#1a1a1a",
+        "fontSize": 144,
+        "fontFamily": "roobert_pro",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "circle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": "<p>2</p>"
+    },
+    {
+      "id": "n-136",
+      "position": {
+        "x": -3706.0000000000005,
+        "y": 1287.9319003073756
+      },
+      "size": {
+        "width": 200.0000000000001,
+        "height": 200.00000000000017
+      },
+      "style": {
+        "fillColor": "#6edb8c",
+        "borderColor": "#1a1a1a",
+        "textColor": "#1a1a1a",
+        "fontSize": 144,
+        "fontFamily": "roobert_pro",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "circle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": "<p>3</p>"
+    },
+    {
+      "id": "n-137",
+      "position": {
+        "x": -2203.5,
+        "y": 2046.4800000000002
+      },
+      "size": {
+        "width": 793.0000000000003,
+        "height": 793.0000000000003
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[stamp]"
+    },
+    {
+      "id": "n-138",
+      "position": {
+        "x": 1169.0128773446659,
+        "y": -499.99999999999994
+      },
+      "size": {
+        "width": 489.9999999999999,
+        "height": 179.99999999999991
+      },
+      "style": {
+        "fillColor": "#6edb8c",
+        "borderColor": "#1a1a1a",
+        "textColor": "#1a1a1a",
+        "fontSize": 30,
+        "fontFamily": "roobert_pro",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "left",
+        "verticalAlign": "top",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": "<p><strong style=\"background-color:rgb(255,255,255)\">Note:</strong></p><p><br /></p><p>Adjust the prompts for each document as necessary.</p>"
+    },
+    {
+      "id": "n-139",
+      "position": {
+        "x": 3032.0,
+        "y": -499.99999999999994
+      },
+      "size": {
+        "width": 489.9999999999999,
+        "height": 179.99999999999991
+      },
+      "style": {
+        "fillColor": "#6edb8c",
+        "borderColor": "#1a1a1a",
+        "textColor": "#1a1a1a",
+        "fontSize": 30,
+        "fontFamily": "roobert_pro",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "left",
+        "verticalAlign": "top",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": "<p><strong style=\"background-color:rgb(255,255,255)\">Note:</strong></p><p><br /></p><p>Adjust the prompts for each document as necessary.</p>"
+    },
+    {
+      "id": "n-140",
+      "position": {
+        "x": 5295.0,
+        "y": -30.000000000000057
+      },
+      "size": {
+        "width": 489.9999999999999,
+        "height": 179.99999999999991
+      },
+      "style": {
+        "fillColor": "#6edb8c",
+        "borderColor": "#1a1a1a",
+        "textColor": "#1a1a1a",
+        "fontSize": 30,
+        "fontFamily": "roobert_pro",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "left",
+        "verticalAlign": "top",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": "<p><strong style=\"background-color:rgb(255,255,255)\">Note:</strong></p><p><br /></p><p>Select the document, click on the arrow and create all types of outputs from this final brief!</p>"
+    },
+    {
+      "id": "n-141",
+      "position": {
+        "x": 5748.5,
+        "y": 19.000000000000007
+      },
+      "size": {
+        "width": 377.0,
+        "height": 278.0
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVGYxO_0M%3D/resources/images/3458764517497122816?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-142",
+      "position": {
+        "x": -3083.0000000000005,
+        "y": -432.0
+      },
+      "size": {
+        "width": 1753.999999999999,
+        "height": 720.0
+      },
+      "style": {
+        "fillColor": "#ffdd33",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 64,
+        "fontFamily": "roobert_pro",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "left",
+        "verticalAlign": "top",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": "<p><strong style=\"background-color:rgb(255,255,255)\">The Multi-Agent Boardroom: </strong></p><p><strong>Automated Strategic Review</strong></p><p><br /></p><p><br /></p>"
+    },
+    {
+      "id": "n-143",
+      "position": {
+        "x": -3409.9584049501545,
+        "y": -361.33333333333326
+      },
+      "size": {
+        "width": 1079.916809900309,
+        "height": 482.6666666666665
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 36,
+        "fontFamily": "roobert_pro",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "left",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 0.0
+      },
+      "visualKind": "shape",
+      "title": "<p><strong><br />How it works:<br /><br />Phase 1: Analysis. </strong>A Growth CRO (GPT-5), Risk Council (Claude 4.5), and Ruthless COO (Gemini 2.5) evaluate your strategy.<strong><br /><br />Phase 2: The Critique. </strong>Agents cross-examine and challenge each other’s logic.<strong><br /><br />Phase 3: The Verdict. </strong>A Chairman consolidates insights into a final plan, timeline, and presentation.</p>"
+    },
+    {
+      "id": "n-144",
+      "position": {
+        "x": -2550.0,
+        "y": -340.0
+      },
+      "size": {
+        "width": 640.0,
+        "height": 480.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "Using Miro Flows as your multi-agent Exec Boardroom"
+    },
+    {
+      "id": "n-145",
+      "position": {
+        "x": -3364.422850552023,
+        "y": 2844.8510587798164
+      },
+      "size": {
+        "width": 559.0,
+        "height": 508.2978824403672
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVGYxO_0M%3D/resources/images/3458764517497122796?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-146",
+      "position": {
+        "x": -2791.5771494479777,
+        "y": 2844.0
+      },
+      "size": {
+        "width": 539.0,
+        "height": 536.0
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVGYxO_0M%3D/resources/images/3458764517497122800?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-147",
+      "position": {
+        "x": -3150.0771494479777,
+        "y": 2779.8362639010966
+      },
+      "size": {
+        "width": 102.00000000000013,
+        "height": 98.26829268292695
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVGYxO_0M%3D/resources/images/3458764517497122799?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-148",
+      "position": {
+        "x": -3140.0527592040753,
+        "y": 2625.702117559633
+      },
+      "size": {
+        "width": 81.9512195121951,
+        "height": 69.99999999999999
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVGYxO_0M%3D/resources/images/3458764517497122805?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    }
+  ],
+  "edges": [],
+  "annotations": [],
+  "_metadata": {
+    "extracted_at": "2026-02-23T12:53:09.104477",
+    "total_items": 161,
+    "total_connectors": 0,
+    "frames": 12,
+    "nodes": 149,
+    "edges": 0
+  },
+  "_template": {
+    "name": "multi-agent-boardroom-review-flow",
+    "category": "miroverse",
+    "source": "miroverse",
+    "source_slug": "multi-agent-boardroom-review-flow",
+    "source_board_id": "uXjVGYxO_0M=",
+    "tags": [
+      "ideation & brainstorming",
+      "ai accelerated",
+      "strategy & planning",
+      "consultants",
+      "ai & transformation"
+    ],
+    "extracted_at": "2026-02-23T12:53:09.104524"
+  }
+}

@@ -1,0 +1,5015 @@
+{
+  "frames": [
+    {
+      "id": "f-0",
+      "title": "Epic or Feature Breakout",
+      "position": {
+        "x": 259804.11084438636,
+        "y": 70389.96538993188
+      },
+      "size": {
+        "width": 2805.5556045144713,
+        "height": 890.5552994115029
+      },
+      "style": {
+        "fillColor": "#f8d3af"
+      }
+    },
+    {
+      "id": "f-1",
+      "title": "User Pains and Gains",
+      "position": {
+        "x": 259809.35565722288,
+        "y": 69221.18847917064
+      },
+      "size": {
+        "width": 2816.0452301875266,
+        "height": 888.671993065634
+      },
+      "style": {
+        "fillColor": "#d5f692"
+      }
+    },
+    {
+      "id": "f-2",
+      "title": "User Details",
+      "position": {
+        "x": 259809.35793358614,
+        "y": 68043.97888684443
+      },
+      "size": {
+        "width": 2816.049782914006,
+        "height": 914.6335816380183
+      },
+      "style": {
+        "fillColor": "#adf0c7"
+      }
+    },
+    {
+      "id": "f-3",
+      "title": "Persona Empathy Mapping Frame",
+      "position": {
+        "x": 259809.35793358608,
+        "y": 66844.6636684584
+      },
+      "size": {
+        "width": 2816.049782913957,
+        "height": 913.2186428685986
+      },
+      "style": {
+        "fillColor": "#c6dcff"
+      }
+    },
+    {
+      "id": "f-4",
+      "title": "Story Mapping",
+      "position": {
+        "x": 259804.10585759731,
+        "y": 71588.61741573442
+      },
+      "size": {
+        "width": 2805.5456309363635,
+        "height": 900.7184700719989
+      },
+      "style": {
+        "fillColor": "#ffc6c6"
+      }
+    },
+    {
+      "id": "f-5",
+      "title": " JIRA-Connected Backlog and Timeline",
+      "position": {
+        "x": 259804.1080284765,
+        "y": 72758.32174128093
+      },
+      "size": {
+        "width": 2805.5499726947332,
+        "height": 821.4531586662065
+      },
+      "style": {
+        "fillColor": "#d8b8be"
+      }
+    },
+    {
+      "id": "f-6",
+      "title": "Commercial and Market Research",
+      "position": {
+        "x": 259809.35793358608,
+        "y": 65672.58037100185
+      },
+      "size": {
+        "width": 2816.049782913921,
+        "height": 858.3371365116293
+      },
+      "style": {
+        "fillColor": "#c6dcff"
+      }
+    }
+  ],
+  "nodes": [
+    {
+      "id": "n-0",
+      "position": {
+        "x": 258270.31219063135,
+        "y": 65672.58037100185
+      },
+      "size": {
+        "width": 262.0417029955923,
+        "height": 858.3371365116329
+      },
+      "style": {
+        "fillColor": "#2f2f2f",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 24,
+        "fontFamily": "noto_sans",
+        "borderWidth": 5,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-1",
+      "position": {
+        "x": 259679.85016486415,
+        "y": 64534.49706367809
+      },
+      "size": {
+        "width": 3072.8819611576478,
+        "height": 1013.2468197834721
+      },
+      "style": {
+        "fillColor": "#595959",
+        "borderColor": "#ffffff",
+        "textColor": "#ffffff",
+        "fontSize": 11,
+        "fontFamily": "noto_sans",
+        "borderWidth": 5,
+        "borderStyle": "normal",
+        "align": "left",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-2",
+      "position": {
+        "x": 260346.38166672632,
+        "y": 64548.79248468319
+      },
+      "size": {
+        "width": 1425.7647777217803,
+        "height": 817.2385153703884
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 17,
+        "fontFamily": "noto_sans",
+        "borderWidth": 5,
+        "borderStyle": "normal",
+        "align": "left",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-3",
+      "position": {
+        "x": 258720.5934555603,
+        "y": 64104.08060475564
+      },
+      "size": {
+        "width": 844.6418283678549,
+        "height": 36.65834957745585
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#ffffff",
+        "textColor": "#ffffff",
+        "fontSize": 36,
+        "fontFamily": "noto_sans",
+        "borderWidth": 5,
+        "borderStyle": "normal",
+        "align": "left",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 0.0
+      },
+      "visualKind": "shape",
+      "title": "<p><strong style=\"color:rgb(255,255,255)\">Intructions</strong><span style=\"color:rgb(255,255,255)\"><br /><br /></span><br /></p>"
+    },
+    {
+      "id": "n-4",
+      "position": {
+        "x": 260342.2526016695,
+        "y": 64555.90993271983
+      },
+      "size": {
+        "width": 1329.1803801874676,
+        "height": 738.6935707968352
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVGSxRp3U%3D/resources/images/3458764517507624447?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-5",
+      "position": {
+        "x": 258868.92630779225,
+        "y": 64548.79248468319
+      },
+      "size": {
+        "width": 1141.307532826787
+      },
+      "style": {
+        "fontSize": 17,
+        "textColor": "#ffffff",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><span style=\"color:rgb(255,255,255)\">Whether you’re on a small team, at a startup, or just wearing multiple hats, you may not have a well-developed Product or Service organization to support you. If you aren’t there yet, this template is for you! You might be a BA/Product Owner, a ScrumMaster/Product Owner, a CTO/Engineering Manage/Lead Dev/Product Owner, or even a solo vibe coder. </span></p><p><br /></p><p><span style=\"color:rgb(255,255,255)\">This template is an exploratory, conversational, learning, refinement and reflection experience that will guide you from zero to actionable, refined, prioritized user stories for JIRA or Azure. It can also sync with Trello. It produces well-structured documents and tables that you have discussed, improved, and vetted. Then you can use and share with stakeholders, actual customers, and your own human team. No AI slop enters your work-stream unreviewed.</span></p><p><br /></p><p><span style=\"color:rgb(255,255,255)\">This isn’t a passive experience where the AI dumps content on you. AIs can’t replace genuine Agile conversations. The best outcome will require you to choose, act, and discuss with your real Agile team or peers. Further, looking at the Design Thinking Process diagram, you&#39;ll notice this template doesn&#39;t carry you through the complete Prototype and Test phases. However, I hope this frameworks gives you outputs to use </span><a href=\"https://help.miro.com/hc/en-us/articles/26654269713682-Miro-Prototypes\" style=\"color:rgb(255,255,255)\">Miro Prototypes</a><span style=\"color:rgb(255,255,255)\"> as a next step.</span></p><p><br /></p><p><span style=\"color:rgb(255,255,255)\">Agile is a team sport, so this AI-enabled template creates a supportive team of market researchers, UX experts, and an Agile team with a Scrum Master, Lead Dev, Senior Dev, and Junior Dev as expert collaborators through the process. They are friendly, supportive, thinking and action partners ready to help at any time.</span></p><p><br /></p><p><span style=\"color:rgb(255,255,255)\">When you’re on a small team, like the one here — or your human Agile team — you’ll want have at least two team meetings to think through your flow with constructive challenge and lively conversation. Each main AI team member can also be accessed individually outside of the flow anytime you want to revisit, revise, or put together your next Sprint or Iteration. </span></p><p><br /></p><p><span style=\"color:rgb(255,255,255)\">Start wherever in the process you need, select the relevant documents, tables, or frame, and use the Action Buttons to invoke the AI team member you want to work with in a conversational AI interface. The AI enablement depends on what you highlight/select on the canvas, and the information you contribute in discussion as you reflect with your AI team. If you want to return to a virtual teammate or meeting and you find old context there, just pick up the conversation from the end or clear the context to begin the chat anew. </span></p><p><br /></p><p><span style=\"color:rgb(255,255,255)\">Starting from scratch? Begin with Sonia and go through all the way to Jay Jay. The entire flow can take as little as 45 minutes or as long as you need. My hope in creating this was to support you in creating a great MVP that solves for specific user problems iteratively, so you have the options you need to build out your idea, product or service with wise bets to solve meaningful problems for your identified customer. Don&#39;t forget to replace the sample data with your own. Welcome! </span></p>"
+    },
+    {
+      "id": "n-6",
+      "position": {
+        "x": 258270.31219063135,
+        "y": 65578.93726390804
+      },
+      "size": {
+        "width": 201.80213675000002
+      },
+      "style": {
+        "fontSize": 10,
+        "textColor": "#ffffff",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong style=\"color:rgb(255,255,255)\"><em>There are four critical strategic choices that determine your future:</em></strong></p><p><br /></p><p><em style=\"color:rgb(255,255,255)\">* Choose your customers: Be specific about who you’re serving and what problems you’re solving for them.</em></p><p><br /></p><p><em style=\"color:rgb(255,255,255)\">* Choose your competition: The space you operate in creates boundaries around what you do.</em></p><p><br /></p><p><em style=\"color:rgb(255,255,255)\">* Choose your source of validation: Be clear about whose feedback matters.</em></p><p><br /></p><p><em style=\"color:rgb(255,255,255)\">* Choose your distribution: Your distribution strategy shapes everything about your product.</em></p><p><br /></p><p><strong style=\"color:rgb(255,255,255)\"><em>Seth Godin</em></strong></p>"
+    },
+    {
+      "id": "n-7",
+      "position": {
+        "x": 259680.943530416,
+        "y": 63899.754329505915
+      },
+      "size": {
+        "width": 3072.881961157662,
+        "height": 165.6881948023131
+      },
+      "style": {
+        "fillColor": "#2f2f2f",
+        "borderColor": "#ffffff",
+        "textColor": "#ffffff",
+        "fontSize": 64,
+        "fontFamily": "noto_sans",
+        "borderWidth": 5,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": "<p><strong style=\"color:rgb(255,255,255)\">Simplified Design Thinking Process</strong></p>"
+    },
+    {
+      "id": "n-8",
+      "position": {
+        "x": 1168.5057654598395,
+        "y": 124.72069948385098
+      },
+      "size": {
+        "width": 395.64868442099345
+      },
+      "style": {
+        "fontSize": 19,
+        "textColor": "#1a1a1a",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-0",
+      "visualKind": "text",
+      "title": "<p><strong>Epic or Feature Breakout Report</strong></p>"
+    },
+    {
+      "id": "n-9",
+      "position": {
+        "x": 227.78926909623715,
+        "y": 141.7308909285951
+      },
+      "size": {
+        "width": 191.75896011585345
+      },
+      "style": {
+        "fontSize": 19,
+        "textColor": "#1a1a1a",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-0",
+      "visualKind": "text",
+      "title": "<p><strong>Epics or Features</strong></p>"
+    },
+    {
+      "id": "n-10",
+      "position": {
+        "x": 1102.3637178648105,
+        "y": 179.52573485087697
+      },
+      "size": {
+        "width": 159.65556030686705,
+        "height": 645.9533638946202
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "frameId": "f-0",
+      "visualKind": "shape",
+      "title": "<h1>MVP Feature Breakout Report — Enterprise Security Platform</h1><h2>Executive Summary</h2><p>This report identifies nine high-value, cost-conscious MVP features tailored to enterprise security professionals. The features focus on rapid time-to-value, reducing alert fatigue, accelerating remediation, and meeting foundational enterprise requirements (SSO, RBAC, auditability). The selection prioritizes items that address the highest-impact pains and gains while controlling burn rate through constrained scope, reuse of standard integrations, and phased complexity.</p><h2>Prioritization Approach</h2><ol><li data-list=\"bullet\">Value first: Features directly reduce risk, save analyst time, or unblock enterprise adoption.</li><li data-list=\"bullet\">Fast time-to-value: Emphasize out-of-the-box capabilities and standard connectors over bespoke builds.</li><li data-list=\"bullet\">Lean scope: Deliver the smallest useful slice (MVP) that proves value and informs expansion.</li><li data-list=\"bullet\">Enterprise readiness: Include minimal table-stakes (RBAC, SSO, audit logs) required for evaluation and procurement.</li></ol><h2>MVP Feature List</h2><p>1) Unified Risk &amp; Visibility Dashboard</p><ol><li data-list=\"bullet\">Agile statement: As an enterprise security professional, I want a single dashboard that summarizes critical assets, control posture, and top risk items so that I can quickly understand exposure and decide what to fix first.</li><li data-list=\"bullet\">Why it matters: Addresses visibility gaps and accelerates triage; supports leadership conversations.</li><li data-list=\"bullet\">MVP scope: Aggregate a limited set of sources (e.g., 3–5 connectors); emphasize high-severity findings, simple filtering, and drill-down. Defer custom dashboards and complex analytics.<br>2) Risk-Based Alert Prioritization &amp; Noise Reduction</li><li data-list=\"bullet\">Agile statement: As an enterprise security professional, I want alerts automatically scored, deduplicated, and grouped by business impact so that I can reduce alert fatigue and focus on the issues that matter most.</li><li data-list=\"bullet\">Why it matters: Directly tackles alert overload; improves analyst efficiency and MTTR.</li><li data-list=\"bullet\">MVP scope: Rule-based scoring, basic deduplication/correlation, suppression windows. Defer advanced ML and custom rule builders.<br>3) Quick-Start Integrations (SIEM/EDR/Cloud + Generic Webhook/API)</li><li data-list=\"bullet\">Agile statement: As an enterprise security professional, I want prebuilt connectors to common SIEM, EDR, and cloud platforms and a generic webhook/API so that I can see value in hours, not weeks.</li><li data-list=\"bullet\">Why it matters: Minimizes deployment friction and accelerates sales cycles.</li><li data-list=\"bullet\">MVP scope: Deliver a shortlist of high-demand connectors plus a generic webhook and REST API. Start with one-way ingestion; defer broad bidirectional sync.<br>4) Baseline Policy &amp; Misconfiguration Checks</li><li data-list=\"bullet\">Agile statement: As an enterprise security professional, I want out-of-the-box checks for common misconfigurations across identities, cloud, and endpoints so that I can quickly remediate high-impact risks.</li><li data-list=\"bullet\">Why it matters: Fast wins on widely observed misconfigurations; measurable risk reduction.</li><li data-list=\"bullet\">MVP scope: Curate a small set (e.g., 15–25) of high-value checks with severity levels and remediation guidance. Defer expansive framework coverage.<br>5) Guided Remediation &amp; One-Click Fixes (Where Safe)</li><li data-list=\"bullet\">Agile statement: As an enterprise security professional, I want step-by-step remediation guidance and one-click fixes for low-risk issues so that I can shorten MTTR and avoid errors.</li><li data-list=\"bullet\">Why it matters: Converts findings into outcomes; reduces workload and rework.</li><li data-list=\"bullet\">MVP scope: Clear runbooks and confirmation prompts; limited one-click changes via available APIs for low-risk actions. Full automation playbooks deferred.<br>6) Executive &amp; Compliance Snapshots</li><li data-list=\"bullet\">Agile statement: As an enterprise security professional, I want exportable executive summaries and compliance snapshots mapped to common frameworks so that I can keep stakeholders aligned and simplify audit preparation.</li><li data-list=\"bullet\">Why it matters: Addresses reporting burdens and communicates value to leadership.</li><li data-list=\"bullet\">MVP scope: PDF/CSV exports, simple trend lines, and light mapping to a few widely used controls. Defer custom templates and deep auditor workflows.<br>7) Role-Based Access Control (RBAC) &amp; SSO</li><li data-list=\"bullet\">Agile statement: As an enterprise security professional, I want granular roles and SSO (SAML/OIDC) so that access is secure and onboarding is frictionless.</li><li data-list=\"bullet\">Why it matters: Table-stakes for enterprise adoption and security of the platform itself.</li><li data-list=\"bullet\">MVP scope: Core roles (e.g., viewer, analyst, admin) and one SSO protocol/provider to start. Defer SCIM provisioning and advanced role customization.<br>8) Immutable Audit Logging &amp; Evidence Export</li><li data-list=\"bullet\">Agile statement: As an enterprise security professional, I want comprehensive audit logs and exportable evidence of findings and fixes so that I can meet audit and forensic requirements.</li><li data-list=\"bullet\">Why it matters: Supports compliance, accountability, and incident investigations.</li><li data-list=\"bullet\">MVP scope: Append-only logs of user actions and system changes; timestamped evidence attachments; export capability. Defer long-term cold storage and chain-of-custody features.<br>9) Ticketing &amp; Workflow Integration</li><li data-list=\"bullet\">Agile statement: As an enterprise security professional, I want prioritized findings pushed into my existing ticketing system with basic status sync so that remediation is tracked without changing how my team works.</li><li data-list=\"bullet\">Why it matters: Improves follow-through and cross-team coordination.</li><li data-list=\"bullet\">MVP scope: Outbound webhooks and one native connector to a popular ticketing tool; basic status updates back. Defer advanced two-way field mapping and SLAs.</li></ol><h2>Deferred/Post-MVP Candidates (Burn-Rate Control)</h2><ol><li data-list=\"bullet\">Advanced analytics/ML-based anomaly detection and UEBA.</li><li data-list=\"bullet\">Full SOAR playbooks and broad, automated remediation coverage.</li><li data-list=\"bullet\">Expansive multi-cloud deep checks and custom policy authoring UI.</li><li data-list=\"bullet\">Long-term data lake, custom dashboards, and flexible reporting templates.</li><li data-list=\"bullet\">Comprehensive SCIM provisioning and fine-grained custom roles.</li></ol><h2>Key Dependencies and Risks</h2><ol><li data-list=\"bullet\">Integration availability: Dependence on partner/platform APIs and rate limits.</li><li data-list=\"bullet\">Data quality: Alert scoring efficacy relies on consistent metadata from sources.</li><li data-list=\"bullet\">Security and compliance: SSO/RBAC and audit logging must be implemented securely to avoid blocking enterprise evaluation.</li><li data-list=\"bullet\">Change management: One-click fixes must include safeguards and clear rollbacks to maintain trust.</li></ol><h2>Success Metrics (MVP)</h2><ol><li data-list=\"bullet\">Time-to-first-value: Median customer sees prioritized findings within 1 business day of onboarding.</li><li data-list=\"bullet\">Alert efficiency: ≥50% reduction in duplicate/noise alerts versus baseline feeds.</li><li data-list=\"bullet\">Remediation acceleration: ≥30% reduction in median MTTR for baseline misconfigurations addressed through guided fixes.</li><li data-list=\"bullet\">Adoption: ≥80% of pilot users authenticate via SSO and use RBAC roles as intended.</li><li data-list=\"bullet\">Reporting utility: ≥70% of pilot accounts export at least one executive/compliance snapshot in the first month.</li></ol><h2>Next Steps</h2><ol><li data-list=\"bullet\">Validate connector shortlist and baseline checks with 5–7 design partners.</li><li data-list=\"bullet\">Finalize MVP scope per feature with story breakdowns and effort estimates.</li><li data-list=\"bullet\">Sequence delivery to land “time-to-value” features first (integrations, dashboard, prioritization), followed by table-stakes (SSO/RBAC, audit logs), then workflow (reporting, ticketing).</li><li data-list=\"bullet\">Establish telemetry to measure success metrics from day one.</li></ol>"
+    },
+    {
+      "id": "n-11",
+      "position": {
+        "x": 172.88708437695914,
+        "y": 212.4038675670766
+      },
+      "size": {
+        "width": 81.95459067800523,
+        "height": 93.89772198284017
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "stickyNote",
+      "title": "Quick-Start Integrations (SIEM/EDR/Cloud &#43; Generic Webhook/API)<br /><br /><strong>Business Value: 8</strong>"
+    },
+    {
+      "id": "n-12",
+      "position": {
+        "x": 295.81897039396154,
+        "y": 212.4038675670766
+      },
+      "size": {
+        "width": 81.95459067800523,
+        "height": 93.89772198284017
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "stickyNote",
+      "title": "Baseline Policy &amp; Misconfiguration Checks<br /><br /><strong>Business Value: 8</strong>"
+    },
+    {
+      "id": "n-13",
+      "position": {
+        "x": 418.75085641096393,
+        "y": 212.4038675670766
+      },
+      "size": {
+        "width": 81.95459067800523,
+        "height": 93.89772198284017
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "stickyNote",
+      "title": "Risk-Based Alert Prioritization &amp; Noise Reduction<br /><br /><strong>Business Value: 5</strong>"
+    },
+    {
+      "id": "n-14",
+      "position": {
+        "x": 172.88708437695914,
+        "y": 335.335753584079
+      },
+      "size": {
+        "width": 81.95459067800523,
+        "height": 93.89772198284017
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "stickyNote",
+      "title": "<p>Unified Risk &amp; Visibility Dashboard<br /><br /><strong>Business Value: 5</strong></p>"
+    },
+    {
+      "id": "n-15",
+      "position": {
+        "x": 295.81897039396154,
+        "y": 335.335753584079
+      },
+      "size": {
+        "width": 81.95459067800523,
+        "height": 93.89772198284017
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "stickyNote",
+      "title": "Guided Remediation &amp; One-Click Fixes (Where Safe)<br /><br /><strong>Business Value: 5</strong>"
+    },
+    {
+      "id": "n-16",
+      "position": {
+        "x": 418.75085641096393,
+        "y": 335.335753584079
+      },
+      "size": {
+        "width": 81.95459067800523,
+        "height": 93.89772198284017
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "stickyNote",
+      "title": "Executive &amp; Compliance Snapshots<br /><br /><strong>Business Value: 3</strong>"
+    },
+    {
+      "id": "n-17",
+      "position": {
+        "x": 172.88708437695914,
+        "y": 458.26763960109594
+      },
+      "size": {
+        "width": 81.95459067800523,
+        "height": 93.89772198284017
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "stickyNote",
+      "title": "<p>Role-Based Access Control (RBAC) &amp; SSO<br /><br /><strong>Business Value: 3</strong></p>"
+    },
+    {
+      "id": "n-18",
+      "position": {
+        "x": 295.81897039396154,
+        "y": 458.26763960109594
+      },
+      "size": {
+        "width": 81.95459067800523,
+        "height": 93.89772198284017
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "stickyNote",
+      "title": "<p>Immutable Audit Logging &amp; Evidence Export<br /><br /><strong>Business Value: 2</strong></p>"
+    },
+    {
+      "id": "n-19",
+      "position": {
+        "x": 418.75085641096393,
+        "y": 458.26763960109594
+      },
+      "size": {
+        "width": 81.95459067800523,
+        "height": 93.89772198284017
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "stickyNote",
+      "title": "Ticketing &amp; Workflow Integration<br /><br /><strong>Business Value: 3</strong>"
+    },
+    {
+      "id": "n-20",
+      "position": {
+        "x": 585.4282707617576,
+        "y": 210.30082912667632
+      },
+      "size": {
+        "width": 78.28349726012608,
+        "height": 89.691645102054
+      },
+      "style": {
+        "fillColor": "gray",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "stickyNote",
+      "title": "Pre-Built, Auditable Security Property Packs<br />Business Value: 8"
+    },
+    {
+      "id": "n-21",
+      "position": {
+        "x": 791.9307820034637,
+        "y": 333.24270852493856
+      },
+      "size": {
+        "width": 78.28349726012608,
+        "height": 89.691645102054
+      },
+      "style": {
+        "fillColor": "gray",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "stickyNote",
+      "title": "Explainable Counterexample and Proof Explorer<br />Business Value: 5"
+    },
+    {
+      "id": "n-22",
+      "position": {
+        "x": 784.8325618005083,
+        "y": 210.30082912667632
+      },
+      "size": {
+        "width": 78.28349726012608,
+        "height": 89.691645102054
+      },
+      "style": {
+        "fillColor": "gray",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "stickyNote",
+      "title": "CI/CD-Integrated, Risk-Based Continuous Verification<br />Business Value: 8"
+    },
+    {
+      "id": "n-23",
+      "position": {
+        "x": 585.4436232603812,
+        "y": 333.24270852493856
+      },
+      "size": {
+        "width": 78.28349726012608,
+        "height": 89.691645102054
+      },
+      "style": {
+        "fillColor": "gray",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "stickyNote",
+      "title": "Scalable Hybrid Verification Engine with Cost Controls<br />Business Value: 5"
+    },
+    {
+      "id": "n-24",
+      "position": {
+        "x": 685.1271852599357,
+        "y": 210.30082912667632
+      },
+      "size": {
+        "width": 78.28349726012608,
+        "height": 89.691645102054
+      },
+      "style": {
+        "fillColor": "gray",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "stickyNote",
+      "title": "Enterprise Integrations and Closed-Loop Remediation<br />Business Value: 8"
+    },
+    {
+      "id": "n-25",
+      "position": {
+        "x": 688.6903750977553,
+        "y": 333.24270852493856
+      },
+      "size": {
+        "width": 78.28349726012608,
+        "height": 89.691645102054
+      },
+      "style": {
+        "fillColor": "gray",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "stickyNote",
+      "title": "Verification Coverage, Risk, and Compliance Dashboards<br />Business Value: 5"
+    },
+    {
+      "id": "n-26",
+      "position": {
+        "x": 688.6829554460028,
+        "y": 449.3542081704093
+      },
+      "size": {
+        "width": 78.28349726012608,
+        "height": 89.691645102054
+      },
+      "style": {
+        "fillColor": "gray",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "stickyNote",
+      "title": "Guided Authoring and Low-Code Property Creation<br />Business Value: 3"
+    },
+    {
+      "id": "n-27",
+      "position": {
+        "x": 585.4436232603812,
+        "y": 456.17971413961124
+      },
+      "size": {
+        "width": 78.28349726012608,
+        "height": 89.691645102054
+      },
+      "style": {
+        "fillColor": "gray",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "stickyNote",
+      "title": "Change Impact and Dependency Verification<br />Business Value: 5"
+    },
+    {
+      "id": "n-28",
+      "position": {
+        "x": 978.4409433575311,
+        "y": 98.89428916461901
+      },
+      "size": {
+        "width": 334.7019352080077
+      },
+      "style": {
+        "fontSize": 19,
+        "textColor": "#1a1a1a",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-1",
+      "visualKind": "text",
+      "title": "<p><strong>User Pains &amp; Gains Report</strong></p>"
+    },
+    {
+      "id": "n-29",
+      "position": {
+        "x": 517.0767926165099,
+        "y": 98.89428916461901
+      },
+      "size": {
+        "width": 233.10592496698217
+      },
+      "style": {
+        "fontSize": 19,
+        "textColor": "#1a1a1a",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-1",
+      "visualKind": "text",
+      "title": "<p><strong>User Pains &amp; Gains Table</strong></p>"
+    },
+    {
+      "id": "n-30",
+      "position": {
+        "x": 811.0899757520783,
+        "y": 155.81096284138465
+      },
+      "size": {
+        "width": 133.99495830417115,
+        "height": 634.7669325786884
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "frameId": "f-1",
+      "visualKind": "shape",
+      "title": "<h1>Enterprise Security Professional: Pains, Gains, and Solution Direction</h1><h2>Overview</h2><p>This document summarizes the prioritized pains and desired gains of enterprise security professionals and translates them into actionable solution directions. It follows a simple Pains &amp; Gains structure (as reflected on the board) and adds a clear alignment between what hurts today and what outcomes matter most.</p><h2>User Pains (Priority Order)</h2><ol><li data-list=\"ordered\">Overwhelmed by the complexity of enterprise systems, making it difficult to ensure comprehensive security</li><li data-list=\"ordered\">Lack of evidence that security controls actually work as intended</li><li data-list=\"ordered\">Difficulty proving security properties to leadership and demonstrating value</li><li data-list=\"ordered\">Anxiety about undetected flaws in security architecture that could lead to breaches</li><li data-list=\"ordered\">Frustration when security is deprioritized for business speed and feature development</li><li data-list=\"ordered\">Pressure from increasing sophistication of cyber threats and zero-day vulnerabilities</li><li data-list=\"ordered\">Challenges integrating legacy systems with modern security frameworks</li><li data-list=\"ordered\">Balancing conflicting priorities from different organizational stakeholders</li><li data-list=\"ordered\">Proliferation of cloud services with varying security models increasing complexity</li></ol><h2>User Gains (Priority Order)</h2><ol><li data-list=\"ordered\">Ability to formally verify critical properties of security architecture</li><li data-list=\"ordered\">Tools that help balance security with business functionality requirements</li><li data-list=\"ordered\">Proactive identification of potential security flaws before they become vulnerabilities</li><li data-list=\"ordered\">Evidence-based approach to security that can demonstrate effectiveness to leadership</li><li data-list=\"ordered\">Capability to understand and secure complex enterprise systems</li><li data-list=\"ordered\">Risk management framework that identifies acceptable security trade-offs</li><li data-list=\"ordered\">Satisfaction from preventing security incidents through robust architecture</li><li data-list=\"ordered\">Future-proofed security architecture that can adapt to evolving threats</li><li data-list=\"ordered\">Clear demonstration that security controls actually work as intended</li></ol><h2>Pains-to-Gains Alignment</h2><ol><li data-list=\"bullet\">Pain 1 → Gains 1, 5, 8: Formal verification and system understanding tame complexity and support future-proofing.</li><li data-list=\"bullet\">Pain 2 → Gains 4, 9: Evidence-driven assessments and clear demonstrations validate control effectiveness.</li><li data-list=\"bullet\">Pain 3 → Gains 1, 4: Formally proven properties and evidence packages communicate value to leadership.</li><li data-list=\"bullet\">Pain 4 → Gains 3, 7: Proactive flaw discovery prevents incidents and builds confidence.</li><li data-list=\"bullet\">Pain 5 → Gains 2, 6: Tools and frameworks that make trade-offs explicit help balance speed and security.</li><li data-list=\"bullet\">Pain 6 → Gains 3, 8: Continuous threat-informed analysis keeps architecture resilient as threats evolve.</li><li data-list=\"bullet\">Pain 7 → Gains 5, 6, 8: Approaches that encompass legacy integration within risk boundaries future-proof security posture.</li><li data-list=\"bullet\">Pain 8 → Gains 2, 6: Structured prioritization aligns stakeholders around acceptable risk and business goals.</li><li data-list=\"bullet\">Pain 9 → Gains 5, 8, 9: Consistent control validation across diverse cloud models reduces complexity and proves efficacy.</li></ol><h2>Evidence and Communication Needs</h2><ol><li data-list=\"bullet\">Provable properties: Documented and versioned statements such as “data in transit between A and B is always encrypted with approved ciphers.”</li><li data-list=\"bullet\">Control efficacy evidence: Continuous validation results, test coverage of controls, and pass/fail histories.</li><li data-list=\"bullet\">Architecture assurance artifacts: Threat models, attack-path analyses, and verification reports mapped to critical assets.</li><li data-list=\"bullet\">Leadership-ready summaries: Risk reduction metrics and business impact narratives tied to verified properties.</li><li data-list=\"bullet\">Governance traceability: Decision logs showing trade-offs, exceptions, and expiry dates for acceptances.</li></ol><h2>Capability Requirements</h2><ol><li data-list=\"bullet\">Formal verification and model-based assurance (addresses Gains 1, 4; Pains 1–3).</li><li data-list=\"bullet\">Automated discovery of architectural flaws before deployment (Gains 3, 7; Pains 4, 6).</li><li data-list=\"bullet\">Continuous control validation with clear, exportable evidence (Gains 4, 9; Pains 2, 9).</li><li data-list=\"bullet\">Risk management framework that quantifies trade-offs and sets tolerances (Gains 2, 6; Pains 5, 8).</li><li data-list=\"bullet\">Cross-environment visibility covering data center, legacy, and multi-cloud (Gains 5, 8, 9; Pains 1, 7, 9).</li><li data-list=\"bullet\">Integration tooling for legacy systems and policy translation layers to modern frameworks (Gains 5, 6; Pains 7).</li><li data-list=\"bullet\">Threat-informed updates to architectural models to adapt to zero-day classes and evolving TTPs (Gains 3, 8; Pain 6).</li><li data-list=\"bullet\">Stakeholder communication features: executive dashboards, evidence bundles, and decision audits (Gains 4, 6; Pains 3, 8).</li></ol><h2>Workflow Outline</h2><ol><li data-list=\"ordered\">Define critical security properties and business requirements for key systems.</li><li data-list=\"ordered\">Model current and target-state architecture across on-prem, legacy, and cloud services.</li><li data-list=\"ordered\">Apply formal checks and automated analyses to verify properties and detect design flaws early.</li><li data-list=\"ordered\">Implement continuous control validation to generate ongoing evidence of effectiveness.</li><li data-list=\"ordered\">Quantify risk trade-offs and record governance decisions when conflicts arise.</li><li data-list=\"ordered\">Report results to leadership with a concise evidence package linked to business outcomes.</li><li data-list=\"ordered\">Iterate models and controls as threats evolve and as new services are adopted.</li></ol><h2>Risk Management and Trade-off Governance</h2><ol><li data-list=\"bullet\">Establish explicit risk thresholds and acceptance criteria tied to business objectives.</li><li data-list=\"bullet\">Time-box exceptions with renewal requirements; attach compensating controls.</li><li data-list=\"bullet\">Use scenario-based impact assessments to arbitrate speed vs. security disputes.</li><li data-list=\"bullet\">Maintain a living backlog of security debt with measurable burn-down plans.</li></ol><h2>Cloud and Legacy Integration Considerations</h2><ol><li data-list=\"bullet\">Normalize diverse cloud security models into a common policy and evidence framework.</li><li data-list=\"bullet\">Wrap legacy systems with compensating controls and monitoring where native capabilities are limited.</li><li data-list=\"bullet\">Ensure portability of verification and validation across environments to prevent gaps.</li></ol><h2>Threat Evolution Readiness</h2><ol><li data-list=\"bullet\">Continuously refresh architectural assumptions with threat intelligence and newly observed TTPs.</li><li data-list=\"bullet\">Emphasize design patterns that limit blast radius and support rapid revocation/rotation.</li><li data-list=\"bullet\">Validate that detection and response controls are verified against new attack paths, not just known signatures.</li></ol><h2>Prioritized Opportunities</h2><ol><li data-list=\"ordered\">Introduce formal property verification for the most critical systems and data flows.</li><li data-list=\"ordered\">Deploy continuous control validation to produce leadership-ready evidence.</li><li data-list=\"ordered\">Build a unified architecture model that spans legacy and multi-cloud services.</li><li data-list=\"ordered\">Implement a structured risk trade-off framework to resolve stakeholder conflicts.</li><li data-list=\"ordered\">Establish proactive flaw discovery in pre-deployment design reviews.</li></ol><h2>Success Metrics</h2><ol><li data-list=\"bullet\">Number of critical properties formally verified and continuously monitored.</li><li data-list=\"bullet\">Percentage of key controls with automated, current evidence of effectiveness.</li><li data-list=\"bullet\">Reduction in architectural flaws detected post-deployment.</li><li data-list=\"bullet\">Time to produce leadership reports with quantified risk deltas.</li><li data-list=\"bullet\">Decrease in exception lifetime and improved adherence to risk thresholds.</li></ol><h2>Next Steps</h2><ol><li data-list=\"bullet\">Select two high-value systems to pilot formal verification and continuous validation.</li><li data-list=\"bullet\">Define the minimal set of critical properties and control tests for the pilot.</li><li data-list=\"bullet\">Stand up an executive dashboard that visualizes verified properties and risk posture.</li><li data-list=\"bullet\">Document governance procedures for trade-offs and exceptions before scaling.</li></ol>"
+    },
+    {
+      "id": "n-31",
+      "position": {
+        "x": 400.52383013302097,
+        "y": 155.85745373585513
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "frameId": "f-1",
+      "visualKind": "shape",
+      "title": "[data_table_format]"
+    },
+    {
+      "id": "n-32",
+      "position": {
+        "x": 213.53652486961437,
+        "y": 183.26085131199642
+      },
+      "size": {
+        "width": 45.4213285216174,
+        "height": 52.040517100144555
+      },
+      "style": {
+        "fillColor": "red",
+        "align": "center"
+      },
+      "frameId": "f-1",
+      "visualKind": "stickyNote",
+      "title": "Complexity in proving security of enterprise systems, making it difficult to ensure completeness and correctness."
+    },
+    {
+      "id": "n-33",
+      "position": {
+        "x": 281.6685176520514,
+        "y": 183.26085131199642
+      },
+      "size": {
+        "width": 45.4213285216174,
+        "height": 52.040517100144555
+      },
+      "style": {
+        "fillColor": "green",
+        "align": "center"
+      },
+      "frameId": "f-1",
+      "visualKind": "stickyNote",
+      "title": "Ability to formally verify properties of security architecture"
+    },
+    {
+      "id": "n-34",
+      "position": {
+        "x": 213.53652486961437,
+        "y": 251.39284409441888
+      },
+      "size": {
+        "width": 45.4213285216174,
+        "height": 52.040517100144555
+      },
+      "style": {
+        "fillColor": "red",
+        "align": "center"
+      },
+      "frameId": "f-1",
+      "visualKind": "stickyNote",
+      "title": "Lack of evidence that security controls actually work as intended"
+    },
+    {
+      "id": "n-35",
+      "position": {
+        "x": 281.6685176520514,
+        "y": 251.39284409441888
+      },
+      "size": {
+        "width": 45.4213285216174,
+        "height": 52.040517100144555
+      },
+      "style": {
+        "fillColor": "green",
+        "align": "center"
+      },
+      "frameId": "f-1",
+      "visualKind": "stickyNote",
+      "title": "Tools that help balance security with business functionality requirements"
+    },
+    {
+      "id": "n-36",
+      "position": {
+        "x": 213.53652486961437,
+        "y": 319.5248368768559
+      },
+      "size": {
+        "width": 45.4213285216174,
+        "height": 52.040517100144555
+      },
+      "style": {
+        "fillColor": "red",
+        "align": "center"
+      },
+      "frameId": "f-1",
+      "visualKind": "stickyNote",
+      "title": "Difficulty proving return on investment for security architecture value"
+    },
+    {
+      "id": "n-37",
+      "position": {
+        "x": 281.6685176520514,
+        "y": 319.5248368768559
+      },
+      "size": {
+        "width": 45.4213285216174,
+        "height": 52.040517100144555
+      },
+      "style": {
+        "fillColor": "green",
+        "align": "center"
+      },
+      "frameId": "f-1",
+      "visualKind": "stickyNote",
+      "title": "Proactive identification of security flaws before they become vulnerabilities"
+    },
+    {
+      "id": "n-38",
+      "position": {
+        "x": 213.53652486961437,
+        "y": 387.65682965927834
+      },
+      "size": {
+        "width": 45.4213285216174,
+        "height": 52.040517100144555
+      },
+      "style": {
+        "fillColor": "red",
+        "align": "center"
+      },
+      "frameId": "f-1",
+      "visualKind": "stickyNote",
+      "title": "Anxiety about undetected flaws in security architecture that could lead to breaches"
+    },
+    {
+      "id": "n-39",
+      "position": {
+        "x": 281.6685176520514,
+        "y": 387.65682965927834
+      },
+      "size": {
+        "width": 45.4213285216174,
+        "height": 52.040517100144555
+      },
+      "style": {
+        "fillColor": "green",
+        "align": "center"
+      },
+      "frameId": "f-1",
+      "visualKind": "stickyNote",
+      "title": "Evidence-based approach to security that can demonstrate effectiveness to leadership"
+    },
+    {
+      "id": "n-40",
+      "position": {
+        "x": 213.53652486961437,
+        "y": 455.7888224417008
+      },
+      "size": {
+        "width": 45.4213285216174,
+        "height": 52.040517100144555
+      },
+      "style": {
+        "fillColor": "red",
+        "align": "center"
+      },
+      "frameId": "f-1",
+      "visualKind": "stickyNote",
+      "title": "Frustration when return on investment is questioned without sound and factual development"
+    },
+    {
+      "id": "n-41",
+      "position": {
+        "x": 281.6685176520514,
+        "y": 455.7888224417008
+      },
+      "size": {
+        "width": 45.4213285216174,
+        "height": 52.040517100144555
+      },
+      "style": {
+        "fillColor": "green",
+        "align": "center"
+      },
+      "frameId": "f-1",
+      "visualKind": "stickyNote",
+      "title": "Capability to understand and verify complex enterprise systems"
+    },
+    {
+      "id": "n-42",
+      "position": {
+        "x": 213.53652486961437,
+        "y": 523.9208152241233
+      },
+      "size": {
+        "width": 45.4213285216174,
+        "height": 52.040517100144555
+      },
+      "style": {
+        "fillColor": "red",
+        "align": "center"
+      },
+      "frameId": "f-1",
+      "visualKind": "stickyNote",
+      "title": "Pressure from increasing sophistication of cyber threats and zero-day vulnerabilities"
+    },
+    {
+      "id": "n-43",
+      "position": {
+        "x": 281.6685176520514,
+        "y": 523.9208152241233
+      },
+      "size": {
+        "width": 45.4213285216174,
+        "height": 52.040517100144555
+      },
+      "style": {
+        "fillColor": "green",
+        "align": "center"
+      },
+      "frameId": "f-1",
+      "visualKind": "stickyNote",
+      "title": "Risk-management framework that identifies acceptable security trade-offs"
+    },
+    {
+      "id": "n-44",
+      "position": {
+        "x": 213.53652486961437,
+        "y": 592.0528080065603
+      },
+      "size": {
+        "width": 45.4213285216174,
+        "height": 52.040517100144555
+      },
+      "style": {
+        "fillColor": "red",
+        "align": "center"
+      },
+      "frameId": "f-1",
+      "visualKind": "stickyNote",
+      "title": "Challenge integrating security into complex modern security frameworks"
+    },
+    {
+      "id": "n-45",
+      "position": {
+        "x": 281.6685176520514,
+        "y": 592.0528080065603
+      },
+      "size": {
+        "width": 45.4213285216174,
+        "height": 52.040517100144555
+      },
+      "style": {
+        "fillColor": "green",
+        "align": "center"
+      },
+      "frameId": "f-1",
+      "visualKind": "stickyNote",
+      "title": "Satisfaction from preventing breaches through robust architectural decisions"
+    },
+    {
+      "id": "n-46",
+      "position": {
+        "x": 213.53652486961437,
+        "y": 660.1848007889828
+      },
+      "size": {
+        "width": 45.4213285216174,
+        "height": 52.040517100144555
+      },
+      "style": {
+        "fillColor": "red",
+        "align": "center"
+      },
+      "frameId": "f-1",
+      "visualKind": "stickyNote",
+      "title": "Balancing conflicting priorities from different organizational stakeholders"
+    },
+    {
+      "id": "n-47",
+      "position": {
+        "x": 281.6685176520514,
+        "y": 660.1848007889828
+      },
+      "size": {
+        "width": 45.4213285216174,
+        "height": 52.040517100144555
+      },
+      "style": {
+        "fillColor": "green",
+        "align": "center"
+      },
+      "frameId": "f-1",
+      "visualKind": "stickyNote",
+      "title": "Future-proofed security architecture that can adapt to evolving threats"
+    },
+    {
+      "id": "n-48",
+      "position": {
+        "x": 213.53652486961437,
+        "y": 728.3167935714052
+      },
+      "size": {
+        "width": 45.4213285216174,
+        "height": 52.040517100144555
+      },
+      "style": {
+        "fillColor": "red",
+        "align": "center"
+      },
+      "frameId": "f-1",
+      "visualKind": "stickyNote",
+      "title": "Proliferation of tools without verifying security controls effectiveness and security"
+    },
+    {
+      "id": "n-49",
+      "position": {
+        "x": 281.6685176520514,
+        "y": 728.3167935714052
+      },
+      "size": {
+        "width": 45.4213285216174,
+        "height": 52.040517100144555
+      },
+      "style": {
+        "fillColor": "green",
+        "align": "center"
+      },
+      "frameId": "f-1",
+      "visualKind": "stickyNote",
+      "title": "Clear demonstration of security value to business stakeholders"
+    },
+    {
+      "id": "n-50",
+      "position": {
+        "x": 1095.5883723000652,
+        "y": 69.23510825204835
+      },
+      "size": {
+        "width": 208.37512596340864,
+        "height": 514.5589845218866
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "frameId": "f-2",
+      "visualKind": "shape",
+      "title": "<h1>User Details Report: Enterprise Security Architect</h1><h2>Personal Information</h2><p><strong>Name:</strong> Priya Sharma  <br><strong>Age:</strong> 38  <br><strong>Job Title:</strong> Enterprise Security Architect</p><h2>Professional Background</h2><p>Priya Sharma brings extensive expertise to her role as an Enterprise Security Architect, with 12 years of experience in the cybersecurity field. Her educational background includes:</p><ol><li data-list=\"bullet\">Master's degree in Information Security</li><li data-list=\"bullet\">Bachelor's degree in Computer Science<br>Her professional credentials are impressive, featuring:</li><li data-list=\"bullet\">CISSP (Certified Information Systems Security Professional)</li><li data-list=\"bullet\">TOGAF (The Open Group Architecture Framework) Certification<br>Priya has built her career working across critical sectors including financial services and healthcare, where security requirements are particularly stringent and complex.</li></ol><h2>Key Responsibilities</h2><p>As an Enterprise Security Architect, Priya's core responsibilities include:</p><ol><li data-list=\"ordered\">Designing and maintaining comprehensive security architecture across multiple projects</li><li data-list=\"ordered\">Identifying and mitigating zero-day vulnerabilities and potential security breaches</li><li data-list=\"ordered\">Balancing robust security protocols with business functionality and user experience</li><li data-list=\"ordered\">Conducting risk assessments and managing security trade-offs</li><li data-list=\"ordered\">Ensuring compliance with industry and regulatory standards (GDPR, HIPAA, PCI DSS)</li><li data-list=\"ordered\">Future-proofing security systems against emerging threats</li></ol><h2>Technical Skills &amp; Expertise</h2><p>Priya possesses a diverse set of technical skills that enable her to excel in her role:</p><ol><li data-list=\"bullet\"><strong>Security Architecture:</strong> Advanced design and implementation capabilities for enterprise-wide security frameworks</li><li data-list=\"bullet\"><strong>Threat Modeling:</strong> Sophisticated risk assessment and vulnerability management</li><li data-list=\"bullet\"><strong>Cloud Security:</strong> Expertise in securing cloud infrastructure and applications</li><li data-list=\"bullet\"><strong>Compliance Knowledge:</strong> Deep understanding of regulatory frameworks including GDPR, HIPAA, and PCI DSS</li><li data-list=\"bullet\"><strong>Formal Verification:</strong> Application of methodologies to validate security protocols</li><li data-list=\"bullet\"><strong>Legacy Integration:</strong> Specialized knowledge in securing and integrating older systems with modern security measures</li></ol><h2>Professional Challenges</h2><p>In her daily work, Priya navigates several significant challenges:</p><ol><li data-list=\"bullet\">Maintaining vigilance against increasingly sophisticated cyber threats</li><li data-list=\"bullet\">Finding the optimal balance between security requirements and business/user experience needs</li><li data-list=\"bullet\">Managing the complexity of enterprise-wide security architecture</li><li data-list=\"bullet\">Building business cases to justify security investments to leadership</li><li data-list=\"bullet\">Integrating new security measures with legacy systems without disrupting operations</li></ol><h2>Strategic Goals</h2><p>Priya has established several ambitious objectives in her role:</p><ol><li data-list=\"ordered\">Implement a zero-trust architecture across the organization</li><li data-list=\"ordered\">Reduce security incidents by 30% year-over-year</li><li data-list=\"ordered\">Streamline security protocols without compromising protection</li><li data-list=\"ordered\">Build stronger collaboration between security and development teams</li></ol><h2>Summary Assessment</h2><p>Priya Sharma represents a highly qualified Enterprise Security Architect who balances technical expertise with business acumen. Her extensive experience across multiple sectors provides her with a comprehensive understanding of diverse security challenges. She excels at translating complex technical requirements into business language for stakeholders while maintaining robust security postures. Under significant pressure from evolving threats and organizational constraints, Priya continues to build and maintain security infrastructures that protect critical organizational assets.</p>"
+    },
+    {
+      "id": "n-51",
+      "position": {
+        "x": 1276.4324755122134,
+        "y": 616.3427301340719
+      },
+      "size": {
+        "width": 3639.439446770645,
+        "height": 11217.780061682412
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#305bab",
+        "textColor": "#2c2e33",
+        "fontSize": 382,
+        "fontFamily": "noto_sans",
+        "borderWidth": 5,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 0.0
+      },
+      "frameId": "f-2",
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-52",
+      "position": {
+        "x": 1826.8079995084374,
+        "y": 89.20161510961884
+      },
+      "size": {
+        "width": 201.60782493229837,
+        "height": 725.6853086211046
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "frameId": "f-3",
+      "visualKind": "shape",
+      "title": "<h1>ourUser Empathy Map Report for Enterprise Security Architects</h1><h2>Role Overview</h2><h3>Position in the Organization</h3><p>Enterprise Security Architects are integral to the leadership teams within organizations, often reporting to the Chief Information Security Officer (CISO) or the Chief Technology Officer (CTO). They work closely with IT, compliance, and development teams, playing a pivotal role in strategic planning for security measures.</p><h3>Key Responsibilities</h3><ol><li data-list=\"bullet\">Designing and maintaining comprehensive security architecture across multiple projects.</li><li data-list=\"bullet\">Identifying and mitigating zero-day vulnerabilities and other potential security breaches.</li><li data-list=\"bullet\">Balancing robust security protocols with business functionality and user experience.</li><li data-list=\"bullet\">Collaborating with cross-functional teams to integrate security in all areas of system architecture.</li><li data-list=\"bullet\">Conducting risk assessments and managing security trade-offs.</li><li data-list=\"bullet\">Ensuring compliance with industry and regulatory standards.</li><li data-list=\"bullet\">Future-proofing security systems against emerging threats and technological advancements.</li></ol><h3>Main Challenges</h3><ol><li data-list=\"bullet\">Keeping pace with sophisticated cyber threats and ensuring robust defenses.</li><li data-list=\"bullet\">Achieving a balance between stringent security and business agility.</li><li data-list=\"bullet\">Overcoming obstacles presented by legacy systems when integrating modern security frameworks.</li><li data-list=\"bullet\">Continuously proving and justifying security investments to leadership.</li><li data-list=\"bullet\">Managing the complexity of large-scale enterprise systems.</li></ol><h2>What Enterprise Security Architects THINK</h2><ol><li data-list=\"bullet\"><strong>Concerns about zero-day vulnerabilities</strong>: These vulnerabilities pose risks to critical systems, prompting the need for constant vigilance.</li><li data-list=\"bullet\"><strong>Balancing security with business functionality requirements</strong>: Ensuring security protocols do not hinder business operations.</li><li data-list=\"bullet\"><strong>Anxiety about undetected flaws</strong>: Persistent worry about undetected flaws that could lead to breaches.</li><li data-list=\"bullet\"><strong>Risk management considerations</strong>: Continuously evaluate acceptable levels of risk versus security trade-offs.</li><li data-list=\"bullet\"><strong>Proving security properties to leadership</strong>: The necessity of demonstrating the effectiveness of security measures to stakeholders.</li><li data-list=\"bullet\"><strong>Integration of legacy systems</strong>: Challenges in aligning obsolete systems with new, robust security frameworks.</li><li data-list=\"bullet\"><strong>Strategic future-proofing</strong>: Planning architectures resistant to evolving threats and technology landscapes.</li></ol><h2>What Enterprise Security Architects FEEL</h2><ol><li data-list=\"bullet\"><strong>Pressure from increasing sophistication of cyber threats</strong>: Growing threats create an ever-present pressure to enhance security.</li><li data-list=\"bullet\"><strong>Frustration with deprioritization</strong>: Security is often sidelined for business expediency, causing frustration.</li><li data-list=\"bullet\"><strong>Pride in robust security</strong>: Satisfaction in developing robust security infrastructures that safeguard enterprise assets.</li><li data-list=\"bullet\"><strong>Overwhelmed by system complexity</strong>: The intricate nature of enterprise systems can be daunting.</li><li data-list=\"bullet\"><strong>Anxiety about breaches</strong>: Personal accountability for breaches leads to significant stress.</li><li data-list=\"bullet\"><strong>Satisfaction from success</strong>: The successful prevention of incidents provides a deep sense of accomplishment.</li><li data-list=\"bullet\"><strong>Stress from constant vigilance</strong>: The necessity for continuous monitoring and adaptation induces stress.</li></ol><h2>What Enterprise Security Architects SEE</h2><ol><li data-list=\"bullet\"><strong>Rising attack sophistication</strong>: Increased frequency and complexity of cyber threats.</li><li data-list=\"bullet\"><strong>Prioritization of features over security by leaders</strong>: Observing feature enhancements potentially compromising security.</li><li data-list=\"bullet\"><strong>Complex architecture growth</strong>: The expanding intricacy of enterprise architecture.</li><li data-list=\"bullet\"><strong>Proliferation of cloud services</strong>: Navigating varied security models across cloud services.</li><li data-list=\"bullet\"><strong>Audit outcomes and compliance issues</strong>: Regular audits revealing compliance gaps.</li><li data-list=\"bullet\"><strong>Peer incidents</strong>: Security breaches within similar organizations serving as cautionary tales.</li><li data-list=\"bullet\"><strong>Vendor security promises</strong>: Vendors offering assurances of comprehensive security solutions.</li></ol><h2>What Enterprise Security Architects HEAR</h2><ol><li data-list=\"bullet\"><strong>Executive concerns</strong>: Cost-benefit discussions around security investments.</li><li data-list=\"bullet\"><strong>Development team resistance</strong>: Pushback against stringent security requirements.</li><li data-list=\"bullet\"><strong>News of breaches</strong>: High-profile breaches serve as frequent reminders of vulnerabilities.</li><li data-list=\"bullet\"><strong>Regulatory updates</strong>: Announcements of new compliance requirements.</li><li data-list=\"bullet\"><strong>Vendor claims of solutions</strong>: Promises by vendors to address security needs comprehensively.</li><li data-list=\"bullet\"><strong>Colleague reports</strong>: Updates on newly discovered vulnerabilities and emerging threats.</li><li data-list=\"bullet\"><strong>Conflicting priorities</strong>: Differing organizational priorities impacting security initiatives.</li></ol><h2>What Enterprise Security Architects SAY</h2><ol><li data-list=\"bullet\">\"We need to build security in from the beginning, not add it later.\"</li><li data-list=\"bullet\">\"This architecture needs formal verification to ensure critical properties.\"</li><li data-list=\"bullet\">\"We can't secure what we don't understand.\"</li><li data-list=\"bullet\">\"Security is about risk management, not risk elimination.\"</li><li data-list=\"bullet\">\"We need evidence that these controls actually work.\"</li><li data-list=\"bullet\">\"Compliance is necessary but not sufficient for security.\"</li><li data-list=\"bullet\">\"We need to balance security with usability and performance.\"</li></ol><h2>Conclusion</h2><p>Enterprise Security Architects play a critical role in safeguarding organizational assets against sophisticated cyber threats while balancing functionality with security. Their insights point to the need for robust, forward-thinking security strategies, often hindered by legacy systems and organizational priorities. Formal verification solutions can significantly address these challenges by providing rigorous evidence of security properties, facilitating better risk management, and ensuring that security architectures are resilient against both current and future threats. These insights should inform product development teams in creating tailored solutions that resonate with the specific needs and pain points of Enterprise Security Architects.</p>"
+    },
+    {
+      "id": "n-53",
+      "position": {
+        "x": 1343.2415210771835,
+        "y": 260.61006980399657
+      },
+      "size": {
+        "width": 52.13746616291853,
+        "height": 59.73538836756495
+      },
+      "style": {
+        "fillColor": "green",
+        "align": "center"
+      },
+      "frameId": "f-3",
+      "visualKind": "stickyNote",
+      "title": "Concerns about zero-day vulnerabilities in critical systems"
+    },
+    {
+      "id": "n-54",
+      "position": {
+        "x": 1421.4477203215758,
+        "y": 260.61006980399657
+      },
+      "size": {
+        "width": 52.13746616291853,
+        "height": 59.73538836756495
+      },
+      "style": {
+        "fillColor": "green",
+        "align": "center"
+      },
+      "frameId": "f-3",
+      "visualKind": "stickyNote",
+      "title": "Balancing security with business functionality requirements"
+    },
+    {
+      "id": "n-55",
+      "position": {
+        "x": 1499.653919565939,
+        "y": 260.61006980399657
+      },
+      "size": {
+        "width": 52.13746616291853,
+        "height": 59.73538836756495
+      },
+      "style": {
+        "fillColor": "green",
+        "align": "center"
+      },
+      "frameId": "f-3",
+      "visualKind": "stickyNote",
+      "title": "Anxiety about undetected flaws in security architecture"
+    },
+    {
+      "id": "n-56",
+      "position": {
+        "x": 1577.8601188103023,
+        "y": 260.61006980399657
+      },
+      "size": {
+        "width": 52.13746616291853,
+        "height": 59.73538836756495
+      },
+      "style": {
+        "fillColor": "green",
+        "align": "center"
+      },
+      "frameId": "f-3",
+      "visualKind": "stickyNote",
+      "title": "Considerations about risk management and acceptable security trade-offs"
+    },
+    {
+      "id": "n-57",
+      "position": {
+        "x": 1656.0663180546946,
+        "y": 260.61006980399657
+      },
+      "size": {
+        "width": 52.13746616291853,
+        "height": 59.73538836756495
+      },
+      "style": {
+        "fillColor": "green",
+        "align": "center"
+      },
+      "frameId": "f-3",
+      "visualKind": "stickyNote",
+      "title": "Thoughts about proving security properties to leadership"
+    },
+    {
+      "id": "n-58",
+      "position": {
+        "x": 1734.272517299087,
+        "y": 260.61006980399657
+      },
+      "size": {
+        "width": 52.13746616291853,
+        "height": 59.73538836756495
+      },
+      "style": {
+        "fillColor": "green",
+        "align": "center"
+      },
+      "frameId": "f-3",
+      "visualKind": "stickyNote",
+      "title": "Concerns about integration of legacy systems with modern security frameworks"
+    },
+    {
+      "id": "n-59",
+      "position": {
+        "x": 1343.2415210771835,
+        "y": 338.8162690483889
+      },
+      "size": {
+        "width": 52.13746616291853,
+        "height": 59.73538836756495
+      },
+      "style": {
+        "fillColor": "green",
+        "align": "center"
+      },
+      "frameId": "f-3",
+      "visualKind": "stickyNote",
+      "title": "Strategic thinking about future-proofing security architecture"
+    },
+    {
+      "id": "n-60",
+      "position": {
+        "x": 1421.4477203215758,
+        "y": 338.8162690483889
+      },
+      "size": {
+        "width": 52.13746616291853,
+        "height": 59.73538836756495
+      },
+      "style": {
+        "fillColor": "pink",
+        "align": "center"
+      },
+      "frameId": "f-3",
+      "visualKind": "stickyNote",
+      "title": "Pressure from increasing sophistication of cyber threats"
+    },
+    {
+      "id": "n-61",
+      "position": {
+        "x": 1499.653919565939,
+        "y": 338.8162690483889
+      },
+      "size": {
+        "width": 52.13746616291853,
+        "height": 59.73538836756495
+      },
+      "style": {
+        "fillColor": "pink",
+        "align": "center"
+      },
+      "frameId": "f-3",
+      "visualKind": "stickyNote",
+      "title": "Frustration when security is deprioritized for business speed"
+    },
+    {
+      "id": "n-62",
+      "position": {
+        "x": 1577.8601188103023,
+        "y": 338.8162690483889
+      },
+      "size": {
+        "width": 52.13746616291853,
+        "height": 59.73538836756495
+      },
+      "style": {
+        "fillColor": "pink",
+        "align": "center"
+      },
+      "frameId": "f-3",
+      "visualKind": "stickyNote",
+      "title": "Pride in building robust security architectures"
+    },
+    {
+      "id": "n-63",
+      "position": {
+        "x": 1656.0663180546946,
+        "y": 338.8162690483889
+      },
+      "size": {
+        "width": 52.13746616291853,
+        "height": 59.73538836756495
+      },
+      "style": {
+        "fillColor": "pink",
+        "align": "center"
+      },
+      "frameId": "f-3",
+      "visualKind": "stickyNote",
+      "title": "Overwhelmed by the complexity of enterprise systems"
+    },
+    {
+      "id": "n-64",
+      "position": {
+        "x": 1734.272517299087,
+        "y": 338.8162690483889
+      },
+      "size": {
+        "width": 52.13746616291853,
+        "height": 59.73538836756495
+      },
+      "style": {
+        "fillColor": "pink",
+        "align": "center"
+      },
+      "frameId": "f-3",
+      "visualKind": "stickyNote",
+      "title": "Anxiety about being held responsible for breaches"
+    },
+    {
+      "id": "n-65",
+      "position": {
+        "x": 1343.2415210771835,
+        "y": 417.02246829275214
+      },
+      "size": {
+        "width": 52.13746616291853,
+        "height": 59.73538836756495
+      },
+      "style": {
+        "fillColor": "pink",
+        "align": "center"
+      },
+      "frameId": "f-3",
+      "visualKind": "stickyNote",
+      "title": "Satisfaction when successfully preventing security incidents"
+    },
+    {
+      "id": "n-66",
+      "position": {
+        "x": 1401.1968065427902,
+        "y": 408.74734519144226
+      },
+      "size": {
+        "width": 37.69229513517737,
+        "height": 43.18514216492684
+      },
+      "style": {
+        "fillColor": "pink",
+        "align": "center"
+      },
+      "frameId": "f-3",
+      "visualKind": "stickyNote",
+      "title": "Stress from constant vigilance required in their role"
+    },
+    {
+      "id": "n-67",
+      "position": {
+        "x": 1441.6983216812189,
+        "y": 408.727806129785
+      },
+      "size": {
+        "width": 37.692295135178206,
+        "height": 43.1851421649278
+      },
+      "style": {
+        "fillColor": "yellow",
+        "align": "center"
+      },
+      "frameId": "f-3",
+      "visualKind": "stickyNote",
+      "title": "Increasing frequency and sophistication of attacks"
+    },
+    {
+      "id": "n-68",
+      "position": {
+        "x": 1577.8601188103023,
+        "y": 417.02246829275214
+      },
+      "size": {
+        "width": 52.13746616291853,
+        "height": 59.73538836756495
+      },
+      "style": {
+        "fillColor": "yellow",
+        "align": "center"
+      },
+      "frameId": "f-3",
+      "visualKind": "stickyNote",
+      "title": "Business leaders prioritizing features over security"
+    },
+    {
+      "id": "n-69",
+      "position": {
+        "x": 1421.4477203215758,
+        "y": 580.0699104370444
+      },
+      "size": {
+        "width": 52.13746616291853,
+        "height": 59.73538836756495
+      },
+      "style": {
+        "fillColor": "yellow",
+        "align": "center"
+      },
+      "frameId": "f-3",
+      "visualKind": "stickyNote",
+      "title": "Growing complexity in enterprise architecture"
+    },
+    {
+      "id": "n-70",
+      "position": {
+        "x": 1734.272517299087,
+        "y": 417.02246829275214
+      },
+      "size": {
+        "width": 52.13746616291853,
+        "height": 59.73538836756495
+      },
+      "style": {
+        "fillColor": "yellow",
+        "align": "center"
+      },
+      "frameId": "f-3",
+      "visualKind": "stickyNote",
+      "title": "Proliferation of cloud services with varying security models"
+    },
+    {
+      "id": "n-71",
+      "position": {
+        "x": 1499.653919565939,
+        "y": 417.02246829275214
+      },
+      "size": {
+        "width": 52.13746616291853,
+        "height": 59.73538836756495
+      },
+      "style": {
+        "fillColor": "yellow",
+        "align": "center"
+      },
+      "frameId": "f-3",
+      "visualKind": "stickyNote",
+      "title": "Audit findings and compliance gaps"
+    },
+    {
+      "id": "n-72",
+      "position": {
+        "x": 1343.2415210771835,
+        "y": 495.2286675371299
+      },
+      "size": {
+        "width": 52.13746616291853,
+        "height": 59.73538836756495
+      },
+      "style": {
+        "fillColor": "yellow",
+        "align": "center"
+      },
+      "frameId": "f-3",
+      "visualKind": "stickyNote",
+      "title": "Security incident reports from peer organizations"
+    },
+    {
+      "id": "n-73",
+      "position": {
+        "x": 1401.1906120574097,
+        "y": 490.25497926105277
+      },
+      "size": {
+        "width": 37.692295135178,
+        "height": 43.185142164927555
+      },
+      "style": {
+        "fillColor": "yellow",
+        "align": "center"
+      },
+      "frameId": "f-3",
+      "visualKind": "stickyNote",
+      "title": "Vendor presentations promising complete security solutions"
+    },
+    {
+      "id": "n-74",
+      "position": {
+        "x": 1577.8601188103023,
+        "y": 495.2286675371445
+      },
+      "size": {
+        "width": 52.13746616291853,
+        "height": 59.73538836756495
+      },
+      "style": {
+        "fillColor": "blue",
+        "align": "center"
+      },
+      "frameId": "f-3",
+      "visualKind": "stickyNote",
+      "title": "Executive concerns about security costs vs. benefits"
+    },
+    {
+      "id": "n-75",
+      "position": {
+        "x": 1656.0663180546946,
+        "y": 495.2286675371445
+      },
+      "size": {
+        "width": 52.13746616291853,
+        "height": 59.73538836756495
+      },
+      "style": {
+        "fillColor": "blue",
+        "align": "center"
+      },
+      "frameId": "f-3",
+      "visualKind": "stickyNote",
+      "title": "Development teams pushing back on security requirements"
+    },
+    {
+      "id": "n-76",
+      "position": {
+        "x": 1734.272517299087,
+        "y": 495.2286675371445
+      },
+      "size": {
+        "width": 52.13746616291853,
+        "height": 59.73538836756495
+      },
+      "style": {
+        "fillColor": "blue",
+        "align": "center"
+      },
+      "frameId": "f-3",
+      "visualKind": "stickyNote",
+      "title": "News about major security breaches in similar organizations"
+    },
+    {
+      "id": "n-77",
+      "position": {
+        "x": 1441.6983216812189,
+        "y": 490.2620764603937
+      },
+      "size": {
+        "width": 37.70468410594927,
+        "height": 43.19933656360017
+      },
+      "style": {
+        "fillColor": "blue",
+        "align": "center"
+      },
+      "frameId": "f-3",
+      "visualKind": "stickyNote",
+      "title": "Regulatory bodies announcing new compliance requirements"
+    },
+    {
+      "id": "n-78",
+      "position": {
+        "x": 1499.6537633563678,
+        "y": 498.52184947925093
+      },
+      "size": {
+        "width": 52.13746616291853,
+        "height": 59.73538836756495
+      },
+      "style": {
+        "fillColor": "blue",
+        "align": "center"
+      },
+      "frameId": "f-3",
+      "visualKind": "stickyNote",
+      "title": "Vendors claiming their solutions solve all security problems"
+    },
+    {
+      "id": "n-79",
+      "position": {
+        "x": 1343.2415210771835,
+        "y": 573.4348667815077
+      },
+      "size": {
+        "width": 52.13746616291853,
+        "height": 59.73538836756495
+      },
+      "style": {
+        "fillColor": "blue",
+        "align": "center"
+      },
+      "frameId": "f-3",
+      "visualKind": "stickyNote",
+      "title": "Colleagues reporting new vulnerabilities and threats"
+    },
+    {
+      "id": "n-80",
+      "position": {
+        "x": 1577.8601188103023,
+        "y": 573.4348667815077
+      },
+      "size": {
+        "width": 52.13746616291853,
+        "height": 59.73538836756495
+      },
+      "style": {
+        "fillColor": "blue",
+        "align": "center"
+      },
+      "frameId": "f-3",
+      "visualKind": "stickyNote",
+      "title": "Conflicting priorities from different organizational stakeholders"
+    },
+    {
+      "id": "n-81",
+      "position": {
+        "x": 1656.0663180546946,
+        "y": 573.4348667815077
+      },
+      "size": {
+        "width": 52.13746616291853,
+        "height": 59.73538836756495
+      },
+      "style": {
+        "fillColor": "gray",
+        "align": "center"
+      },
+      "frameId": "f-3",
+      "visualKind": "stickyNote",
+      "title": "We need to build security in from the beginning, not add it later"
+    },
+    {
+      "id": "n-82",
+      "position": {
+        "x": 1734.272517299087,
+        "y": 573.4348667815077
+      },
+      "size": {
+        "width": 52.13746616291853,
+        "height": 59.73538836756495
+      },
+      "style": {
+        "fillColor": "gray",
+        "align": "center"
+      },
+      "frameId": "f-3",
+      "visualKind": "stickyNote",
+      "title": "This architecture needs formal verification to ensure critical properties"
+    },
+    {
+      "id": "n-83",
+      "position": {
+        "x": 1343.2415210771835,
+        "y": 651.6410660258855
+      },
+      "size": {
+        "width": 52.13746616291853,
+        "height": 59.73538836756495
+      },
+      "style": {
+        "fillColor": "gray",
+        "align": "center"
+      },
+      "frameId": "f-3",
+      "visualKind": "stickyNote",
+      "title": "We can&#39;t secure what we don&#39;t understand"
+    },
+    {
+      "id": "n-84",
+      "position": {
+        "x": 1421.4477203215758,
+        "y": 651.6410660258855
+      },
+      "size": {
+        "width": 52.13746616291853,
+        "height": 59.73538836756495
+      },
+      "style": {
+        "fillColor": "gray",
+        "align": "center"
+      },
+      "frameId": "f-3",
+      "visualKind": "stickyNote",
+      "title": "Security is about risk management, not risk elimination"
+    },
+    {
+      "id": "n-85",
+      "position": {
+        "x": 1499.653919565939,
+        "y": 651.6410660258855
+      },
+      "size": {
+        "width": 52.13746616291853,
+        "height": 59.73538836756495
+      },
+      "style": {
+        "fillColor": "gray",
+        "align": "center"
+      },
+      "frameId": "f-3",
+      "visualKind": "stickyNote",
+      "title": "We need evidence that these controls actually work"
+    },
+    {
+      "id": "n-86",
+      "position": {
+        "x": 1577.8601188103023,
+        "y": 651.6410660258855
+      },
+      "size": {
+        "width": 52.13746616291853,
+        "height": 59.73538836756495
+      },
+      "style": {
+        "fillColor": "gray",
+        "align": "center"
+      },
+      "frameId": "f-3",
+      "visualKind": "stickyNote",
+      "title": "Compliance is necessary but not sufficient for security"
+    },
+    {
+      "id": "n-87",
+      "position": {
+        "x": 1656.0663180546946,
+        "y": 651.6410660258855
+      },
+      "size": {
+        "width": 52.13746616291853,
+        "height": 59.73538836756495
+      },
+      "style": {
+        "fillColor": "gray",
+        "align": "center"
+      },
+      "frameId": "f-3",
+      "visualKind": "stickyNote",
+      "title": "We need to balance security with usability and performance"
+    },
+    {
+      "id": "n-88",
+      "position": {
+        "x": 2289.6035102813175,
+        "y": 132.6341589710227
+      },
+      "size": {
+        "width": 334.7019352080077
+      },
+      "style": {
+        "fontSize": 19,
+        "textColor": "#1a1a1a",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-4",
+      "visualKind": "text",
+      "title": "<p><strong>User Story Text</strong></p>"
+    },
+    {
+      "id": "n-89",
+      "position": {
+        "x": 1065.1236464230306,
+        "y": 105.37030809768652
+      },
+      "size": {
+        "width": 263.09616092764657
+      },
+      "style": {
+        "fontSize": 19,
+        "textColor": "#1a1a1a",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-4",
+      "visualKind": "text",
+      "title": "<p><strong>Manual Story Mapping Tree</strong></p>"
+    },
+    {
+      "id": "n-90",
+      "position": {
+        "x": 855.840796389165,
+        "y": 578.7675370017114
+      },
+      "size": {
+        "width": 12.518572247759582
+      },
+      "style": {
+        "fontSize": 1,
+        "textColor": "#1a1a1a",
+        "fontFamily": "roobert",
+        "align": "left"
+      },
+      "frameId": "f-4",
+      "visualKind": "text",
+      "title": "<p>Possible toolsets</p>"
+    },
+    {
+      "id": "n-91",
+      "position": {
+        "x": 1050.101914164362,
+        "y": 224.00505617623452
+      },
+      "size": {
+        "width": 104.20677744849199,
+        "height": 119.39268973998077
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-4",
+      "visualKind": "stickyNote",
+      "title": "<p>Quick-Start Integrations (SIEM/EDR/Cloud &#43; Generic Webhook/API)<br /><br /><strong>Business Value: 8</strong></p>"
+    },
+    {
+      "id": "n-92",
+      "position": {
+        "x": 2122.252542675894,
+        "y": 175.15678654442485
+      },
+      "size": {
+        "width": 150.69289936593458,
+        "height": 706.5651761086422
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "frameId": "f-4",
+      "visualKind": "shape",
+      "title": "<h1>Quick-Start Integrations MVP: User Story Text</h1><h2>Overview</h2><p>This document captures the MVP user stories for Quick-Start Integrations (SIEM/EDR/Cloud + Generic Webhook/API). It reflects the lightweight, high–business-value approach discussed with Jason and Wei, focusing on what security engineers absolutely need to get value fast. The stories are split into small, independent vertical slices and prioritize a simple integration framework, generic webhook, common SIEM/EDR connectors, authentication, minimal data transformation, and basic documentation. The initiative is marked as high value (Business Value: 8) on the Story Mapping Tree.</p><h2>User Stories</h2><h3>1) Minimal Integration Service Framework</h3><p>As a security engineer, I want a lightweight, containerized integration service with a pluggable connector interface, so that I can deploy and enable integrations quickly.</p><ol><li data-list=\"bullet\">Service runs as a single container exposing a /health endpoint returning 200 when ready.</li><li data-list=\"bullet\">Config is file or environment-based; secrets accepted via env/file and never logged in plaintext.</li><li data-list=\"bullet\">Connector plugin interface supports register/enable/disable per connector via config.</li><li data-list=\"bullet\">Includes a sample “echo” connector to validate the framework end-to-end.</li></ol><h3>2) Authentication Module: API Key / Token</h3><p>As a security engineer, I want built-in API key and bearer token authentication, so that I can securely connect to common endpoints without custom code.</p><ol><li data-list=\"bullet\">Per-connector headers can include API keys or bearer tokens via templated config.</li><li data-list=\"bullet\">Secrets are loaded at startup, stored only in memory, and redacted from logs/metrics.</li><li data-list=\"bullet\">A connectivity test command/endpoint returns success/failure with actionable error messages.</li><li data-list=\"bullet\">Failed auth attempts are counted and exposed via a basic /metrics or logs.</li></ol><h3>3) Authentication Module: OAuth2 Client Credentials</h3><p>As a security engineer, I want OAuth2 client credentials support, so that I can connect to providers like CrowdStrike that require token acquisition and refresh.</p><ol><li data-list=\"bullet\">Config accepts tenant/base URL, client_id, client_secret, and scope (optional).</li><li data-list=\"bullet\">Tokens are automatically refreshed before expiry and cached per connector.</li><li data-list=\"bullet\">Auth failures (4xx/5xx) surface clear errors without exposing secrets.</li><li data-list=\"bullet\">Supports corporate proxy via standard env variables if present.</li></ol><h3>4) Generic Webhook Receiver</h3><p>As a security engineer, I want a generic webhook endpoint that accepts JSON from any source, so that I can onboard integrations without writing custom code.</p><ol><li data-list=\"bullet\">POST /webhook/{source} accepts JSON; returns 200 on valid payload and basic validation.</li><li data-list=\"bullet\">Optional per-source shared secret (HMAC) validation; invalid or missing secrets return 401.</li><li data-list=\"bullet\">Request size and rate limits are configurable; oversized or excessive requests return 4xx with clear status codes.</li><li data-list=\"bullet\">Successfully received payloads are forwarded to the pipeline and/or a simple sink (stdout/file/HTTP) as configured.</li><li data-list=\"bullet\">Handles at least 100 webhook requests per second with response time under 200ms for valid payloads.</li><li data-list=\"bullet\">Performance degrades gracefully under load with clear backpressure signals (429 responses) rather than service failure.</li></ol><h3>5) Minimal Event Normalization</h3><p>As a SOC analyst, I want incoming events mapped to a minimal common schema, so that I can search and route consistently across sources.</p><ol><li data-list=\"bullet\">Minimal schema includes: timestamp, source, event_type, severity, subject (host/user), and raw.</li><li data-list=\"bullet\">Mapping rules are declared per connector using simple JSONPath-like expressions with sane defaults.</li><li data-list=\"bullet\">If a mapped field is missing, defaults are applied and raw payload is preserved.</li><li data-list=\"bullet\">Unit tests validate mapping for sample payloads from Webhook, Splunk (HEC format), and CrowdStrike.</li><li data-list=\"bullet\">Event normalization processes at least 500 events per second on reference hardware (4 CPU cores, 8GB RAM).</li><li data-list=\"bullet\">Normalization latency is under 5ms per event for typical payloads under 10KB.</li></ol><h3>6) Splunk SIEM Connector (HEC Outbound)</h3><p>As a security engineer, I want to forward normalized events to Splunk via HEC, so that my team can see events in our SIEM immediately.</p><ol><li data-list=\"bullet\">Config includes HEC URL, token, index, and sourcetype; a “test connection” call verifies reachability.</li><li data-list=\"bullet\">Events are batched and sent with retry and exponential backoff on transient failures.</li><li data-list=\"bullet\">On permanent failures (e.g., 4xx), events are dropped with clear error logs including request ID (no secrets).</li><li data-list=\"bullet\">Successful deliveries include index and status in logs/metrics.</li><li data-list=\"bullet\">Achieves minimum throughput of 250 events per second to Splunk HEC with batching.</li><li data-list=\"bullet\">Memory usage remains stable during extended operation (no leaks) with buffer limits enforced.</li></ol><h3>7) CrowdStrike EDR Connector (Inbound via API)</h3><p>As a security engineer, I want to ingest CrowdStrike detections via API, so that endpoint alerts appear in the platform without manual export.</p><ol><li data-list=\"bullet\">Uses OAuth2 client credentials to obtain and refresh tokens automatically.</li><li data-list=\"bullet\">Polls detections on an interval; maintains a checkpoint (timestamp/offset) to avoid duplicates.</li><li data-list=\"bullet\">Maps key fields including timestamp, hostname, user, detection_id, tactic, technique, and severity to the minimal schema.</li><li data-list=\"bullet\">Handles rate limits (429) with backoff and resumes from last successful checkpoint.</li><li data-list=\"bullet\">Efficiently processes up to 10,000 detections in a single poll interval without memory issues.</li><li data-list=\"bullet\">Poll frequency is configurable with sensible defaults (5 minute interval) to balance freshness and API usage.</li></ol><h3>8) Cloud Integration (AWS GuardDuty via Webhook)</h3><p>As a security engineer, I want a quick path to receive AWS GuardDuty findings via HTTP, so that I can onboard cloud alerts rapidly.</p><ol><li data-list=\"bullet\">Provides a dedicated /webhook/guardduty endpoint that accepts standard GuardDuty finding JSON (from EventBridge API Destinations or similar).</li><li data-list=\"bullet\">Includes an example mapping to the minimal schema, preserving the full raw finding.</li><li data-list=\"bullet\">Rejects payloads exceeding size limit or failing basic JSON validation; returns appropriate status codes.</li><li data-list=\"bullet\">A sample curl and example EventBridge configuration snippet are included in the docs to verify end-to-end.</li></ol><h3>9) Basic Documentation and Quickstart</h3><p>As a security engineer, I want concise documentation and examples, so that I can configure integrations in under 30 minutes.</p><ol><li data-list=\"bullet\">README covers container run command, config options, and secrets handling.</li><li data-list=\"bullet\">Step-by-step guides for Generic Webhook, Splunk HEC, CrowdStrike API, and AWS GuardDuty endpoint, each with copy-paste examples.</li><li data-list=\"bullet\">Troubleshooting section lists common errors (auth, connectivity, rate limits) with resolutions.</li><li data-list=\"bullet\">Example config files and sample payloads are provided and validated against the running service.</li></ol><h2>Notes on MVP Principles</h2><ol><li data-list=\"bullet\"><span style=\"background-color:#FFF6B6;\">Minimal Integration Service Framework</span></li><li data-list=\"bullet\"><span style=\"background-color:#FFF6B6;\">Authentication Module: API Key / Token</span></li><li data-list=\"bullet\"><span style=\"background-color:#FFF6B6;\">Generic Webhook Receiver</span></li><li data-list=\"bullet\"><span style=\"background-color:#FFF6B6;\">Minimal Event Normalization</span></li><li data-list=\"bullet\"><span style=\"background-color:#FFF6B6;\">Authentication Module: OAuth2 Client Credentials</span></li><li data-list=\"bullet\"><span style=\"background-color:#FFF6B6;\">CrowdStrike EDR Connector (Inbound via API)</span></li><li data-list=\"bullet\"><span style=\"background-color:#FFF6B6;\">Splunk SIEM Connector (HEC Outbound)</span></li><li data-list=\"bullet\"><span style=\"background-color:#FFF6B6;\">Cloud Integration (AWS GuardDuty via Webhook)</span></li><li data-list=\"bullet\"><span style=\"background-color:#FFF6B6;\">Basic Documentation and Quickstart</span></li><li data-list=\"bullet\">Vertical slices: Each story is independently deployable and demonstrably useful.</li><li data-list=\"bullet\">Security-first: Secrets never logged; minimal attack surface with size/rate limits.</li><li data-list=\"bullet\">Fast path to value: Generic webhook + minimal mapping + at least one SIEM and one EDR connector.</li><li data-list=\"bullet\">Story splitting: Aligned to the “How to Split a User Story” guidance on the board to keep scope small and testable.</li></ol>"
+    },
+    {
+      "id": "n-93",
+      "position": {
+        "x": 1001.5141568600802,
+        "y": 306.02697694600096
+      },
+      "size": {
+        "width": 20.396015261085388,
+        "height": 23.368298892097833
+      },
+      "style": {
+        "fillColor": "yellow",
+        "align": "center"
+      },
+      "frameId": "f-4",
+      "visualKind": "stickyNote",
+      "title": "<p>Minimal Integration Service Framework</p>"
+    },
+    {
+      "id": "n-94",
+      "position": {
+        "x": 1035.7121644906429,
+        "y": 306.02697694600096
+      },
+      "size": {
+        "width": 20.396015261085388,
+        "height": 23.368298892097833
+      },
+      "style": {
+        "fillColor": "yellow",
+        "align": "center"
+      },
+      "frameId": "f-4",
+      "visualKind": "stickyNote",
+      "title": "<p>Authentication Module: API Key / Token</p>"
+    },
+    {
+      "id": "n-95",
+      "position": {
+        "x": 1070.108179751739,
+        "y": 306.02697694600096
+      },
+      "size": {
+        "width": 20.396015261085388,
+        "height": 23.368298892097833
+      },
+      "style": {
+        "fillColor": "yellow",
+        "align": "center"
+      },
+      "frameId": "f-4",
+      "visualKind": "stickyNote",
+      "title": "<p>Authentication Module: OAuth2 Client Credentials</p>"
+    },
+    {
+      "id": "n-96",
+      "position": {
+        "x": 1104.5041950128352,
+        "y": 306.02697694600096
+      },
+      "size": {
+        "width": 20.396015261085388,
+        "height": 23.368298892097833
+      },
+      "style": {
+        "fillColor": "yellow",
+        "align": "center"
+      },
+      "frameId": "f-4",
+      "visualKind": "stickyNote",
+      "title": "<p>Generic Webhook Receiver</p>"
+    },
+    {
+      "id": "n-97",
+      "position": {
+        "x": 1039.2899870758547,
+        "y": 336.39527583810735
+      },
+      "size": {
+        "width": 20.396015261085388,
+        "height": 23.368298892097833
+      },
+      "style": {
+        "fillColor": "yellow",
+        "align": "center"
+      },
+      "frameId": "f-4",
+      "visualKind": "stickyNote",
+      "title": "<p>Minimal Event Normalization</p>"
+    },
+    {
+      "id": "n-98",
+      "position": {
+        "x": 1069.8840099674844,
+        "y": 336.39527583810735
+      },
+      "size": {
+        "width": 20.396015261085388,
+        "height": 23.368298892097833
+      },
+      "style": {
+        "fillColor": "yellow",
+        "align": "center"
+      },
+      "frameId": "f-4",
+      "visualKind": "stickyNote",
+      "title": "<p>Splunk SIEM Connector (HEC Outbound)</p>"
+    },
+    {
+      "id": "n-99",
+      "position": {
+        "x": 1039.2899870758547,
+        "y": 366.7635747301992
+      },
+      "size": {
+        "width": 20.396015261085388,
+        "height": 23.368298892097833
+      },
+      "style": {
+        "fillColor": "yellow",
+        "align": "center"
+      },
+      "frameId": "f-4",
+      "visualKind": "stickyNote",
+      "title": "<p>CrowdStrike EDR Connector (Inbound via API)</p>"
+    },
+    {
+      "id": "n-100",
+      "position": {
+        "x": 1067.453552886217,
+        "y": 366.7635747301992
+      },
+      "size": {
+        "width": 20.396015261085388,
+        "height": 23.368298892097833
+      },
+      "style": {
+        "fillColor": "yellow",
+        "align": "center"
+      },
+      "frameId": "f-4",
+      "visualKind": "stickyNote",
+      "title": "<p>Cloud Integration (AWS GuardDuty via Webhook)</p>"
+    },
+    {
+      "id": "n-101",
+      "position": {
+        "x": 1102.5455380522317,
+        "y": 336.39527583810735
+      },
+      "size": {
+        "width": 20.396015261085388,
+        "height": 23.368298892097833
+      },
+      "style": {
+        "fillColor": "yellow",
+        "align": "center"
+      },
+      "frameId": "f-4",
+      "visualKind": "stickyNote",
+      "title": "Basic Documentation and Quickstart"
+    },
+    {
+      "id": "n-102",
+      "position": {
+        "x": 469.7064990685749,
+        "y": 435.34100428248524
+      },
+      "size": {
+        "width": 804.2057639176365,
+        "height": 520.3684354761177
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "frameId": "f-4",
+      "visualKind": "shape",
+      "title": "HW-Story-Splitting-Flowchart.pdf"
+    },
+    {
+      "id": "n-103",
+      "position": {
+        "x": 138.9295883936129,
+        "y": 691.0529548862414
+      },
+      "size": {
+        "width": 85.86752897870292
+      },
+      "style": {
+        "fontSize": 6,
+        "textColor": "#1a1a1a",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-4",
+      "visualKind": "text",
+      "title": "<p><a href=\"https://humanizingwork.com/\">https://humanizingwork.com</a></p>"
+    },
+    {
+      "id": "n-104",
+      "position": {
+        "x": 391.70744878892697,
+        "y": 95.54575239289329
+      },
+      "size": {
+        "width": 377.6043345956378
+      },
+      "style": {
+        "fontSize": 19,
+        "textColor": "#1a1a1a",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-5",
+      "visualKind": "text",
+      "title": "<p><strong>Backlog and Estimated Sprint Timelines</strong></p>"
+    },
+    {
+      "id": "n-105",
+      "position": {
+        "x": 640.5591564641302,
+        "y": 289.1417447533174
+      },
+      "size": {
+        "width": 656.216107863824,
+        "height": 285.95528311427057
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "frameId": "f-5",
+      "visualKind": "shape",
+      "title": "[pipmatrix]"
+    },
+    {
+      "id": "n-106",
+      "position": {
+        "x": 470.63856569314635,
+        "y": 635.8186518939917
+      },
+      "size": {
+        "width": 316.37492632184416,
+        "height": 251.8548161238294
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "frameId": "f-5",
+      "visualKind": "shape",
+      "title": "[kanban]"
+    },
+    {
+      "id": "n-107",
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "size": {
+        "width": 90.55454062879261,
+        "height": 24.902498672917964
+      },
+      "style": {
+        "borderColor": "#ffdc4a"
+      },
+      "visualKind": "card",
+      "title": "<p>New Items</p>",
+      "body": "<p>text</p>"
+    },
+    {
+      "id": "n-108",
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "size": {
+        "width": 90.55454062879261,
+        "height": 16.978976367898614
+      },
+      "style": {
+        "borderColor": "#ffdc4a"
+      },
+      "visualKind": "card",
+      "title": "<p>Initiative</p>",
+      "body": ""
+    },
+    {
+      "id": "n-109",
+      "position": {
+        "x": 202.90528149109127,
+        "y": 146.16410319617785
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "frameId": "f-5",
+      "visualKind": "shape",
+      "title": "[estimates]"
+    },
+    {
+      "id": "n-110",
+      "position": {
+        "x": 202.90528149109127,
+        "y": 206.6470009516495
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "frameId": "f-5",
+      "visualKind": "shape",
+      "title": "[people]"
+    },
+    {
+      "id": "n-111",
+      "position": {
+        "x": 202.90528149109127,
+        "y": 509.8912438320265
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "frameId": "f-5",
+      "visualKind": "shape",
+      "title": "[estimates]"
+    },
+    {
+      "id": "n-112",
+      "position": {
+        "x": 202.90528149109127,
+        "y": 570.3741415874836
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "frameId": "f-5",
+      "visualKind": "shape",
+      "title": "[people]"
+    },
+    {
+      "id": "n-113",
+      "position": {
+        "x": 111.16958148594972,
+        "y": 232.59858953599246
+      },
+      "size": {
+        "width": 24.659941867662265
+      },
+      "style": {
+        "fontSize": 2,
+        "textColor": "#1a1a1a",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "frameId": "f-5",
+      "visualKind": "text",
+      "title": "<p><strong>For this template</strong></p>"
+    },
+    {
+      "id": "n-114",
+      "position": {
+        "x": 138.63491887151872,
+        "y": 261.16779956658206
+      },
+      "size": {
+        "width": 90.22369811247614,
+        "height": 19.040715510749838
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "frameId": "f-5",
+      "visualKind": "shape",
+      "title": "[action_button]"
+    },
+    {
+      "id": "n-115",
+      "position": {
+        "x": 138.63491887151872,
+        "y": 245.75455251807648
+      },
+      "size": {
+        "width": 90.22369811247651,
+        "height": 19.040715510749912
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "frameId": "f-5",
+      "visualKind": "shape",
+      "title": "[action_button]"
+    },
+    {
+      "id": "n-116",
+      "position": {
+        "x": 1235.8725028171987,
+        "y": 146.1641031961924
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "frameId": "f-5",
+      "visualKind": "shape",
+      "title": "[data_table_format]"
+    },
+    {
+      "id": "n-117",
+      "position": {
+        "x": 1956.1676546254687,
+        "y": 571.5514913366794
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "frameId": "f-5",
+      "visualKind": "shape",
+      "title": "[widgets_stack]"
+    },
+    {
+      "id": "n-118",
+      "position": {
+        "x": 82.50000000003317,
+        "y": 114.0000000000389
+      },
+      "size": {
+        "width": 81.20383137335448,
+        "height": 93.03755554334082
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": ""
+    },
+    {
+      "id": "n-119",
+      "position": {
+        "x": 2345.7589681447216,
+        "y": 567.8515266493639
+      },
+      "size": {
+        "width": 694.6702450420308,
+        "height": 71.24659118741853
+      },
+      "style": {
+        "fillColor": "#e7e7e7",
+        "borderColor": "#1a1a1a",
+        "textColor": "#1a1a1a",
+        "fontSize": 10,
+        "fontFamily": "noto_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-5",
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-120",
+      "position": {
+        "x": 2060.050855781891,
+        "y": 567.8515266493639
+      },
+      "size": {
+        "width": 123.2540203163744,
+        "height": 71.24659118741853
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#e7e7e7",
+        "textColor": "#1a1a1a",
+        "fontSize": 10,
+        "fontFamily": "noto_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-5",
+      "visualKind": "shape",
+      "title": "<p>Now</p>"
+    },
+    {
+      "id": "n-121",
+      "position": {
+        "x": 2345.7589681447216,
+        "y": 641.182627813804
+      },
+      "size": {
+        "width": 694.6702450420308,
+        "height": 71.24659118741853
+      },
+      "style": {
+        "fillColor": "#e7e7e7",
+        "borderColor": "#1a1a1a",
+        "textColor": "#1a1a1a",
+        "fontSize": 10,
+        "fontFamily": "noto_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-5",
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-122",
+      "position": {
+        "x": 2060.050855781891,
+        "y": 641.182627813804
+      },
+      "size": {
+        "width": 123.2540203163744,
+        "height": 71.24659118741853
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#e7e7e7",
+        "textColor": "#1a1a1a",
+        "fontSize": 10,
+        "fontFamily": "noto_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-5",
+      "visualKind": "shape",
+      "title": "<p>Next</p>"
+    },
+    {
+      "id": "n-123",
+      "position": {
+        "x": 2345.7589681447216,
+        "y": 714.5137289782585
+      },
+      "size": {
+        "width": 694.6702450420308,
+        "height": 71.24659118741853
+      },
+      "style": {
+        "fillColor": "#e7e7e7",
+        "borderColor": "#1a1a1a",
+        "textColor": "#1a1a1a",
+        "fontSize": 10,
+        "fontFamily": "noto_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-5",
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-124",
+      "position": {
+        "x": 2060.050855781891,
+        "y": 714.5137289782585
+      },
+      "size": {
+        "width": 123.2540203163744,
+        "height": 71.24659118741853
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#e7e7e7",
+        "textColor": "#1a1a1a",
+        "fontSize": 10,
+        "fontFamily": "noto_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-5",
+      "visualKind": "shape",
+      "title": "<p>Later</p>"
+    },
+    {
+      "id": "n-125",
+      "position": {
+        "x": 2015.7767551104273,
+        "y": 520.0760954249861
+      },
+      "size": {
+        "width": 1.6080505537104428
+      },
+      "style": {
+        "fontSize": 0,
+        "textColor": "#1a1a1a",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-5",
+      "visualKind": "text",
+      "title": "<p>Np</p>"
+    },
+    {
+      "id": "n-126",
+      "position": {
+        "x": 2060.1029685313197,
+        "y": 518.2159873873904
+      },
+      "size": {
+        "width": 123.14979481670422
+      },
+      "style": {
+        "fontSize": 11,
+        "textColor": "#1a1a1a",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-5",
+      "visualKind": "text",
+      "title": "<p>  Now Next Later</p>"
+    },
+    {
+      "id": "n-127",
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "size": {
+        "width": 90.55454062879261,
+        "height": 16.978976367898614
+      },
+      "style": {
+        "borderColor": "#ffdc4a"
+      },
+      "visualKind": "card",
+      "title": "",
+      "body": ""
+    },
+    {
+      "id": "n-128",
+      "position": {
+        "x": 1235.917382091525,
+        "y": 509.8912438320265
+      },
+      "size": {
+        "width": 178.82345024972983,
+        "height": 252.141064852119
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "frameId": "f-5",
+      "visualKind": "shape",
+      "title": "<h1></h1><p></p>"
+    },
+    {
+      "id": "n-129",
+      "position": {
+        "x": 154.61933726253596,
+        "y": 520.2403341895995
+      },
+      "size": {
+        "width": 71.99647772597254
+      },
+      "style": {
+        "fontSize": 9,
+        "textColor": "#1a1a1a",
+        "fontFamily": "roobert",
+        "align": "left"
+      },
+      "frameId": "f-5",
+      "visualKind": "text",
+      "title": "<p><strong>Backlog Refinement (Jira)</strong></p>"
+    },
+    {
+      "id": "n-130",
+      "position": {
+        "x": 153.17324064742684,
+        "y": 546.8153224598943
+      },
+      "size": {
+        "width": 70.71937650928524
+      },
+      "style": {
+        "fontSize": 4,
+        "textColor": "#2c2e33",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "frameId": "f-5",
+      "visualKind": "text",
+      "title": "<p>Present your team&#39;s completed work, gather feedback, and ensure alignment with stakeholder expectations</p>"
+    },
+    {
+      "id": "n-131",
+      "position": {
+        "x": 258270.31219063135,
+        "y": 65344.6813148944
+      },
+      "size": {
+        "width": 182.94409356079063,
+        "height": 146.27449731353644
+      },
+      "style": {
+        "fillColor": "#2d95de",
+        "borderColor": "#ffffff",
+        "textColor": "#ffffff",
+        "fontSize": 5,
+        "fontFamily": "noto_sans",
+        "borderWidth": 5,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "hexagon"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": "<p><strong></strong></p>"
+    },
+    {
+      "id": "n-132",
+      "position": {
+        "x": 258270.31219063135,
+        "y": 65344.6813148944
+      },
+      "size": {
+        "width": 90.48674464473575
+      },
+      "style": {
+        "fontSize": 16,
+        "textColor": "#ffffff",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong>EMPATHIZE</strong></p>"
+    },
+    {
+      "id": "n-133",
+      "position": {
+        "x": 258270.31219063132,
+        "y": 66844.6636684584
+      },
+      "size": {
+        "width": 262.0417029955923,
+        "height": 913.2186428686182
+      },
+      "style": {
+        "fillColor": "#2f2f2f",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 24,
+        "fontFamily": "noto_sans",
+        "borderWidth": 5,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": "<p></p>"
+    },
+    {
+      "id": "n-134",
+      "position": {
+        "x": 258265.8024362138,
+        "y": 66824.61498089445
+      },
+      "size": {
+        "width": 199.84154995
+      },
+      "style": {
+        "fontSize": 10,
+        "textColor": "#ffffff",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p>1. Use the button to active your virtual teammate, Latifa</p><p><br /></p><p>2. Review the target industry sector and job role you identified from your initial conversation with Sonia. Who is the most beneficial user type for you to begin your project, product or service with? Discuss with your real-life team, if you have one.</p><p><br /></p><p>3. Latifa will ask questions and use your answers to generate sticky notes that answer the Empathy Map questions. Then she&#39;ll create sticky notes that you can refine and place on the map with your real-life team, if you have one.</p><p><br /></p><p>The Empathy Map helps you understand the thought and behavior of your target user to create a deeper understanding of the persona whose problems your work will solve. The map will be used in the following steps.</p>"
+    },
+    {
+      "id": "n-135",
+      "position": {
+        "x": 258270.31219063132,
+        "y": 66622.03298763934
+      },
+      "size": {
+        "width": 208.86105879000002
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#ffffff",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong>Persona Empathy Mapping Instructions</strong></p>"
+    },
+    {
+      "id": "n-136",
+      "position": {
+        "x": 258270.31219063135,
+        "y": 68044.68635622913
+      },
+      "size": {
+        "width": 262.0417029955923,
+        "height": 913.2186428686057
+      },
+      "style": {
+        "fillColor": "#2f2f2f",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 24,
+        "fontFamily": "noto_sans",
+        "borderWidth": 5,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-137",
+      "position": {
+        "x": 258270.31219063135,
+        "y": 68112.01520391143
+      },
+      "size": {
+        "width": 207.87689830026727
+      },
+      "style": {
+        "fontSize": 13,
+        "textColor": "#ffffff",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p>1. Now that you&#39;ve got the Empathy Map, your virtual expert Aarav will ask you questions to further refine your initial user target and create an in-depth summary card of who that target user is, how they work, what their responsibilities are, and what skills they need.</p><p><br /></p><p>2. Refine the output and organize into a Miro table if helpful. Discuss with your real-life team, if you have one.</p><p><br /></p><p>3. Based on your competitor research, identify gaps in the problems other products, projects, or services solve, and look for a market niche that supports the persona in their role. This information will be used in the following step.</p>"
+    },
+    {
+      "id": "n-138",
+      "position": {
+        "x": 258270.31219063135,
+        "y": 67825.16791374859
+      },
+      "size": {
+        "width": 207.03933546428573
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#ffffff",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong>User Details Instructions</strong></p>"
+    },
+    {
+      "id": "n-139",
+      "position": {
+        "x": 258278.90305839037,
+        "y": 69221.18847917065
+      },
+      "size": {
+        "width": 262.0417029955923,
+        "height": 888.6719930656393
+      },
+      "style": {
+        "fillColor": "#2f2f2f",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 24,
+        "fontFamily": "noto_sans",
+        "borderWidth": 5,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-140",
+      "position": {
+        "x": 258278.90305839037,
+        "y": 69304.79232056931
+      },
+      "size": {
+        "width": 208.86105878519848
+      },
+      "style": {
+        "fontSize": 13,
+        "textColor": "#ffffff",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p>1. Now that we&#39;ve done some research and identified our persona, let&#39;s have a virtual UX team meeting about the user&#39;s pain points.</p><p><br /></p><p>2. Use the button to call up the virtual team and chat through how and where your concept can alleviate those pain points, and what the user will gain with your proposed solution.</p><p><br /></p><p>3. The team will create a report and sticky notes based on your conversation.  Refine and/or organize into a table. This report and sticky notes will be used later in the flow. Discuss the output with your real-life team, if you have one. Sense-making with humans is crucial here.</p>"
+    },
+    {
+      "id": "n-141",
+      "position": {
+        "x": 258278.90305839037,
+        "y": 69018.85005080083
+      },
+      "size": {
+        "width": 208.86105879000002
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#ffffff",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong>User Pains &amp; Gains Instructions</strong></p>"
+    },
+    {
+      "id": "n-142",
+      "position": {
+        "x": 258270.31219063132,
+        "y": 70389.96538993188
+      },
+      "size": {
+        "width": 262.0417029955923,
+        "height": 890.555299411495
+      },
+      "style": {
+        "fillColor": "#2f2f2f",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 24,
+        "fontFamily": "noto_sans",
+        "borderWidth": 5,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-143",
+      "position": {
+        "x": 258270.31219063132,
+        "y": 70497.48945421298
+      },
+      "size": {
+        "width": 182.9196457857143
+      },
+      "style": {
+        "fontSize": 10,
+        "textColor": "#ffffff",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p>1. Now it&#39;s time to think more concretely about the solution. Use the button to activate Jason, your virtual Product Owner, who will discuss with you how you can gather previous learnings from this framework and place bets on features to solve the target user&#39;s pain points and creates meaningful business value.</p><p><br /></p><p>2. Jason will create a report and sticky notes with high-level titles and an estimated business value. Refine as needed and use Miro AI to generate a table. Epics are big goals; Features are smaller ones that should add up to achieve an Epic&#39;s functionality. Think about what size bet you can place right now, how that translates into value, and how the work Jason suggests dovetails into the user&#39;s issue(s) you are learning your way forward to solve. Discuss with your real-life team, if you have one. The outcome here will be used as we go through the flow.</p><p><br /></p><p>3. Ideally you want to build the highest value items first. But balancing your capacity, funding, and being honest about what you can actually achieve are key. Otherwise, you may build the wrong thing, or not be able to deliver a huge feature in a timely way. It may make sense to build up your solution with smaller features that offer useful business value at the start. Think about this carefully and be wise, lest you deplete your money, energy, and time.</p>"
+    },
+    {
+      "id": "n-144",
+      "position": {
+        "x": 258282.82644444497,
+        "y": 70168.31054424866
+      },
+      "size": {
+        "width": 208.86105879000002
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#ffffff",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong>Epics or Features  Instructions</strong></p>"
+    },
+    {
+      "id": "n-145",
+      "position": {
+        "x": 258270.31219063135,
+        "y": 71588.61741573442
+      },
+      "size": {
+        "width": 262.0417029955923,
+        "height": 900.7184700719899
+      },
+      "style": {
+        "fillColor": "#2f2f2f",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 24,
+        "fontFamily": "noto_sans",
+        "borderWidth": 5,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-146",
+      "position": {
+        "x": 258270.31219063135,
+        "y": 71707.14287978396
+      },
+      "size": {
+        "width": 217.92440532142857
+      },
+      "style": {
+        "fontSize": 10,
+        "textColor": "#ffffff",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p>1. Once you&#39;ve decided on what Epic or Features you want to focus on first, use the button to call a Product-Dev team meeting. You&#39;ll converse with Jason and Wei, your lead dev, as well as other virtual devs on how to divide your first bets into small slices that can realistically be developed for release. The output here will be used for our final piece of the flow.</p><p><br /></p><p>2. After the meeting, Jason offers a report and sticky notes of proposed user stories to build. You can refine these, and use Miro&#39;s table creation or story mapping feature from the menu bar to build out a proper story map to show how each story relates to the feature(s) you have selected, as well as to each other. You can even use Miro&#39;s Prototype feature to get a nice sense of what you are creating.</p><p><br /></p><p>3. Review this output with a critical eye, comparing to the story mapping guide in the frame. Do these stories need to be split further? Do you have the skills and technology to build these? Do you need to declare a learning time, or Spike, to investigate a technology, dive into your data, or figure out how to do something? Remember, our work here is emergent and based on learning. But we have to balance learning with delivery. As Steve Jobs said, &#34;great artists ship!&#34; Releasing high-quality, working code into the user&#39;s hands is the only way to realize value.<br /> If you have a real-life team, take extra time and care to go through these results with a fine-tooth comb. <br /><br /></p><p>Ask yourself again: Do you have the capacity, ability and time to build these? Do these stories add up to the Feature or Epic? Do they address the user pain point or problem? <br />Or have you drifted away from the user? Beware of this! Pivot and re-do previous steps if so.</p>"
+    },
+    {
+      "id": "n-147",
+      "position": {
+        "x": 258270.31219063135,
+        "y": 71355.47324802748
+      },
+      "size": {
+        "width": 208.86105879000002
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#ffffff",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong>Story Mapping Instructions</strong></p>"
+    },
+    {
+      "id": "n-148",
+      "position": {
+        "x": 258270.31219063135,
+        "y": 72758.32174128093
+      },
+      "size": {
+        "width": 262.0417029955923,
+        "height": 821.4531586662029
+      },
+      "style": {
+        "fillColor": "#2f2f2f",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 24,
+        "fontFamily": "noto_sans",
+        "borderWidth": 5,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-149",
+      "position": {
+        "x": 258270.31219063135,
+        "y": 72857.59485706575
+      },
+      "size": {
+        "width": 220.12060446965927
+      },
+      "style": {
+        "fontSize": 9,
+        "textColor": "#ffffff",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p>1. Now that you&#39;ve decided where to place your bets and refined your user stories, it&#39;s time to use the button to summon your Scrum Master/ Delivery Lead Jay Jay and gather the team for a sprint or iteration planning session. Here, you&#39;ll use Miro features in the JIRA-connected tools to place your user stories into your JIRA backlog. This is another opportunity to refine the user stories and plan the order of the work to deliver value. Use it well! Take your time, asking JayJay and the team questions for each story before JayJay generates a report of the meeting.</p><p><br /></p><p>2. <a href=\"https://help.miro.com/hc/en-us/articles/360017572414-Miro-for-Jira-Cloud\">Read how to use the JIRA widget</a> in Miro. Then, <a href=\"https://help.miro.com/hc/en-us/articles/10648975837970-Planner-for-Jira\">learn how to use the JIRA-connected planner.</a> Finally, <a href=\"https://miro.com/templates/sprint-roadmap/\">learn how to use the JIRA-connected roadmap template</a>. These features may require a paid account, IT help or special permissions, so get these pieces set up before you begin this last step of the flow. If you want a simpler, more agile and adaptive roadmap, just drag your finalized stories as sticky notes into the basic <strong><em>Now-Next-Later</em></strong> form favored by many agilists today, and enter them into your JIRA manually if necessary.</p><p><br /></p><p>3. As you go through this last and most thoughtful step, consult with your real-life team if you have one. JayJay, the virtual team, and the real-life team can deviate from the user&#39;s needs at this point too. <br /><br /></p><p>Take as much time as you can afford to review what you&#39;re doing here. This is the most difficult point from which to pivot and recover. Ensure no slop, whether human or virtual, ends up in your backlog.</p>"
+    },
+    {
+      "id": "n-150",
+      "position": {
+        "x": 258270.31219063135,
+        "y": 72562.9109014494
+      },
+      "size": {
+        "width": 208.86105879000002
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#ffffff",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong>Backlog &amp; Timeline Instructions</strong></p>"
+    },
+    {
+      "id": "n-151",
+      "position": {
+        "x": 1246.9572283994248,
+        "y": 180.6603835416775
+      },
+      "size": {
+        "width": 55.22634145845816,
+        "height": 35.976016721509886
+      },
+      "style": {
+        "fillColor": "orange",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "stickyNote",
+      "title": "<p><strong><em>EXAMPLE</em></strong></p>"
+    },
+    {
+      "id": "n-152",
+      "position": {
+        "x": 258270.31219063132,
+        "y": 66489.51656881139
+      },
+      "size": {
+        "width": 183.83255115689815,
+        "height": 146.9848710989128
+      },
+      "style": {
+        "fillColor": "#2d95de",
+        "borderColor": "#ffffff",
+        "textColor": "#ffffff",
+        "fontSize": 5,
+        "fontFamily": "noto_sans",
+        "borderWidth": 5,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "hexagon"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": "<p><strong></strong></p>"
+    },
+    {
+      "id": "n-153",
+      "position": {
+        "x": 258270.31219063132,
+        "y": 66489.51656881139
+      },
+      "size": {
+        "width": 90.92618837894925
+      },
+      "style": {
+        "fontSize": 16,
+        "textColor": "#ffffff",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong>EMPATHIZE</strong></p>"
+    },
+    {
+      "id": "n-154",
+      "position": {
+        "x": 258270.31219063138,
+        "y": 67691.35920067217
+      },
+      "size": {
+        "width": 183.83255115692842,
+        "height": 146.984871098937
+      },
+      "style": {
+        "fillColor": "#2dc75c",
+        "borderColor": "#ffffff",
+        "textColor": "#ffffff",
+        "fontSize": 5,
+        "fontFamily": "noto_sans",
+        "borderWidth": 5,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "hexagon"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": "<p><strong></strong></p>"
+    },
+    {
+      "id": "n-155",
+      "position": {
+        "x": 258270.31219063135,
+        "y": 67691.35920067217
+      },
+      "size": {
+        "width": 183.83255115192446
+      },
+      "style": {
+        "fontSize": 16,
+        "textColor": "#ffffff",
+        "fontFamily": "noto_sans",
+        "align": "center"
+      },
+      "visualKind": "text",
+      "title": "<p><strong>DEFINE</strong></p>"
+    },
+    {
+      "id": "n-156",
+      "position": {
+        "x": 258270.31219063135,
+        "y": 70054.67313461796
+      },
+      "size": {
+        "width": 183.83255115688482,
+        "height": 146.98487109890215
+      },
+      "style": {
+        "fillColor": "#fe9f4d",
+        "borderColor": "#ffffff",
+        "textColor": "#ffffff",
+        "fontSize": 5,
+        "fontFamily": "noto_sans",
+        "borderWidth": 5,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "hexagon"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": "<p><strong></strong></p>"
+    },
+    {
+      "id": "n-157",
+      "position": {
+        "x": 258270.3121906313,
+        "y": 70054.67313461796
+      },
+      "size": {
+        "width": 183.83255115188086
+      },
+      "style": {
+        "fontSize": 16,
+        "textColor": "#ffffff",
+        "fontFamily": "noto_sans",
+        "align": "center"
+      },
+      "visualKind": "text",
+      "title": "<p><strong>IDEATE</strong></p>"
+    },
+    {
+      "id": "n-158",
+      "position": {
+        "x": 258270.31219063138,
+        "y": 71239.92253169339
+      },
+      "size": {
+        "width": 183.83255115689576,
+        "height": 146.98487109891087
+      },
+      "style": {
+        "fillColor": "#ff6464",
+        "borderColor": "#ffffff",
+        "textColor": "#ffffff",
+        "fontSize": 5,
+        "fontFamily": "noto_sans",
+        "borderWidth": 5,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "hexagon"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": "<p><strong></strong></p>"
+    },
+    {
+      "id": "n-159",
+      "position": {
+        "x": 258270.31219063132,
+        "y": 71239.92253169339
+      },
+      "size": {
+        "width": 183.8325511518918
+      },
+      "style": {
+        "fontSize": 16,
+        "textColor": "#ffffff",
+        "fontFamily": "noto_sans",
+        "align": "center"
+      },
+      "visualKind": "text",
+      "title": "<p><strong>PROTOTYPE</strong></p>"
+    },
+    {
+      "id": "n-160",
+      "position": {
+        "x": 258270.31219063135,
+        "y": 72443.14091434072
+      },
+      "size": {
+        "width": 183.8325511568885,
+        "height": 146.98487109890507
+      },
+      "style": {
+        "fillColor": "#bd0a0a",
+        "borderColor": "#ffffff",
+        "textColor": "#ffffff",
+        "fontSize": 5,
+        "fontFamily": "noto_sans",
+        "borderWidth": 5,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "hexagon"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": "<p><strong></strong></p>"
+    },
+    {
+      "id": "n-161",
+      "position": {
+        "x": 258270.31219063132,
+        "y": 72443.14091434072
+      },
+      "size": {
+        "width": 183.83255115188456
+      },
+      "style": {
+        "fontSize": 16,
+        "textColor": "#ffffff",
+        "fontFamily": "noto_sans",
+        "align": "center"
+      },
+      "visualKind": "text",
+      "title": "<p><strong>TEST</strong></p>"
+    },
+    {
+      "id": "n-162",
+      "position": {
+        "x": 258278.90305839037,
+        "y": 68879.01113369553
+      },
+      "size": {
+        "width": 183.83255115692842,
+        "height": 146.984871098937
+      },
+      "style": {
+        "fillColor": "#2dc75c",
+        "borderColor": "#ffffff",
+        "textColor": "#ffffff",
+        "fontSize": 5,
+        "fontFamily": "noto_sans",
+        "borderWidth": 5,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "hexagon"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": "<p><strong></strong></p>"
+    },
+    {
+      "id": "n-163",
+      "position": {
+        "x": 258278.90305839034,
+        "y": 68879.01113369553
+      },
+      "size": {
+        "width": 183.83255115192446
+      },
+      "style": {
+        "fontSize": 16,
+        "textColor": "#ffffff",
+        "fontFamily": "noto_sans",
+        "align": "center"
+      },
+      "visualKind": "text",
+      "title": "<p><strong>DEFINE</strong></p>"
+    },
+    {
+      "id": "n-164",
+      "position": {
+        "x": 258270.31219063135,
+        "y": 65917.09003917154
+      },
+      "size": {
+        "width": 201.80213675000002
+      },
+      "style": {
+        "fontSize": 10,
+        "textColor": "#ffffff",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p>1. Use the button above the righthand corner of this block to activate your virtual teammate, Sonia, who will ask you questions to help you discover more about your intended market and competitors.</p><p><br /></p><p>2. Review the report on the landscape that Sonia generates. Discuss with your real-life team as well, if you have one.</p><p><br /></p><p>This report will help identify which job role you can start to solve for, and shape the resulting work as your flow continues.</p>"
+    },
+    {
+      "id": "n-165",
+      "position": {
+        "x": 258273.84165164927,
+        "y": 65787.64168975716
+      },
+      "size": {
+        "width": 208.86105879000002
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#ffffff",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong>Market Research Instructions</strong></p>"
+    },
+    {
+      "id": "n-166",
+      "position": {
+        "x": 1922.6439193308581,
+        "y": 90.508066656462
+      },
+      "size": {
+        "width": 55.22634145845816,
+        "height": 35.976016721509886
+      },
+      "style": {
+        "fillColor": "orange",
+        "align": "center"
+      },
+      "frameId": "f-3",
+      "visualKind": "stickyNote",
+      "title": "<p><strong><em>EXAMPLE</em></strong></p>"
+    },
+    {
+      "id": "n-167",
+      "position": {
+        "x": 1552.8740247028002,
+        "y": 456.81343361488075
+      },
+      "size": {
+        "width": 507.3433187074552,
+        "height": 504.27028249946306
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#1a1a1a",
+        "textColor": "#1a1a1a",
+        "fontSize": 18,
+        "fontFamily": "noto_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 0.0
+      },
+      "frameId": "f-3",
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-168",
+      "position": {
+        "x": 1432.9312985195832,
+        "y": 200.63686052164235
+      },
+      "size": {
+        "width": 55.22634145845816,
+        "height": 35.976016721509886
+      },
+      "style": {
+        "fillColor": "orange",
+        "align": "center"
+      },
+      "frameId": "f-3",
+      "visualKind": "stickyNote",
+      "title": "<p><strong><em>EXAMPLE</em></strong></p>"
+    },
+    {
+      "id": "n-169",
+      "position": {
+        "x": 1155.515523213463,
+        "y": 70.59963309895943
+      },
+      "size": {
+        "width": 55.22634145845816,
+        "height": 35.976016721509886
+      },
+      "style": {
+        "fillColor": "orange",
+        "align": "center"
+      },
+      "frameId": "f-2",
+      "visualKind": "stickyNote",
+      "title": "<p><strong><em>EXAMPLE</em></strong></p>"
+    },
+    {
+      "id": "n-170",
+      "position": {
+        "x": 917.4717633270157,
+        "y": 147.0883194092209
+      },
+      "size": {
+        "width": 55.22634145845816,
+        "height": 35.976016721509886
+      },
+      "style": {
+        "fillColor": "orange",
+        "align": "center"
+      },
+      "frameId": "f-1",
+      "visualKind": "stickyNote",
+      "title": "<p><strong><em>EXAMPLE</em></strong></p>"
+    },
+    {
+      "id": "n-171",
+      "position": {
+        "x": 635.2398229877545,
+        "y": 147.0883194092209
+      },
+      "size": {
+        "width": 55.22634145845816,
+        "height": 35.976016721509886
+      },
+      "style": {
+        "fillColor": "orange",
+        "align": "center"
+      },
+      "frameId": "f-1",
+      "visualKind": "stickyNote",
+      "title": "<p><strong><em>EXAMPLE</em></strong></p>"
+    },
+    {
+      "id": "n-172",
+      "position": {
+        "x": 245.78207467909306,
+        "y": 455.70654336444994
+      },
+      "size": {
+        "width": 183.83255115689826,
+        "height": 617.2656797981326
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#1a1a1a",
+        "textColor": "#1a1a1a",
+        "fontSize": 18,
+        "fontFamily": "noto_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 0.0
+      },
+      "frameId": "f-1",
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-173",
+      "position": {
+        "x": 321.1468640658095,
+        "y": 139.25258440117312
+      },
+      "size": {
+        "width": 55.22634145845816,
+        "height": 35.976016721509886
+      },
+      "style": {
+        "fillColor": "orange",
+        "align": "center"
+      },
+      "frameId": "f-1",
+      "visualKind": "stickyNote",
+      "title": "<p><strong><em>EXAMPLE</em></strong></p>"
+    },
+    {
+      "id": "n-174",
+      "position": {
+        "x": 489.29641913298565,
+        "y": 340.6925994494689
+      },
+      "size": {
+        "width": 750.6584827778861,
+        "height": 350.4751857476367
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#1a1a1a",
+        "textColor": "#1a1a1a",
+        "fontSize": 18,
+        "fontFamily": "noto_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 0.0
+      },
+      "frameId": "f-0",
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-175",
+      "position": {
+        "x": 851.5874811597942,
+        "y": 158.11214234525897
+      },
+      "size": {
+        "width": 55.22634145845816,
+        "height": 35.976016721509886
+      },
+      "style": {
+        "fillColor": "orange",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "stickyNote",
+      "title": "<p><strong><em>EXAMPLE</em></strong></p>"
+    },
+    {
+      "id": "n-176",
+      "position": {
+        "x": 2279.5337805463196,
+        "y": 177.38330439024315
+      },
+      "size": {
+        "width": 55.22634145845816,
+        "height": 35.976016721509886
+      },
+      "style": {
+        "fillColor": "orange",
+        "align": "center"
+      },
+      "frameId": "f-4",
+      "visualKind": "stickyNote",
+      "title": "<p><strong><em>EXAMPLE</em></strong></p>"
+    },
+    {
+      "id": "n-177",
+      "position": {
+        "x": 1161.396631811468,
+        "y": 153.59153989913642
+      },
+      "size": {
+        "width": 55.22634145845816,
+        "height": 35.976016721509886
+      },
+      "style": {
+        "fillColor": "orange",
+        "align": "center"
+      },
+      "frameId": "f-4",
+      "visualKind": "stickyNote",
+      "title": "<p><strong><em>EXAMPLE</em></strong></p>"
+    },
+    {
+      "id": "n-178",
+      "position": {
+        "x": 1285.416504063628,
+        "y": 292.98713298546676
+      },
+      "size": {
+        "width": 703.6818762088369,
+        "height": 293.44209715553734
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#1a1a1a",
+        "textColor": "#1a1a1a",
+        "fontSize": 18,
+        "fontFamily": "noto_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 0.0
+      },
+      "frameId": "f-4",
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-179",
+      "position": {
+        "x": 1285.416504063628,
+        "y": 679.942619120995
+      },
+      "size": {
+        "width": 703.6818762088234,
+        "height": 330.96901804737035
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "frameId": "f-4",
+      "visualKind": "shape",
+      "title": "[usm]"
+    },
+    {
+      "id": "n-180",
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {},
+      "style": {
+        "borderColor": "#ffdc4a"
+      },
+      "visualKind": "card",
+      "title": "<p>Quick-Start Integrations (SIEM/EDR/Cloud &#43; Generic Webhook/API)<br /><br />Business Value: 8</p>",
+      "body": ""
+    },
+    {
+      "id": "n-181",
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {},
+      "style": {
+        "borderColor": "#659df2"
+      },
+      "visualKind": "card",
+      "title": "<p>Minimal Integration Service Framework</p>",
+      "body": ""
+    },
+    {
+      "id": "n-182",
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {},
+      "style": {
+        "borderColor": "#b0b0b0"
+      },
+      "visualKind": "card",
+      "title": "",
+      "body": ""
+    },
+    {
+      "id": "n-183",
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {},
+      "style": {
+        "borderColor": "#659df2"
+      },
+      "visualKind": "card",
+      "title": "<p>Authentication Module: API Key / Token</p>",
+      "body": ""
+    },
+    {
+      "id": "n-184",
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {},
+      "style": {
+        "borderColor": "#659df2"
+      },
+      "visualKind": "card",
+      "title": "<p>Authentication Module: OAuth2 Client Credentials</p>",
+      "body": ""
+    },
+    {
+      "id": "n-185",
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {},
+      "style": {
+        "borderColor": "#659df2"
+      },
+      "visualKind": "card",
+      "title": "<p>Generic Webhook Receiver</p>",
+      "body": ""
+    },
+    {
+      "id": "n-186",
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {},
+      "style": {
+        "borderColor": "#b0b0b0"
+      },
+      "visualKind": "card",
+      "title": "<p>Minimal Event Normalization</p>",
+      "body": ""
+    },
+    {
+      "id": "n-187",
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {},
+      "style": {
+        "borderColor": "#b0b0b0"
+      },
+      "visualKind": "card",
+      "title": "<p>CrowdStrike EDR Connector (Inbound via API)</p>",
+      "body": ""
+    },
+    {
+      "id": "n-188",
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {},
+      "style": {
+        "borderColor": "#b0b0b0"
+      },
+      "visualKind": "card",
+      "title": "<p>Splunk SIEM Connector (HEC Outbound)</p>",
+      "body": ""
+    },
+    {
+      "id": "n-189",
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {},
+      "style": {
+        "borderColor": "#b0b0b0"
+      },
+      "visualKind": "card",
+      "title": "<p>Cloud Integration (AWS GuardDuty via Webhoo</p>",
+      "body": ""
+    },
+    {
+      "id": "n-190",
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {},
+      "style": {
+        "borderColor": "#b0b0b0"
+      },
+      "visualKind": "card",
+      "title": "<p>Cloud Integration (AWS GuardDuty via Webhook)</p>",
+      "body": ""
+    },
+    {
+      "id": "n-191",
+      "position": {
+        "x": 1252.0510645395107,
+        "y": 514.3698687828601
+      },
+      "size": {
+        "width": 55.22634145845816,
+        "height": 35.976016721509886
+      },
+      "style": {
+        "fillColor": "orange",
+        "align": "center"
+      },
+      "frameId": "f-4",
+      "visualKind": "stickyNote",
+      "title": "<p><strong><em>EXAMPLE</em></strong></p>"
+    },
+    {
+      "id": "n-192",
+      "position": {
+        "x": 805.2145419328674,
+        "y": 150.7047855039425
+      },
+      "size": {
+        "width": 55.22634145845816,
+        "height": 35.976016721509886
+      },
+      "style": {
+        "fillColor": "orange",
+        "align": "center"
+      },
+      "frameId": "f-5",
+      "visualKind": "stickyNote",
+      "title": "<p><strong><em>EXAMPLE</em></strong></p>"
+    },
+    {
+      "id": "n-193",
+      "position": {
+        "x": 1551.1408995295144,
+        "y": 134.75048227989532
+      },
+      "size": {
+        "width": 55.22634145845816,
+        "height": 35.976016721509886
+      },
+      "style": {
+        "fillColor": "orange",
+        "align": "center"
+      },
+      "frameId": "f-5",
+      "visualKind": "stickyNote",
+      "title": "<p><strong><em>EXAMPLE</em></strong></p>"
+    },
+    {
+      "id": "n-194",
+      "position": {
+        "x": 601.2128581248483,
+        "y": 499.0930854512851
+      },
+      "size": {
+        "width": 55.22634145845816,
+        "height": 35.976016721509886
+      },
+      "style": {
+        "fillColor": "orange",
+        "align": "center"
+      },
+      "frameId": "f-5",
+      "visualKind": "stickyNote",
+      "title": "<p><strong><em>EXAMPLE</em></strong></p>"
+    },
+    {
+      "id": "n-195",
+      "position": {
+        "x": 1370.9711326335757,
+        "y": 508.55272258198306
+      },
+      "size": {
+        "width": 55.22634145845816,
+        "height": 35.976016721509886
+      },
+      "style": {
+        "fillColor": "orange",
+        "align": "center"
+      },
+      "frameId": "f-5",
+      "visualKind": "stickyNote",
+      "title": "<p><strong><em>EXAMPLE</em></strong></p>"
+    },
+    {
+      "id": "n-196",
+      "position": {
+        "x": 2202.5283656531037,
+        "y": 527.8792521927833
+      },
+      "size": {
+        "width": 55.22634145845816,
+        "height": 35.976016721509886
+      },
+      "style": {
+        "fillColor": "orange",
+        "align": "center"
+      },
+      "frameId": "f-5",
+      "visualKind": "stickyNote",
+      "title": "<p><strong><em>EXAMPLE</em></strong></p>"
+    },
+    {
+      "id": "n-197",
+      "position": {
+        "x": 260420.03497906547,
+        "y": 65170.36950369117
+      },
+      "size": {
+        "width": 91.6990610905763,
+        "height": 91.6990610905763
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVGSxRp3U%3D/resources/images/3458764517507624446?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-198",
+      "position": {
+        "x": 260580.39551766956,
+        "y": 66309.15443500773
+      },
+      "size": {
+        "width": 103.89178400970658,
+        "height": 103.89178400970658
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVGSxRp3U%3D/resources/images/3458764517507624438?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-199",
+      "position": {
+        "x": 260593.47052237965,
+        "y": 67506.80585184682
+      },
+      "size": {
+        "width": 87.80958986378101,
+        "height": 87.80958986378101
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVGSxRp3U%3D/resources/images/3458764517507624432?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-200",
+      "position": {
+        "x": 260379.43444145515,
+        "y": 68704.15377394781
+      },
+      "size": {
+        "width": 90.37718969266086,
+        "height": 90.37718969266086
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVGSxRp3U%3D/resources/images/3458764517507624432?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-201",
+      "position": {
+        "x": 260251.7597993018,
+        "y": 68701.88455028676
+      },
+      "size": {
+        "width": 94.91563701481012,
+        "height": 94.91563701481012
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVGSxRp3U%3D/resources/images/3458764517507624438?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-202",
+      "position": {
+        "x": 260128.89400123645,
+        "y": 68701.88455028676
+      },
+      "size": {
+        "width": 94.91563701483064,
+        "height": 94.91563701483064
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVGSxRp3U%3D/resources/images/3458764517507624446?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-203",
+      "position": {
+        "x": 260588.73655920455,
+        "y": 69871.0195488148
+      },
+      "size": {
+        "width": 89.69164510204914,
+        "height": 89.69164510204914
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVGSxRp3U%3D/resources/images/3458764517507624441?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-204",
+      "position": {
+        "x": 260608.6090963276,
+        "y": 71059.01750801191
+      },
+      "size": {
+        "width": 77.57040347585037,
+        "height": 77.57040347585037
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVGSxRp3U%3D/resources/images/3458764517507624441?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-205",
+      "position": {
+        "x": 260469.46885885252,
+        "y": 69871.0195488148
+      },
+      "size": {
+        "width": 89.69164510204789,
+        "height": 89.69164510204789
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVGSxRp3U%3D/resources/images/3458764517507624426?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-206",
+      "position": {
+        "x": 260423.08333887582,
+        "y": 71059.01750801186
+      },
+      "size": {
+        "width": 77.57040347584172,
+        "height": 77.57040347584172
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVGSxRp3U%3D/resources/images/3458764517507624433?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-207",
+      "position": {
+        "x": 260515.65424171925,
+        "y": 71059.01750801191
+      },
+      "size": {
+        "width": 77.57040347584929,
+        "height": 77.57040347584929
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVGSxRp3U%3D/resources/images/3458764517507624426?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-208",
+      "position": {
+        "x": 260317.95906528537,
+        "y": 72277.65849741442
+      },
+      "size": {
+        "width": 80.46194582923003,
+        "height": 80.46194582923003
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVGSxRp3U%3D/resources/images/3458764517507624426?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-209",
+      "position": {
+        "x": 260416.97098880488,
+        "y": 72277.65849741444
+      },
+      "size": {
+        "width": 80.46194582923114,
+        "height": 80.46194582923114
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVGSxRp3U%3D/resources/images/3458764517507624441?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-210",
+      "position": {
+        "x": 260221.93745606072,
+        "y": 72277.6584974144
+      },
+      "size": {
+        "width": 80.46194582922219,
+        "height": 80.46194582922219
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVGSxRp3U%3D/resources/images/3458764517507624433?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-211",
+      "position": {
+        "x": 260516.45030100626,
+        "y": 72277.65849741442
+      },
+      "size": {
+        "width": 80.4619458291932,
+        "height": 80.4619458291932
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVGSxRp3U%3D/resources/images/3458764517507624439?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-212",
+      "position": {
+        "x": 259679.85016486415,
+        "y": 63410.96550146271
+      },
+      "size": {
+        "width": 3639.4394467706175,
+        "height": 533.5633536419914
+      },
+      "style": {
+        "fillColor": "#1a1a1a",
+        "borderColor": "#1a1a1a",
+        "textColor": "#1a1a1a",
+        "fontSize": 82,
+        "fontFamily": "noto_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-213",
+      "position": {
+        "x": 259679.85016486415,
+        "y": 63410.96550146271
+      },
+      "size": {
+        "width": 2175.9939072149577,
+        "height": 369.14182354539463
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVGSxRp3U%3D/resources/images/3458764517507624437?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-214",
+      "position": {
+        "x": 549.9026710490218,
+        "y": 89.62408099361903
+      },
+      "size": {
+        "width": 277.4699602369826,
+        "height": 391.2326439341454
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "frameId": "f-6",
+      "visualKind": "shape",
+      "title": "<h1>Competitive Landscape Analysis: Enterprise Security Architecture</h1><p>Brief overview: The enterprise security architecture market spans consulting, specialized cybersecurity firms, and large technology vendors delivering strategy, design, and implementation of Zero Trust, cloud security, identity, data protection, and security operations. Competition centers on end-to-end capabilities, cloud-native coverage, integration depth, and measurable risk reduction.</p><h2>Key Player Categories</h2><ol><li data-list=\"bullet\">Major consulting firms: Accenture, Deloitte, PwC, KPMG, EY, IBM Consulting, Capgemini.</li><li data-list=\"bullet\">Specialized cybersecurity companies: Palo Alto Networks, Fortinet, Check Point, CrowdStrike, Zscaler, Okta, CyberArk, Tenable, Wiz, SentinelOne, Splunk.</li><li data-list=\"bullet\">Technology vendors offering architecture services: Microsoft, Cisco, Google Cloud, AWS, Oracle, IBM, Broadcom/Symantec.</li></ol><h2>Strengths and Weaknesses by Category</h2><ol><li data-list=\"bullet\">Consulting firms<ol><li data-list=\"bullet\">Strengths: Enterprise-scale programs; industry/regulatory expertise; vendor-agnostic architectures; operating model and governance design.</li><li data-list=\"bullet\">Weaknesses: Higher cost; slower delivery; reliance on partner tools; variable technical depth in cloud-native controls.</li></ol></li><li data-list=\"bullet\">Specialized cybersecurity companies<ol><li data-list=\"bullet\">Strengths: Deep product innovation; fast roadmap; reference architectures (Zero Trust, SASE, CNAPP, XDR); strong efficacy metrics.</li><li data-list=\"bullet\">Weaknesses: Product-centric bias; integration gaps across heterogeneous stacks; limited business/operating model consulting.</li></ol></li><li data-list=\"bullet\">Technology vendors<ol><li data-list=\"bullet\">Strengths: Broad platforms; tight integration; favorable economics via bundling; global support; strong identity, endpoint, and cloud controls.</li><li data-list=\"bullet\">Weaknesses: Risk of lock-in; uneven best-of-breed parity; complexity of large suites; perceived lack of neutrality.</li></ol></li></ol><h2>Market Gaps and Opportunities</h2><ol><li data-list=\"bullet\">Unified architecture across multi-cloud, SaaS, and data platforms with measurable control efficacy and cost-to-serve.</li><li data-list=\"bullet\">Integrated identity-to-data protection (IGA+PAM+CIEM+DLP) with automated policy governance.</li><li data-list=\"bullet\">Modernization of legacy on-prem and OT/ICS security into Zero Trust with pragmatic migration paths.</li><li data-list=\"bullet\">AI-ready security architecture: model protection, supply chain, data lineage, and secure MLOps.</li><li data-list=\"bullet\">Outcome-based services with architecture-as-code, reference blueprints, and automated compliance.</li></ol><h2>Current Trends and Dynamics</h2><ol><li data-list=\"bullet\">Convergence to platform ecosystems (consolidation of point tools).</li><li data-list=\"bullet\">Zero Trust, SASE/SSE, and CNAPP as standard blueprints.</li><li data-list=\"bullet\">Identity-first security and machine identity explosion.</li><li data-list=\"bullet\">Shift-left with developer-centric security and policy-as-code.</li><li data-list=\"bullet\">Data security posture management rising with AI/GenAI adoption.</li><li data-list=\"bullet\">Managed services (MSSP/MDR) absorbing operational burden.</li></ol><h2>Competitive Positioning Factors</h2><ol><li data-list=\"bullet\">Reference architectures and accelerators mapped to frameworks (NIST, ISO, CIS) and cloud providers.</li><li data-list=\"bullet\">Integration breadth (APIs, telemetry, identity, data) and proven multi-cloud patterns.</li><li data-list=\"bullet\">Time-to-value, automation, and total cost of ownership.</li><li data-list=\"bullet\">Neutrality and ecosystem partnerships versus platform depth.</li><li data-list=\"bullet\">Proof of outcomes: attack surface reduction, incident MTTR, compliance attestation.</li></ol><h2>Strategic Implications</h2><ol><li data-list=\"bullet\">Build repeatable, measurable blueprints and architecture-as-code assets.</li><li data-list=\"bullet\">Prioritize integrations that reduce complexity in hybrid, multi-cloud estates.</li><li data-list=\"bullet\">Offer flexible engagement models: advisory, build, and managed operations.</li><li data-list=\"bullet\">Demonstrate outcome metrics and ROI; align security architecture to business resilience and AI initiatives.</li></ol>"
+    },
+    {
+      "id": "n-215",
+      "position": {
+        "x": 816.8970632248313,
+        "y": 98.5353653283729
+      },
+      "size": {
+        "width": 91.69906109055617,
+        "height": 59.7353883675623
+      },
+      "style": {
+        "fillColor": "orange",
+        "align": "center"
+      },
+      "frameId": "f-6",
+      "visualKind": "stickyNote",
+      "title": "<p><strong><em>EXAMPLE</em></strong></p>"
+    },
+    {
+      "id": "n-216",
+      "position": {
+        "x": 260679.96095004314,
+        "y": 67452.70616143098
+      },
+      "size": {
+        "width": 537.421875,
+        "height": 108.203125
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[unknown]"
+    },
+    {
+      "id": "n-217",
+      "position": {
+        "x": 260443.42514731665,
+        "y": 68650.05611769781
+      },
+      "size": {
+        "width": 773.953125,
+        "height": 108.1953125
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[unknown]"
+    },
+    {
+      "id": "n-218",
+      "position": {
+        "x": 260647.4042716436,
+        "y": 69816.9179863148
+      },
+      "size": {
+        "width": 559.484375,
+        "height": 108.20312499999999
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[unknown]"
+    },
+    {
+      "id": "n-219",
+      "position": {
+        "x": 260647.3942980655,
+        "y": 71004.9198517619
+      },
+      "size": {
+        "width": 559.484375,
+        "height": 108.1953125
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[unknown]"
+    },
+    {
+      "id": "n-220",
+      "position": {
+        "x": 260569.1173898239,
+        "y": 72223.55693491442
+      },
+      "size": {
+        "width": 637.765625,
+        "height": 108.203125
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[unknown]"
+    },
+    {
+      "id": "n-221",
+      "position": {
+        "x": 260482.86720004305,
+        "y": 65116.26989431617
+      },
+      "size": {
+        "width": 734.515625,
+        "height": 108.19921875
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[unknown]"
+    },
+    {
+      "id": "n-222",
+      "position": {
+        "x": 260642.2968258583,
+        "y": 66257.20854300288
+      },
+      "size": {
+        "width": 575.328125,
+        "height": 108.1953125
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[unknown]"
+    },
+    {
+      "id": "n-223",
+      "position": {
+        "x": 640.8138098522434,
+        "y": 456.60932143431387
+      },
+      "size": {
+        "width": 1150.3943928584745,
+        "height": 646.7571625991739
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#e5e7eb",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "noto_sans",
+        "borderWidth": 0,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-3",
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-224",
+      "position": {
+        "x": 1157.695730798336,
+        "y": 190.68763205166147
+      },
+      "size": {
+        "width": 56.16098610805152,
+        "height": 55.255163751470036
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVGSxRp3U%3D/resources/images/3458764517534656257?format=preview&redirect=false"
+        }
+      },
+      "frameId": "f-3",
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-225",
+      "position": {
+        "x": 215.17747768647337,
+        "y": 190.68763205166147
+      },
+      "size": {
+        "width": 238.65216367587126
+      },
+      "style": {
+        "fontSize": 26,
+        "textColor": "#030303",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "frameId": "f-3",
+      "visualKind": "text",
+      "title": "<p><strong style=\"color:rgb(3,3,3)\">Empathy Map</strong></p>"
+    },
+    {
+      "id": "n-226",
+      "position": {
+        "x": 798.8017503671692,
+        "y": 264.888819902598
+      },
+      "size": {
+        "width": 192.97445380209277
+      },
+      "style": {
+        "fontSize": 15,
+        "textColor": "#030303",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "frameId": "f-3",
+      "visualKind": "text",
+      "title": "<p><span style=\"color:rgb(3,3,3)\">What do they </span><strong style=\"color:rgb(3,3,3)\">FEEL</strong><span style=\"color:rgb(3,3,3)\">?</span></p>"
+    },
+    {
+      "id": "n-227",
+      "position": {
+        "x": 508.32975423427365,
+        "y": 266.70046461575953
+      },
+      "size": {
+        "width": 204.4382827393063
+      },
+      "style": {
+        "fontSize": 15,
+        "textColor": "#030303",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "frameId": "f-3",
+      "visualKind": "text",
+      "title": "<p><span style=\"color:rgb(3,3,3)\">What do they </span><strong style=\"color:rgb(3,3,3)\">THINK</strong><span style=\"color:rgb(3,3,3)\">?</span></p>"
+    },
+    {
+      "id": "n-228",
+      "position": {
+        "x": 218.8452662241,
+        "y": 484.09783019531574
+      },
+      "size": {
+        "width": 201.5723254995033
+      },
+      "style": {
+        "fontSize": 15,
+        "textColor": "#030303",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "frameId": "f-3",
+      "visualKind": "text",
+      "title": "<p><span style=\"color:rgb(3,3,3)\">What do they </span><strong style=\"color:rgb(3,3,3)\">HEAR</strong><span style=\"color:rgb(3,3,3)\">?</span></p>"
+    },
+    {
+      "id": "n-229",
+      "position": {
+        "x": 1109.7289946056082,
+        "y": 484.09783019531574
+      },
+      "size": {
+        "width": 184.37658209368297
+      },
+      "style": {
+        "fontSize": 15,
+        "textColor": "#030303",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "frameId": "f-3",
+      "visualKind": "text",
+      "title": "<p><span style=\"color:rgb(3,3,3)\">What do they </span><strong style=\"color:rgb(3,3,3)\">SEE</strong><span style=\"color:rgb(3,3,3)\">?</span></p>"
+    },
+    {
+      "id": "n-230",
+      "position": {
+        "x": 794.0251549761272,
+        "y": 709.6475969840988
+      },
+      "size": {
+        "width": 183.42126301741507
+      },
+      "style": {
+        "fontSize": 15,
+        "textColor": "#030303",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "frameId": "f-3",
+      "visualKind": "text",
+      "title": "<p><span style=\"color:rgb(3,3,3)\">What do they </span><strong style=\"color:rgb(3,3,3)\">SAY</strong><span style=\"color:rgb(3,3,3)\">?</span></p>"
+    },
+    {
+      "id": "n-231",
+      "position": {
+        "x": 493.04464898291576,
+        "y": 709.6475969840988
+      },
+      "size": {
+        "width": 173.86807223273738
+      },
+      "style": {
+        "fontSize": 15,
+        "textColor": "#030303",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "frameId": "f-3",
+      "visualKind": "text",
+      "title": "<p><span style=\"color:rgb(3,3,3)\">What do they </span><strong style=\"color:rgb(3,3,3)\">DO</strong><span style=\"color:rgb(3,3,3)\">?</span></p>"
+    },
+    {
+      "id": "n-232",
+      "position": {
+        "x": 640.8138098522434,
+        "y": 489.0798531565099
+      },
+      "size": {
+        "width": 1089.9248280002982,
+        "height": 509.977986755371
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#ffdb3c",
+        "textColor": "#1a1a1a",
+        "fontSize": 20,
+        "fontFamily": "noto_sans",
+        "borderWidth": 8,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 0.0
+      },
+      "frameId": "f-3",
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-233",
+      "position": {
+        "x": 640.8138098522434,
+        "y": 489.0798531565099
+      },
+      "size": {
+        "width": 133.07058226272974,
+        "height": 130.92428254881474
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVGSxRp3U%3D/resources/images/3458764517534656257?format=preview&redirect=false"
+        }
+      },
+      "frameId": "f-3",
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-234",
+      "position": {
+        "x": 1580.6833497399994,
+        "y": 340.1149865211057
+      },
+      "size": {
+        "width": 495.55817233247143,
+        "height": 226.95550368332272
+      },
+      "style": {
+        "fillColor": "#e6e6e6",
+        "borderColor": "#b0b0b0",
+        "textColor": "#1a1a1a",
+        "fontSize": 8,
+        "fontFamily": "open_sans",
+        "borderWidth": 3,
+        "borderStyle": "normal",
+        "align": "left",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-2",
+      "visualKind": "shape",
+      "title": "<p><strong>Name:</strong> <em>Nila</em></p><p><strong>Age:</strong> <em>38</em></p><p><strong>Job Title</strong>: <em>Maintenance Scheduler, PV Solar Farm Operations</em></p><p><strong>Background:</strong> <em>Bachelor&#39;s degree in Electrical Engineering</em>; 8 years experience in renewable energy maintenance; Certified Solar Operations Technician</p><p><strong>Key Responsibilities: </strong>Coordinate maintenance activities across solar farm</p><p>Manage maintenance team scheduling</p><p>Optimize equipment uptime and performance</p><p>Interface between field technicians and management</p><p><strong>Skills:</strong> Proficient in CMMS (Computerized Maintenance Management Systems)</p><p>Advanced Excel and data analysis</p><p>Understanding of predictive maintenance technologies</p><p>Familiar with solar inverter and panel maintenance protocols</p>"
+    },
+    {
+      "id": "n-235",
+      "position": {
+        "x": 1795.6395786530984,
+        "y": 246.18209151023007
+      },
+      "size": {
+        "width": 78.12082248135324,
+        "height": 78.12082248135324
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVGSxRp3U%3D/resources/images/3458764517507624452?format=preview&redirect=false"
+        }
+      },
+      "frameId": "f-2",
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-236",
+      "position": {
+        "x": 1332.9042635737633,
+        "y": 509.1782152965036
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "frameId": "f-2",
+      "visualKind": "shape",
+      "title": "[data_table_format]"
+    },
+    {
+      "id": "n-237",
+      "position": {
+        "x": 1425.0988419116247,
+        "y": 487.2327170664514
+      },
+      "size": {
+        "width": 184.38915667571848
+      },
+      "style": {
+        "fontSize": 20,
+        "textColor": "#1a1a1a",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-2",
+      "visualKind": "text",
+      "title": "<p><strong>User Details Table</strong></p>"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e-0",
+      "sourceNodeId": "n-103",
+      "targetNodeId": "n-103",
+      "style": {
+        "lineStyle": "solid",
+        "arrowHead": "none",
+        "borderColor": "#333333",
+        "strokeWidth": "2.0",
+        "extra": {
+          "connectorShape": "straight",
+          "sourcePosition": "auto",
+          "targetPosition": "auto"
+        }
+      }
+    },
+    {
+      "id": "e-1",
+      "sourceNodeId": "n-93",
+      "targetNodeId": "n-94",
+      "style": {
+        "lineStyle": "solid",
+        "arrowHead": "none",
+        "borderColor": "#333333",
+        "strokeWidth": "2.0",
+        "extra": {
+          "connectorShape": "straight",
+          "sourcePosition": "auto",
+          "targetPosition": "auto"
+        }
+      }
+    },
+    {
+      "id": "e-2",
+      "sourceNodeId": "n-94",
+      "targetNodeId": "n-95",
+      "style": {
+        "lineStyle": "solid",
+        "arrowHead": "none",
+        "borderColor": "#333333",
+        "strokeWidth": "2.0",
+        "extra": {
+          "connectorShape": "straight",
+          "sourcePosition": "auto",
+          "targetPosition": "auto"
+        }
+      }
+    },
+    {
+      "id": "e-3",
+      "sourceNodeId": "n-95",
+      "targetNodeId": "n-96",
+      "style": {
+        "lineStyle": "solid",
+        "arrowHead": "none",
+        "borderColor": "#333333",
+        "strokeWidth": "2.0",
+        "extra": {
+          "connectorShape": "straight",
+          "sourcePosition": "auto",
+          "targetPosition": "auto"
+        }
+      }
+    },
+    {
+      "id": "e-4",
+      "sourceNodeId": "n-94",
+      "targetNodeId": "n-97",
+      "style": {
+        "lineStyle": "solid",
+        "arrowHead": "none",
+        "borderColor": "#333333",
+        "strokeWidth": "2.0",
+        "extra": {
+          "connectorShape": "elbowed",
+          "sourcePosition": "auto",
+          "targetPosition": "auto"
+        }
+      }
+    },
+    {
+      "id": "e-5",
+      "sourceNodeId": "n-95",
+      "targetNodeId": "n-98",
+      "style": {
+        "lineStyle": "solid",
+        "arrowHead": "none",
+        "borderColor": "#333333",
+        "strokeWidth": "2.0",
+        "extra": {
+          "connectorShape": "elbowed",
+          "sourcePosition": "auto",
+          "targetPosition": "auto"
+        }
+      }
+    },
+    {
+      "id": "e-6",
+      "sourceNodeId": "n-96",
+      "targetNodeId": "n-101",
+      "style": {
+        "lineStyle": "solid",
+        "arrowHead": "none",
+        "borderColor": "#333333",
+        "strokeWidth": "2.0",
+        "extra": {
+          "connectorShape": "elbowed",
+          "sourcePosition": "auto",
+          "targetPosition": "auto"
+        }
+      }
+    },
+    {
+      "id": "e-7",
+      "sourceNodeId": "n-97",
+      "targetNodeId": "n-99",
+      "style": {
+        "lineStyle": "solid",
+        "arrowHead": "none",
+        "borderColor": "#333333",
+        "strokeWidth": "2.0",
+        "extra": {
+          "connectorShape": "elbowed",
+          "sourcePosition": "auto",
+          "targetPosition": "auto"
+        }
+      }
+    },
+    {
+      "id": "e-8",
+      "sourceNodeId": "n-98",
+      "targetNodeId": "n-100",
+      "style": {
+        "lineStyle": "solid",
+        "arrowHead": "none",
+        "borderColor": "#333333",
+        "strokeWidth": "2.0",
+        "extra": {
+          "connectorShape": "elbowed",
+          "sourcePosition": "auto",
+          "targetPosition": "auto"
+        }
+      }
+    },
+    {
+      "id": "e-9",
+      "sourceNodeId": "n-232",
+      "targetNodeId": "n-232",
+      "style": {
+        "lineStyle": "solid",
+        "arrowHead": "none",
+        "borderColor": "#ffdb3c",
+        "strokeWidth": "8.0",
+        "extra": {
+          "connectorShape": "straight",
+          "sourcePosition": "auto",
+          "targetPosition": "auto"
+        }
+      }
+    },
+    {
+      "id": "e-10",
+      "sourceNodeId": "n-232",
+      "targetNodeId": "n-232",
+      "style": {
+        "lineStyle": "solid",
+        "arrowHead": "none",
+        "borderColor": "#ffdb3c",
+        "strokeWidth": "8.0",
+        "extra": {
+          "connectorShape": "straight",
+          "sourcePosition": "auto",
+          "targetPosition": "auto"
+        }
+      }
+    },
+    {
+      "id": "e-11",
+      "sourceNodeId": "n-232",
+      "targetNodeId": "n-232",
+      "style": {
+        "lineStyle": "solid",
+        "arrowHead": "none",
+        "borderColor": "#ffdb3c",
+        "strokeWidth": "8.0",
+        "extra": {
+          "connectorShape": "straight",
+          "sourcePosition": "auto",
+          "targetPosition": "auto"
+        }
+      }
+    }
+  ],
+  "annotations": [],
+  "_metadata": {
+    "extracted_at": "2026-02-23T12:57:21.634583",
+    "total_items": 245,
+    "total_connectors": 12,
+    "frames": 7,
+    "nodes": 238,
+    "edges": 12
+  },
+  "_template": {
+    "name": "simplified-design-thinking-process",
+    "category": "miroverse",
+    "source": "miroverse",
+    "source_slug": "simplified-design-thinking-process-fortune-buchholtz",
+    "source_board_id": "uXjVGSxRp3U=",
+    "tags": [
+      "research & design",
+      "ai accelerated",
+      "agile",
+      "ai & transformation",
+      "product management"
+    ],
+    "extracted_at": "2026-02-23T12:57:21.634638"
+  }
+}

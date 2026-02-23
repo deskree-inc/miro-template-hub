@@ -1,0 +1,922 @@
+{
+  "frames": [
+    {
+      "id": "f-0",
+      "title": "",
+      "position": {
+        "x": -1434.486675806183,
+        "y": -39.23718219492184
+      },
+      "size": {
+        "width": 1279.6108341038525,
+        "height": 1280.4764305499496
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-1",
+      "title": "",
+      "position": {
+        "x": 1037.418380742939,
+        "y": 40.59798886729368
+      },
+      "size": {
+        "width": 2560.2609291988983,
+        "height": 1440.1467726743801
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-2",
+      "title": "",
+      "position": {
+        "x": -3038.057774490397,
+        "y": -556.5590041419359
+      },
+      "size": {
+        "width": 359.9691748977464,
+        "height": 245.83278665592104
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-3",
+      "title": "",
+      "position": {
+        "x": -2466.182639949817,
+        "y": -39.23718219492184
+      },
+      "size": {
+        "width": 719.7810941834144,
+        "height": 1280.4764305499489
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-4",
+      "title": "",
+      "position": {
+        "x": -3658.0423619392704,
+        "y": -395.3011269856361
+      },
+      "size": {
+        "width": 559.9999999999999,
+        "height": 568.3485409685205
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-5",
+      "title": "",
+      "position": {
+        "x": -454.696671305383,
+        "y": -556.5590041419359
+      },
+      "size": {
+        "width": 359.9691748977464,
+        "height": 245.83278665592104
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-6",
+      "title": "",
+      "position": {
+        "x": 2657.5334327912606,
+        "y": -556.5590041419355
+      },
+      "size": {
+        "width": 359.9691748977464,
+        "height": 245.83278665592104
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    }
+  ],
+  "nodes": [
+    {
+      "id": "n-0",
+      "position": {
+        "x": 2869.5180202401343,
+        "y": -679.4753974698965
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[data_table_format]"
+    },
+    {
+      "id": "n-1",
+      "position": {
+        "x": -2074.2920928581098,
+        "y": 633.0010330800533
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[alignment_scale]"
+    },
+    {
+      "id": "n-2",
+      "position": {
+        "x": 533.9509655249171,
+        "y": 231.48626571010288
+      },
+      "size": {
+        "width": 772.1391355038498,
+        "height": 398.9725314202065
+      },
+      "style": {
+        "fillColor": "#dedaff",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "roobert_pro",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-1",
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-3",
+      "position": {
+        "x": 1338.3947044226793,
+        "y": 231.4862657101047
+      },
+      "size": {
+        "width": 771.7148553544297,
+        "height": 398.9725314202065
+      },
+      "style": {
+        "fillColor": "#dedaff",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "roobert_pro",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-1",
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-4",
+      "position": {
+        "x": 2142.4035015216837,
+        "y": 231.4862657101047
+      },
+      "size": {
+        "width": 771.7148553544281,
+        "height": 398.9725314202065
+      },
+      "style": {
+        "fillColor": "#dedaff",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "roobert_pro",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-1",
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-5",
+      "position": {
+        "x": 533.8218045282506,
+        "y": 662.5178111233821
+      },
+      "size": {
+        "width": 772.1391355038498,
+        "height": 398.97253142020355
+      },
+      "style": {
+        "fillColor": "#dedaff",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "roobert_pro",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-1",
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-6",
+      "position": {
+        "x": 1338.2657922480453,
+        "y": 662.5178111233844
+      },
+      "size": {
+        "width": 771.7148553544297,
+        "height": 398.97253142020355
+      },
+      "style": {
+        "fillColor": "#dedaff",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "roobert_pro",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-1",
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-7",
+      "position": {
+        "x": 2142.2745893470487,
+        "y": 662.5178111233844
+      },
+      "size": {
+        "width": 771.7148553544281,
+        "height": 398.97253142020355
+      },
+      "style": {
+        "fillColor": "#dedaff",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "roobert_pro",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-1",
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-8",
+      "position": {
+        "x": 533.4981391805004,
+        "y": 1093.2319355357054
+      },
+      "size": {
+        "width": 772.1391355038498,
+        "height": 398.97253142020713
+      },
+      "style": {
+        "fillColor": "#dedaff",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "roobert_pro",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-1",
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-9",
+      "position": {
+        "x": 1337.9421269002946,
+        "y": 1093.2319355357054
+      },
+      "size": {
+        "width": 771.7148553544297,
+        "height": 398.97253142020713
+      },
+      "style": {
+        "fillColor": "#dedaff",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "roobert_pro",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-1",
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-10",
+      "position": {
+        "x": 2141.950923999298,
+        "y": 1093.2319355357054
+      },
+      "size": {
+        "width": 771.7148553544281,
+        "height": 398.97253142020713
+      },
+      "style": {
+        "fillColor": "#dedaff",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "roobert_pro",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-1",
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-11",
+      "position": {
+        "x": 44.85714285714312,
+        "y": 663.8035254090963
+      },
+      "size": {
+        "width": 74.57142857142858
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#2c2e33",
+        "fontFamily": "noto_sans",
+        "align": "center"
+      },
+      "frameId": "f-1",
+      "visualKind": "text",
+      "title": "<p><strong style=\"background-color:rgb(255,255,255)\"> Impact </strong></p>"
+    },
+    {
+      "id": "n-12",
+      "position": {
+        "x": 93.94115829467773,
+        "y": 113.88310084623447
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "frameId": "f-0",
+      "visualKind": "shape",
+      "title": "[widgets_stack]"
+    },
+    {
+      "id": "n-13",
+      "position": {
+        "x": 99.5000000000003,
+        "y": 113.99999999999989
+      },
+      "size": {
+        "width": 85.33588235294118,
+        "height": 97.77176470588236
+      },
+      "style": {
+        "fillColor": "yellow",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": ""
+    },
+    {
+      "id": "n-14",
+      "position": {
+        "x": 179.9845874488739,
+        "y": 109.54707237020779
+      },
+      "size": {
+        "width": 295.9691749028571
+      },
+      "style": {
+        "fontSize": 24,
+        "textColor": "#1a1a1a",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-2",
+      "visualKind": "text",
+      "title": "<p><strong>Brainstorm your ideas</strong></p>"
+    },
+    {
+      "id": "n-15",
+      "position": {
+        "x": 179.9845874488732,
+        "y": 175.2613580844931
+      },
+      "size": {
+        "width": 295.96917489428574
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#595959",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "frameId": "f-2",
+      "visualKind": "text",
+      "title": "<p>Share the problem statements and requirements as sticky notes in the frames.</p>"
+    },
+    {
+      "id": "n-16",
+      "position": {
+        "x": 52.20210761367562,
+        "y": 52.20210761367565
+      },
+      "size": {
+        "width": 40.404215227348686,
+        "height": 40.404215227349596
+      },
+      "style": {
+        "fillColor": "#1c1c1e",
+        "borderColor": "#ffffff",
+        "textColor": "#ffffff",
+        "fontSize": 18,
+        "fontFamily": "unknown",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "circle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-2",
+      "visualKind": "shape",
+      "title": "<p><strong>1</strong></p>"
+    },
+    {
+      "id": "n-17",
+      "position": {
+        "x": 93.94118252922505,
+        "y": 121.91317569508305
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "frameId": "f-3",
+      "visualKind": "shape",
+      "title": "[widgets_stack]"
+    },
+    {
+      "id": "n-18",
+      "position": {
+        "x": 99.50000000000011,
+        "y": 114.00000000000031
+      },
+      "size": {
+        "width": 85.33588235294118,
+        "height": 97.77176470588236
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": ""
+    },
+    {
+      "id": "n-19",
+      "position": {
+        "x": 280.0000000000027,
+        "y": 166.85714285714295
+      },
+      "size": {
+        "width": 432.0
+      },
+      "style": {
+        "fontSize": 48,
+        "textColor": "#1d1c1d",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-4",
+      "visualKind": "text",
+      "title": "<p><strong style=\"color:rgb(29,28,29);background-color:transparent\">Product Requirements Prioritization</strong></p>"
+    },
+    {
+      "id": "n-20",
+      "position": {
+        "x": 279.99999999999994,
+        "y": 341.1428571428576
+      },
+      "size": {
+        "width": 432.0
+      },
+      "style": {
+        "fontSize": 24,
+        "textColor": "#595959",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "frameId": "f-4",
+      "visualKind": "text",
+      "title": "<p>Define the problem, collect requirements and prioritize based on impact and effort.</p>"
+    },
+    {
+      "id": "n-21",
+      "position": {
+        "x": 54.00000133216278,
+        "y": 424.571367536272
+      },
+      "size": {
+        "width": 452.00000000000006,
+        "height": 79.7772216796875
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "frameId": "f-4",
+      "visualKind": "shape",
+      "title": "[unknown]"
+    },
+    {
+      "id": "n-22",
+      "position": {
+        "x": 179.9845874488739,
+        "y": 109.54707237020779
+      },
+      "size": {
+        "width": 295.9691749028571
+      },
+      "style": {
+        "fontSize": 24,
+        "textColor": "#1a1a1a",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-5",
+      "visualKind": "text",
+      "title": "<p><strong>Plot the requirements</strong></p>"
+    },
+    {
+      "id": "n-23",
+      "position": {
+        "x": 179.9845874488732,
+        "y": 175.2613580844931
+      },
+      "size": {
+        "width": 295.96917489428574
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#595959",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "frameId": "f-5",
+      "visualKind": "text",
+      "title": "<p>Place the requirements in the matrix depending on their impact and effort.</p>"
+    },
+    {
+      "id": "n-24",
+      "position": {
+        "x": 52.20210761367562,
+        "y": 52.20210761367565
+      },
+      "size": {
+        "width": 40.404215227348686,
+        "height": 40.404215227349596
+      },
+      "style": {
+        "fillColor": "#1c1c1e",
+        "borderColor": "#ffffff",
+        "textColor": "#ffffff",
+        "fontSize": 18,
+        "fontFamily": "unknown",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "circle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-5",
+      "visualKind": "shape",
+      "title": "<p><strong>2</strong></p>"
+    },
+    {
+      "id": "n-25",
+      "position": {
+        "x": 179.9845874488739,
+        "y": 109.54707237020779
+      },
+      "size": {
+        "width": 295.9691749028571
+      },
+      "style": {
+        "fontSize": 24,
+        "textColor": "#1a1a1a",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-6",
+      "visualKind": "text",
+      "title": "<p><strong>Generate priority table</strong></p>"
+    },
+    {
+      "id": "n-26",
+      "position": {
+        "x": 179.9845874488732,
+        "y": 175.2613580844931
+      },
+      "size": {
+        "width": 295.96917489428574
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#595959",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "frameId": "f-6",
+      "visualKind": "text",
+      "title": "<p>Turn your impact / effort matrix into a prioritized requirements table.</p>"
+    },
+    {
+      "id": "n-27",
+      "position": {
+        "x": 52.20210761367562,
+        "y": 52.20210761367565
+      },
+      "size": {
+        "width": 40.404215227348686,
+        "height": 40.404215227349596
+      },
+      "style": {
+        "fillColor": "#1c1c1e",
+        "borderColor": "#ffffff",
+        "textColor": "#ffffff",
+        "fontSize": 18,
+        "fontFamily": "unknown",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "circle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-6",
+      "visualKind": "shape",
+      "title": "<p><strong>3</strong></p>"
+    },
+    {
+      "id": "n-28",
+      "position": {
+        "x": 1280.1304645994492,
+        "y": 1395.2896298172368
+      },
+      "size": {
+        "width": 52.714285714285715
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#2c2e33",
+        "fontFamily": "noto_sans",
+        "align": "center"
+      },
+      "frameId": "f-1",
+      "visualKind": "text",
+      "title": "<p><strong style=\"background-color:rgb(255,255,255)\">Effort</strong></p>"
+    },
+    {
+      "id": "n-29",
+      "position": {
+        "x": 102.57142857142844,
+        "y": 662.5178111233821
+      },
+      "size": {
+        "width": 72.0
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#2c2e33",
+        "fontFamily": "noto_sans",
+        "align": "center"
+      },
+      "frameId": "f-1",
+      "visualKind": "text",
+      "title": "<p><span style=\"background-color:transparent\">Medium</span></p>"
+    },
+    {
+      "id": "n-30",
+      "position": {
+        "x": 102.57142857142844,
+        "y": 1093.2319355357054
+      },
+      "size": {
+        "width": 36.0
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#2c2e33",
+        "fontFamily": "noto_sans",
+        "align": "center"
+      },
+      "frameId": "f-1",
+      "visualKind": "text",
+      "title": "<p><span style=\"background-color:transparent\">Low</span></p>"
+    },
+    {
+      "id": "n-31",
+      "position": {
+        "x": 102.57142857142844,
+        "y": 231.48626571010288
+      },
+      "size": {
+        "width": 41.142857142857146
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#2c2e33",
+        "fontFamily": "noto_sans",
+        "align": "center"
+      },
+      "frameId": "f-1",
+      "visualKind": "text",
+      "title": "<p><span style=\"background-color:transparent\">High</span></p>"
+    },
+    {
+      "id": "n-32",
+      "position": {
+        "x": 533.4981391805004,
+        "y": 1337.575344102951
+      },
+      "size": {
+        "width": 36.0
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#2c2e33",
+        "fontFamily": "noto_sans",
+        "align": "center"
+      },
+      "frameId": "f-1",
+      "visualKind": "text",
+      "title": "<p><span style=\"background-color:transparent\">Low</span></p>"
+    },
+    {
+      "id": "n-33",
+      "position": {
+        "x": 1280.1304645994492,
+        "y": 1337.575344102951
+      },
+      "size": {
+        "width": 72.0
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#2c2e33",
+        "fontFamily": "noto_sans",
+        "align": "center"
+      },
+      "frameId": "f-1",
+      "visualKind": "text",
+      "title": "<p><span style=\"background-color:transparent\">Medium</span></p>"
+    },
+    {
+      "id": "n-34",
+      "position": {
+        "x": 2141.950923999298,
+        "y": 1337.575344102951
+      },
+      "size": {
+        "width": 41.142857142857146
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#2c2e33",
+        "fontFamily": "noto_sans",
+        "align": "center"
+      },
+      "frameId": "f-1",
+      "visualKind": "text",
+      "title": "<p><span style=\"background-color:transparent\">High</span></p>"
+    }
+  ],
+  "edges": [],
+  "annotations": [],
+  "_metadata": {
+    "extracted_at": "2026-02-23T13:02:06.731946",
+    "total_items": 42,
+    "total_connectors": 2,
+    "frames": 7,
+    "nodes": 35,
+    "edges": 0
+  },
+  "_template": {
+    "name": "ai-product-requirements-prioritization",
+    "category": "miroverse",
+    "source": "miroverse",
+    "source_slug": "product-requirements-prioritization-ai",
+    "source_board_id": "uXjVJ_uTACw=",
+    "tags": [
+      "resource planning",
+      "ideation & brainstorming",
+      "ai accelerated",
+      "agile",
+      "sprints",
+      "strategy & planning",
+      "product management",
+      "requirements gathering",
+      "agile workflows"
+    ],
+    "extracted_at": "2026-02-23T13:02:06.732002"
+  }
+}

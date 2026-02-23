@@ -1,0 +1,350 @@
+{
+  "frames": [
+    {
+      "id": "f-0",
+      "title": "Reference Image(s)",
+      "position": {
+        "x": -3076.580375299025,
+        "y": -2054.92525042389
+      },
+      "size": {
+        "width": 1280.0047250038115,
+        "height": 720.0733863371903
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-1",
+      "title": "Target Image",
+      "position": {
+        "x": -3076.580375299025,
+        "y": -1174.8518640866994
+      },
+      "size": {
+        "width": 1280.0047250038115,
+        "height": 720.0733863371909
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-2",
+      "title": "",
+      "position": {
+        "x": -3928.5673252498045,
+        "y": -2304.9026931216677
+      },
+      "size": {
+        "width": 359.9691748977464,
+        "height": 220.11850094163526
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-3",
+      "title": "",
+      "position": {
+        "x": -3928.5673252498045,
+        "y": -1424.8293067844772
+      },
+      "size": {
+        "width": 359.9691748977464,
+        "height": 220.11850094163526
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-4",
+      "title": "",
+      "position": {
+        "x": -4355.706640159048,
+        "y": -2265.179288314687
+      },
+      "size": {
+        "width": 407.21736280943264,
+        "height": 299.56531055559645
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    }
+  ],
+  "nodes": [
+    {
+      "id": "n-0",
+      "position": {
+        "x": -1316.5046264599289,
+        "y": -1614.8885572552947
+      },
+      "size": {
+        "width": 1600.1467726743813,
+        "height": 1600.1467726743813
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ9syoTE%3D/resources/images/3458764517250634901?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-1",
+      "position": {
+        "x": 640.0023625019057,
+        "y": 360.03669316859543
+      },
+      "size": {
+        "width": 399.6078232567159,
+        "height": 532.8104310089545
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ9syoTE%3D/resources/images/3458764517250634902?format=preview&redirect=false"
+        }
+      },
+      "frameId": "f-1",
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-2",
+      "position": {
+        "x": 455.66198147077284,
+        "y": 277.297803607675
+      },
+      "size": {
+        "width": 783.323962941546,
+        "height": 426.5956072153503
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ9syoTE%3D/resources/images/3458764517250634903?format=preview&redirect=false"
+        }
+      },
+      "frameId": "f-0",
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-3",
+      "position": {
+        "x": 993.68755386669,
+        "y": 480.6143657193898
+      },
+      "size": {
+        "width": 444.63434227424233,
+        "height": 350.91804123560087
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ9syoTE%3D/resources/images/3458764517250634904?format=preview&redirect=false"
+        }
+      },
+      "frameId": "f-0",
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-4",
+      "position": {
+        "x": 179.9845874488732,
+        "y": 109.54707237020665
+      },
+      "size": {
+        "width": 295.9691749028571
+      },
+      "style": {
+        "fontSize": 24,
+        "textColor": "#1a1a1a",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-2",
+      "visualKind": "text",
+      "title": "<p><strong>Style References &#x1f3a8;</strong></p>"
+    },
+    {
+      "id": "n-5",
+      "position": {
+        "x": 179.9845874488732,
+        "y": 162.40421522734977
+      },
+      "size": {
+        "width": 295.96917489428574
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#595959",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "frameId": "f-2",
+      "visualKind": "text",
+      "title": "<p>Drop 1–3 images here that show the style you want to use.</p>"
+    },
+    {
+      "id": "n-6",
+      "position": {
+        "x": 52.2021076136738,
+        "y": 52.202107613674514
+      },
+      "size": {
+        "width": 40.404215227348686,
+        "height": 40.404215227349596
+      },
+      "style": {
+        "fillColor": "#1c1c1e",
+        "borderColor": "#ffffff",
+        "textColor": "#ffffff",
+        "fontSize": 18,
+        "fontFamily": "unknown",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "circle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-2",
+      "visualKind": "shape",
+      "title": "<p><strong>1</strong></p>"
+    },
+    {
+      "id": "n-7",
+      "position": {
+        "x": 179.9845874488732,
+        "y": 109.54707237020665
+      },
+      "size": {
+        "width": 295.9691749028571
+      },
+      "style": {
+        "fontSize": 24,
+        "textColor": "#1a1a1a",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-3",
+      "visualKind": "text",
+      "title": "<p><strong>Your Photo &#x1f4f8;</strong></p>"
+    },
+    {
+      "id": "n-8",
+      "position": {
+        "x": 179.9845874488732,
+        "y": 162.40421522734977
+      },
+      "size": {
+        "width": 295.96917489428574
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#595959",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "frameId": "f-3",
+      "visualKind": "text",
+      "title": "<p>Place the image you want to restyle in this frame.</p>"
+    },
+    {
+      "id": "n-9",
+      "position": {
+        "x": 52.2021076136738,
+        "y": 52.202107613674514
+      },
+      "size": {
+        "width": 40.404215227348686,
+        "height": 40.404215227349596
+      },
+      "style": {
+        "fillColor": "#1c1c1e",
+        "borderColor": "#ffffff",
+        "textColor": "#ffffff",
+        "fontSize": 18,
+        "fontFamily": "unknown",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "circle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-3",
+      "visualKind": "shape",
+      "title": "<p><strong>2</strong></p>"
+    },
+    {
+      "id": "n-10",
+      "position": {
+        "x": 208.76849340040246,
+        "y": 71.377635703131
+      },
+      "size": {
+        "width": 324.5800658782675
+      },
+      "style": {
+        "fontSize": 34,
+        "textColor": "#0e0e0e",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-4",
+      "visualKind": "text",
+      "title": "<p><strong style=\"color:rgb(14,14,14)\">Image Style Mixer</strong></p>"
+    },
+    {
+      "id": "n-11",
+      "position": {
+        "x": 203.34326450310675,
+        "y": 188.30681255883783
+      },
+      "size": {
+        "width": 313.72960809050863
+      },
+      "style": {
+        "fontSize": 17,
+        "textColor": "#595959",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "frameId": "f-4",
+      "visualKind": "text",
+      "title": "<p>The Image Style Transfer template offers a straightforward workflow where you select reference images to establish an aesthetic and then apply it to your own photograph.</p>"
+    }
+  ],
+  "edges": [],
+  "annotations": [],
+  "_metadata": {
+    "extracted_at": "2026-02-23T12:52:33.612921",
+    "total_items": 17,
+    "total_connectors": 0,
+    "frames": 5,
+    "nodes": 12,
+    "edges": 0
+  },
+  "_template": {
+    "name": "ai-image-style-mixer",
+    "category": "miroverse",
+    "source": "miroverse",
+    "source_slug": "image-style-mixer-ai",
+    "source_board_id": "uXjVJ9syoTE=",
+    "tags": [
+      "image creation",
+      "ai accelerated"
+    ],
+    "extracted_at": "2026-02-23T12:52:33.612970"
+  }
+}

@@ -1,0 +1,5418 @@
+{
+  "frames": [
+    {
+      "id": "f-0",
+      "title": "",
+      "position": {
+        "x": -2054.170345999124,
+        "y": -641.554847565817
+      },
+      "size": {
+        "width": 571.385025105114,
+        "height": 334.3332334779333
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-1",
+      "title": "",
+      "position": {
+        "x": -2054.170345999124,
+        "y": -221.33574727732844
+      },
+      "size": {
+        "width": 571.3850251051155,
+        "height": 447.22856594509017
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    }
+  ],
+  "nodes": [
+    {
+      "id": "n-0",
+      "position": {
+        "x": -1475.6937062886852,
+        "y": -808.7214643047837
+      },
+      "size": {
+        "width": 2909.0,
+        "height": 1829.2007411095672
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "Prototype"
+    },
+    {
+      "id": "n-1",
+      "position": {
+        "x": 267.5,
+        "y": 484.0000000000001
+      },
+      "size": {
+        "width": 375.0,
+        "height": 806.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "Login Screen"
+    },
+    {
+      "id": "n-2",
+      "position": {
+        "x": 187.5,
+        "y": 98.0
+      },
+      "size": {
+        "width": 100.0,
+        "height": 100.0
+      },
+      "style": {
+        "fillColor": "#1a73e8",
+        "borderColor": "#e5e7eb",
+        "textColor": "#1a1a1a",
+        "fontSize": 161,
+        "fontFamily": "noto_sans",
+        "borderWidth": 0,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-3",
+      "position": {
+        "x": 187.5,
+        "y": 98.0
+      },
+      "size": {
+        "width": 75.99999999999963,
+        "height": 75.99999999999963
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mockup]"
+    },
+    {
+      "id": "n-4",
+      "position": {
+        "x": 187.5,
+        "y": 181.42857142857247
+      },
+      "size": {
+        "width": 204.20833333714285
+      },
+      "style": {
+        "fontSize": 24,
+        "textColor": "#1a73e8",
+        "fontFamily": "roboto",
+        "align": "center"
+      },
+      "visualKind": "text",
+      "title": "<p><strong>Coastal Explorer</strong></p>"
+    },
+    {
+      "id": "n-5",
+      "position": {
+        "x": 187.5,
+        "y": 204.5
+      },
+      "size": {
+        "width": 169.0
+      },
+      "style": {
+        "fontSize": 14,
+        "textColor": "#737373",
+        "fontFamily": "roboto",
+        "align": "center"
+      },
+      "visualKind": "text",
+      "title": "<p>Modern Elegant Travel App       </p>"
+    },
+    {
+      "id": "n-6",
+      "position": {
+        "x": 187.5,
+        "y": 266.0
+      },
+      "size": {
+        "width": 311.0
+      },
+      "style": {
+        "fontSize": 14,
+        "textColor": "#404040",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong>Email</strong></p>"
+    },
+    {
+      "id": "n-7",
+      "position": {
+        "x": 187.5,
+        "y": 305.0
+      },
+      "size": {
+        "width": 311.0,
+        "height": 50.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[input_text]"
+    },
+    {
+      "id": "n-8",
+      "position": {
+        "x": 187.5,
+        "y": 356.0
+      },
+      "size": {
+        "width": 311.0
+      },
+      "style": {
+        "fontSize": 14,
+        "textColor": "#404040",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong>Password</strong></p>"
+    },
+    {
+      "id": "n-9",
+      "position": {
+        "x": 187.5,
+        "y": 395.0
+      },
+      "size": {
+        "width": 311.0,
+        "height": 50.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[input_text]"
+    },
+    {
+      "id": "n-10",
+      "position": {
+        "x": 187.5,
+        "y": 540.5
+      },
+      "size": {
+        "width": 134.0
+      },
+      "style": {
+        "fontSize": 14,
+        "textColor": "#737373",
+        "fontFamily": "roboto",
+        "align": "center"
+      },
+      "visualKind": "text",
+      "title": "or continue with"
+    },
+    {
+      "id": "n-11",
+      "position": {
+        "x": 106.5,
+        "y": 591.0
+      },
+      "size": {
+        "width": 148.0,
+        "height": 46.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[input_button]"
+    },
+    {
+      "id": "n-12",
+      "position": {
+        "x": 269.5,
+        "y": 591.0
+      },
+      "size": {
+        "width": 148.0,
+        "height": 46.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[input_button]"
+    },
+    {
+      "id": "n-13",
+      "position": {
+        "x": 187.5,
+        "y": 698.5
+      },
+      "size": {
+        "width": 311.0
+      },
+      "style": {
+        "fontSize": 14,
+        "textColor": "#525252",
+        "fontFamily": "roboto",
+        "align": "center"
+      },
+      "visualKind": "text",
+      "title": "<p>Don&#39;t have an account? <u>Sign Up</u></p>"
+    },
+    {
+      "id": "n-14",
+      "position": {
+        "x": 743.4999999999998,
+        "y": 540.0000000000001
+      },
+      "size": {
+        "width": 375.0,
+        "height": 918.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "Landing Page"
+    },
+    {
+      "id": "n-15",
+      "position": {
+        "x": 180.79166666667152,
+        "y": 749.2857142857174
+      },
+      "size": {
+        "width": 130.41666666857142
+      },
+      "style": {
+        "fontSize": 12,
+        "textColor": "#a3a3a3",
+        "fontFamily": "roboto",
+        "align": "center"
+      },
+      "visualKind": "text",
+      "title": "<p>Go to Landing Page</p>"
+    },
+    {
+      "id": "n-16",
+      "position": {
+        "x": 187.5,
+        "y": 419.0
+      },
+      "size": {
+        "width": 375.0,
+        "height": 838.0
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ8376wg%3D/resources/images/3458764517258826609?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-17",
+      "position": {
+        "x": 39.5,
+        "y": 44.0
+      },
+      "size": {
+        "width": 40.0,
+        "height": 40.0
+      },
+      "style": {
+        "fillColor": "#1a73e8",
+        "borderColor": "#e5e7eb",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "noto_sans",
+        "borderWidth": 0,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-18",
+      "position": {
+        "x": 39.5,
+        "y": 44.0
+      },
+      "size": {
+        "width": 16.0,
+        "height": 16.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mockup]"
+    },
+    {
+      "id": "n-19",
+      "position": {
+        "x": 345.5,
+        "y": 44.0
+      },
+      "size": {
+        "width": 18.0,
+        "height": 18.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mockup]"
+    },
+    {
+      "id": "n-20",
+      "position": {
+        "x": 187.5,
+        "y": 423.0
+      },
+      "size": {
+        "width": 335.0,
+        "height": 670.0
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#e5e7eb",
+        "textColor": "#1a1a1a",
+        "fontSize": 161,
+        "fontFamily": "noto_sans",
+        "borderWidth": 0,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 0.9
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-21",
+      "position": {
+        "x": 187.5,
+        "y": 124.0
+      },
+      "size": {
+        "width": 294.9999999942857
+      },
+      "style": {
+        "fontSize": 24,
+        "textColor": "#262626",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong>Hi Kristin,</strong></p>"
+    },
+    {
+      "id": "n-22",
+      "position": {
+        "x": 187.5,
+        "y": 162.0
+      },
+      "size": {
+        "width": 295.0
+      },
+      "style": {
+        "fontSize": 20,
+        "textColor": "#404040",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "what would you like to do next?"
+    },
+    {
+      "id": "n-23",
+      "position": {
+        "x": 187.5,
+        "y": 288.0
+      },
+      "size": {
+        "width": 294.99999999428576
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#262626",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong>Popular in California</strong></p>"
+    },
+    {
+      "id": "n-24",
+      "position": {
+        "x": 110.5,
+        "y": 416.0
+      },
+      "size": {
+        "width": 142.0,
+        "height": 36.0
+      },
+      "style": {
+        "fillColor": "#000000",
+        "borderColor": "#e5e7eb",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "noto_sans",
+        "borderWidth": 0,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 0.5
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-25",
+      "position": {
+        "x": 110.5,
+        "y": 416.0
+      },
+      "size": {
+        "width": 126.0
+      },
+      "style": {
+        "fontSize": 14,
+        "textColor": "#ffffff",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong>Big Sur          </strong></p>"
+    },
+    {
+      "id": "n-26",
+      "position": {
+        "x": 263.5,
+        "y": 416.0
+      },
+      "size": {
+        "width": 142.0,
+        "height": 36.0
+      },
+      "style": {
+        "fillColor": "#000000",
+        "borderColor": "#e5e7eb",
+        "textColor": "#1a1a1a",
+        "fontSize": 161,
+        "fontFamily": "noto_sans",
+        "borderWidth": 0,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 0.5
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-27",
+      "position": {
+        "x": 263.5,
+        "y": 416.0
+      },
+      "size": {
+        "width": 126.0
+      },
+      "style": {
+        "fontSize": 14,
+        "textColor": "#ffffff",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong>San Francisco          </strong></p>"
+    },
+    {
+      "id": "n-28",
+      "position": {
+        "x": 110.5,
+        "y": 548.0
+      },
+      "size": {
+        "width": 142.0,
+        "height": 36.0
+      },
+      "style": {
+        "fillColor": "#000000",
+        "borderColor": "#e5e7eb",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "noto_sans",
+        "borderWidth": 0,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 0.5
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-29",
+      "position": {
+        "x": 110.5,
+        "y": 548.0
+      },
+      "size": {
+        "width": 126.0
+      },
+      "style": {
+        "fontSize": 14,
+        "textColor": "#ffffff",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong>Santa Monica          </strong></p>"
+    },
+    {
+      "id": "n-30",
+      "position": {
+        "x": 263.5,
+        "y": 548.0
+      },
+      "size": {
+        "width": 142.0,
+        "height": 36.0
+      },
+      "style": {
+        "fillColor": "#000000",
+        "borderColor": "#e5e7eb",
+        "textColor": "#1a1a1a",
+        "fontSize": 161,
+        "fontFamily": "noto_sans",
+        "borderWidth": 0,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 0.5
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-31",
+      "position": {
+        "x": 263.5,
+        "y": 548.0
+      },
+      "size": {
+        "width": 126.0
+      },
+      "style": {
+        "fontSize": 14,
+        "textColor": "#ffffff",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong>Carmel          </strong></p>"
+    },
+    {
+      "id": "n-32",
+      "position": {
+        "x": 187.5,
+        "y": 604.0
+      },
+      "size": {
+        "width": 294.99999999428576
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#262626",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong>Recently Viewed</strong></p>"
+    },
+    {
+      "id": "n-33",
+      "position": {
+        "x": 109.5,
+        "y": 714.0
+      },
+      "size": {
+        "width": 140.0,
+        "height": 32.0
+      },
+      "style": {
+        "fillColor": "#000000",
+        "borderColor": "#e5e7eb",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "noto_sans",
+        "borderWidth": 0,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 0.5
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-34",
+      "position": {
+        "x": 109.5,
+        "y": 714.0
+      },
+      "size": {
+        "width": 98.57142857142857
+      },
+      "style": {
+        "fontSize": 12,
+        "textColor": "#ffffff",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong>McWay Falls          </strong></p>"
+    },
+    {
+      "id": "n-35",
+      "position": {
+        "x": 261.5,
+        "y": 714.0
+      },
+      "size": {
+        "width": 140.0,
+        "height": 32.0
+      },
+      "style": {
+        "fillColor": "#000000",
+        "borderColor": "#e5e7eb",
+        "textColor": "#1a1a1a",
+        "fontSize": 161,
+        "fontFamily": "noto_sans",
+        "borderWidth": 0,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 0.5
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-36",
+      "position": {
+        "x": 261.5,
+        "y": 714.0
+      },
+      "size": {
+        "width": 137.14285714285714
+      },
+      "style": {
+        "fontSize": 12,
+        "textColor": "#ffffff",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong>Julia Pfeiffer Beach          </strong></p>"
+    },
+    {
+      "id": "n-37",
+      "position": {
+        "x": 413.5,
+        "y": 714.0
+      },
+      "size": {
+        "width": 140.0,
+        "height": 32.0
+      },
+      "style": {
+        "fillColor": "#000000",
+        "borderColor": "#e5e7eb",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "noto_sans",
+        "borderWidth": 0,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 0.5
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-38",
+      "position": {
+        "x": 413.5,
+        "y": 714.0
+      },
+      "size": {
+        "width": 98.57142857142857
+      },
+      "style": {
+        "fontSize": 12,
+        "textColor": "#ffffff",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong>Bixby Bridge          </strong></p>"
+    },
+    {
+      "id": "n-39",
+      "position": {
+        "x": 187.5,
+        "y": 878.0
+      },
+      "size": {
+        "width": 375.0,
+        "height": 80.0
+      },
+      "style": {
+        "fillColor": "#f5f5f5",
+        "borderColor": "#e5e7eb",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "noto_sans",
+        "borderWidth": 0,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-40",
+      "position": {
+        "x": 39.5,
+        "y": 868.0
+      },
+      "size": {
+        "width": 23.0,
+        "height": 23.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mockup]"
+    },
+    {
+      "id": "n-41",
+      "position": {
+        "x": 41.5,
+        "y": 894.0
+      },
+      "size": {
+        "width": 33.0
+      },
+      "style": {
+        "fontSize": 12,
+        "textColor": "#1a73e8",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p>Home</p>"
+    },
+    {
+      "id": "n-42",
+      "position": {
+        "x": 138.5,
+        "y": 868.0
+      },
+      "size": {
+        "width": 20.0,
+        "height": 20.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mockup]"
+    },
+    {
+      "id": "n-43",
+      "position": {
+        "x": 139.5,
+        "y": 894.0
+      },
+      "size": {
+        "width": 40.99999999714286
+      },
+      "style": {
+        "fontSize": 12,
+        "textColor": "#525252",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p>Explore</p>"
+    },
+    {
+      "id": "n-44",
+      "position": {
+        "x": 237.5,
+        "y": 868.0
+      },
+      "size": {
+        "width": 15.0,
+        "height": 15.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mockup]"
+    },
+    {
+      "id": "n-45",
+      "position": {
+        "x": 237.5,
+        "y": 894.0
+      },
+      "size": {
+        "width": 33.0
+      },
+      "style": {
+        "fontSize": 12,
+        "textColor": "#525252",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "Saved"
+    },
+    {
+      "id": "n-46",
+      "position": {
+        "x": 333.5,
+        "y": 868.0
+      },
+      "size": {
+        "width": 18.0,
+        "height": 18.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mockup]"
+    },
+    {
+      "id": "n-47",
+      "position": {
+        "x": 333.5,
+        "y": 894.0
+      },
+      "size": {
+        "width": 34.99999999714286
+      },
+      "style": {
+        "fontSize": 12,
+        "textColor": "#525252",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "Profile"
+    },
+    {
+      "id": "n-48",
+      "position": {
+        "x": 1217.4999999999998,
+        "y": 915.1003705547847
+      },
+      "size": {
+        "width": 375.0,
+        "height": 1668.2007411095647
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "Search Results"
+    },
+    {
+      "id": "n-49",
+      "position": {
+        "x": 187.5,
+        "y": 468.0
+      },
+      "size": {
+        "width": 311.0,
+        "height": 48.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[input_button]"
+    },
+    {
+      "id": "n-50",
+      "position": {
+        "x": 187.5,
+        "y": 225.0
+      },
+      "size": {
+        "width": 295.0,
+        "height": 50.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[input_text]"
+    },
+    {
+      "id": "n-51",
+      "position": {
+        "x": 187.5,
+        "y": 28.0
+      },
+      "size": {
+        "width": 375.0,
+        "height": 56.0
+      },
+      "style": {
+        "fillColor": "#1a73e8",
+        "borderColor": "#e5e7eb",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "noto_sans",
+        "borderWidth": 0,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-52",
+      "position": {
+        "x": 132.1720164136059,
+        "y": 28.0
+      },
+      "size": {
+        "width": 20.0,
+        "height": 20.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mockup]"
+    },
+    {
+      "id": "n-53",
+      "position": {
+        "x": 218.70833333332848,
+        "y": 28.0
+      },
+      "size": {
+        "width": 141.4166666657143
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#ffffff",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong>Coastal Explorer</strong></p>"
+    },
+    {
+      "id": "n-54",
+      "position": {
+        "x": 187.5,
+        "y": 87.0
+      },
+      "size": {
+        "width": 343.0,
+        "height": 38.0
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#d4d4d4",
+        "textColor": "#1a1a1a",
+        "fontSize": 161,
+        "fontFamily": "noto_sans",
+        "borderWidth": 1,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-55",
+      "position": {
+        "x": 37.5,
+        "y": 87.0
+      },
+      "size": {
+        "width": 16.0,
+        "height": 16.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mockup]"
+    },
+    {
+      "id": "n-56",
+      "position": {
+        "x": 191.5,
+        "y": 87.0
+      },
+      "size": {
+        "width": 277.0,
+        "height": 20.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[input_text]"
+    },
+    {
+      "id": "n-57",
+      "position": {
+        "x": 338.5,
+        "y": 87.0
+      },
+      "size": {
+        "width": 16.0,
+        "height": 16.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mockup]"
+    },
+    {
+      "id": "n-58",
+      "position": {
+        "x": 187.5,
+        "y": 118.0
+      },
+      "size": {
+        "width": 343.0000000028571
+      },
+      "style": {
+        "fontSize": 12,
+        "textColor": "#737373",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "\n      137 results found\n     "
+    },
+    {
+      "id": "n-59",
+      "position": {
+        "x": 187.5,
+        "y": 302.0
+      },
+      "size": {
+        "width": 343.0,
+        "height": 320.0
+      },
+      "style": {
+        "fillColor": "#fafafa",
+        "borderColor": "#e5e7eb",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "noto_sans",
+        "borderWidth": 0,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-60",
+      "position": {
+        "x": 167.5,
+        "y": 350.0
+      },
+      "size": {
+        "width": 270.0
+      },
+      "style": {
+        "fontSize": 16,
+        "textColor": "#171717",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong>McWay Falls, Big Sur, California</strong></p>"
+    },
+    {
+      "id": "n-61",
+      "position": {
+        "x": 167.5,
+        "y": 406.0
+      },
+      "size": {
+        "width": 270.0
+      },
+      "style": {
+        "fontSize": 14,
+        "textColor": "#525252",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "\n          This 80-foot-tall waterfall on the coast of Big Sur in central California flows year-round from McWay Creek in Julia Pfeiffer Burns State Park.\n         "
+    },
+    {
+      "id": "n-62",
+      "position": {
+        "x": 322.5,
+        "y": 358.0
+      },
+      "size": {
+        "width": 42.0
+      },
+      "style": {
+        "fontSize": 12,
+        "textColor": "#ffffff",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong>18.2 km</strong></p>"
+    },
+    {
+      "id": "n-63",
+      "position": {
+        "x": 187.5,
+        "y": 654.0
+      },
+      "size": {
+        "width": 343.0,
+        "height": 344.0
+      },
+      "style": {
+        "fillColor": "#fafafa",
+        "borderColor": "#e5e7eb",
+        "textColor": "#1a1a1a",
+        "fontSize": 161,
+        "fontFamily": "noto_sans",
+        "borderWidth": 0,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-64",
+      "position": {
+        "x": 187.5,
+        "y": 572.0
+      },
+      "size": {
+        "width": 343.0,
+        "height": 180.0
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ8376wg%3D/resources/images/3458764517258826617?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-65",
+      "position": {
+        "x": 167.5,
+        "y": 702.0
+      },
+      "size": {
+        "width": 270.0
+      },
+      "style": {
+        "fontSize": 16,
+        "textColor": "#171717",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong>Julia Pfeiffer Burns Beach, Big Sur, California</strong></p>"
+    },
+    {
+      "id": "n-66",
+      "position": {
+        "x": 167.5,
+        "y": 770.0
+      },
+      "size": {
+        "width": 270.0
+      },
+      "style": {
+        "fontSize": 14,
+        "textColor": "#525252",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "\n          Enjoy a relaxing day at the beach at this state park, just 12 miles south of Pfeiffer Big Sur State Park on California&#39;s Pacific coast.\n         "
+    },
+    {
+      "id": "n-67",
+      "position": {
+        "x": 322.5,
+        "y": 698.0
+      },
+      "size": {
+        "width": 42.0
+      },
+      "style": {
+        "fontSize": 12,
+        "textColor": "#ffffff",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong>37.4 km</strong></p>"
+    },
+    {
+      "id": "n-68",
+      "position": {
+        "x": 187.5,
+        "y": 1018.0
+      },
+      "size": {
+        "width": 343.0,
+        "height": 344.0
+      },
+      "style": {
+        "fillColor": "#fafafa",
+        "borderColor": "#e5e7eb",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "noto_sans",
+        "borderWidth": 0,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-69",
+      "position": {
+        "x": 187.5,
+        "y": 936.0
+      },
+      "size": {
+        "width": 343.0,
+        "height": 180.0
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ8376wg%3D/resources/images/3458764517258826618?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-70",
+      "position": {
+        "x": 167.5,
+        "y": 1066.0
+      },
+      "size": {
+        "width": 270.0
+      },
+      "style": {
+        "fontSize": 16,
+        "textColor": "#171717",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong>Garrapata State Beach, Carmel-By-The-Sea, California</strong></p>"
+    },
+    {
+      "id": "n-71",
+      "position": {
+        "x": 167.5,
+        "y": 1134.0
+      },
+      "size": {
+        "width": 270.0
+      },
+      "style": {
+        "fontSize": 14,
+        "textColor": "#525252",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "\n          Garrapata State Park is a state park of California, USA, located on California State Route 1, 6.7 miles south of Carmel and 18 miles north of Big Sur Village.\n         "
+    },
+    {
+      "id": "n-72",
+      "position": {
+        "x": 322.5,
+        "y": 1062.0
+      },
+      "size": {
+        "width": 42.0
+      },
+      "style": {
+        "fontSize": 12,
+        "textColor": "#ffffff",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong>41.9 km</strong></p>"
+    },
+    {
+      "id": "n-73",
+      "position": {
+        "x": 187.5,
+        "y": 1382.0
+      },
+      "size": {
+        "width": 343.0,
+        "height": 344.0
+      },
+      "style": {
+        "fillColor": "#fafafa",
+        "borderColor": "#e5e7eb",
+        "textColor": "#1a1a1a",
+        "fontSize": 161,
+        "fontFamily": "noto_sans",
+        "borderWidth": 0,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-74",
+      "position": {
+        "x": 187.5,
+        "y": 1300.0
+      },
+      "size": {
+        "width": 343.0,
+        "height": 180.0
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ8376wg%3D/resources/images/3458764517258826619?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-75",
+      "position": {
+        "x": 167.5,
+        "y": 1430.0
+      },
+      "size": {
+        "width": 270.0
+      },
+      "style": {
+        "fontSize": 16,
+        "textColor": "#171717",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong>Bixby Creek Bridge, Big Sur, California</strong></p>"
+    },
+    {
+      "id": "n-76",
+      "position": {
+        "x": 167.5,
+        "y": 1498.0
+      },
+      "size": {
+        "width": 270.0
+      },
+      "style": {
+        "fontSize": 14,
+        "textColor": "#525252",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "\n          One of the most photographed bridges in California, this iconic concrete arch spans the deep canyon of Bixby Creek with stunning views of the Pacific coastline.\n         "
+    },
+    {
+      "id": "n-77",
+      "position": {
+        "x": 322.5,
+        "y": 1426.0
+      },
+      "size": {
+        "width": 42.0
+      },
+      "style": {
+        "fontSize": 12,
+        "textColor": "#ffffff",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong>25.7 km</strong></p>"
+    },
+    {
+      "id": "n-78",
+      "position": {
+        "x": 187.5,
+        "y": 1626.848932995912
+      },
+      "size": {
+        "width": 375.0,
+        "height": 80.0
+      },
+      "style": {
+        "fillColor": "#f5f5f5",
+        "borderColor": "#e5e7eb",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "noto_sans",
+        "borderWidth": 0,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-79",
+      "position": {
+        "x": 39.5,
+        "y": 1616.848932995912
+      },
+      "size": {
+        "width": 23.0,
+        "height": 23.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mockup]"
+    },
+    {
+      "id": "n-80",
+      "position": {
+        "x": 41.5,
+        "y": 1642.848932995912
+      },
+      "size": {
+        "width": 33.0
+      },
+      "style": {
+        "fontSize": 12,
+        "textColor": "#525252",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "Home"
+    },
+    {
+      "id": "n-81",
+      "position": {
+        "x": 138.5,
+        "y": 1616.848932995912
+      },
+      "size": {
+        "width": 20.0,
+        "height": 20.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mockup]"
+    },
+    {
+      "id": "n-82",
+      "position": {
+        "x": 139.5,
+        "y": 1642.848932995912
+      },
+      "size": {
+        "width": 40.99999999714286
+      },
+      "style": {
+        "fontSize": 12,
+        "textColor": "#1a73e8",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p>Explore</p>"
+    },
+    {
+      "id": "n-83",
+      "position": {
+        "x": 237.5,
+        "y": 1616.848932995912
+      },
+      "size": {
+        "width": 15.0,
+        "height": 15.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mockup]"
+    },
+    {
+      "id": "n-84",
+      "position": {
+        "x": 237.5,
+        "y": 1642.848932995912
+      },
+      "size": {
+        "width": 33.0
+      },
+      "style": {
+        "fontSize": 12,
+        "textColor": "#525252",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "Saved"
+    },
+    {
+      "id": "n-85",
+      "position": {
+        "x": 333.5,
+        "y": 1616.848932995912
+      },
+      "size": {
+        "width": 18.0,
+        "height": 18.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mockup]"
+    },
+    {
+      "id": "n-86",
+      "position": {
+        "x": 333.5,
+        "y": 1642.848932995912
+      },
+      "size": {
+        "width": 34.99999999714286
+      },
+      "style": {
+        "fontSize": 12,
+        "textColor": "#525252",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "Profile"
+    },
+    {
+      "id": "n-87",
+      "position": {
+        "x": 1693.4999999999998,
+        "y": 801.5000000000001
+      },
+      "size": {
+        "width": 375.0,
+        "height": 1443.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "Detail View"
+    },
+    {
+      "id": "n-88",
+      "position": {
+        "x": 110.5,
+        "y": 374.0
+      },
+      "size": {
+        "width": 142.0,
+        "height": 120.0
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ8376wg%3D/resources/images/3458764517258826610?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-89",
+      "position": {
+        "x": 263.5,
+        "y": 374.0
+      },
+      "size": {
+        "width": 142.0,
+        "height": 120.0
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ8376wg%3D/resources/images/3458764517258826611?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-90",
+      "position": {
+        "x": 110.5,
+        "y": 506.0
+      },
+      "size": {
+        "width": 142.0,
+        "height": 120.0
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ8376wg%3D/resources/images/3458764517258826612?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-91",
+      "position": {
+        "x": 263.5,
+        "y": 506.0
+      },
+      "size": {
+        "width": 142.0,
+        "height": 120.0
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ8376wg%3D/resources/images/3458764517258826613?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-92",
+      "position": {
+        "x": 109.5,
+        "y": 680.0
+      },
+      "size": {
+        "width": 140.0,
+        "height": 99.99999999999999
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ8376wg%3D/resources/images/3458764517258826614?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-93",
+      "position": {
+        "x": 261.5,
+        "y": 680.0
+      },
+      "size": {
+        "width": 140.0,
+        "height": 99.99999999999999
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ8376wg%3D/resources/images/3458764517258826615?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-94",
+      "position": {
+        "x": 413.5,
+        "y": 680.0
+      },
+      "size": {
+        "width": 140.0,
+        "height": 99.99999999999999
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ8376wg%3D/resources/images/3458764517258826616?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-95",
+      "position": {
+        "x": 187.5,
+        "y": 232.0
+      },
+      "size": {
+        "width": 343.0,
+        "height": 180.0
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ8376wg%3D/resources/images/3458764517258826620?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-96",
+      "position": {
+        "x": 187.5,
+        "y": 1403.5
+      },
+      "size": {
+        "width": 375.0,
+        "height": 80.0
+      },
+      "style": {
+        "fillColor": "#f5f5f5",
+        "borderColor": "#e5e7eb",
+        "textColor": "#1a1a1a",
+        "fontSize": 161,
+        "fontFamily": "noto_sans",
+        "borderWidth": 0,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-97",
+      "position": {
+        "x": 138.5,
+        "y": 1393.5
+      },
+      "size": {
+        "width": 20.0,
+        "height": 20.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mockup]"
+    },
+    {
+      "id": "n-98",
+      "position": {
+        "x": 139.5,
+        "y": 1419.5
+      },
+      "size": {
+        "width": 40.99999999714286
+      },
+      "style": {
+        "fontSize": 12,
+        "textColor": "#1a73e8",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p>Explore</p>"
+    },
+    {
+      "id": "n-99",
+      "position": {
+        "x": 237.5,
+        "y": 1393.5
+      },
+      "size": {
+        "width": 15.0,
+        "height": 15.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mockup]"
+    },
+    {
+      "id": "n-100",
+      "position": {
+        "x": 237.5,
+        "y": 1419.5
+      },
+      "size": {
+        "width": 33.0
+      },
+      "style": {
+        "fontSize": 12,
+        "textColor": "#525252",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "Saved"
+    },
+    {
+      "id": "n-101",
+      "position": {
+        "x": 187.5,
+        "y": 28.5
+      },
+      "size": {
+        "width": 375.0,
+        "height": 56.0
+      },
+      "style": {
+        "fillColor": "#1a73e8",
+        "borderColor": "#e5e7eb",
+        "textColor": "#1a1a1a",
+        "fontSize": 161,
+        "fontFamily": "noto_sans",
+        "borderWidth": 0,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-102",
+      "position": {
+        "x": 624.5,
+        "y": 181.5
+      },
+      "size": {
+        "width": 250.0,
+        "height": 250.0
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ8376wg%3D/resources/images/3458764517258826621?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-103",
+      "position": {
+        "x": 170.5,
+        "y": 286.5
+      },
+      "size": {
+        "width": 8.0,
+        "height": 8.0
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#e5e7eb",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "noto_sans",
+        "borderWidth": 0,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-104",
+      "position": {
+        "x": 186.5,
+        "y": 286.5
+      },
+      "size": {
+        "width": 8.0,
+        "height": 8.0
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#e5e7eb",
+        "textColor": "#1a1a1a",
+        "fontSize": 161,
+        "fontFamily": "noto_sans",
+        "borderWidth": 0,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 0.5
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-105",
+      "position": {
+        "x": 202.5,
+        "y": 286.5
+      },
+      "size": {
+        "width": 8.0,
+        "height": 8.0
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#e5e7eb",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "noto_sans",
+        "borderWidth": 0,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 0.5
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-106",
+      "position": {
+        "x": 85.5,
+        "y": 338.5
+      },
+      "size": {
+        "width": 140.00000000571427
+      },
+      "style": {
+        "fontSize": 24,
+        "textColor": "#171717",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong>McWay Falls</strong></p>"
+    },
+    {
+      "id": "n-107",
+      "position": {
+        "x": 319.5,
+        "y": 338.5
+      },
+      "size": {
+        "width": 77.0
+      },
+      "style": {
+        "fontSize": 14,
+        "textColor": "#1a73e8",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong>18.2 km</strong></p>"
+    },
+    {
+      "id": "n-108",
+      "position": {
+        "x": 21.5,
+        "y": 386.5
+      },
+      "size": {
+        "width": 12.0,
+        "height": 12.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mockup]"
+    },
+    {
+      "id": "n-109",
+      "position": {
+        "x": 150.20355035462126,
+        "y": 381.92857142857247
+      },
+      "size": {
+        "width": 228.40710070857142
+      },
+      "style": {
+        "fontSize": 16,
+        "textColor": "#525252",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "Julia Pfeiffer Burns State Park, Big Sur, California"
+    },
+    {
+      "id": "n-110",
+      "position": {
+        "x": 187.5,
+        "y": 440.5
+      },
+      "size": {
+        "width": 343.0000000028572
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#262626",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong>About</strong></p>"
+    },
+    {
+      "id": "n-111",
+      "position": {
+        "x": 187.5,
+        "y": 514.5
+      },
+      "size": {
+        "width": 343.0
+      },
+      "style": {
+        "fontSize": 16,
+        "textColor": "#404040",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "\n       This 80-foot-tall waterfall on the coast of Big Sur in central California flows year-round from McWay Creek in Julia Pfeiffer Burns State Park, about 37 miles south of Carmel.\n      "
+    },
+    {
+      "id": "n-112",
+      "position": {
+        "x": 187.5,
+        "y": 639.5
+      },
+      "size": {
+        "width": 343.0
+      },
+      "style": {
+        "fontSize": 16,
+        "textColor": "#404040",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "\n       The trail to McWay Falls is an easy walk from the parking lot off HWY 1 and boasts breathtaking views of the Pacific Ocean. The waterfall is one of only two in California that flow directly into the ocean.\n      "
+    },
+    {
+      "id": "n-113",
+      "position": {
+        "x": 187.5,
+        "y": 742.5
+      },
+      "size": {
+        "width": 343.0000000028572
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#262626",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong>Visitor Information</strong></p>"
+    },
+    {
+      "id": "n-114",
+      "position": {
+        "x": 24.0,
+        "y": 768.5
+      },
+      "size": {
+        "width": 16.0,
+        "height": 16.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mockup]"
+    },
+    {
+      "id": "n-115",
+      "position": {
+        "x": 154.0,
+        "y": 772.5
+      },
+      "size": {
+        "width": 220.0
+      },
+      "style": {
+        "fontSize": 16,
+        "textColor": "#404040",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "\n         Open daily: 8:00 AM - 5:00 PM\n        "
+    },
+    {
+      "id": "n-116",
+      "position": {
+        "x": 24.0,
+        "y": 802.5
+      },
+      "size": {
+        "width": 16.0,
+        "height": 16.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mockup]"
+    },
+    {
+      "id": "n-117",
+      "position": {
+        "x": 149.5,
+        "y": 804.5
+      },
+      "size": {
+        "width": 211.0
+      },
+      "style": {
+        "fontSize": 16,
+        "textColor": "#404040",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "\n         Entrance fee: $10 per vehicle\n        "
+    },
+    {
+      "id": "n-118",
+      "position": {
+        "x": 24.0,
+        "y": 836.5
+      },
+      "size": {
+        "width": 16.0,
+        "height": 16.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mockup]"
+    },
+    {
+      "id": "n-119",
+      "position": {
+        "x": 163.5,
+        "y": 836.5
+      },
+      "size": {
+        "width": 239.0
+      },
+      "style": {
+        "fontSize": 16,
+        "textColor": "#404040",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "\n         No beach access - viewpoint only\n        "
+    },
+    {
+      "id": "n-120",
+      "position": {
+        "x": 187.5,
+        "y": 890.5
+      },
+      "size": {
+        "width": 343.0000000028572
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#262626",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong>Photos</strong></p>"
+    },
+    {
+      "id": "n-121",
+      "position": {
+        "x": 69.5,
+        "y": 973.5
+      },
+      "size": {
+        "width": 109.00000000000001,
+        "height": 115.0
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ8376wg%3D/resources/images/3458764517258826622?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-122",
+      "position": {
+        "x": 187.5,
+        "y": 973.5
+      },
+      "size": {
+        "width": 109.00000000000001,
+        "height": 115.0
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ8376wg%3D/resources/images/3458764517258826623?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-123",
+      "position": {
+        "x": 303.5,
+        "y": 973.5
+      },
+      "size": {
+        "width": 109.00000000000001,
+        "height": 115.0
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ8376wg%3D/resources/images/3458764517258826624?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-124",
+      "position": {
+        "x": 123.5,
+        "y": 1079.5
+      },
+      "size": {
+        "width": 215.0,
+        "height": 48.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[input_button]"
+    },
+    {
+      "id": "n-125",
+      "position": {
+        "x": 187.5,
+        "y": 1141.5
+      },
+      "size": {
+        "width": 343.0000000028572
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#262626",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong>Nearby Attractions</strong></p>"
+    },
+    {
+      "id": "n-126",
+      "position": {
+        "x": 50.5,
+        "y": 1202.5
+      },
+      "size": {
+        "width": 70.0,
+        "height": 70.0
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ8376wg%3D/resources/images/3458764517258826625?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-127",
+      "position": {
+        "x": 217.5,
+        "y": 1192.5
+      },
+      "size": {
+        "width": 240.0
+      },
+      "style": {
+        "fontSize": 16,
+        "textColor": "#262626",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong>Pfeiffer Beach</strong></p>"
+    },
+    {
+      "id": "n-128",
+      "position": {
+        "x": 217.5,
+        "y": 1214.5
+      },
+      "size": {
+        "width": 240.0
+      },
+      "style": {
+        "fontSize": 14,
+        "textColor": "#525252",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "\n          5.3 km away • Famous for purple sand\n         "
+    },
+    {
+      "id": "n-129",
+      "position": {
+        "x": 50.5,
+        "y": 1288.5
+      },
+      "size": {
+        "width": 70.0,
+        "height": 70.0
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ8376wg%3D/resources/images/3458764517258826626?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-130",
+      "position": {
+        "x": 198.5,
+        "y": 1278.5
+      },
+      "size": {
+        "width": 202.0
+      },
+      "style": {
+        "fontSize": 16,
+        "textColor": "#262626",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong>Bixby Bridge</strong></p>"
+    },
+    {
+      "id": "n-131",
+      "position": {
+        "x": 198.5,
+        "y": 1300.5
+      },
+      "size": {
+        "width": 202.0
+      },
+      "style": {
+        "fontSize": 14,
+        "textColor": "#525252",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "\n          23.7 km away • Iconic landmark\n         "
+    },
+    {
+      "id": "n-132",
+      "position": {
+        "x": 39.5,
+        "y": 1393.5
+      },
+      "size": {
+        "width": 23.0,
+        "height": 23.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mockup]"
+    },
+    {
+      "id": "n-133",
+      "position": {
+        "x": 39.5,
+        "y": 1419.5
+      },
+      "size": {
+        "width": 33.0
+      },
+      "style": {
+        "fontSize": 12,
+        "textColor": "#525252",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "Home"
+    },
+    {
+      "id": "n-134",
+      "position": {
+        "x": 332.5,
+        "y": 1393.5
+      },
+      "size": {
+        "width": 18.0,
+        "height": 18.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mockup]"
+    },
+    {
+      "id": "n-135",
+      "position": {
+        "x": 333.5,
+        "y": 1419.5
+      },
+      "size": {
+        "width": 34.99999999714286
+      },
+      "style": {
+        "fontSize": 12,
+        "textColor": "#525252",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "Profile"
+    },
+    {
+      "id": "n-136",
+      "position": {
+        "x": 113.87767487347446,
+        "y": 28.571428571427532
+      },
+      "size": {
+        "width": 20.0,
+        "height": 20.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mockup]"
+    },
+    {
+      "id": "n-137",
+      "position": {
+        "x": 200.41399179319706,
+        "y": 28.571428571427532
+      },
+      "size": {
+        "width": 141.4166666657143
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#ffffff",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong>Coastal Explorer</strong></p>"
+    },
+    {
+      "id": "n-138",
+      "position": {
+        "x": 2167.5,
+        "y": 636.0000000000001
+      },
+      "size": {
+        "width": 375.0,
+        "height": 1108.0000000000027
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "Saved Locations"
+    },
+    {
+      "id": "n-139",
+      "position": {
+        "x": 187.25,
+        "y": 173.30625833635713
+      },
+      "size": {
+        "width": 375.5,
+        "height": 249.99999999999997
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ8376wg%3D/resources/images/3458764517258826627?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-140",
+      "position": {
+        "x": 301.5,
+        "y": 1079.5
+      },
+      "size": {
+        "width": 113.0,
+        "height": 48.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[input_button]"
+    },
+    {
+      "id": "n-141",
+      "position": {
+        "x": 187.5,
+        "y": 1071.0
+      },
+      "size": {
+        "width": 375.0,
+        "height": 80.0
+      },
+      "style": {
+        "fillColor": "#f5f5f5",
+        "borderColor": "#e5e7eb",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "noto_sans",
+        "borderWidth": 0,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-142",
+      "position": {
+        "x": 39.5,
+        "y": 1061.0
+      },
+      "size": {
+        "width": 23.0,
+        "height": 23.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mockup]"
+    },
+    {
+      "id": "n-143",
+      "position": {
+        "x": 39.5,
+        "y": 1087.0
+      },
+      "size": {
+        "width": 33.0
+      },
+      "style": {
+        "fontSize": 12,
+        "textColor": "#525252",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "Home"
+    },
+    {
+      "id": "n-144",
+      "position": {
+        "x": 237.5,
+        "y": 1061.0
+      },
+      "size": {
+        "width": 15.0,
+        "height": 15.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mockup]"
+    },
+    {
+      "id": "n-145",
+      "position": {
+        "x": 237.5,
+        "y": 1087.0
+      },
+      "size": {
+        "width": 33.0
+      },
+      "style": {
+        "fontSize": 12,
+        "textColor": "#1a73e8",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p>Saved</p>"
+    },
+    {
+      "id": "n-146",
+      "position": {
+        "x": 187.5,
+        "y": 91.5
+      },
+      "size": {
+        "width": 342.9999999942857
+      },
+      "style": {
+        "fontSize": 24,
+        "textColor": "#171717",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong>Saved Locations</strong></p>"
+    },
+    {
+      "id": "n-147",
+      "position": {
+        "x": 187.5,
+        "y": 117.5
+      },
+      "size": {
+        "width": 343.0
+      },
+      "style": {
+        "fontSize": 14,
+        "textColor": "#525252",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "\n      You have saved 5 destinations\n     "
+    },
+    {
+      "id": "n-148",
+      "position": {
+        "x": 96.5,
+        "y": 211.5
+      },
+      "size": {
+        "width": 160.0,
+        "height": 120.0
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ8376wg%3D/resources/images/3458764517258826628?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-149",
+      "position": {
+        "x": 167.5,
+        "y": 163.5
+      },
+      "size": {
+        "width": 8.0,
+        "height": 8.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[input_button]"
+    },
+    {
+      "id": "n-150",
+      "position": {
+        "x": 98.5,
+        "y": 291.5
+      },
+      "size": {
+        "width": 164.0
+      },
+      "style": {
+        "fontSize": 16,
+        "textColor": "#262626",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong>McWay Falls</strong></p>"
+    },
+    {
+      "id": "n-151",
+      "position": {
+        "x": 98.5,
+        "y": 311.5
+      },
+      "size": {
+        "width": 163.99999999714285
+      },
+      "style": {
+        "fontSize": 12,
+        "textColor": "#525252",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "\n       Big Sur, California\n      "
+    },
+    {
+      "id": "n-152",
+      "position": {
+        "x": 275.5,
+        "y": 211.5
+      },
+      "size": {
+        "width": 160.0,
+        "height": 120.0
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ8376wg%3D/resources/images/3458764517258826629?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-153",
+      "position": {
+        "x": 347.5,
+        "y": 163.5
+      },
+      "size": {
+        "width": 8.0,
+        "height": 8.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[input_button]"
+    },
+    {
+      "id": "n-154",
+      "position": {
+        "x": 277.5,
+        "y": 291.5
+      },
+      "size": {
+        "width": 164.0
+      },
+      "style": {
+        "fontSize": 16,
+        "textColor": "#262626",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong>Garrapata Beach</strong></p>"
+    },
+    {
+      "id": "n-155",
+      "position": {
+        "x": 277.5,
+        "y": 311.5
+      },
+      "size": {
+        "width": 163.99999999714285
+      },
+      "style": {
+        "fontSize": 12,
+        "textColor": "#525252",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "\n       Carmel, California\n      "
+    },
+    {
+      "id": "n-156",
+      "position": {
+        "x": 96.5,
+        "y": 395.5
+      },
+      "size": {
+        "width": 160.0,
+        "height": 120.0
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ8376wg%3D/resources/images/3458764517258826630?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-157",
+      "position": {
+        "x": 167.5,
+        "y": 347.5
+      },
+      "size": {
+        "width": 8.0,
+        "height": 8.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[input_button]"
+    },
+    {
+      "id": "n-158",
+      "position": {
+        "x": 98.5,
+        "y": 475.5
+      },
+      "size": {
+        "width": 164.0
+      },
+      "style": {
+        "fontSize": 16,
+        "textColor": "#262626",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong>Pfeiffer Beach</strong></p>"
+    },
+    {
+      "id": "n-159",
+      "position": {
+        "x": 98.5,
+        "y": 495.5
+      },
+      "size": {
+        "width": 163.99999999714285
+      },
+      "style": {
+        "fontSize": 12,
+        "textColor": "#525252",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "\n       Big Sur, California\n      "
+    },
+    {
+      "id": "n-160",
+      "position": {
+        "x": 275.5,
+        "y": 395.5
+      },
+      "size": {
+        "width": 160.0,
+        "height": 120.0
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ8376wg%3D/resources/images/3458764517258826631?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-161",
+      "position": {
+        "x": 347.5,
+        "y": 347.5
+      },
+      "size": {
+        "width": 8.0,
+        "height": 8.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[input_button]"
+    },
+    {
+      "id": "n-162",
+      "position": {
+        "x": 277.5,
+        "y": 475.5
+      },
+      "size": {
+        "width": 164.0
+      },
+      "style": {
+        "fontSize": 16,
+        "textColor": "#262626",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong>Bixby Bridge</strong></p>"
+    },
+    {
+      "id": "n-163",
+      "position": {
+        "x": 277.5,
+        "y": 495.5
+      },
+      "size": {
+        "width": 163.99999999714285
+      },
+      "style": {
+        "fontSize": 12,
+        "textColor": "#525252",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "\n       Big Sur, California\n      "
+    },
+    {
+      "id": "n-164",
+      "position": {
+        "x": 96.5,
+        "y": 579.5
+      },
+      "size": {
+        "width": 160.0,
+        "height": 120.0
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ8376wg%3D/resources/images/3458764517258826632?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-165",
+      "position": {
+        "x": 167.5,
+        "y": 531.5
+      },
+      "size": {
+        "width": 8.0,
+        "height": 8.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[input_button]"
+    },
+    {
+      "id": "n-166",
+      "position": {
+        "x": 98.5,
+        "y": 659.5
+      },
+      "size": {
+        "width": 164.0
+      },
+      "style": {
+        "fontSize": 16,
+        "textColor": "#262626",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong>Point Lobos</strong></p>"
+    },
+    {
+      "id": "n-167",
+      "position": {
+        "x": 98.5,
+        "y": 679.5
+      },
+      "size": {
+        "width": 163.99999999714285
+      },
+      "style": {
+        "fontSize": 12,
+        "textColor": "#525252",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "\n       Carmel, California\n      "
+    },
+    {
+      "id": "n-168",
+      "position": {
+        "x": 187.5,
+        "y": 733.5
+      },
+      "size": {
+        "width": 343.0000000028572
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#262626",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong>Recently Viewed</strong></p>"
+    },
+    {
+      "id": "n-169",
+      "position": {
+        "x": 187.5,
+        "y": 815.5
+      },
+      "size": {
+        "width": 343.0,
+        "height": 112.0
+      },
+      "style": {
+        "fillColor": "#fafafa",
+        "borderColor": "#e5e7eb",
+        "textColor": "#1a1a1a",
+        "fontSize": 161,
+        "fontFamily": "noto_sans",
+        "borderWidth": 0,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-170",
+      "position": {
+        "x": 72.5,
+        "y": 815.5
+      },
+      "size": {
+        "width": 80.0,
+        "height": 80.0
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ8376wg%3D/resources/images/3458764517258826633?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-171",
+      "position": {
+        "x": 212.5,
+        "y": 787.5
+      },
+      "size": {
+        "width": 176.0
+      },
+      "style": {
+        "fontSize": 16,
+        "textColor": "#262626",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong>Monterey Bay Aquarium</strong></p>"
+    },
+    {
+      "id": "n-172",
+      "position": {
+        "x": 212.5,
+        "y": 807.5
+      },
+      "size": {
+        "width": 175.99999999714285
+      },
+      "style": {
+        "fontSize": 12,
+        "textColor": "#525252",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "\n         Monterey, California\n        "
+    },
+    {
+      "id": "n-173",
+      "position": {
+        "x": 131.5,
+        "y": 827.5
+      },
+      "size": {
+        "width": 14.0,
+        "height": 14.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mockup]"
+    },
+    {
+      "id": "n-174",
+      "position": {
+        "x": 193.5,
+        "y": 827.5
+      },
+      "size": {
+        "width": 105.0
+      },
+      "style": {
+        "fontSize": 12,
+        "textColor": "#404040",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "4.8 (2,450 reviews)"
+    },
+    {
+      "id": "n-175",
+      "position": {
+        "x": 187.5,
+        "y": 943.5
+      },
+      "size": {
+        "width": 343.0,
+        "height": 112.0
+      },
+      "style": {
+        "fillColor": "#fafafa",
+        "borderColor": "#e5e7eb",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "noto_sans",
+        "borderWidth": 0,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-176",
+      "position": {
+        "x": 72.5,
+        "y": 943.5
+      },
+      "size": {
+        "width": 80.0,
+        "height": 80.0
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ8376wg%3D/resources/images/3458764517258826634?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-177",
+      "position": {
+        "x": 190.5,
+        "y": 915.5
+      },
+      "size": {
+        "width": 132.0
+      },
+      "style": {
+        "fontSize": 16,
+        "textColor": "#262626",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong>17-Mile Drive</strong></p>"
+    },
+    {
+      "id": "n-178",
+      "position": {
+        "x": 190.5,
+        "y": 935.5
+      },
+      "size": {
+        "width": 132.0
+      },
+      "style": {
+        "fontSize": 12,
+        "textColor": "#525252",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "\n         Pebble Beach, California\n        "
+    },
+    {
+      "id": "n-179",
+      "position": {
+        "x": 131.5,
+        "y": 955.5
+      },
+      "size": {
+        "width": 14.0,
+        "height": 14.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mockup]"
+    },
+    {
+      "id": "n-180",
+      "position": {
+        "x": 193.5,
+        "y": 955.5
+      },
+      "size": {
+        "width": 105.0
+      },
+      "style": {
+        "fontSize": 12,
+        "textColor": "#404040",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "4.7 (1,890 reviews)"
+    },
+    {
+      "id": "n-181",
+      "position": {
+        "x": 187.5,
+        "y": 28.5
+      },
+      "size": {
+        "width": 375.0,
+        "height": 56.0
+      },
+      "style": {
+        "fillColor": "#1a73e8",
+        "borderColor": "#e5e7eb",
+        "textColor": "#1a1a1a",
+        "fontSize": 161,
+        "fontFamily": "noto_sans",
+        "borderWidth": 0,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-182",
+      "position": {
+        "x": 113.87767487347446,
+        "y": 28.571428571427532
+      },
+      "size": {
+        "width": 20.0,
+        "height": 20.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mockup]"
+    },
+    {
+      "id": "n-183",
+      "position": {
+        "x": 200.41399179319706,
+        "y": 28.571428571427532
+      },
+      "size": {
+        "width": 141.4166666657143
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#ffffff",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong>Coastal Explorer</strong></p>"
+    },
+    {
+      "id": "n-184",
+      "position": {
+        "x": 137.5,
+        "y": 1061.0
+      },
+      "size": {
+        "width": 20.0,
+        "height": 20.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mockup]"
+    },
+    {
+      "id": "n-185",
+      "position": {
+        "x": 137.5,
+        "y": 1087.0
+      },
+      "size": {
+        "width": 40.99999999714286
+      },
+      "style": {
+        "fontSize": 12,
+        "textColor": "#525252",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "Explore"
+    },
+    {
+      "id": "n-186",
+      "position": {
+        "x": 333.5,
+        "y": 1087.0
+      },
+      "size": {
+        "width": 34.99999999714286
+      },
+      "style": {
+        "fontSize": 12,
+        "textColor": "#525252",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "Profile"
+    },
+    {
+      "id": "n-187",
+      "position": {
+        "x": 2641.5,
+        "y": 617.7500000000001
+      },
+      "size": {
+        "width": 375.0,
+        "height": 1070.5000000000018
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "Profile Settings"
+    },
+    {
+      "id": "n-188",
+      "position": {
+        "x": 180.5,
+        "y": 646.5
+      },
+      "size": {
+        "width": 126.0
+      },
+      "style": {
+        "fontSize": 14,
+        "textColor": "#1a73e8",
+        "fontFamily": "roboto",
+        "align": "center"
+      },
+      "visualKind": "text",
+      "title": "<p>Forgot Password?</p>"
+    },
+    {
+      "id": "n-189",
+      "position": {
+        "x": 332.5,
+        "y": 1061.0
+      },
+      "size": {
+        "width": 18.0,
+        "height": 18.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mockup]"
+    },
+    {
+      "id": "n-190",
+      "position": {
+        "x": 186.5,
+        "y": 130.0
+      },
+      "size": {
+        "width": 100.0,
+        "height": 100.0
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ8376wg%3D/resources/images/3458764517258826635?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-191",
+      "position": {
+        "x": 187.5,
+        "y": 208.0
+      },
+      "size": {
+        "width": 191.00000000571427
+      },
+      "style": {
+        "fontSize": 24,
+        "textColor": "#171717",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong>Kristin Hennessy</strong></p>"
+    },
+    {
+      "id": "n-192",
+      "position": {
+        "x": 167.4955357142826,
+        "y": 333.6582807758832
+      },
+      "size": {
+        "width": 216.99107142857142
+      },
+      "style": {
+        "fontSize": 16,
+        "textColor": "#262626",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p>Personal Information                 </p>"
+    },
+    {
+      "id": "n-193",
+      "position": {
+        "x": 141.875,
+        "y": 382.61144397068074
+      },
+      "size": {
+        "width": 165.75
+      },
+      "style": {
+        "fontSize": 16,
+        "textColor": "#262626",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p>Notifications                 </p>"
+    },
+    {
+      "id": "n-194",
+      "position": {
+        "x": 150.27937845706037,
+        "y": 431.56460716547826
+      },
+      "size": {
+        "width": 182.5587569142857
+      },
+      "style": {
+        "fontSize": 16,
+        "textColor": "#262626",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p>Wishlist</p>"
+    },
+    {
+      "id": "n-195",
+      "position": {
+        "x": 156.05875691412803,
+        "y": 480.5177703602758
+      },
+      "size": {
+        "width": 194.11751382857142
+      },
+      "style": {
+        "fontSize": 16,
+        "textColor": "#262626",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p>Saved Locations                                    </p>"
+    },
+    {
+      "id": "n-196",
+      "position": {
+        "x": 188.0,
+        "y": 538.9285714285661
+      },
+      "size": {
+        "width": 343.0000000028572
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#262626",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong>Recent Destinations</strong></p>"
+    },
+    {
+      "id": "n-197",
+      "position": {
+        "x": 91.0,
+        "y": 614.9285714285661
+      },
+      "size": {
+        "width": 150.0,
+        "height": 100.0
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ8376wg%3D/resources/images/3458764517258826636?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-198",
+      "position": {
+        "x": 91.0,
+        "y": 648.9285714285661
+      },
+      "size": {
+        "width": 101.14285714285714
+      },
+      "style": {
+        "fontSize": 12,
+        "textColor": "#ffffff",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong>McWay Falls           </strong></p>"
+    },
+    {
+      "id": "n-199",
+      "position": {
+        "x": 253.0,
+        "y": 614.9285714285661
+      },
+      "size": {
+        "width": 150.0,
+        "height": 100.0
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ8376wg%3D/resources/images/3458764517258826637?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-200",
+      "position": {
+        "x": 253.0,
+        "y": 648.9285714285661
+      },
+      "size": {
+        "width": 123.42857142857142
+      },
+      "style": {
+        "fontSize": 12,
+        "textColor": "#ffffff",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong>Garrapata Beach           </strong></p>"
+    },
+    {
+      "id": "n-201",
+      "position": {
+        "x": 187.5,
+        "y": 724.0
+      },
+      "size": {
+        "width": 343.0000000028572
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#262626",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong>Account Settings</strong></p>"
+    },
+    {
+      "id": "n-202",
+      "position": {
+        "x": 187.5,
+        "y": 821.0
+      },
+      "size": {
+        "width": 343.0,
+        "height": 142.0
+      },
+      "style": {
+        "fillColor": "#fafafa",
+        "borderColor": "#e5e7eb",
+        "textColor": "#1a1a1a",
+        "fontSize": 161,
+        "fontFamily": "noto_sans",
+        "borderWidth": 0,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-203",
+      "position": {
+        "x": 39.5,
+        "y": 777.2142857142835
+      },
+      "size": {
+        "width": 16.0,
+        "height": 16.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mockup]"
+    },
+    {
+      "id": "n-204",
+      "position": {
+        "x": 105.30078125,
+        "y": 776.9285714285734
+      },
+      "size": {
+        "width": 92.6015625
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#262626",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "Language"
+    },
+    {
+      "id": "n-205",
+      "position": {
+        "x": 299.5,
+        "y": 778.0
+      },
+      "size": {
+        "width": 53.0
+      },
+      "style": {
+        "fontSize": 16,
+        "textColor": "#737373",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "English"
+    },
+    {
+      "id": "n-206",
+      "position": {
+        "x": 337.5,
+        "y": 778.0
+      },
+      "size": {
+        "width": 9.0,
+        "height": 9.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mockup]"
+    },
+    {
+      "id": "n-207",
+      "position": {
+        "x": 39.5,
+        "y": 816.4710003418595
+      },
+      "size": {
+        "width": 16.0,
+        "height": 16.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mockup]"
+    },
+    {
+      "id": "n-208",
+      "position": {
+        "x": 103.375,
+        "y": 819.9285714285734
+      },
+      "size": {
+        "width": 87.75
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#262626",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "Dark Mode"
+    },
+    {
+      "id": "n-209",
+      "position": {
+        "x": 318.5,
+        "y": 818.0
+      },
+      "size": {
+        "width": 48.0,
+        "height": 24.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[input_toggle]"
+    },
+    {
+      "id": "n-210",
+      "position": {
+        "x": 39.5,
+        "y": 863.0000000000009
+      },
+      "size": {
+        "width": 16.0,
+        "height": 16.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mockup]"
+    },
+    {
+      "id": "n-211",
+      "position": {
+        "x": 91.0,
+        "y": 865.5000000000009
+      },
+      "size": {
+        "width": 63.00000000000001
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#262626",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "Log Out"
+    },
+    {
+      "id": "n-212",
+      "position": {
+        "x": 187.5,
+        "y": 940.0
+      },
+      "size": {
+        "width": 343.0,
+        "height": 48.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[input_button]"
+    },
+    {
+      "id": "n-213",
+      "position": {
+        "x": 187.5,
+        "y": 1034.0
+      },
+      "size": {
+        "width": 375.0,
+        "height": 80.0
+      },
+      "style": {
+        "fillColor": "#f5f5f5",
+        "borderColor": "#e5e7eb",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "noto_sans",
+        "borderWidth": 0,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-214",
+      "position": {
+        "x": 39.5,
+        "y": 1024.0
+      },
+      "size": {
+        "width": 23.0,
+        "height": 23.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mockup]"
+    },
+    {
+      "id": "n-215",
+      "position": {
+        "x": 39.5,
+        "y": 1050.0
+      },
+      "size": {
+        "width": 33.0
+      },
+      "style": {
+        "fontSize": 12,
+        "textColor": "#525252",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p>Home</p>"
+    },
+    {
+      "id": "n-216",
+      "position": {
+        "x": 137.5,
+        "y": 1024.0
+      },
+      "size": {
+        "width": 20.0,
+        "height": 20.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mockup]"
+    },
+    {
+      "id": "n-217",
+      "position": {
+        "x": 137.5,
+        "y": 1050.0
+      },
+      "size": {
+        "width": 40.99999999714286
+      },
+      "style": {
+        "fontSize": 12,
+        "textColor": "#525252",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "Explore"
+    },
+    {
+      "id": "n-218",
+      "position": {
+        "x": 237.5,
+        "y": 1024.0
+      },
+      "size": {
+        "width": 15.0,
+        "height": 15.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mockup]"
+    },
+    {
+      "id": "n-219",
+      "position": {
+        "x": 237.5,
+        "y": 1050.0
+      },
+      "size": {
+        "width": 33.0
+      },
+      "style": {
+        "fontSize": 12,
+        "textColor": "#525252",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "Saved"
+    },
+    {
+      "id": "n-220",
+      "position": {
+        "x": 332.5,
+        "y": 1024.0
+      },
+      "size": {
+        "width": 18.0,
+        "height": 18.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mockup]"
+    },
+    {
+      "id": "n-221",
+      "position": {
+        "x": 333.5,
+        "y": 1050.0
+      },
+      "size": {
+        "width": 34.99999999714286
+      },
+      "style": {
+        "fontSize": 12,
+        "textColor": "#1a73e8",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p>Profile</p>"
+    },
+    {
+      "id": "n-222",
+      "position": {
+        "x": 187.5,
+        "y": 28.5
+      },
+      "size": {
+        "width": 375.0,
+        "height": 56.0
+      },
+      "style": {
+        "fillColor": "#1a73e8",
+        "borderColor": "#e5e7eb",
+        "textColor": "#1a1a1a",
+        "fontSize": 161,
+        "fontFamily": "noto_sans",
+        "borderWidth": 0,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-223",
+      "position": {
+        "x": 113.87767487347446,
+        "y": 28.571428571427532
+      },
+      "size": {
+        "width": 20.0,
+        "height": 20.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mockup]"
+    },
+    {
+      "id": "n-224",
+      "position": {
+        "x": 200.41399179319706,
+        "y": 28.571428571427532
+      },
+      "size": {
+        "width": 141.4166666657143
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#ffffff",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong>Coastal Explorer</strong></p>"
+    },
+    {
+      "id": "n-225",
+      "position": {
+        "x": 187.5,
+        "y": 292.07142857142753
+      },
+      "size": {
+        "width": 343.0000000028572
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#262626",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong>Profile Settings</strong></p>"
+    },
+    {
+      "id": "n-226",
+      "position": {
+        "x": 39.5,
+        "y": 333.94357839493114
+      },
+      "size": {
+        "width": 20.0,
+        "height": 20.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mockup]"
+    },
+    {
+      "id": "n-227",
+      "position": {
+        "x": 38.5,
+        "y": 383.1537981236552
+      },
+      "size": {
+        "width": 18.0,
+        "height": 18.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mockup]"
+    },
+    {
+      "id": "n-228",
+      "position": {
+        "x": 39.5,
+        "y": 432.3640178523792
+      },
+      "size": {
+        "width": 20.0,
+        "height": 20.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mockup]"
+    },
+    {
+      "id": "n-229",
+      "position": {
+        "x": 37.5,
+        "y": 480.07423758110326
+      },
+      "size": {
+        "width": 15.0,
+        "height": 15.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mockup]"
+    },
+    {
+      "id": "n-230",
+      "position": {
+        "x": 96.0,
+        "y": 678.2142857142762
+      },
+      "size": {
+        "width": 160.00000000285715
+      },
+      "style": {
+        "fontSize": 12,
+        "textColor": "#525252",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "Visited 2 weeks ago"
+    },
+    {
+      "id": "n-231",
+      "position": {
+        "x": 260.0,
+        "y": 678.2142857142762
+      },
+      "size": {
+        "width": 160.00000000285715
+      },
+      "style": {
+        "fontSize": 12,
+        "textColor": "#525252",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "Visited 1 month ago"
+    },
+    {
+      "id": "n-232",
+      "position": {
+        "x": 187.5,
+        "y": 239.18300140720385
+      },
+      "size": {
+        "width": 205.0
+      },
+      "style": {
+        "fontSize": 14,
+        "textColor": "#525252",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "Ocean enthusiast • Photographer"
+    },
+    {
+      "id": "n-233",
+      "position": {
+        "x": 416.9841713069909,
+        "y": 614.9285714285661
+      },
+      "size": {
+        "width": 150.0,
+        "height": 100.0
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ8376wg%3D/resources/images/3458764517258826638?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-234",
+      "position": {
+        "x": 416.9841713069909,
+        "y": 648.9285714285661
+      },
+      "size": {
+        "width": 140.57142857142856
+      },
+      "style": {
+        "fontSize": 12,
+        "textColor": "#ffffff",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong>Julia Pfeiffer Beach           </strong></p>"
+    },
+    {
+      "id": "n-235",
+      "position": {
+        "x": 426.9841713069909,
+        "y": 678.2142857142762
+      },
+      "size": {
+        "width": 160.00000000285715
+      },
+      "style": {
+        "fontSize": 12,
+        "textColor": "#525252",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "Visited 2 months ago"
+    },
+    {
+      "id": "n-236",
+      "position": {
+        "x": 286.7236574072997,
+        "y": 98.85714285714488
+      },
+      "size": {
+        "width": 485.44731479999996
+      },
+      "style": {
+        "fontSize": 48,
+        "textColor": "#1c1c1e",
+        "fontFamily": "roobert",
+        "align": "left"
+      },
+      "frameId": "f-0",
+      "visualKind": "text",
+      "title": "<p><strong>Use the Design Prototype Sidekick</strong></p>"
+    },
+    {
+      "id": "n-237",
+      "position": {
+        "x": 285.692512552557,
+        "y": 235.60069068756633
+      },
+      "size": {
+        "width": 485.44731481714285
+      },
+      "style": {
+        "fontSize": 24,
+        "textColor": "#1a1b1e",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "frameId": "f-0",
+      "visualKind": "text",
+      "title": "<p><span style=\"color:rgb(26,27,30);background-color:rgb(255,255,255)\">Use the Sidekick to transform your ideas into prototypes, using the look and feel of your product.</span></p>"
+    },
+    {
+      "id": "n-238",
+      "position": {
+        "x": 283.7802642442526,
+        "y": 126.49599144474712
+      },
+      "size": {
+        "width": 481.62281819142856
+      },
+      "style": {
+        "fontSize": 36,
+        "textColor": "#1c1c1e",
+        "fontFamily": "roobert",
+        "align": "left"
+      },
+      "frameId": "f-1",
+      "visualKind": "text",
+      "title": "<p><strong>Try it yourself</strong></p>"
+    },
+    {
+      "id": "n-239",
+      "position": {
+        "x": 81.9671450646834,
+        "y": 55.10367269251958
+      },
+      "size": {
+        "width": 77.99657983885956,
+        "height": 38.97806007366671
+      },
+      "style": {
+        "fillColor": "#1c1c1e",
+        "borderColor": "#ffffff",
+        "textColor": "#ffffff",
+        "fontSize": 14,
+        "fontFamily": "roobert_pro",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-1",
+      "visualKind": "shape",
+      "title": "<p><strong>How to</strong></p>"
+    },
+    {
+      "id": "n-240",
+      "position": {
+        "x": 283.7802642442526,
+        "y": 228.8794987123032
+      },
+      "size": {
+        "width": 481.62281820428575
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#595959",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "frameId": "f-1",
+      "visualKind": "text",
+      "title": "<ol><li data-list=\"ordered\"><span class=\"ql-ui\"></span>Select the prototype</li><li data-list=\"ordered\"><span class=\"ql-ui\"></span>Choose a quick prompt or write your own</li><li data-list=\"ordered\"><span class=\"ql-ui\"></span>Refine and iterate with AI</li><li data-list=\"ordered\"><span class=\"ql-ui\"></span>Apply to Canvas to edit, share, and continue creating your next big idea</li></ol>"
+    },
+    {
+      "id": "n-241",
+      "position": {
+        "x": 285.69251255255773,
+        "y": 397.94285165937583
+      },
+      "size": {
+        "width": 481.62281820428575
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#222428",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "frameId": "f-1",
+      "visualKind": "text",
+      "title": "<p><strong style=\"background-color:rgb(222,218,255);color:rgb(34,36,40)\"><em>Pro tip:</em></strong><em style=\"background-color:rgb(222,218,255);color:rgb(34,36,40)\"> The more details you add to your prompt, the better your results will be.</em></p>"
+    },
+    {
+      "id": "n-242",
+      "position": {
+        "x": 1618.5816085516822,
+        "y": -808.7214643047837
+      },
+      "size": {
+        "width": 535.0,
+        "height": 1026.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "Prototype"
+    },
+    {
+      "id": "n-243",
+      "position": {
+        "x": 267.5,
+        "y": 513.0
+      },
+      "size": {
+        "width": 375.0,
+        "height": 866.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "Signup Page"
+    },
+    {
+      "id": "n-244",
+      "position": {
+        "x": 187.0,
+        "y": 78.0
+      },
+      "size": {
+        "width": 60.0,
+        "height": 60.0
+      },
+      "style": {
+        "fillColor": "#0066cc",
+        "borderColor": "#e5e7eb",
+        "textColor": "#1a1a1a",
+        "fontSize": 35,
+        "fontFamily": "noto_sans",
+        "borderWidth": 0,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-245",
+      "position": {
+        "x": 187.0,
+        "y": 78.0
+      },
+      "size": {
+        "width": 24.0,
+        "height": 24.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mockup]"
+    },
+    {
+      "id": "n-246",
+      "position": {
+        "x": 191.75714285712456,
+        "y": 134.0
+      },
+      "size": {
+        "width": 157.51428571428573
+      },
+      "style": {
+        "fontSize": 20,
+        "textColor": "#0066cc",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong style=\"color:rgb(0,102,204)\">Coastal Explorer</strong></p>"
+    },
+    {
+      "id": "n-247",
+      "position": {
+        "x": 191.25750000000698,
+        "y": 158.0
+      },
+      "size": {
+        "width": 174.515
+      },
+      "style": {
+        "fontSize": 14,
+        "textColor": "#6b7280",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><span>Modern Elegant Travel App</span></p>"
+    },
+    {
+      "id": "n-248",
+      "position": {
+        "x": 198.01071428571595,
+        "y": 214.0
+      },
+      "size": {
+        "width": 348.0214285714286
+      },
+      "style": {
+        "fontSize": 20,
+        "textColor": "#1f2937",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong style=\"color:rgb(31,41,55)\">Create Account</strong></p>"
+    },
+    {
+      "id": "n-249",
+      "position": {
+        "x": 194.8574999999837,
+        "y": 262.0
+      },
+      "size": {
+        "width": 341.715
+      },
+      "style": {
+        "fontSize": 14,
+        "textColor": "#374151",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong>Full Name</strong></p>"
+    },
+    {
+      "id": "n-250",
+      "position": {
+        "x": 187.5,
+        "y": 297.0
+      },
+      "size": {
+        "width": 327.0,
+        "height": 42.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[input_text]"
+    },
+    {
+      "id": "n-251",
+      "position": {
+        "x": 194.8574999999837,
+        "y": 344.0
+      },
+      "size": {
+        "width": 341.715
+      },
+      "style": {
+        "fontSize": 14,
+        "textColor": "#374151",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong>Email</strong></p>"
+    },
+    {
+      "id": "n-252",
+      "position": {
+        "x": 187.5,
+        "y": 379.0
+      },
+      "size": {
+        "width": 327.0,
+        "height": 42.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[input_text]"
+    },
+    {
+      "id": "n-253",
+      "position": {
+        "x": 194.8574999999837,
+        "y": 426.0
+      },
+      "size": {
+        "width": 341.715
+      },
+      "style": {
+        "fontSize": 14,
+        "textColor": "#374151",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong>Password</strong></p>"
+    },
+    {
+      "id": "n-254",
+      "position": {
+        "x": 187.5,
+        "y": 461.0
+      },
+      "size": {
+        "width": 327.0,
+        "height": 42.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[input_text]"
+    },
+    {
+      "id": "n-255",
+      "position": {
+        "x": 194.8574999999837,
+        "y": 508.0
+      },
+      "size": {
+        "width": 341.715
+      },
+      "style": {
+        "fontSize": 14,
+        "textColor": "#374151",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong>Confirm Password</strong></p>"
+    },
+    {
+      "id": "n-256",
+      "position": {
+        "x": 187.5,
+        "y": 543.0
+      },
+      "size": {
+        "width": 327.0,
+        "height": 42.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[input_text]"
+    },
+    {
+      "id": "n-257",
+      "position": {
+        "x": 33.0,
+        "y": 595.0
+      },
+      "size": {
+        "width": 18.0,
+        "height": 18.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[input_toggle]"
+    },
+    {
+      "id": "n-258",
+      "position": {
+        "x": 153.5,
+        "y": 594.0
+      },
+      "size": {
+        "width": 207.0
+      },
+      "style": {
+        "fontSize": 14,
+        "textColor": "#374151",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "I agree to the"
+    },
+    {
+      "id": "n-259",
+      "position": {
+        "x": 198.2675000000163,
+        "y": 593.5
+      },
+      "size": {
+        "width": 128.535
+      },
+      "style": {
+        "fontSize": 14,
+        "textColor": "#0066cc",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><span>Terms &amp; Conditions</span></p>"
+    },
+    {
+      "id": "n-260",
+      "position": {
+        "x": 187.5,
+        "y": 652.0
+      },
+      "size": {
+        "width": 327.0,
+        "height": 48.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[input_button]"
+    },
+    {
+      "id": "n-261",
+      "position": {
+        "x": 187.5,
+        "y": 712.0
+      },
+      "size": {
+        "width": 327.0
+      },
+      "style": {
+        "fontSize": 16,
+        "textColor": "#000000",
+        "fontFamily": "roboto",
+        "align": "center"
+      },
+      "visualKind": "text",
+      "title": "or continue with"
+    },
+    {
+      "id": "n-262",
+      "position": {
+        "x": 187.5,
+        "y": 715.0
+      },
+      "size": {
+        "width": 327.0,
+        "height": 8.0
+      },
+      "style": {
+        "fillColor": "#d1d5db",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "noto_sans",
+        "borderWidth": 1,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-263",
+      "position": {
+        "x": 102.0,
+        "y": 771.0
+      },
+      "size": {
+        "width": 156.0,
+        "height": 46.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[input_button]"
+    },
+    {
+      "id": "n-264",
+      "position": {
+        "x": 273.0,
+        "y": 771.0
+      },
+      "size": {
+        "width": 156.0,
+        "height": 46.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[input_button]"
+    },
+    {
+      "id": "n-265",
+      "position": {
+        "x": 187.5,
+        "y": 836.0
+      },
+      "size": {
+        "width": 327.0
+      },
+      "style": {
+        "fontSize": 14,
+        "textColor": "#374151",
+        "fontFamily": "roboto",
+        "align": "center"
+      },
+      "visualKind": "text",
+      "title": "<p><span>Already have an account? <span style=\"color:rgb(0,102,204)\">Sign In</span></span></p>"
+    }
+  ],
+  "edges": [],
+  "annotations": [],
+  "_metadata": {
+    "extracted_at": "2026-02-23T12:47:19.057022",
+    "total_items": 268,
+    "total_connectors": 0,
+    "frames": 2,
+    "nodes": 266,
+    "edges": 0
+  },
+  "_template": {
+    "name": "ai-prototype-template",
+    "category": "miroverse",
+    "source": "miroverse",
+    "source_slug": "prototype-template-ai",
+    "source_board_id": "uXjVJ8376wg=",
+    "tags": [
+      "research & design",
+      "mobile app wireframe",
+      "ux",
+      "ai accelerated",
+      "design",
+      "wireframing & prototyping",
+      "prototype"
+    ],
+    "extracted_at": "2026-02-23T12:47:19.057079"
+  }
+}

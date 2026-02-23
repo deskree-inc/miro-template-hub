@@ -1,0 +1,657 @@
+{
+  "frames": [
+    {
+      "id": "f-0",
+      "title": "",
+      "position": {
+        "x": -2743.6696824909973,
+        "y": -47.58116730834263
+      },
+      "size": {
+        "width": 285.21787596816216,
+        "height": 382.53689432187997
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-1",
+      "title": "",
+      "position": {
+        "x": -2743.6696824909973,
+        "y": -377.8244118061766
+      },
+      "size": {
+        "width": 285.21787596816216,
+        "height": 214.13178919210253
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-2",
+      "title": "",
+      "position": {
+        "x": 2245.7460150186575,
+        "y": -200.1325494689372
+      },
+      "size": {
+        "width": 624.0027109128413,
+        "height": 589.1355905741043
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-3",
+      "title": "",
+      "position": {
+        "x": -615.5128234684298,
+        "y": -293.4625809731433
+      },
+      "size": {
+        "width": 359.9691748977464,
+        "height": 402.4755275656939
+      },
+      "style": {
+        "fillColor": "#f0f0f0"
+      }
+    },
+    {
+      "id": "f-4",
+      "title": "",
+      "position": {
+        "x": -615.5128234684299,
+        "y": 168.3278574113533
+      },
+      "size": {
+        "width": 359.9691748977464,
+        "height": 443.43247468927456
+      },
+      "style": {
+        "fillColor": "#f0f0f0"
+      }
+    }
+  ],
+  "nodes": [
+    {
+      "id": "n-0",
+      "position": {
+        "x": 142.79413860358875,
+        "y": 228.05428571429908
+      },
+      "size": {
+        "width": 255.30801217142857
+      },
+      "style": {
+        "fontSize": 16,
+        "textColor": "#9a9994",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "frameId": "f-0",
+      "visualKind": "text",
+      "title": "<p>Create new items in the timeline widget, or drag and drop cards into the timeline, organizing them by date to plan and track project milestones and deadlines.</p><p><br /></p><p><br /></p><p>Get some expert advice from the</p><p>      Agile Coaching Sidekick to make sure Roadmap Planning runs smoothly for your team.</p>"
+    },
+    {
+      "id": "n-1",
+      "position": {
+        "x": 38.17442380190562,
+        "y": 50.06858257078417
+      },
+      "size": {
+        "width": 46.06858257078507,
+        "height": 46.06858257078507
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ7gVvoM%3D/resources/images/3458764517264532929?format=preview&redirect=false"
+        }
+      },
+      "frameId": "f-0",
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-2",
+      "position": {
+        "x": 24.563450838587073,
+        "y": 297.8285400473528
+      },
+      "size": {
+        "width": 29.54018768270323,
+        "height": 29.54018768270323
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ7gVvoM%3D/resources/images/3458764517264532930?format=preview&redirect=false"
+        }
+      },
+      "frameId": "f-0",
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-3",
+      "position": {
+        "x": 143.22005953739756,
+        "y": 84.3186906897881
+      },
+      "size": {
+        "width": 254.41985252571425
+      },
+      "style": {
+        "fontSize": 32,
+        "textColor": "#1a1a1a",
+        "fontFamily": "roobert",
+        "align": "left"
+      },
+      "frameId": "f-1",
+      "visualKind": "text",
+      "title": "<p><strong>Roadmap Planning</strong></p>"
+    },
+    {
+      "id": "n-4",
+      "position": {
+        "x": 142.60893798408108,
+        "y": 162.54452211349596
+      },
+      "size": {
+        "width": 249.9068553142857
+      },
+      "style": {
+        "fontSize": 16,
+        "textColor": "#9a9994",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "frameId": "f-1",
+      "visualKind": "text",
+      "title": "<p><span style=\"color:rgb(154,153,148)\">Define, plan, and manage your roadmap with your team.</span></p>"
+    },
+    {
+      "id": "n-5",
+      "position": {
+        "x": 184.85370685809988,
+        "y": 44.77365835034428
+      },
+      "size": {
+        "width": 322.56777397714285
+      },
+      "style": {
+        "fontSize": 24,
+        "textColor": "#1a1a1a",
+        "fontFamily": "roobert",
+        "align": "left"
+      },
+      "frameId": "f-2",
+      "visualKind": "text",
+      "title": "<p><strong>Interactive Stickers</strong></p>"
+    },
+    {
+      "id": "n-6",
+      "position": {
+        "x": 238.61500252188915,
+        "y": 100.113352055804
+      },
+      "size": {
+        "width": 430.0903653142857
+      },
+      "style": {
+        "fontSize": 16,
+        "textColor": "#9a9994",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "frameId": "f-2",
+      "visualKind": "text",
+      "title": "<p>Use interactive stickers to quickly capture feedback, emotions, or alignment from your team</p>"
+    },
+    {
+      "id": "n-7",
+      "position": {
+        "x": 122.89754876797286,
+        "y": 250.81316137069803
+      },
+      "size": {
+        "width": 177.10380668844834,
+        "height": 177.10380668844834
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "frameId": "f-2",
+      "visualKind": "shape",
+      "title": "[stamp]"
+    },
+    {
+      "id": "n-8",
+      "position": {
+        "x": 312.00135545642155,
+        "y": 250.8131613706978
+      },
+      "size": {
+        "width": 177.1038066884487,
+        "height": 177.1038066884487
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "frameId": "f-2",
+      "visualKind": "shape",
+      "title": "[stamp]"
+    },
+    {
+      "id": "n-9",
+      "position": {
+        "x": 501.10516214487,
+        "y": 250.8131613706978
+      },
+      "size": {
+        "width": 177.10380668844869,
+        "height": 177.10380668844869
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "frameId": "f-2",
+      "visualKind": "shape",
+      "title": "[stamp]"
+    },
+    {
+      "id": "n-10",
+      "position": {
+        "x": 122.89754876797195,
+        "y": 439.91696805914705
+      },
+      "size": {
+        "width": 177.10380668844977,
+        "height": 177.10380668844977
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "frameId": "f-2",
+      "visualKind": "shape",
+      "title": "[stamp]"
+    },
+    {
+      "id": "n-11",
+      "position": {
+        "x": 311.88887168835885,
+        "y": 439.9169680591483
+      },
+      "size": {
+        "width": 177.10380668844738,
+        "height": 177.10380668844738
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "frameId": "f-2",
+      "visualKind": "shape",
+      "title": "[stamp]"
+    },
+    {
+      "id": "n-12",
+      "position": {
+        "x": 500.99267837680753,
+        "y": 439.91696805914967
+      },
+      "size": {
+        "width": 177.1038066884502,
+        "height": 177.1038066884502
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "frameId": "f-2",
+      "visualKind": "shape",
+      "title": "[stamp]"
+    },
+    {
+      "id": "n-13",
+      "position": {
+        "x": -2528.2575295726538,
+        "y": -484.89130146707953
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[data_table_format]"
+    },
+    {
+      "id": "n-14",
+      "position": {
+        "x": 178.11740435639823,
+        "y": 148.98046528656548
+      },
+      "size": {
+        "width": 292.23480871
+      },
+      "style": {
+        "fontSize": 14,
+        "textColor": "#595959",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "frameId": "f-3",
+      "visualKind": "text",
+      "title": "<p>Try dragging table rows onto the canvas to create cards.</p>"
+    },
+    {
+      "id": "n-15",
+      "position": {
+        "x": 154.84750776989532,
+        "y": 103.83520293080934
+      },
+      "size": {
+        "width": 245.69501554285716
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#1a1a1a",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-3",
+      "visualKind": "text",
+      "title": "<p><strong>Create cards from tables</strong></p>"
+    },
+    {
+      "id": "n-16",
+      "position": {
+        "x": 179.9845874488732,
+        "y": 362.1590922798209
+      },
+      "size": {
+        "width": 295.9691749
+      },
+      "style": {
+        "fontSize": 14,
+        "textColor": "#595959",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "frameId": "f-3",
+      "visualKind": "text",
+      "title": "<p><em>Try dragging stickies, cards, Jira cards into the table too!</em></p>"
+    },
+    {
+      "id": "n-17",
+      "position": {
+        "x": 64.27372219700774,
+        "y": 51.48903003683287
+      },
+      "size": {
+        "width": 64.54744439401536,
+        "height": 38.97806007366671
+      },
+      "style": {
+        "fillColor": "#1c1c1e",
+        "borderColor": "#ffffff",
+        "textColor": "#ffffff",
+        "fontSize": 14,
+        "fontFamily": "roobert_pro",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-3",
+      "visualKind": "shape",
+      "title": "<p><strong>Tip </strong></p>"
+    },
+    {
+      "id": "n-18",
+      "position": {
+        "x": 178.11740435639868,
+        "y": 192.46679341156548
+      },
+      "size": {
+        "width": 292.23480871
+      },
+      "style": {
+        "fontSize": 14,
+        "textColor": "#595959",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "frameId": "f-3",
+      "visualKind": "text",
+      "title": "<ol><li data-list=\"ordered\"><span class=\"ql-ui\"></span>Click and hold the dotted icon to drag.</li><li data-list=\"ordered\"><span class=\"ql-ui\"></span>Release on canvas to create a card.</li></ol>"
+    },
+    {
+      "id": "n-19",
+      "position": {
+        "x": 178.11740435639823,
+        "y": 198.9804652865656
+      },
+      "size": {
+        "width": 292.23480871
+      },
+      "style": {
+        "fontSize": 14,
+        "textColor": "#595959",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "frameId": "f-4",
+      "visualKind": "text",
+      "title": "<p>The Timeline and Table on this board are fully synced. Any updates made in one view are instantly reflected in the other.<br /><br />Each view can be edited independently and changes to visuals like filters, sorting, and grouping only apply to the current view.</p>"
+    },
+    {
+      "id": "n-20",
+      "position": {
+        "x": 154.84750776989532,
+        "y": 103.83520293080946
+      },
+      "size": {
+        "width": 245.69501554285716
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#1a1a1a",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-4",
+      "visualKind": "text",
+      "title": "<p><strong>Synced views</strong></p>"
+    },
+    {
+      "id": "n-21",
+      "position": {
+        "x": 64.27372219700774,
+        "y": 51.489030036832986
+      },
+      "size": {
+        "width": 64.54744439401536,
+        "height": 38.97806007366671
+      },
+      "style": {
+        "fillColor": "#1c1c1e",
+        "borderColor": "#ffffff",
+        "textColor": "#ffffff",
+        "fontSize": 14,
+        "fontFamily": "roobert_pro",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-4",
+      "visualKind": "shape",
+      "title": "<p><strong>Tip </strong></p>"
+    },
+    {
+      "id": "n-22",
+      "position": {
+        "x": 167.15950828742606,
+        "y": 273.7915176536203
+      },
+      "size": {
+        "width": 295.96917489774336,
+        "height": 84.81572081602239
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ7gVvoM%3D/resources/images/3458764517264532931?format=preview&redirect=false"
+        }
+      },
+      "frameId": "f-3",
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-23",
+      "position": {
+        "x": 164.18202596571578,
+        "y": 375.45044005630973
+      },
+      "size": {
+        "width": 264.36405193
+      },
+      "style": {
+        "fontSize": 14,
+        "textColor": "#595959",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "frameId": "f-4",
+      "visualKind": "text",
+      "title": "<p>Toggle between <strong>Table,</strong> <strong>Timeline, </strong>and<strong> Kanban</strong> views to see your data from different angles.</p>"
+    },
+    {
+      "id": "n-24",
+      "position": {
+        "x": 154.84750776989554,
+        "y": 324.443817755002
+      },
+      "size": {
+        "width": 245.69501554285716
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#1a1a1a",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-4",
+      "visualKind": "text",
+      "title": "<p><strong>Layouts </strong></p>"
+    },
+    {
+      "id": "n-25",
+      "position": {
+        "x": 123.7882774028453,
+        "y": 324.443817755002
+      },
+      "size": {
+        "width": 35.481700809474106,
+        "height": 32.25609164497646
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ7gVvoM%3D/resources/images/3458764517264532932?format=preview&redirect=false"
+        }
+      },
+      "frameId": "f-4",
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-26",
+      "position": {
+        "x": -371.446234962026,
+        "y": -494.7003447559903
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[data_table_format]"
+    }
+  ],
+  "edges": [],
+  "annotations": [],
+  "_metadata": {
+    "extracted_at": "2026-02-23T12:26:28.700725",
+    "total_items": 32,
+    "total_connectors": 0,
+    "frames": 5,
+    "nodes": 27,
+    "edges": 0
+  },
+  "_template": {
+    "name": "roadmap-planning-ai-template",
+    "category": "miroverse",
+    "source": "miroverse",
+    "source_slug": "roadmap-planning-template-ai",
+    "source_board_id": "uXjVJ7gVvoM=",
+    "tags": [
+      "strategy & planning",
+      "product roadmap templates",
+      "agile",
+      "agile workflows",
+      "product management",
+      "roadmap",
+      "ai accelerated"
+    ],
+    "extracted_at": "2026-02-23T12:26:28.700797"
+  }
+}

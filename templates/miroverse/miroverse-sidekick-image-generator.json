@@ -1,0 +1,416 @@
+{
+  "frames": [
+    {
+      "id": "f-0",
+      "title": "Moodboard",
+      "position": {
+        "x": 1185.7170704493349,
+        "y": 826.0705236449783
+      },
+      "size": {
+        "width": 719.7810941834146,
+        "height": 719.7810941834146
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-1",
+      "title": "",
+      "position": {
+        "x": -6.142651540119232,
+        "y": 633.0371194104137
+      },
+      "size": {
+        "width": 559.9999999999999,
+        "height": 333.7142857142853
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-2",
+      "title": "",
+      "position": {
+        "x": 613.8419359087541,
+        "y": 576.2392270240887
+      },
+      "size": {
+        "width": 359.9691748977464,
+        "height": 220.1185009416352
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-3",
+      "title": "",
+      "position": {
+        "x": 1885.5922049899148,
+        "y": 589.0963698812316
+      },
+      "size": {
+        "width": 359.9691748977464,
+        "height": 245.8327866559209
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-4",
+      "title": "",
+      "position": {
+        "x": 2917.166322489621,
+        "y": 601.9535127383745
+      },
+      "size": {
+        "width": 359.9691748977464,
+        "height": 271.5470723702066
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    }
+  ],
+  "nodes": [
+    {
+      "id": "n-0",
+      "position": {
+        "x": 3489.041457030201,
+        "y": 826.0705236449783
+      },
+      "size": {
+        "width": 719.7810941834146,
+        "height": 719.7810941834146
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJC4Lo8s%3D/resources/images/3458764517259378572?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-1",
+      "position": {
+        "x": 200.06013616219093,
+        "y": 158.04510212164297
+      },
+      "size": {
+        "width": 336.1202723243812,
+        "height": 252.0902042432859
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJC4Lo8s%3D/resources/images/3458764517259378573?format=preview&redirect=false"
+        }
+      },
+      "frameId": "f-0",
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-2",
+      "position": {
+        "x": 274.84851428970956,
+        "y": 505.64470846613267
+      },
+      "size": {
+        "width": 485.69702857941854,
+        "height": 364.2727714345639
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJC4Lo8s%3D/resources/images/3458764517259378574?format=preview&redirect=false"
+        }
+      },
+      "frameId": "f-0",
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-3",
+      "position": {
+        "x": 562.4909849042065,
+        "y": 190.12262228387982
+      },
+      "size": {
+        "width": 250.58021855841656,
+        "height": 187.9351639188124
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJC4Lo8s%3D/resources/images/3458764517259378575?format=preview&redirect=false"
+        }
+      },
+      "frameId": "f-0",
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-4",
+      "position": {
+        "x": 280.00000000000176,
+        "y": 166.8571428571425
+      },
+      "size": {
+        "width": 432.0
+      },
+      "style": {
+        "fontSize": 48,
+        "textColor": "#1c1c1e",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-1",
+      "visualKind": "text",
+      "title": "<p><strong>Create your Miroverse Sidekick avatar</strong></p>"
+    },
+    {
+      "id": "n-5",
+      "position": {
+        "x": 179.9845874488732,
+        "y": 109.5470723702064
+      },
+      "size": {
+        "width": 295.9691749028571
+      },
+      "style": {
+        "fontSize": 24,
+        "textColor": "#1a1a1a",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-2",
+      "visualKind": "text",
+      "title": "<p><strong>Create your moodboard</strong></p>"
+    },
+    {
+      "id": "n-6",
+      "position": {
+        "x": 179.9845874488732,
+        "y": 162.4042152273495
+      },
+      "size": {
+        "width": 295.96917489428574
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#595959",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "frameId": "f-2",
+      "visualKind": "text",
+      "title": "<p>Add your favorite inspiration images, colors, and styles.</p>"
+    },
+    {
+      "id": "n-7",
+      "position": {
+        "x": 52.2021076136738,
+        "y": 52.20210761367423
+      },
+      "size": {
+        "width": 40.404215227348686,
+        "height": 40.404215227349596
+      },
+      "style": {
+        "fillColor": "#1c1c1e",
+        "borderColor": "#ffffff",
+        "textColor": "#ffffff",
+        "fontSize": 18,
+        "fontFamily": "unknown",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "circle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-2",
+      "visualKind": "shape",
+      "title": "<p><strong>1</strong></p>"
+    },
+    {
+      "id": "n-8",
+      "position": {
+        "x": 179.9845874488732,
+        "y": 109.54707237020635
+      },
+      "size": {
+        "width": 295.9691749028571
+      },
+      "style": {
+        "fontSize": 24,
+        "textColor": "#1a1a1a",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-3",
+      "visualKind": "text",
+      "title": "<p><strong>Describe your image</strong></p>"
+    },
+    {
+      "id": "n-9",
+      "position": {
+        "x": 179.9845874488732,
+        "y": 175.26135808449231
+      },
+      "size": {
+        "width": 295.96917489428574
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#595959",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "frameId": "f-3",
+      "visualKind": "text",
+      "title": "<p>Write a detailed prompt describing how your moodboard will inspire your custom sidekick avatar.</p>"
+    },
+    {
+      "id": "n-10",
+      "position": {
+        "x": 52.2021076136738,
+        "y": 52.202107613674215
+      },
+      "size": {
+        "width": 40.404215227348686,
+        "height": 40.404215227349596
+      },
+      "style": {
+        "fillColor": "#1c1c1e",
+        "borderColor": "#ffffff",
+        "textColor": "#ffffff",
+        "fontSize": 18,
+        "fontFamily": "unknown",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "circle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-3",
+      "visualKind": "shape",
+      "title": "<p><strong>2</strong></p>"
+    },
+    {
+      "id": "n-11",
+      "position": {
+        "x": 179.9845874488732,
+        "y": 109.54707237020631
+      },
+      "size": {
+        "width": 295.9691749028571
+      },
+      "style": {
+        "fontSize": 24,
+        "textColor": "#1a1a1a",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-4",
+      "visualKind": "text",
+      "title": "<p><strong>Update image style</strong></p>"
+    },
+    {
+      "id": "n-12",
+      "position": {
+        "x": 179.9845874488732,
+        "y": 188.1185009416351
+      },
+      "size": {
+        "width": 295.96917489428574
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#595959",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "frameId": "f-4",
+      "visualKind": "text",
+      "title": "<p>Refine your image by adding style terms to the prompt field. Try &#34;impressionist painting&#34; or &#34;8-bit graphics&#34;.</p>"
+    },
+    {
+      "id": "n-13",
+      "position": {
+        "x": 52.2021076136738,
+        "y": 52.20210761367417
+      },
+      "size": {
+        "width": 40.404215227348686,
+        "height": 40.404215227349596
+      },
+      "style": {
+        "fillColor": "#1c1c1e",
+        "borderColor": "#ffffff",
+        "textColor": "#ffffff",
+        "fontSize": 18,
+        "fontFamily": "unknown",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "circle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-4",
+      "visualKind": "shape",
+      "title": "<p><strong>3</strong></p>"
+    },
+    {
+      "id": "n-14",
+      "position": {
+        "x": 2097.5767924387883,
+        "y": 466.1799765532711
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[workflow_ai_node]"
+    }
+  ],
+  "edges": [],
+  "annotations": [],
+  "_metadata": {
+    "extracted_at": "2026-02-23T13:07:32.410561",
+    "total_items": 20,
+    "total_connectors": 0,
+    "frames": 5,
+    "nodes": 15,
+    "edges": 0
+  },
+  "_template": {
+    "name": "miroverse-sidekick-image-generator",
+    "category": "miroverse",
+    "source": "miroverse",
+    "source_slug": "miro-sidekick-image-generator",
+    "source_board_id": "uXjVJC4Lo8s=",
+    "tags": [
+      "image creation",
+      "ai accelerated"
+    ],
+    "extracted_at": "2026-02-23T13:07:32.410584"
+  }
+}

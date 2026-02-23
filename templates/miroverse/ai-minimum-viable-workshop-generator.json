@@ -1,0 +1,1391 @@
+{
+  "frames": [],
+  "nodes": [
+    {
+      "id": "n-0",
+      "position": {
+        "x": -1523.6250657235107,
+        "y": 5284.49675972923
+      },
+      "size": {
+        "width": 2218.868425621018,
+        "height": 3238.1442871568634
+      },
+      "style": {
+        "fillColor": "#d9d9d9",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 15,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 0.5
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-1",
+      "position": {
+        "x": 1148.2097866401364,
+        "y": 5270.649537469481
+      },
+      "size": {
+        "width": 2581.5126065506047,
+        "height": 3182.27164296044
+      },
+      "style": {
+        "fillColor": "#d9d9d9",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 15,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 0.5
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-2",
+      "position": {
+        "x": -4490.255488367169,
+        "y": 4246.538387666909
+      },
+      "size": {
+        "width": 3081.5794534622264,
+        "height": 1162.227543032223
+      },
+      "style": {
+        "fillColor": "#1a1a1a",
+        "borderColor": "#ffffff",
+        "textColor": "#9a9994",
+        "fontSize": 80,
+        "fontFamily": "open_sans",
+        "borderWidth": 24,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-3",
+      "position": {
+        "x": -4494.484617028049,
+        "y": 4246.607287999665
+      },
+      "size": {
+        "width": 3008.4897865266157,
+        "height": 1097.3055491240057
+      },
+      "style": {
+        "fillColor": "#305bab",
+        "borderColor": "#ffffff",
+        "textColor": "#9a9994",
+        "fontSize": 80,
+        "fontFamily": "open_sans",
+        "borderWidth": 24,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-4",
+      "position": {
+        "x": -4158.056802643187,
+        "y": 4087.9454999976947
+      },
+      "size": {
+        "width": 2083.284464455183
+      },
+      "style": {
+        "fontSize": 142,
+        "textColor": "#ffffff",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong style=\"color:rgb(255,255,255)\"><em>MINIMUM VIABLE WORKSHOP</em></strong></p>"
+    },
+    {
+      "id": "n-5",
+      "position": {
+        "x": -4204.749213397416,
+        "y": 4246.538387666909
+      },
+      "size": {
+        "width": 1989.8996429714286
+      },
+      "style": {
+        "fontSize": 80,
+        "textColor": "#ffffff",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><span style=\"color:rgb(255,255,255)\">Use AI to quickly help you set up a workshop</span></p>"
+    },
+    {
+      "id": "n-6",
+      "position": {
+        "x": 515.7373526343841,
+        "y": 4139.481238054561
+      },
+      "size": {
+        "width": 998.8015195547575,
+        "height": 261.2302388320251
+      },
+      "style": {
+        "fillColor": "#d9d9d9",
+        "borderColor": "#5b7199",
+        "textColor": "#000001",
+        "fontSize": 52,
+        "fontFamily": "open_sans",
+        "borderWidth": 3,
+        "borderStyle": "dashed",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-7",
+      "position": {
+        "x": 625.9677983654856,
+        "y": 4139.481238054561
+      },
+      "size": {
+        "width": 649.77315211887
+      },
+      "style": {
+        "fontSize": 27,
+        "textColor": "#000001",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p>Click &#34;Run&#34; to use AI to generate a detailed, timed agenda slide. This will include the welcome, break, ice breaker segment, core activities, and wrap-up based on the info in Step 1.</p>"
+    },
+    {
+      "id": "n-8",
+      "position": {
+        "x": -1943.074907648852,
+        "y": 4139.48123805456
+      },
+      "size": {
+        "width": 998.8015195547575,
+        "height": 261.2302388320251
+      },
+      "style": {
+        "fillColor": "#d9d9d9",
+        "borderColor": "#5b7199",
+        "textColor": "#000001",
+        "fontSize": 52,
+        "fontFamily": "open_sans",
+        "borderWidth": 3,
+        "borderStyle": "dashed",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-9",
+      "position": {
+        "x": -1835.3650781511597,
+        "y": 4139.48123805456
+      },
+      "size": {
+        "width": 666.8835185793101
+      },
+      "style": {
+        "fontSize": 24,
+        "textColor": "#000001",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p>Input key details about your workshop in the frame below: Goal, Topic, Duration, Number of Participants, Participant Roles, and Desired Output. This information drives all AI steps.</p>"
+    },
+    {
+      "id": "n-10",
+      "position": {
+        "x": 6026.058366419033,
+        "y": 5270.649537469481
+      },
+      "size": {
+        "width": 2250.6136490628824,
+        "height": 3182.27164296044
+      },
+      "style": {
+        "fillColor": "#d9d9d9",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 15,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 0.5
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-11",
+      "position": {
+        "x": 5567.006662697341,
+        "y": 4103.208493940083
+      },
+      "size": {
+        "width": 998.8015195547575,
+        "height": 261.2302388320251
+      },
+      "style": {
+        "fillColor": "#d9d9d9",
+        "borderColor": "#5b7199",
+        "textColor": "#000001",
+        "fontSize": 52,
+        "fontFamily": "open_sans",
+        "borderWidth": 3,
+        "borderStyle": "dashed",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-12",
+      "position": {
+        "x": 5677.2574603475705,
+        "y": 4103.208493940083
+      },
+      "size": {
+        "width": 649.77315211887
+      },
+      "style": {
+        "fontSize": 27,
+        "textColor": "#000001",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p>Click &#34;Run&#34; for AI to suggest four key activities. Each suggestion includes the Name, Duration, Process Steps, and the specific Miro tool needed to achieve the workshop&#39;s goal.</p>"
+    },
+    {
+      "id": "n-13",
+      "position": {
+        "x": 3669.858815901515,
+        "y": 5290.364047361626
+      },
+      "size": {
+        "width": 1917.7854519721523,
+        "height": 3182.27164296044
+      },
+      "style": {
+        "fillColor": "#d9d9d9",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 15,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 0.5
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-14",
+      "position": {
+        "x": 3386.0028138469024,
+        "y": 4103.208493940083
+      },
+      "size": {
+        "width": 998.8015195547575,
+        "height": 261.2302388320251
+      },
+      "style": {
+        "fillColor": "#d9d9d9",
+        "borderColor": "#5b7199",
+        "textColor": "#000001",
+        "fontSize": 52,
+        "fontFamily": "open_sans",
+        "borderWidth": 3,
+        "borderStyle": "dashed",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-15",
+      "position": {
+        "x": 3509.6436752776804,
+        "y": 4103.208493940083
+      },
+      "size": {
+        "width": 681.18832978
+      },
+      "style": {
+        "fontSize": 28,
+        "textColor": "#000001",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p>Click &#34;Run&#34; for AI to suggest three appropriate ice breaker options. Suggestions will be tailored to the group size and overall workshop goal.</p>"
+    },
+    {
+      "id": "n-16",
+      "position": {
+        "x": -1039.8938926867902,
+        "y": 4247.069056117155
+      },
+      "size": {
+        "width": 216.4566327221276
+      },
+      "style": {
+        "fontSize": 32,
+        "textColor": "#305bab",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong style=\"background-color:rgb(251,247,239)\">Human input</strong></p>"
+    },
+    {
+      "id": "n-17",
+      "position": {
+        "x": 1903.5566160034564,
+        "y": 4193.560285656567
+      },
+      "size": {
+        "width": 326.09555254553106,
+        "height": 116.85675337387292
+      },
+      "style": {
+        "fillColor": "#305bab",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 27,
+        "fontFamily": "open_sans",
+        "borderWidth": 20,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-18",
+      "position": {
+        "x": 1959.0854218719674,
+        "y": 4183.647889297703
+      },
+      "size": {
+        "width": 187.32369094714286
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#fbf7ef",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong>Click &#34;run&#34; to start the AI Flow</strong></p>"
+    },
+    {
+      "id": "n-19",
+      "position": {
+        "x": 1830.0314502971692,
+        "y": 4206.325440019689
+      },
+      "size": {
+        "width": 79.72383791240568,
+        "height": 79.72383791240568
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[stamp]"
+    },
+    {
+      "id": "n-20",
+      "position": {
+        "x": -1039.8938926867902,
+        "y": 4103.181711044719
+      },
+      "size": {
+        "width": 315.72988949069395,
+        "height": 241.72008743803667
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[stamp]"
+    },
+    {
+      "id": "n-21",
+      "position": {
+        "x": 1489.6305640858209,
+        "y": 4093.453418243089
+      },
+      "size": {
+        "width": 315.72988949069395,
+        "height": 241.72008743803667
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[stamp]"
+    },
+    {
+      "id": "n-22",
+      "position": {
+        "x": 1248.982942087499,
+        "y": 4103.208493940083
+      },
+      "size": {
+        "width": 261.2302388320256,
+        "height": 261.2302388320256
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[stamp]"
+    },
+    {
+      "id": "n-23",
+      "position": {
+        "x": 4081.768123617115,
+        "y": 4063.0975223510427
+      },
+      "size": {
+        "width": 249.34297659643437,
+        "height": 249.34297659643437
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[stamp]"
+    },
+    {
+      "id": "n-24",
+      "position": {
+        "x": -3553.942249064982,
+        "y": 4676.207591741975
+      },
+      "size": {
+        "width": 311.14285714285717
+      },
+      "style": {
+        "fontSize": 36,
+        "textColor": "#ffffff",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong style=\"color:rgb(255,255,255)\"><a href=\"https://miro.com/miroverse/profile/keno_reloaded/?social&#61;copy-link\">Miroverse profile</a></strong></p>"
+    },
+    {
+      "id": "n-25",
+      "position": {
+        "x": -3289.5136776364106,
+        "y": 4676.207591741975
+      },
+      "size": {
+        "width": 159.42857142857144
+      },
+      "style": {
+        "fontSize": 36,
+        "textColor": "#ffffff",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong style=\"color:rgb(255,255,255)\"><a href=\"https://www.linkedin.com/in/eugeniociccale/\">LinkedIn</a></strong></p>"
+    },
+    {
+      "id": "n-26",
+      "position": {
+        "x": -2675.8311262410293,
+        "y": 5036.454496643649
+      },
+      "size": {
+        "width": 381.1030649783109,
+        "height": 381.1030649783109
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[stamp]"
+    },
+    {
+      "id": "n-27",
+      "position": {
+        "x": -5541.225035006405,
+        "y": 4168.763029747689
+      },
+      "size": {
+        "width": 522.1300966219784,
+        "height": 522.1300966219784
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[stamp]"
+    },
+    {
+      "id": "n-28",
+      "position": {
+        "x": -2470.3340344808757,
+        "y": 4406.228249215411
+      },
+      "size": {
+        "width": 1269.9379126594324,
+        "height": 1790.6124568497994
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "<h1>Title of the workshop</h1><p></p><h3><strong>Workshop Goal</strong></h3><p><em><span style=\"color:#939393;\">Define the product roadmap for Q3 2026.</span></em></p><p></p><h3><strong>Topic/Focus</strong></h3><p><em><span style=\"color:#939393;\">Product Strategy &amp; Feature Prioritization.</span></em></p><p></p><h3><strong>Duration</strong></h3><p><em><span style=\"color:#939393;\">4 hours (with a 30-minute break).</span></em></p><p></p><h3><strong>Number of Participants</strong></h3><p><em><span style=\"color:#939393;\">10</span></em></p><p></p><h3><strong>Participant Roles</strong></h3><p><em><span style=\"color:#939393;\">Product Managers, Engineers, and Design Leads.</span></em></p><p></p><h3><strong>Desired outcome</strong></h3><p><em><span style=\"color:#939393;\">A prioritized list of 10 features and ownership assigned to each.</span></em></p>"
+    },
+    {
+      "id": "n-29",
+      "position": {
+        "x": -2965.209369473865,
+        "y": 5006.066855912853
+      },
+      "size": {
+        "width": 549.4181796708882,
+        "height": 287.1852997952817
+      },
+      "style": {
+        "fillColor": "#305bab",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 47,
+        "fontFamily": "open_sans",
+        "borderWidth": 20,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-30",
+      "position": {
+        "x": -3012.234784139986,
+        "y": 5004.962249045863
+      },
+      "size": {
+        "width": 356.7920649576579
+      },
+      "style": {
+        "fontSize": 22,
+        "textColor": "#ffffff",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong>Complete the following information. This will ensure you get a detailed Workshop plan.</strong></p>"
+    },
+    {
+      "id": "n-31",
+      "position": {
+        "x": 16.33659285700537,
+        "y": 4391.629079084707
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "Slides"
+    },
+    {
+      "id": "n-32",
+      "position": {
+        "x": 2886.6020540695235,
+        "y": 4395.057818936726
+      },
+      "size": {
+        "width": 1269.9379126594324,
+        "height": 1790.6124568497994
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "<h1></h1><p></p>"
+    },
+    {
+      "id": "n-33",
+      "position": {
+        "x": 434.22721785700537,
+        "y": 6313.108152473147
+      },
+      "size": {
+        "width": 835.78125,
+        "height": 835.78125
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ4QA6Qc%3D/resources/images/0?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-34",
+      "position": {
+        "x": 5067.605902919962,
+        "y": 4395.057818936726
+      },
+      "size": {
+        "width": 1269.9379126594324,
+        "height": 1790.6124568497994
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "<h1></h1><p></p>"
+    },
+    {
+      "id": "n-35",
+      "position": {
+        "x": -3359.5136776364097,
+        "y": 4582.658683283214
+      },
+      "size": {
+        "width": 700.000000000002
+      },
+      "style": {
+        "fontSize": 40,
+        "textColor": "#ffffff",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong>Created by Eugenio Ciccale</strong></p><p>Product Designer &amp; Web Developer</p>"
+    },
+    {
+      "id": "n-36",
+      "position": {
+        "x": -3878.1244979194853,
+        "y": 4609.714043444012
+      },
+      "size": {
+        "width": 230.24976842439605,
+        "height": 230.24976842439605
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ4QA6Qc%3D/resources/images/3458764517321563711?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-37",
+      "position": {
+        "x": -2300.347767556176,
+        "y": 4139.48123805456
+      },
+      "size": {
+        "width": 170.2463054187192,
+        "height": 170.2463054187192
+      },
+      "style": {
+        "fillColor": "#305bab",
+        "borderColor": "#ffffff",
+        "textColor": "#fbf7ef",
+        "fontSize": 52,
+        "fontFamily": "open_sans",
+        "borderWidth": 20,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "circle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": "<p><strong>1</strong></p>"
+    },
+    {
+      "id": "n-38",
+      "position": {
+        "x": 813.2927504146791,
+        "y": 3858.72276861346
+      },
+      "size": {
+        "width": 1593.9123151153474,
+        "height": 139.778921706722
+      },
+      "style": {
+        "fillColor": "#305bab",
+        "borderColor": "#ffffff",
+        "textColor": "#6631d7",
+        "fontSize": 52,
+        "fontFamily": "open_sans",
+        "borderWidth": 20,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": "<p><strong></strong></p>"
+    },
+    {
+      "id": "n-39",
+      "position": {
+        "x": 816.3859904244667,
+        "y": 3858.72276861346
+      },
+      "size": {
+        "width": 1529.9840834642469,
+        "height": 105.04475151335208
+      },
+      "style": {
+        "fillColor": "#000001",
+        "borderColor": "#ffffff",
+        "textColor": "#fbf7ef",
+        "fontSize": 52,
+        "fontFamily": "open_sans",
+        "borderWidth": 20,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": "<p><strong>Generate Agenda</strong></p>"
+    },
+    {
+      "id": "n-40",
+      "position": {
+        "x": 75.27590465311452,
+        "y": 3858.72276861346
+      },
+      "size": {
+        "width": 117.8786235922183,
+        "height": 117.8786235922183
+      },
+      "style": {
+        "fillColor": "#305bab",
+        "borderColor": "#ffffff",
+        "textColor": "#fbf7ef",
+        "fontSize": 36,
+        "fontFamily": "open_sans",
+        "borderWidth": 20,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "circle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": "<p><strong>2</strong></p>"
+    },
+    {
+      "id": "n-41",
+      "position": {
+        "x": 3683.558211627197,
+        "y": 3858.72276861346
+      },
+      "size": {
+        "width": 1593.9123151153474,
+        "height": 139.778921706722
+      },
+      "style": {
+        "fillColor": "#305bab",
+        "borderColor": "#ffffff",
+        "textColor": "#fbf7ef",
+        "fontSize": 52,
+        "fontFamily": "open_sans",
+        "borderWidth": 20,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": "<p><strong></strong></p>"
+    },
+    {
+      "id": "n-42",
+      "position": {
+        "x": 3686.6514516369843,
+        "y": 3858.72276861346
+      },
+      "size": {
+        "width": 1529.9840834642469,
+        "height": 105.04475151335208
+      },
+      "style": {
+        "fillColor": "#000001",
+        "borderColor": "#ffffff",
+        "textColor": "#fbf7ef",
+        "fontSize": 52,
+        "fontFamily": "open_sans",
+        "borderWidth": 20,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": "<p><strong>Suggest Ice Breakers</strong></p>"
+    },
+    {
+      "id": "n-43",
+      "position": {
+        "x": 2945.5413658656325,
+        "y": 3858.72276861346
+      },
+      "size": {
+        "width": 117.8786235922183,
+        "height": 117.8786235922183
+      },
+      "style": {
+        "fillColor": "#305bab",
+        "borderColor": "#ffffff",
+        "textColor": "#fbf7ef",
+        "fontSize": 36,
+        "fontFamily": "open_sans",
+        "borderWidth": 20,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "circle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": "<p><strong>3</strong></p>"
+    },
+    {
+      "id": "n-44",
+      "position": {
+        "x": 5864.562060477636,
+        "y": 3858.72276861346
+      },
+      "size": {
+        "width": 1593.9123151153474,
+        "height": 139.778921706722
+      },
+      "style": {
+        "fillColor": "#305bab",
+        "borderColor": "#ffffff",
+        "textColor": "#6631d7",
+        "fontSize": 52,
+        "fontFamily": "open_sans",
+        "borderWidth": 20,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": "<p><strong></strong></p>"
+    },
+    {
+      "id": "n-45",
+      "position": {
+        "x": 5867.655300487424,
+        "y": 3858.72276861346
+      },
+      "size": {
+        "width": 1529.9840834642469,
+        "height": 105.04475151335208
+      },
+      "style": {
+        "fillColor": "#000001",
+        "borderColor": "#ffffff",
+        "textColor": "#fbf7ef",
+        "fontSize": 52,
+        "fontFamily": "open_sans",
+        "borderWidth": 20,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": "<p><strong>Suggest Core Activities</strong></p>"
+    },
+    {
+      "id": "n-46",
+      "position": {
+        "x": 5126.545214716072,
+        "y": 3858.72276861346
+      },
+      "size": {
+        "width": 117.8786235922183,
+        "height": 117.8786235922183
+      },
+      "style": {
+        "fillColor": "#305bab",
+        "borderColor": "#ffffff",
+        "textColor": "#fbf7ef",
+        "fontSize": 36,
+        "fontFamily": "open_sans",
+        "borderWidth": 20,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "circle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": "<p><strong>4</strong></p>"
+    },
+    {
+      "id": "n-47",
+      "position": {
+        "x": 3032.2586219500586,
+        "y": 4094.0853412307233
+      },
+      "size": {
+        "width": 170.2463054187192,
+        "height": 170.2463054187192
+      },
+      "style": {
+        "fillColor": "#305bab",
+        "borderColor": "#ffffff",
+        "textColor": "#fbf7ef",
+        "fontSize": 52,
+        "fontFamily": "open_sans",
+        "borderWidth": 20,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "circle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": "<p><strong>3</strong></p>"
+    },
+    {
+      "id": "n-48",
+      "position": {
+        "x": 172.8114837411835,
+        "y": 4139.481238054561
+      },
+      "size": {
+        "width": 170.2463054187192,
+        "height": 170.2463054187192
+      },
+      "style": {
+        "fillColor": "#305bab",
+        "borderColor": "#ffffff",
+        "textColor": "#fbf7ef",
+        "fontSize": 52,
+        "fontFamily": "open_sans",
+        "borderWidth": 20,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "circle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": "<p><strong>2</strong></p>"
+    },
+    {
+      "id": "n-49",
+      "position": {
+        "x": 5205.50833509101,
+        "y": 4103.208493940083
+      },
+      "size": {
+        "width": 170.2463054187192,
+        "height": 170.2463054187192
+      },
+      "style": {
+        "fillColor": "#305bab",
+        "borderColor": "#ffffff",
+        "textColor": "#fbf7ef",
+        "fontSize": 52,
+        "fontFamily": "open_sans",
+        "borderWidth": 20,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "circle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": "<p><strong>4</strong></p>"
+    },
+    {
+      "id": "n-50",
+      "position": {
+        "x": -1645.5195098685572,
+        "y": 3858.72276861346
+      },
+      "size": {
+        "width": 1593.9123151153474,
+        "height": 139.778921706722
+      },
+      "style": {
+        "fillColor": "#305bab",
+        "borderColor": "#ffffff",
+        "textColor": "#6631d7",
+        "fontSize": 52,
+        "fontFamily": "open_sans",
+        "borderWidth": 20,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": "<p><strong></strong></p>"
+    },
+    {
+      "id": "n-51",
+      "position": {
+        "x": -1642.4262698587695,
+        "y": 3858.72276861346
+      },
+      "size": {
+        "width": 1529.9840834642469,
+        "height": 105.04475151335208
+      },
+      "style": {
+        "fillColor": "#000001",
+        "borderColor": "#ffffff",
+        "textColor": "#fbf7ef",
+        "fontSize": 52,
+        "fontFamily": "open_sans",
+        "borderWidth": 20,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": "<p><strong>Define Workshop</strong></p>"
+    },
+    {
+      "id": "n-52",
+      "position": {
+        "x": -2383.5363556301218,
+        "y": 3858.72276861346
+      },
+      "size": {
+        "width": 117.8786235922183,
+        "height": 117.8786235922183
+      },
+      "style": {
+        "fillColor": "#305bab",
+        "borderColor": "#ffffff",
+        "textColor": "#fbf7ef",
+        "fontSize": 36,
+        "fontFamily": "open_sans",
+        "borderWidth": 20,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "circle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": "<p><strong>1</strong></p>"
+    },
+    {
+      "id": "n-53",
+      "position": {
+        "x": 1385.4213655523627,
+        "y": 4256.850914709514
+      },
+      "size": {
+        "width": 216.4566327221276
+      },
+      "style": {
+        "fontSize": 32,
+        "textColor": "#305bab",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong style=\"background-color:rgb(251,247,239)\">AI &#43; Human</strong></p>"
+    },
+    {
+      "id": "n-54",
+      "position": {
+        "x": 4065.3249516799615,
+        "y": 4210.796312002678
+      },
+      "size": {
+        "width": 216.4566327221276
+      },
+      "style": {
+        "fontSize": 32,
+        "textColor": "#305bab",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong style=\"background-color:rgb(251,247,239)\">AI Discussion</strong></p>"
+    },
+    {
+      "id": "n-55",
+      "position": {
+        "x": 544.5152766830397,
+        "y": 5203.712716033613
+      },
+      "size": {
+        "width": 13694.533681042514,
+        "height": 3863.687399348969
+      },
+      "style": {
+        "fillColor": "#5b7199",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 15,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 0.1
+      },
+      "visualKind": "shape",
+      "title": ""
+    }
+  ],
+  "edges": [
+    {
+      "id": "e-0",
+      "sourceNodeId": "n-29",
+      "targetNodeId": "n-0",
+      "style": {
+        "lineStyle": "solid",
+        "arrowHead": "end",
+        "borderColor": "#333333",
+        "strokeWidth": "16.0",
+        "extra": {
+          "connectorShape": "curved",
+          "sourcePosition": "auto",
+          "targetPosition": "auto"
+        }
+      }
+    },
+    {
+      "id": "e-1",
+      "sourceNodeId": "n-17",
+      "targetNodeId": "n-1",
+      "style": {
+        "lineStyle": "solid",
+        "arrowHead": "end",
+        "borderColor": "#333333",
+        "strokeWidth": "8.0",
+        "extra": {
+          "connectorShape": "curved",
+          "sourcePosition": "auto",
+          "targetPosition": "auto"
+        }
+      }
+    }
+  ],
+  "annotations": [],
+  "_metadata": {
+    "extracted_at": "2026-02-23T13:25:18.819835",
+    "total_items": 56,
+    "total_connectors": 2,
+    "frames": 0,
+    "nodes": 56,
+    "edges": 2
+  },
+  "_template": {
+    "name": "ai-minimum-viable-workshop-generator",
+    "category": "miroverse",
+    "source": "miroverse",
+    "source_slug": "ai-minimum-viable-workshop-generator",
+    "source_board_id": "uXjVJ4QA6Qc=",
+    "tags": [
+      "meetings & workshops",
+      "ai accelerated",
+      "ux",
+      "icebreaker games",
+      "ai & transformation"
+    ],
+    "extracted_at": "2026-02-23T13:25:18.819992"
+  }
+}

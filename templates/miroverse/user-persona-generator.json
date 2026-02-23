@@ -1,0 +1,557 @@
+{
+  "frames": [
+    {
+      "id": "f-0",
+      "title": "Concept ideas",
+      "position": {
+        "x": -1531.6453039697492,
+        "y": -883.7063908114586
+      },
+      "size": {
+        "width": 1280.0047250038115,
+        "height": 720.0733863371908
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-1",
+      "title": "",
+      "position": {
+        "x": -3003.6168413694013,
+        "y": -736.7116401210733
+      },
+      "size": {
+        "width": 559.9999999999999,
+        "height": 1014.0628877179626
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-2",
+      "title": "",
+      "position": {
+        "x": -2383.632253920528,
+        "y": -979.3981192235226
+      },
+      "size": {
+        "width": 359.9691748977464,
+        "height": 528.6899295130638
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-3",
+      "title": "",
+      "position": {
+        "x": -551.65835401897,
+        "y": -1077.9695477949506
+      },
+      "size": {
+        "width": 359.9691748977464,
+        "height": 331.5470723702068
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-4",
+      "title": "",
+      "position": {
+        "x": 784.3108208787764,
+        "y": -1013.6838335092366
+      },
+      "size": {
+        "width": 359.9691748977464,
+        "height": 460.1185009416352
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    }
+  ],
+  "nodes": [
+    {
+      "id": "n-0",
+      "position": {
+        "x": -339.6737665700968,
+        "y": -1243.743083980054
+      },
+      "size": {
+        "width": 784.0,
+        "height": 1606.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "<h1>The Treehouse Kingdom: An Enchanted Realm in the Jungle</h1><h2>Introduction</h2><p>Imagine a world where civilization cradles itself at great heights amidst the largest and oldest trees that the earth has ever seen. This is the Treehouse Kingdom, a realm woven into the dense tapestry of an ancient, primordial jungle. Here, nature and humanity intertwine to craft an existence both harmonious and fraught with tension, where every beam of light and gust of wind is filtered through the thick canopy of a time-forgotten forest.</p><h2>Setting and Aesthetics</h2><p>The Treehouse Kingdom thrives amidst verdant jungles of overwhelming greenery. Massive trees, their trunks wide as mountains and as ancient as history itself, support intricate structures suspended high above the ground. These architectural wonders are masterpieces of organic design—rustic wooden dwellings and ornate structures that appear as though they have grown rather than been constructed. Rope bridges swaying gently in the breeze and wooden platforms form a floating network between homes. This design ethos allows the kingdom to exist almost invisibly, its secrets obscured by layers of lush, striated leaves.</p><p>In this world, the visuals are dominated by vibrant hues of green, mottled with dappled sunlight that pierces through the canopy. The atmosphere is thick with humidity, heavy with the scent of rich soil and tropical blooms. Nature's symphony—the calls of exotic birds, the whispers of leaves, the hum of unseen insects—accompanies every moment, creating a soundscape as vibrant as its visual counterpart.</p><h2>Key Locations</h2><h3>The Canopy Citadel</h3><p>Perched in the highest branches, the Canopy Citadel is the heart of the kingdom, an architectural feat of vertiginous balconies and sweeping arboreal halls. Here, the ruling council gathers in a grand chamber shaded by sprawling boughs.</p><h3>The Verdant Markets</h3><p>A bustling hub suspended among thick vines, the Verdant Markets thrive with trade. Merchants ply their wares from platforms adorned with the colorful fruits and craftworks of the jungle.</p><h3>The Shadowed Grove</h3><p>An enigmatic thicket beneath the kingdom, where the boughs fan out into a protected grove. This sacred space is veiled in shadow and myth, revered for its ancient wisdom and feared for the secrets it holds.</p><h2>Themes</h2><p>The primary theme is the delicate balance between man and nature—a relationship that is both symbiotic and precarious. The kingdom represents a utopian vision where humanity strives not to dominate but to coexist with the untamed forces around it.</p><p>This world also explores the concepts of mystery and discovery. The kingdom's reliance on concealment within the lushness of the jungle suggests a society rich in tradition and hidden knowledge, potentially guarding narratives of lost histories and secret magics.</p><h2>Narrative Arc</h2><p>In the Treehouse Kingdom, the narrative arc follows a journey of exploration and enlightenment. As external forces threaten the delicate harmony between the kingdom and the forest, a young protagonist must uncover the intertwined histories that bind them. Through this quest, they will reveal the ancient truths of their world and perhaps alter the course of their kingdom forever.</p><h2>Conclusion</h2><p>The Treehouse Kingdom offers a lush, enigmatic setting that speaks to the mysteries of coexistence and the allure of undiscovered worlds. A realm where civilization does not bend nature to its will, but instead rises in its embrace, this world invites exploration and ignites the imagination, leaving the door open for countless stories to unfold amid the treetops.</p>"
+    },
+    {
+      "id": "n-1",
+      "position": {
+        "x": 996.2954083276499,
+        "y": -1243.7430839800545
+      },
+      "size": {
+        "width": 784.0000000000002,
+        "height": 1574.0000000000005
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "<h1>Creative Moodboard Prompt: Treehouse Kingdom</h1><p>Capture the essence of a civilization nestled high within the canopies of ancient, towering jungle trees. This moodboard should reflect the era and plot-appropriate objects that define the material culture of a society living harmoniously with nature, utilizing an intricate network of organically integrated structures. The focus is on the pre-industrial ingenuity that draws from natural surroundings. Explore the following key elements to bring this enchanted realm to life:</p><h2>Architecture &amp; Infrastructure</h2><ol><li data-list=\"bullet\"><strong>Organic Wooden Structures</strong>: Highlight rustic wooden platforms and dwellings that blend seamlessly with their arboreal environment. These should look as if they have grown as part of the tree itself, with curved lines and textures mimicking natural patterns.</li><li data-list=\"bullet\"><strong>Rope Bridge Systems</strong>: Feature complex networks of intricately woven rope bridges connecting different treehouse dwellings. These should express both utility and aesthetic beauty, emphasizing craftsmanship.</li><li data-list=\"bullet\"><strong>Vertiginous Balconies and Vine Structures</strong>: Display balconies that hang daringly over the jungle depths, constructed with woven vines and natural fibers that emphasize balance and integration with nature.</li><li data-list=\"bullet\"><strong>Tree-Integrated Elements</strong>: Include architectural components like windows, doors, and staircases carved into or wrapped around massive tree trunks to underline the symbiosis between human and tree.</li></ol><h2>Tools &amp; Implements</h2><ol><li data-list=\"bullet\"><strong>Handcrafted Tools</strong>: Illustrate tools crafted from wood, vines, and natural fibers designed for canopy navigation, harvesting, and daily life. Focus on climbing implements that assist in vertical living.</li><li data-list=\"bullet\"><strong>Sustainable Craftsmanship</strong>: Show tools and items made from materials that highlight the ingenuity of working with the forest rather than altering it, featuring eco-friendly and traditional techniques.</li></ol><h2>Market Goods &amp; Trade Items</h2><ol><li data-list=\"bullet\"><strong>Tropical Fruits and Produce</strong>: Display vibrant, colorful assortments of fruits native to the jungle, showcased in suspended market scenes.</li><li data-list=\"bullet\"><strong>Handmade Crafts and Textiles</strong>: Feature woven baskets, containers, and craftworks dyed with natural pigments. Look for patterns that highlight the culture's rich tradition and use of organic design principles.</li><li data-list=\"bullet\"><strong>Trade on Platforms</strong>: Capture scenes of bustling trade on wooden platforms amidst the tree canopy, showing how commerce thrives high above the ground.</li></ol><h2>Sacred &amp; Mysterious Objects</h2><ol><li data-list=\"bullet\"><strong>Ancient Artifacts</strong>: Include relics and ceremonial items from sacred grove spaces. These should suggest a connection to ancient wisdom and the mystical forces of the forest.</li><li data-list=\"bullet\"><strong>Mystical and Ceremonial Items</strong>: Show objects that symbolize the spiritual relationship between the civilization and their natural surroundings, hinting at hidden rituals and secret magics.</li></ol><h2>Atmospheric Elements</h2><ol><li data-list=\"bullet\"><strong>Jungle Environments</strong>: Integrate objects and scenes that convey the humid, lush atmosphere of the jungle. Use dappled sunlight filtered through the canopy to evoke a sense of discovery and concealment.</li><li data-list=\"bullet\"><strong>Weathered Textures</strong>: Incorporate elements that suggest wear from tropical conditions, and emphasize the interplay of light and shadow across surfaces.</li></ol><p>This moodboard should evoke a visual narrative where civilization rises in the embrace of untamed nature, showcasing traditional craftsmanship and organic design. It must capture the delicate balance humans maintain with their lush, towering environment and highlight the harmonious coexistence in a vertically-oriented lifestyle.</p>"
+    },
+    {
+      "id": "n-2",
+      "position": {
+        "x": 996.29540832765,
+        "y": 490.25691601994606
+      },
+      "size": {
+        "width": 783.9999999999999,
+        "height": 1441.9999999999998
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "<h1>Creative Moodboard Prompt for Character Design in the Treehouse Kingdom</h1><h2>Introduction</h2><p>In the enchanting realm of the Treehouse Kingdom, where humanity and nature coalesce amidst towering primordial trees, a story of discovery unfolds. It is a world filled with vibrant greens, dappled sunlight, and echoes of distant bird calls—a perfect stage for a young protagonist's journey of enlightenment. This moodboard will guide you in crafting a character design that is both era- and plot-appropriate, reflecting the unique environment and profound themes of the setting.</p><h2>Setting and Aesthetic Inspiration</h2><h3>Lush Jungle Civilization</h3><p>Your character should feel at home among the massive, ancient trees that define the Treehouse Kingdom. Imagine organic, nature-integrated materials and clothing that seamlessly blend with the environment. The structures are rustic wooden dwellings interlinked by swaying rope bridges and elevated platforms. Draw inspiration from this intricate architectural tapestry—let the lines and materials influence the character's attire and gear.</p><h3>Earthy and Camouflaged Palette</h3><p>Choose a palette dominated by earth tones and forest colors, enabling your character to move unseen among the jungle's dense foliage. The clothing and accessories should reflect the hues of the environment: deep greens, browns, and hints of vivid blooms to evoke the vibrant atmosphere of the jungle canopy.</p><h2>Character Conceptualizations</h2><h3>Agile and Adaptable Design</h3><p>Design clothing and accessories that offer the protagonist agility and adaptability for treetop living. Consider elements like lightweight fabrics, flexible boots for climbing, and tools or weapons crafted for swift navigation and protection in a vertical jungle environment.</p><h3>Symbols of Connection and Mysticism</h3><p>Incorporate visual elements that suggest a connection to ancient wisdom and jungle mysticism. This could include tribal tattoos or markings, mystical jewelry, or artifacts that hold secret powers. These elements should signify the protagonist's role as a guardian of hidden knowledge and a bridge between past and present.</p><h2>Functional and Thematic Gear</h2><p>Think about the practical aspects of your character's journey. They will need gear that is not only functional for climbing and surviving in a humid jungle but also indicative of the thematic journey of revealing forgotten truths. Straps, pouches, and minimalist bags crafted from natural fibers or leather should accompany the character, useful yet understated.</p><h2>Conclusion</h2><p>This creative prompt encourages the exploration of character design rooted in the symbiotic relationship between man and nature. Allow the setting's mysterious allure and complex themes to inform every aspect of your character's look. Use your moodboard to capture the balance between primitive aesthetics and fantastical elements that define this young protagonist's role in the Treehouse Kingdom—a revealer of truths and a steward of harmony.</p>"
+    },
+    {
+      "id": "n-3",
+      "position": {
+        "x": 996.2954083276502,
+        "y": 2092.256916019946
+      },
+      "size": {
+        "width": 783.9999999999995,
+        "height": 1565.999999999999
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "<h1>Creative Prompt for a Moodboard: The Enchanted Treehouse Kingdom</h1><h2>Introduction</h2><p>Imagine an imaginative and timeless realm that exists within the embrace of an enormous, ancient, and teeming jungle. This world, known as the Treehouse Kingdom, thrives high above the forest floor in a vertical civilization where the natural world intertwines seamlessly with human existence. This moodboard will help visualize the enchanting, era-appropriate environments resting upon these majestic, towering trees.</p><h2>Aesthetic and Atmosphere</h2><p><strong>Color Palette and Mood:</strong></p><ol><li data-list=\"bullet\">Vibrant, layered greens dominate the visual, capturing the lush foliage and the dappled golden sunlight filtering through the dense canopy.</li><li data-list=\"bullet\">The atmosphere should feel humid and alive, brimming with the earthy aroma of rich soil, the fragrance of tropical flowers, and the sounds of the jungle's symphony.</li></ol><h2>Key Environments</h2><h3>1. The High Canopy Citadel</h3><ol><li data-list=\"bullet\"><strong>Description:</strong> Capture the majestic aerial views and architectural wonders of the highest reaches, where vertiginous balconies and sweeping arboreal halls behold the skies. This is where the kingdom's leadership resides and where decisions shaping the delicate balance between civilization and nature are made.</li><li data-list=\"bullet\"><strong>Visual Elements:</strong> Look for elements that highlight the height and grandeur, such as expansive wooden terraces and ornate chambers shaded by sprawling boughs.</li></ol><h3>2. Mid-Canopy Market Spaces</h3><ol><li data-list=\"bullet\"><strong>Description:</strong> This bustling sphere of commerce thrives with vibrant trade, interwoven among thick vines. Markets bristling with life showcase colorful trade goods, from exotic fruits to jungle-crafted artifacts.</li><li data-list=\"bullet\"><strong>Visual Elements:</strong> Focus on dynamic, lively scenes filled with suspended market platforms and rope bridges teeming with life and color.</li></ol><h3>3. The Shadowed Sacred Grove</h3><ol><li data-list=\"bullet\"><strong>Description:</strong> Below the bustling kingdom lies a mystic, shadowed grove—a sacred space filled with ancient knowledge and mythical secrets.</li><li data-list=\"bullet\"><strong>Visual Elements:</strong> Envision this area as a mysterious, labyrinthine thicket veiled in shadows, where light filters erratically and the air feels heavy with secrets and old-world wisdom.</li></ol><h2>Themes and Storytelling Elements</h2><ol><li data-list=\"bullet\"><strong>Symbiosis of Nature and Civilization:</strong> Depict the harmonious yet delicate interplay between human and forest life. Visualize how the human structures appear as if they are a natural extension of the trees themselves.</li><li data-list=\"bullet\"><strong>Mystery and Discovery:</strong> Elements suggesting hidden sources of knowledge, historical narratives, and secret magics that lie within this enchanting ecosystem.</li><li data-list=\"bullet\"><strong>Threat of External Forces:</strong> Indicate potential disturbances to this fragile harmony, symbolizing the ever-present tension between thriving within nature and confronting external adversities.</li></ol><h2>Conclusion</h2><p>This moodboard aims to inspire the creation of an environment that celebrates the unity and beauty of an advanced civilization enveloped within nature's embrace. By embodying a timeless aesthetic—neither distinctly historical nor futuristic, but an enchanting blend—the Treehouse Kingdom evokes a sense of wonder and prompts fascination with the hidden mysteries amidst the towering jungle.</p>"
+    },
+    {
+      "id": "n-4",
+      "position": {
+        "x": 2204.1859554193575,
+        "y": -883.8525368883471
+      },
+      "size": {
+        "width": 719.7810941834149,
+        "height": 719.7810941834149
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJC_EnPs%3D/resources/images/3458764517257430766?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-5",
+      "position": {
+        "x": 2204.5341665309247,
+        "y": 850.495674223221
+      },
+      "size": {
+        "width": 720.4775164065501,
+        "height": 720.4775164065501
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJC_EnPs%3D/resources/images/3458764517257430767?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-6",
+      "position": {
+        "x": 2204.8823776424924,
+        "y": 2452.1474631116535
+      },
+      "size": {
+        "width": 719.7810941834149,
+        "height": 719.7810941834149
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJC_EnPs%3D/resources/images/3458764517257430768?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-7",
+      "position": {
+        "x": 640.0023625019057,
+        "y": 360.0366931685955
+      },
+      "size": {
+        "width": 799.6477980668527,
+        "height": 533.0985320445685
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJC_EnPs%3D/resources/images/3458764517257430769?format=preview&redirect=false"
+        }
+      },
+      "frameId": "f-0",
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-8",
+      "position": {
+        "x": 1008.1490735546827,
+        "y": 178.47768898785097
+      },
+      "size": {
+        "width": 212.93,
+        "height": 243.96
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "stickyNote",
+      "title": "<p>jungle setting</p>"
+    },
+    {
+      "id": "n-9",
+      "position": {
+        "x": 287.69513550560487,
+        "y": 406.7099295130633
+      },
+      "size": {
+        "width": 212.93,
+        "height": 243.96
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "stickyNote",
+      "title": "<p>treehouse kingdom</p>"
+    },
+    {
+      "id": "n-10",
+      "position": {
+        "x": 280.0000000000027,
+        "y": 132.57142857142895
+      },
+      "size": {
+        "width": 432.0
+      },
+      "style": {
+        "fontSize": 48,
+        "textColor": "#1c1c1e",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-1",
+      "visualKind": "text",
+      "title": "<p><strong>Bring imagined worlds to life</strong></p>"
+    },
+    {
+      "id": "n-11",
+      "position": {
+        "x": 279.99999999999994,
+        "y": 529.7142857142853
+      },
+      "size": {
+        "width": 432.0
+      },
+      "style": {
+        "fontSize": 24,
+        "textColor": "#595959",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "frameId": "f-1",
+      "visualKind": "text",
+      "title": "<p>Start with a few ideas — a rough setting, story spark, or character sketch — and drop them into the frame. This could be stickies, text notes, mood images, or fragments of inspiration.<br /><br />Then run the flow to generate a high-level concept pitch for your world. You’ll get vivid descriptions, core themes, and visual elements that bring the world to life — ready for further development as a game, story, film, or visual project.<br /><br />Ideal for sparking creative direction and quickly shaping raw ideas into something tangible.</p>"
+    },
+    {
+      "id": "n-12",
+      "position": {
+        "x": 54.00000133216321,
+        "y": 870.285714285714
+      },
+      "size": {
+        "width": 452.00000000000006,
+        "height": 79.7772216796875
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "frameId": "f-1",
+      "visualKind": "shape",
+      "title": "[unknown]"
+    },
+    {
+      "id": "n-13",
+      "position": {
+        "x": 179.9845874488732,
+        "y": 109.54707237020648
+      },
+      "size": {
+        "width": 295.9691749028571
+      },
+      "style": {
+        "fontSize": 24,
+        "textColor": "#1a1a1a",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-2",
+      "visualKind": "text",
+      "title": "<p><strong>Drop your inspo ✨</strong></p>"
+    },
+    {
+      "id": "n-14",
+      "position": {
+        "x": 179.9845874488732,
+        "y": 316.68992951306393
+      },
+      "size": {
+        "width": 295.96917489428574
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#595959",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "frameId": "f-2",
+      "visualKind": "text",
+      "title": "<p>Add any images, stickies, or notes into the frame below — think game themes, characters, settings, or vibes.<br /><br />The flow will read your input, generate a structured concept table, then expand it into game ideas, visuals, and even video snippets.<br /><br />Start creating by adding your inspiration — the rest unfolds automatically.</p>"
+    },
+    {
+      "id": "n-15",
+      "position": {
+        "x": 52.2021076136738,
+        "y": 52.20210761367434
+      },
+      "size": {
+        "width": 40.404215227348686,
+        "height": 40.404215227349596
+      },
+      "style": {
+        "fillColor": "#1c1c1e",
+        "borderColor": "#ffffff",
+        "textColor": "#ffffff",
+        "fontSize": 18,
+        "fontFamily": "unknown",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "circle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-2",
+      "visualKind": "shape",
+      "title": "<p><strong>1</strong></p>"
+    },
+    {
+      "id": "n-16",
+      "position": {
+        "x": 179.9845874488732,
+        "y": 126.68992951306353
+      },
+      "size": {
+        "width": 295.9691749028571
+      },
+      "style": {
+        "fontSize": 24,
+        "textColor": "#1a1a1a",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-3",
+      "visualKind": "text",
+      "title": "<p><strong>Hit &#34;Run&#34; to start the magic &#x1fa84;</strong></p>"
+    },
+    {
+      "id": "n-17",
+      "position": {
+        "x": 179.9845874488732,
+        "y": 235.26135808449243
+      },
+      "size": {
+        "width": 295.96917489428574
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#595959",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "frameId": "f-3",
+      "visualKind": "text",
+      "title": "<p>This kicks off the flow and turns your input into a structured game concept. From there, the rest will unfold — visuals, ideas, even videos.</p>"
+    },
+    {
+      "id": "n-18",
+      "position": {
+        "x": 52.2021076136738,
+        "y": 52.202107613674286
+      },
+      "size": {
+        "width": 40.404215227348686,
+        "height": 40.404215227349596
+      },
+      "style": {
+        "fillColor": "#1c1c1e",
+        "borderColor": "#ffffff",
+        "textColor": "#ffffff",
+        "fontSize": 18,
+        "fontFamily": "unknown",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "circle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-3",
+      "visualKind": "shape",
+      "title": "<p><strong>2</strong></p>"
+    },
+    {
+      "id": "n-19",
+      "position": {
+        "x": 179.9845874488732,
+        "y": 126.6899295130635
+      },
+      "size": {
+        "width": 295.9691749028571
+      },
+      "style": {
+        "fontSize": 24,
+        "textColor": "#1a1a1a",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-4",
+      "visualKind": "text",
+      "title": "<p><strong>Get creative and break the rules &#x1f3a8;</strong></p>"
+    },
+    {
+      "id": "n-20",
+      "position": {
+        "x": 179.9845874488732,
+        "y": 299.5470723702066
+      },
+      "size": {
+        "width": 295.96917489428574
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#595959",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "frameId": "f-4",
+      "visualKind": "text",
+      "title": "<p>The example below is just to spark ideas — from here on, it’s your playground.<br /><br />Add new docs, images. Spin up fresh storylines. Generate wild visuals. Twist the flow.<br /><br />There are no limits — just imagination. &#x1f300;&#x1f4a5;</p>"
+    },
+    {
+      "id": "n-21",
+      "position": {
+        "x": 52.2021076136738,
+        "y": 52.20210761367426
+      },
+      "size": {
+        "width": 40.404215227348686,
+        "height": 40.404215227349596
+      },
+      "style": {
+        "fillColor": "#1c1c1e",
+        "borderColor": "#ffffff",
+        "textColor": "#ffffff",
+        "fontSize": 18,
+        "fontFamily": "unknown",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "circle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-4",
+      "visualKind": "shape",
+      "title": "<p><strong>3</strong></p>"
+    }
+  ],
+  "edges": [],
+  "annotations": [],
+  "_metadata": {
+    "extracted_at": "2026-02-23T13:01:55.626038",
+    "total_items": 27,
+    "total_connectors": 0,
+    "frames": 5,
+    "nodes": 22,
+    "edges": 0
+  },
+  "_template": {
+    "name": "user-persona-generator",
+    "category": "miroverse",
+    "source": "miroverse",
+    "source_slug": "user-persona-generator",
+    "source_board_id": "uXjVJC_EnPs=",
+    "tags": [
+      "research & design",
+      "ai accelerated"
+    ],
+    "extracted_at": "2026-02-23T13:01:55.626097"
+  }
+}

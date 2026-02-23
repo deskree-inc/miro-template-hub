@@ -1,0 +1,1567 @@
+{
+  "frames": [
+    {
+      "id": "f-0",
+      "title": "Questions",
+      "position": {
+        "x": 1769.6763208920734,
+        "y": -569.6387437234989
+      },
+      "size": {
+        "width": 410.0,
+        "height": 727.2873736947633
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-1",
+      "title": "Risks",
+      "position": {
+        "x": 2203.6763208920734,
+        "y": -569.6387437234989
+      },
+      "size": {
+        "width": 410.0,
+        "height": 727.2873736947633
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-2",
+      "title": "Questions",
+      "position": {
+        "x": 1769.2154150263073,
+        "y": 514.3622359753826
+      },
+      "size": {
+        "width": 410.0,
+        "height": 727.2873736947633
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-3",
+      "title": "Risks",
+      "position": {
+        "x": 2203.2154150263073,
+        "y": 514.3622359753826
+      },
+      "size": {
+        "width": 410.0,
+        "height": 727.2873736947633
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-4",
+      "title": "",
+      "position": {
+        "x": -4296.711833106965,
+        "y": -547.6260658486954
+      },
+      "size": {
+        "width": 285.21787596816216,
+        "height": 312.6872705556258
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-5",
+      "title": "",
+      "position": {
+        "x": -4296.711833106965,
+        "y": -835.6212856740403
+      },
+      "size": {
+        "width": 285.21787596816216,
+        "height": 198.55714608697653
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-6",
+      "title": "",
+      "position": {
+        "x": -3954.4173669371626,
+        "y": -706.485614944814
+      },
+      "size": {
+        "width": 309.97403361854373,
+        "height": 456.82848754542965
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-7",
+      "title": "",
+      "position": {
+        "x": -1195.696534704835,
+        "y": -703.9071067907803
+      },
+      "size": {
+        "width": 309.97403361854373,
+        "height": 458.75064756020015
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-8",
+      "title": "",
+      "position": {
+        "x": 2685.7127497595834,
+        "y": -744.2332131430499
+      },
+      "size": {
+        "width": 309.97403361854373,
+        "height": 378.0984348556607
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    }
+  ],
+  "nodes": [
+    {
+      "id": "n-0",
+      "position": {
+        "x": -3774.2093122055016,
+        "y": -934.8998587175288
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[estimates]"
+    },
+    {
+      "id": "n-1",
+      "position": {
+        "x": -3774.209312861153,
+        "y": -707.751198541197
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[people]"
+    },
+    {
+      "id": "n-2",
+      "position": {
+        "x": -2513.731719215349,
+        "y": -391.2824305708805
+      },
+      "size": {
+        "width": 1866.0,
+        "height": 1084.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[kanban]"
+    },
+    {
+      "id": "n-3",
+      "position": {
+        "x": -970.7087966198162,
+        "y": 150.71855853720388
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[estimates]"
+    },
+    {
+      "id": "n-4",
+      "position": {
+        "x": -970.7071195668249,
+        "y": 378.0350118534166
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[people]"
+    },
+    {
+      "id": "n-5",
+      "position": {
+        "x": -970.7095178955641,
+        "y": -933.2824305708805
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[estimates]"
+    },
+    {
+      "id": "n-6",
+      "position": {
+        "x": -970.7078243917497,
+        "y": -703.9659647090507
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[people]"
+    },
+    {
+      "id": "n-7",
+      "position": {
+        "x": 302.2448565407253,
+        "y": -739.2824305708805
+      },
+      "size": {
+        "width": 1866.0,
+        "height": 388.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[kanban]"
+    },
+    {
+      "id": "n-8",
+      "position": {
+        "x": 301.7839506749592,
+        "y": 344.7185491280011
+      },
+      "size": {
+        "width": 1866.0,
+        "height": 388.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[kanban]"
+    },
+    {
+      "id": "n-9",
+      "position": {
+        "x": 3513.947582952868,
+        "y": 150.7185491280011
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[dot_voting]"
+    },
+    {
+      "id": "n-10",
+      "position": {
+        "x": 3829.947582952868,
+        "y": 150.7185491280011
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[poll]"
+    },
+    {
+      "id": "n-11",
+      "position": {
+        "x": 3822.32258871985,
+        "y": -933.2824305708805
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[poll]"
+    },
+    {
+      "id": "n-12",
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "size": {
+        "width": 320.0,
+        "height": 60.0
+      },
+      "style": {
+        "borderColor": "#652cb3"
+      },
+      "visualKind": "card",
+      "title": "",
+      "body": ""
+    },
+    {
+      "id": "n-13",
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "size": {
+        "width": 320.0,
+        "height": 60.0
+      },
+      "style": {
+        "borderColor": "#ffdd33"
+      },
+      "visualKind": "card",
+      "title": "",
+      "body": ""
+    },
+    {
+      "id": "n-14",
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "size": {
+        "width": 320.0,
+        "height": 60.0
+      },
+      "style": {
+        "borderColor": "#8fd14f"
+      },
+      "visualKind": "card",
+      "title": "",
+      "body": ""
+    },
+    {
+      "id": "n-15",
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "size": {
+        "width": 320.0,
+        "height": 60.0
+      },
+      "style": {
+        "borderColor": "#2d9bf0"
+      },
+      "visualKind": "card",
+      "title": "",
+      "body": ""
+    },
+    {
+      "id": "n-16",
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "size": {
+        "width": 320.0,
+        "height": 60.0
+      },
+      "style": {
+        "borderColor": "#f24726"
+      },
+      "visualKind": "card",
+      "title": "",
+      "body": ""
+    },
+    {
+      "id": "n-17",
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "size": {
+        "width": 320.0,
+        "height": 60.0
+      },
+      "style": {
+        "borderColor": "#652cb3"
+      },
+      "visualKind": "card",
+      "title": "",
+      "body": ""
+    },
+    {
+      "id": "n-18",
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "size": {
+        "width": 320.0,
+        "height": 60.0
+      },
+      "style": {
+        "borderColor": "#ffdd33"
+      },
+      "visualKind": "card",
+      "title": "",
+      "body": ""
+    },
+    {
+      "id": "n-19",
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "size": {
+        "width": 320.0,
+        "height": 60.0
+      },
+      "style": {
+        "borderColor": "#8fd14f"
+      },
+      "visualKind": "card",
+      "title": "",
+      "body": ""
+    },
+    {
+      "id": "n-20",
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "size": {
+        "width": 320.0,
+        "height": 60.0
+      },
+      "style": {
+        "borderColor": "#2d9bf0"
+      },
+      "visualKind": "card",
+      "title": "",
+      "body": ""
+    },
+    {
+      "id": "n-21",
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "size": {
+        "width": 320.0,
+        "height": 60.0
+      },
+      "style": {
+        "borderColor": "#f24726"
+      },
+      "visualKind": "card",
+      "title": "",
+      "body": ""
+    },
+    {
+      "id": "n-22",
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "size": {
+        "width": 320.0,
+        "height": 60.0
+      },
+      "style": {
+        "borderColor": "#652cb3"
+      },
+      "visualKind": "card",
+      "title": "",
+      "body": ""
+    },
+    {
+      "id": "n-23",
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "size": {
+        "width": 320.0,
+        "height": 60.0
+      },
+      "style": {
+        "borderColor": "#ffdd33"
+      },
+      "visualKind": "card",
+      "title": "",
+      "body": ""
+    },
+    {
+      "id": "n-24",
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "size": {
+        "width": 320.0,
+        "height": 60.0
+      },
+      "style": {
+        "borderColor": "#8fd14f"
+      },
+      "visualKind": "card",
+      "title": "",
+      "body": ""
+    },
+    {
+      "id": "n-25",
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "size": {
+        "width": 320.0,
+        "height": 60.0
+      },
+      "style": {
+        "borderColor": "#2d9bf0"
+      },
+      "visualKind": "card",
+      "title": "",
+      "body": ""
+    },
+    {
+      "id": "n-26",
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "size": {
+        "width": 320.0,
+        "height": 60.0
+      },
+      "style": {
+        "borderColor": "#f24726"
+      },
+      "visualKind": "card",
+      "title": "",
+      "body": ""
+    },
+    {
+      "id": "n-27",
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "size": {
+        "width": 320.0,
+        "height": 60.0
+      },
+      "style": {
+        "borderColor": "#652cb3"
+      },
+      "visualKind": "card",
+      "title": "",
+      "body": ""
+    },
+    {
+      "id": "n-28",
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "size": {
+        "width": 320.0,
+        "height": 60.0
+      },
+      "style": {
+        "borderColor": "#652cb3"
+      },
+      "visualKind": "card",
+      "title": "",
+      "body": ""
+    },
+    {
+      "id": "n-29",
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "size": {
+        "width": 320.0,
+        "height": 60.0
+      },
+      "style": {
+        "borderColor": "#ffdd33"
+      },
+      "visualKind": "card",
+      "title": "",
+      "body": ""
+    },
+    {
+      "id": "n-30",
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "size": {
+        "width": 320.0,
+        "height": 60.0
+      },
+      "style": {
+        "borderColor": "#ffdd33"
+      },
+      "visualKind": "card",
+      "title": "",
+      "body": ""
+    },
+    {
+      "id": "n-31",
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "size": {
+        "width": 320.0,
+        "height": 60.0
+      },
+      "style": {
+        "borderColor": "#8fd14f"
+      },
+      "visualKind": "card",
+      "title": "",
+      "body": ""
+    },
+    {
+      "id": "n-32",
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "size": {
+        "width": 320.0,
+        "height": 60.0
+      },
+      "style": {
+        "borderColor": "#8fd14f"
+      },
+      "visualKind": "card",
+      "title": "",
+      "body": ""
+    },
+    {
+      "id": "n-33",
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "size": {
+        "width": 320.0,
+        "height": 60.0
+      },
+      "style": {
+        "borderColor": "#2d9bf0"
+      },
+      "visualKind": "card",
+      "title": "",
+      "body": ""
+    },
+    {
+      "id": "n-34",
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "size": {
+        "width": 320.0,
+        "height": 60.0
+      },
+      "style": {
+        "borderColor": "#2d9bf0"
+      },
+      "visualKind": "card",
+      "title": "",
+      "body": ""
+    },
+    {
+      "id": "n-35",
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "size": {
+        "width": 320.0,
+        "height": 60.0
+      },
+      "style": {
+        "borderColor": "#f24726"
+      },
+      "visualKind": "card",
+      "title": "",
+      "body": ""
+    },
+    {
+      "id": "n-36",
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "size": {
+        "width": 320.0,
+        "height": 60.0
+      },
+      "style": {
+        "borderColor": "#f24726"
+      },
+      "visualKind": "card",
+      "title": "",
+      "body": ""
+    },
+    {
+      "id": "n-37",
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "size": {
+        "width": 320.0,
+        "height": 60.0
+      },
+      "style": {
+        "borderColor": "#f24726"
+      },
+      "visualKind": "card",
+      "title": "",
+      "body": ""
+    },
+    {
+      "id": "n-38",
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "size": {
+        "width": 320.0,
+        "height": 60.0
+      },
+      "style": {
+        "borderColor": "#f24726"
+      },
+      "visualKind": "card",
+      "title": "",
+      "body": ""
+    },
+    {
+      "id": "n-39",
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "size": {
+        "width": 320.0,
+        "height": 60.0
+      },
+      "style": {
+        "borderColor": "#2d9bf0"
+      },
+      "visualKind": "card",
+      "title": "",
+      "body": ""
+    },
+    {
+      "id": "n-40",
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "size": {
+        "width": 320.0,
+        "height": 60.0
+      },
+      "style": {
+        "borderColor": "#2d9bf0"
+      },
+      "visualKind": "card",
+      "title": "",
+      "body": ""
+    },
+    {
+      "id": "n-41",
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "size": {
+        "width": 320.0,
+        "height": 60.0
+      },
+      "style": {
+        "borderColor": "#8fd14f"
+      },
+      "visualKind": "card",
+      "title": "",
+      "body": ""
+    },
+    {
+      "id": "n-42",
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "size": {
+        "width": 320.0,
+        "height": 60.0
+      },
+      "style": {
+        "borderColor": "#8fd14f"
+      },
+      "visualKind": "card",
+      "title": "",
+      "body": ""
+    },
+    {
+      "id": "n-43",
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "size": {
+        "width": 320.0,
+        "height": 60.0
+      },
+      "style": {
+        "borderColor": "#ffdd33"
+      },
+      "visualKind": "card",
+      "title": "",
+      "body": ""
+    },
+    {
+      "id": "n-44",
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "size": {
+        "width": 320.0,
+        "height": 60.0
+      },
+      "style": {
+        "borderColor": "#ffdd33"
+      },
+      "visualKind": "card",
+      "title": "",
+      "body": ""
+    },
+    {
+      "id": "n-45",
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "size": {
+        "width": 320.0,
+        "height": 60.0
+      },
+      "style": {
+        "borderColor": "#652cb3"
+      },
+      "visualKind": "card",
+      "title": "",
+      "body": ""
+    },
+    {
+      "id": "n-46",
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "size": {
+        "width": 320.0,
+        "height": 60.0
+      },
+      "style": {
+        "borderColor": "#652cb3"
+      },
+      "visualKind": "card",
+      "title": "",
+      "body": ""
+    },
+    {
+      "id": "n-47",
+      "position": {
+        "x": 67.4464937795783,
+        "y": 77.03188521279105
+      },
+      "size": {
+        "width": 95.56398482208118,
+        "height": 119.58881378775126
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "frameId": "f-0",
+      "visualKind": "shape",
+      "title": "[widgets_stack]"
+    },
+    {
+      "id": "n-48",
+      "position": {
+        "x": 79.86523482814856,
+        "y": 118.16516044330889
+      },
+      "size": {
+        "width": 222.99678844073642,
+        "height": 255.49380786174825
+      },
+      "style": {
+        "fillColor": "dark_blue",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": ""
+    },
+    {
+      "id": "n-49",
+      "position": {
+        "x": 67.44649377957649,
+        "y": 77.03188521279048
+      },
+      "size": {
+        "width": 95.56398482208031,
+        "height": 119.58881378775017
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "frameId": "f-1",
+      "visualKind": "shape",
+      "title": "[widgets_stack]"
+    },
+    {
+      "id": "n-50",
+      "position": {
+        "x": 79.86523482815161,
+        "y": 118.16516044330884
+      },
+      "size": {
+        "width": 222.99678844073438,
+        "height": 255.49380786174592
+      },
+      "style": {
+        "fillColor": "yellow",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": ""
+    },
+    {
+      "id": "n-51",
+      "position": {
+        "x": 3518.408488818634,
+        "y": -933.2824305708805
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[dot_voting]"
+    },
+    {
+      "id": "n-52",
+      "position": {
+        "x": 142.79413860358875,
+        "y": 193.76857142858472
+      },
+      "size": {
+        "width": 255.30801217142857
+      },
+      "style": {
+        "fontSize": 16,
+        "textColor": "#9a9994",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "frameId": "f-4",
+      "visualKind": "text",
+      "title": "<p>Set up by importing your cards and duplicating the individual team activities on the right for each team. Then bring the team&#39;s epics into the ART board and map cross-team dependencies with the dependencies app (works with Jira cards).</p>"
+    },
+    {
+      "id": "n-53",
+      "position": {
+        "x": 38.17442380190562,
+        "y": 50.068582570785395
+      },
+      "size": {
+        "width": 46.06858257078507,
+        "height": 46.06858257078507
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ7gRwRE%3D/resources/images/3458764517264347507?format=preview&redirect=false"
+        }
+      },
+      "frameId": "f-4",
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-54",
+      "position": {
+        "x": -4393.768346257479,
+        "y": -352.1395734280213
+      },
+      "size": {
+        "width": 87.14285714285714
+      },
+      "style": {
+        "fontSize": 10,
+        "textColor": "#1a1a1a",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong>For this template</strong></p>"
+    },
+    {
+      "id": "n-55",
+      "position": {
+        "x": -4296.711833106965,
+        "y": -305.64926907623703
+      },
+      "size": {
+        "width": 318.8308746918035,
+        "height": 67.28573654210139
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[action_button]"
+    },
+    {
+      "id": "n-56",
+      "position": {
+        "x": 143.22005953739756,
+        "y": 66.03297640407281
+      },
+      "size": {
+        "width": 254.41985252571425
+      },
+      "style": {
+        "fontSize": 32,
+        "textColor": "#1a1a1a",
+        "fontFamily": "roobert",
+        "align": "left"
+      },
+      "frameId": "f-5",
+      "visualKind": "text",
+      "title": "<p><strong>PI Planning</strong></p>"
+    },
+    {
+      "id": "n-57",
+      "position": {
+        "x": 142.60893798408108,
+        "y": 137.53458359972166
+      },
+      "size": {
+        "width": 249.9068553142857
+      },
+      "style": {
+        "fontSize": 16,
+        "textColor": "#9a9994",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "frameId": "f-5",
+      "visualKind": "text",
+      "title": "<p><span style=\"color:rgb(154,153,148)\">Identify priorities &amp; owners, pinpoint dependencies, &amp; chart the direction fo&#xfeff;r your business</span></p>"
+    },
+    {
+      "id": "n-58",
+      "position": {
+        "x": -4296.711833106965,
+        "y": -251.18221506357258
+      },
+      "size": {
+        "width": 318.83087469179947,
+        "height": 67.28573654210054
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[action_button]"
+    },
+    {
+      "id": "n-59",
+      "position": {
+        "x": 2887.1328762563635,
+        "y": -933.2824305708803
+      },
+      "size": {
+        "width": 515.8066480104706,
+        "height": 727.2873736947635
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "<h1></h1><p></p>"
+    },
+    {
+      "id": "n-60",
+      "position": {
+        "x": 2890.6719703905974,
+        "y": 150.71854912800086
+      },
+      "size": {
+        "width": 515.8066480104706,
+        "height": 727.2873736947635
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "<h1></h1><p></p>"
+    },
+    {
+      "id": "n-61",
+      "position": {
+        "x": 154.98701680927186,
+        "y": 109.09430920347154
+      },
+      "size": {
+        "width": 254.86281984409226
+      },
+      "style": {
+        "fontSize": 20,
+        "textColor": "#1a1a1a",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-6",
+      "visualKind": "text",
+      "title": "<p><strong>Define Product Increment Scope</strong></p>"
+    },
+    {
+      "id": "n-62",
+      "position": {
+        "x": 154.98701680927186,
+        "y": 288.4755640875903
+      },
+      "size": {
+        "width": 254.8628198367113
+      },
+      "style": {
+        "fontSize": 15,
+        "textColor": "#595959",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "frameId": "f-6",
+      "visualKind": "text",
+      "title": "<p>Clarify priorities, intended outcomes, and owners to set a common context for planning.</p><p><br /></p><p>Align on estimation approach (e.g., story points) and iteration cadence for the PI.</p><p><br /></p><p>Need help running this activity? Work with the         Agile Coaching Sidekick to guide your teams through the planning.</p>"
+    },
+    {
+      "id": "n-63",
+      "position": {
+        "x": 44.95189863131034,
+        "y": 44.951898631310314
+      },
+      "size": {
+        "width": 34.79258348376836,
+        "height": 34.79258348376914
+      },
+      "style": {
+        "fillColor": "#1c1c1e",
+        "borderColor": "#ffffff",
+        "textColor": "#ffffff",
+        "fontSize": 15,
+        "fontFamily": "unknown",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "circle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-6",
+      "visualKind": "shape",
+      "title": "<p><strong>1</strong></p>"
+    },
+    {
+      "id": "n-64",
+      "position": {
+        "x": 145.14446356106853,
+        "y": 366.36706586944
+      },
+      "size": {
+        "width": 29.54018768270323,
+        "height": 29.54018768270323
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ7gRwRE%3D/resources/images/3458764517264347508?format=preview&redirect=false"
+        }
+      },
+      "frameId": "f-6",
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-65",
+      "position": {
+        "x": 154.98701680927186,
+        "y": 109.09430920347154
+      },
+      "size": {
+        "width": 254.86281984409226
+      },
+      "style": {
+        "fontSize": 20,
+        "textColor": "#1a1a1a",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-7",
+      "visualKind": "text",
+      "title": "<p><strong>Iteration Breakdown by team</strong></p>"
+    },
+    {
+      "id": "n-66",
+      "position": {
+        "x": 154.98701680927186,
+        "y": 288.4755640875901
+      },
+      "size": {
+        "width": 254.8628198367113
+      },
+      "style": {
+        "fontSize": 15,
+        "textColor": "#595959",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "frameId": "f-7",
+      "visualKind": "text",
+      "title": "<p>Each team pulls relevant features/epics into its area and decomposes them into iteration-level work.</p><p><br /></p><p>Sequence work across iterations, estimate, and identify required capacities and milestones.</p><p><br /></p><p>Capture team-level risks, assumptions, and questions as you plan.</p>"
+    },
+    {
+      "id": "n-67",
+      "position": {
+        "x": 44.95189863131034,
+        "y": 44.951898631310314
+      },
+      "size": {
+        "width": 34.79258348376836,
+        "height": 34.79258348376914
+      },
+      "style": {
+        "fillColor": "#1c1c1e",
+        "borderColor": "#ffffff",
+        "textColor": "#ffffff",
+        "fontSize": 15,
+        "fontFamily": "unknown",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "circle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-7",
+      "visualKind": "shape",
+      "title": "<p><strong>2</strong></p>"
+    },
+    {
+      "id": "n-68",
+      "position": {
+        "x": 154.98701680927186,
+        "y": 109.09430920347148
+      },
+      "size": {
+        "width": 254.86281984409226
+      },
+      "style": {
+        "fontSize": 20,
+        "textColor": "#1a1a1a",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-8",
+      "visualKind": "text",
+      "title": "<p><strong>Agile Release Train Review</strong></p>"
+    },
+    {
+      "id": "n-69",
+      "position": {
+        "x": 154.98701680927186,
+        "y": 244.1897673010124
+      },
+      "size": {
+        "width": 254.8628198367113
+      },
+      "style": {
+        "fontSize": 15,
+        "textColor": "#595959",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "frameId": "f-8",
+      "visualKind": "text",
+      "title": "<p>Conduct a whole-ART review: walk through the consolidated plan, dependencies, risks, and questions.</p><p><br /></p><p>Let Miro AI help you summarise and assess risks and dependencies.</p>"
+    },
+    {
+      "id": "n-70",
+      "position": {
+        "x": 44.95189863131125,
+        "y": 44.95189863131026
+      },
+      "size": {
+        "width": 34.79258348376836,
+        "height": 34.79258348376914
+      },
+      "style": {
+        "fillColor": "#1c1c1e",
+        "borderColor": "#ffffff",
+        "textColor": "#ffffff",
+        "fontSize": 15,
+        "fontFamily": "unknown",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "circle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-8",
+      "visualKind": "shape",
+      "title": "<p><strong>3</strong></p>"
+    },
+    {
+      "id": "n-71",
+      "position": {
+        "x": 67.4464937795783,
+        "y": 77.03188521279128
+      },
+      "size": {
+        "width": 95.56398482208118,
+        "height": 119.58881378775126
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "frameId": "f-2",
+      "visualKind": "shape",
+      "title": "[widgets_stack]"
+    },
+    {
+      "id": "n-72",
+      "position": {
+        "x": 79.86523482814856,
+        "y": 118.16516044330889
+      },
+      "size": {
+        "width": 222.99678844073642,
+        "height": 255.49380786174825
+      },
+      "style": {
+        "fillColor": "dark_blue",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": ""
+    },
+    {
+      "id": "n-73",
+      "position": {
+        "x": 67.44649377957649,
+        "y": 77.0318852127906
+      },
+      "size": {
+        "width": 95.56398482208031,
+        "height": 119.58881378775017
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "frameId": "f-3",
+      "visualKind": "shape",
+      "title": "[widgets_stack]"
+    },
+    {
+      "id": "n-74",
+      "position": {
+        "x": 79.86523482815161,
+        "y": 118.16516044330884
+      },
+      "size": {
+        "width": 222.99678844073438,
+        "height": 255.49380786174592
+      },
+      "style": {
+        "fillColor": "yellow",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": ""
+    }
+  ],
+  "edges": [],
+  "annotations": [],
+  "_metadata": {
+    "extracted_at": "2026-02-23T12:57:38.142707",
+    "total_items": 84,
+    "total_connectors": 0,
+    "frames": 9,
+    "nodes": 75,
+    "edges": 0
+  },
+  "_template": {
+    "name": "pi-planning-ai-template",
+    "category": "miroverse",
+    "source": "miroverse",
+    "source_slug": "pi-planning-template-ai",
+    "source_board_id": "uXjVJ7gRwRE=",
+    "tags": [
+      "workshops",
+      "agile workflows",
+      "meetings",
+      "project management",
+      "planning",
+      "documentation",
+      "agile",
+      "ai accelerated",
+      "prioritization",
+      "strategy & planning",
+      "product management",
+      "operations",
+      "pi planning",
+      "development"
+    ],
+    "extracted_at": "2026-02-23T12:57:38.142764"
+  }
+}

@@ -1,0 +1,5982 @@
+{
+  "frames": [
+    {
+      "id": "f-0",
+      "title": "",
+      "position": {
+        "x": -1962.2943398355155,
+        "y": -478.8466899672785
+      },
+      "size": {
+        "width": 559.9999999999999,
+        "height": 456.5714285714288
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-1",
+      "title": "",
+      "position": {
+        "x": -1342.3097523866409,
+        "y": -534.7874394964601
+      },
+      "size": {
+        "width": 359.9691748977464,
+        "height": 344.6899295130622
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-2",
+      "title": "",
+      "position": {
+        "x": -1342.3097523866409,
+        "y": -248.32076881698777
+      },
+      "size": {
+        "width": 359.9691748977464,
+        "height": 164.24341184588073
+      },
+      "style": {
+        "fillColor": "#f0f0f0"
+      }
+    }
+  ],
+  "nodes": [
+    {
+      "id": "n-0",
+      "position": {
+        "x": 280.00000000000176,
+        "y": 166.85714285714238
+      },
+      "size": {
+        "width": 432.0
+      },
+      "style": {
+        "fontSize": 48,
+        "textColor": "#1c1c1e",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-0",
+      "visualKind": "text",
+      "title": "<p><strong>Try the Design Prototype Sidekick</strong></p>"
+    },
+    {
+      "id": "n-1",
+      "position": {
+        "x": 279.99999999999994,
+        "y": 341.14285714285705
+      },
+      "size": {
+        "width": 432.0
+      },
+      "style": {
+        "fontSize": 24,
+        "textColor": "#595959",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "frameId": "f-0",
+      "visualKind": "text",
+      "title": "<p>Use the Sidekick       to transform your ideas into prototypes, using the look and feel of your product.</p>"
+    },
+    {
+      "id": "n-2",
+      "position": {
+        "x": 179.98458744887412,
+        "y": 105.54707237020637
+      },
+      "size": {
+        "width": 295.9691749028571
+      },
+      "style": {
+        "fontSize": 24,
+        "textColor": "#1a1a1a",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-1",
+      "visualKind": "text",
+      "title": "<p><strong>Try it yourself</strong></p>"
+    },
+    {
+      "id": "n-3",
+      "position": {
+        "x": 172.98458744887412,
+        "y": 222.68992951306325
+      },
+      "size": {
+        "width": 309.96917489571433
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#595959",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "frameId": "f-1",
+      "visualKind": "text",
+      "title": "<ol><li data-list=\"ordered\"><span class=\"ql-ui\"></span>Select the prototype<br />Choose a quick prompt or write your own</li><li data-list=\"ordered\"><span class=\"ql-ui\"></span>Refine and iterate with AI</li><li data-list=\"ordered\"><span class=\"ql-ui\"></span>Apply to Canvas to edit, share, and continue creating your next big idea</li></ol>"
+    },
+    {
+      "id": "n-4",
+      "position": {
+        "x": 52.20210761367562,
+        "y": 52.20210761367605
+      },
+      "size": {
+        "width": 40.404215227348686,
+        "height": 40.404215227349596
+      },
+      "style": {
+        "fillColor": "#1c1c1e",
+        "borderColor": "#ffffff",
+        "textColor": "#ffffff",
+        "fontSize": 18,
+        "fontFamily": "roobert_pro",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "circle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-1",
+      "visualKind": "shape",
+      "title": "<p><strong>1</strong></p>"
+    },
+    {
+      "id": "n-5",
+      "position": {
+        "x": 64.08165987443991,
+        "y": 52.121705922940365
+      },
+      "size": {
+        "width": 64.16331974887929,
+        "height": 40.243411845879635
+      },
+      "style": {
+        "fillColor": "#1c1c1e",
+        "borderColor": "#ffffff",
+        "textColor": "#ffffff",
+        "fontSize": 14,
+        "fontFamily": "noto_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-2",
+      "visualKind": "shape",
+      "title": "<p><strong>Tip </strong></p>"
+    },
+    {
+      "id": "n-6",
+      "position": {
+        "x": 179.9845874488732,
+        "y": 112.2434118458806
+      },
+      "size": {
+        "width": 295.9691749
+      },
+      "style": {
+        "fontSize": 14,
+        "textColor": "#222428",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "frameId": "f-2",
+      "visualKind": "text",
+      "title": "<p><em style=\"background-color:rgb(222,218,255);color:rgb(34,36,40)\">The more details you add to your prompt, the better your results will be.</em></p>"
+    },
+    {
+      "id": "n-7",
+      "position": {
+        "x": -1130.3251649377676,
+        "y": -707.1324042529923
+      },
+      "size": {
+        "width": 2930.3460672732826,
+        "height": 1363.7257460059852
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "Prototype"
+    },
+    {
+      "id": "n-8",
+      "position": {
+        "x": 286.8460672732824,
+        "y": 489.97574600598125
+      },
+      "size": {
+        "width": 375.0,
+        "height": 694.5
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "Welcome Screen"
+    },
+    {
+      "id": "n-9",
+      "position": {
+        "x": 187.5,
+        "y": 212.79348719945034
+      },
+      "size": {
+        "width": 375.0,
+        "height": 425.58697439889744
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ83pseA%3D/resources/images/3458764517258529801?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-10",
+      "position": {
+        "x": 102.6710714285714,
+        "y": 472.4492883187823
+      },
+      "size": {
+        "width": 34.0,
+        "height": 34.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mockup]"
+    },
+    {
+      "id": "n-11",
+      "position": {
+        "x": 210.6710714285714,
+        "y": 473.73500260449606
+      },
+      "size": {
+        "width": 157.31571427714286
+      },
+      "style": {
+        "fontSize": 36,
+        "textColor": "#333333",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong style=\"color:rgb(51,51,51)\">Homely</strong></p>"
+    },
+    {
+      "id": "n-12",
+      "position": {
+        "x": 187.5,
+        "y": 543.0207168902116
+      },
+      "size": {
+        "width": 311.0000000014286
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#333333",
+        "fontFamily": "roboto",
+        "align": "center"
+      },
+      "visualKind": "text",
+      "title": "<p><span>Transform your space with premium interior design solutions</span></p>"
+    },
+    {
+      "id": "n-13",
+      "position": {
+        "x": 762.8460672732824,
+        "y": 671.2257460059831
+      },
+      "size": {
+        "width": 375.0,
+        "height": 1053.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "Home Screen"
+    },
+    {
+      "id": "n-14",
+      "position": {
+        "x": 187.5,
+        "y": 619.1221402526471
+      },
+      "size": {
+        "width": 311.0,
+        "height": 52.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[input_button]"
+    },
+    {
+      "id": "n-15",
+      "position": {
+        "x": 187.5,
+        "y": 31.5
+      },
+      "size": {
+        "width": 375.0,
+        "height": 64.0
+      },
+      "style": {
+        "fillColor": "#f9f7f3",
+        "borderColor": "#e5e7eb",
+        "textColor": "#1a1a1a",
+        "fontSize": 28,
+        "fontFamily": "noto_sans",
+        "borderWidth": 0,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-16",
+      "position": {
+        "x": 29.5,
+        "y": 31.5
+      },
+      "size": {
+        "width": 27.0,
+        "height": 27.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mockup]"
+    },
+    {
+      "id": "n-17",
+      "position": {
+        "x": 127.42142857142858,
+        "y": 31.5
+      },
+      "size": {
+        "width": 152.85714285714286
+      },
+      "style": {
+        "fontSize": 20,
+        "textColor": "#333333",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong style=\"color:rgb(51,51,51)\">Homely</strong></p>"
+    },
+    {
+      "id": "n-18",
+      "position": {
+        "x": 309.5,
+        "y": 31.5
+      },
+      "size": {
+        "width": 20.0,
+        "height": 20.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mockup]"
+    },
+    {
+      "id": "n-19",
+      "position": {
+        "x": 347.5,
+        "y": 31.5
+      },
+      "size": {
+        "width": 23.0,
+        "height": 23.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mockup]"
+    },
+    {
+      "id": "n-20",
+      "position": {
+        "x": 187.5,
+        "y": 169.5
+      },
+      "size": {
+        "width": 343.0,
+        "height": 180.0
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ83pseA%3D/resources/images/3458764517258529802?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-21",
+      "position": {
+        "x": 170.5,
+        "y": 239.5
+      },
+      "size": {
+        "width": 8.0,
+        "height": 8.0
+      },
+      "style": {
+        "fillColor": "#1a5f7a",
+        "borderColor": "#e5e7eb",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "noto_sans",
+        "borderWidth": 0,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-22",
+      "position": {
+        "x": 186.5,
+        "y": 239.5
+      },
+      "size": {
+        "width": 8.0,
+        "height": 8.0
+      },
+      "style": {
+        "fillColor": "#d57149",
+        "borderColor": "#e5e7eb",
+        "textColor": "#1a1a1a",
+        "fontSize": 28,
+        "fontFamily": "noto_sans",
+        "borderWidth": 0,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 0.5
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-23",
+      "position": {
+        "x": 202.5,
+        "y": 239.5
+      },
+      "size": {
+        "width": 8.0,
+        "height": 8.0
+      },
+      "style": {
+        "fillColor": "#d57149",
+        "borderColor": "#e5e7eb",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "noto_sans",
+        "borderWidth": 0,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 0.5
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-24",
+      "position": {
+        "x": 198.5,
+        "y": 293.5
+      },
+      "size": {
+        "width": 365.05
+      },
+      "style": {
+        "fontSize": 20,
+        "textColor": "#333333",
+        "fontFamily": "georgia",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><span>Categories</span></p>"
+    },
+    {
+      "id": "n-25",
+      "position": {
+        "x": 97.5,
+        "y": 365.5
+      },
+      "size": {
+        "width": 60.0,
+        "height": 60.0
+      },
+      "style": {
+        "fillColor": "#e1f2f9",
+        "borderColor": "#e5e7eb",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "noto_sans",
+        "borderWidth": 0,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-26",
+      "position": {
+        "x": 97.5,
+        "y": 365.5
+      },
+      "size": {
+        "width": 30.0,
+        "height": 30.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mockup]"
+    },
+    {
+      "id": "n-27",
+      "position": {
+        "x": 100.5,
+        "y": 417.5
+      },
+      "size": {
+        "width": 108.95928571285715
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#333333",
+        "fontFamily": "georgia",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><span>Living Room</span></p>"
+    },
+    {
+      "id": "n-28",
+      "position": {
+        "x": 275.5,
+        "y": 365.5
+      },
+      "size": {
+        "width": 60.0,
+        "height": 60.0
+      },
+      "style": {
+        "fillColor": "#e1f2f9",
+        "borderColor": "#e5e7eb",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "noto_sans",
+        "borderWidth": 0,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-29",
+      "position": {
+        "x": 275.5,
+        "y": 365.5
+      },
+      "size": {
+        "width": 30.0,
+        "height": 30.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mockup]"
+    },
+    {
+      "id": "n-30",
+      "position": {
+        "x": 277.5,
+        "y": 417.5
+      },
+      "size": {
+        "width": 78.28142857714286
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#333333",
+        "fontFamily": "georgia",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><span>Bedroom</span></p>"
+    },
+    {
+      "id": "n-31",
+      "position": {
+        "x": 97.5,
+        "y": 505.5
+      },
+      "size": {
+        "width": 60.0,
+        "height": 60.0
+      },
+      "style": {
+        "fillColor": "#e1f2f9",
+        "borderColor": "#e5e7eb",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "noto_sans",
+        "borderWidth": 0,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-32",
+      "position": {
+        "x": 98.5,
+        "y": 505.5
+      },
+      "size": {
+        "width": 20.0,
+        "height": 20.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mockup]"
+    },
+    {
+      "id": "n-33",
+      "position": {
+        "x": 99.5,
+        "y": 557.5
+      },
+      "size": {
+        "width": 65.58714285428572
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#333333",
+        "fontFamily": "georgia",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><span>Kitchen</span></p>"
+    },
+    {
+      "id": "n-34",
+      "position": {
+        "x": 275.5,
+        "y": 505.5
+      },
+      "size": {
+        "width": 60.0,
+        "height": 60.0
+      },
+      "style": {
+        "fillColor": "#e1f2f9",
+        "borderColor": "#e5e7eb",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "noto_sans",
+        "borderWidth": 0,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-35",
+      "position": {
+        "x": 275.5,
+        "y": 505.5
+      },
+      "size": {
+        "width": 24.0,
+        "height": 24.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mockup]"
+    },
+    {
+      "id": "n-36",
+      "position": {
+        "x": 278.5,
+        "y": 557.5
+      },
+      "size": {
+        "width": 85.68642857142858
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#333333",
+        "fontFamily": "georgia",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><span>Bathroom</span></p>"
+    },
+    {
+      "id": "n-37",
+      "position": {
+        "x": 198.5,
+        "y": 629.5
+      },
+      "size": {
+        "width": 365.05
+      },
+      "style": {
+        "fontSize": 20,
+        "textColor": "#333333",
+        "fontFamily": "georgia",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><span>New Arrivals</span></p>"
+    },
+    {
+      "id": "n-38",
+      "position": {
+        "x": 90.5,
+        "y": 727.5
+      },
+      "size": {
+        "width": 126.0,
+        "height": 120.0
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ83pseA%3D/resources/images/3458764517258529803?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-39",
+      "position": {
+        "x": 90.5,
+        "y": 815.5
+      },
+      "size": {
+        "width": 126.0
+      },
+      "style": {
+        "fontSize": 14,
+        "textColor": "#333333",
+        "fontFamily": "georgia",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><span>Walnut Dining Table</span></p>"
+    },
+    {
+      "id": "n-40",
+      "position": {
+        "x": 93.5,
+        "y": 843.5
+      },
+      "size": {
+        "width": 131.67
+      },
+      "style": {
+        "fontSize": 12,
+        "textColor": "#333333",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><span>Modern design</span></p>"
+    },
+    {
+      "id": "n-41",
+      "position": {
+        "x": 93.5,
+        "y": 865.5
+      },
+      "size": {
+        "width": 131.67
+      },
+      "style": {
+        "fontSize": 14,
+        "textColor": "#333333",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong style=\"color:rgb(51,51,51)\">$899</strong></p>"
+    },
+    {
+      "id": "n-42",
+      "position": {
+        "x": 256.5,
+        "y": 727.5
+      },
+      "size": {
+        "width": 126.0,
+        "height": 120.0
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ83pseA%3D/resources/images/3458764517258529804?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-43",
+      "position": {
+        "x": 259.5,
+        "y": 805.5
+      },
+      "size": {
+        "width": 131.67
+      },
+      "style": {
+        "fontSize": 14,
+        "textColor": "#333333",
+        "fontFamily": "georgia",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><span>Brass Floor Lamp</span></p>"
+    },
+    {
+      "id": "n-44",
+      "position": {
+        "x": 259.5,
+        "y": 823.5
+      },
+      "size": {
+        "width": 131.67
+      },
+      "style": {
+        "fontSize": 12,
+        "textColor": "#333333",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><span>Adjustable height</span></p>"
+    },
+    {
+      "id": "n-45",
+      "position": {
+        "x": 259.5,
+        "y": 845.5
+      },
+      "size": {
+        "width": 131.67
+      },
+      "style": {
+        "fontSize": 14,
+        "textColor": "#333333",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong style=\"color:rgb(51,51,51)\">$249</strong></p>"
+    },
+    {
+      "id": "n-46",
+      "position": {
+        "x": 422.5,
+        "y": 727.5
+      },
+      "size": {
+        "width": 126.0,
+        "height": 120.0
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ83pseA%3D/resources/images/3458764517258529805?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-47",
+      "position": {
+        "x": 425.5,
+        "y": 805.5
+      },
+      "size": {
+        "width": 131.67
+      },
+      "style": {
+        "fontSize": 14,
+        "textColor": "#333333",
+        "fontFamily": "georgia",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><span>Velvet Accent Chair</span></p>"
+    },
+    {
+      "id": "n-48",
+      "position": {
+        "x": 425.5,
+        "y": 823.5
+      },
+      "size": {
+        "width": 131.67
+      },
+      "style": {
+        "fontSize": 12,
+        "textColor": "#333333",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><span>Emerald green</span></p>"
+    },
+    {
+      "id": "n-49",
+      "position": {
+        "x": 425.5,
+        "y": 845.5
+      },
+      "size": {
+        "width": 131.67
+      },
+      "style": {
+        "fontSize": 14,
+        "textColor": "#333333",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong style=\"color:rgb(51,51,51)\">$449</strong></p>"
+    },
+    {
+      "id": "n-50",
+      "position": {
+        "x": 45.5,
+        "y": 1006.5
+      },
+      "size": {
+        "width": 23.0,
+        "height": 23.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mockup]"
+    },
+    {
+      "id": "n-51",
+      "position": {
+        "x": 46.5,
+        "y": 1032.5
+      },
+      "size": {
+        "width": 34.485
+      },
+      "style": {
+        "fontSize": 12,
+        "textColor": "#333333",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><span>Home</span></p>"
+    },
+    {
+      "id": "n-52",
+      "position": {
+        "x": 119.5,
+        "y": 1006.5
+      },
+      "size": {
+        "width": 20.0,
+        "height": 20.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mockup]"
+    },
+    {
+      "id": "n-53",
+      "position": {
+        "x": 120.5,
+        "y": 1032.5
+      },
+      "size": {
+        "width": 58.519999997142854
+      },
+      "style": {
+        "fontSize": 12,
+        "textColor": "#333333",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><span>Categories</span></p>"
+    },
+    {
+      "id": "n-54",
+      "position": {
+        "x": 201.5,
+        "y": 1006.5
+      },
+      "size": {
+        "width": 20.0,
+        "height": 20.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mockup]"
+    },
+    {
+      "id": "n-55",
+      "position": {
+        "x": 202.5,
+        "y": 1032.5
+      },
+      "size": {
+        "width": 52.24999999714286
+      },
+      "style": {
+        "fontSize": 12,
+        "textColor": "#333333",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><span>Favorites</span></p>"
+    },
+    {
+      "id": "n-56",
+      "position": {
+        "x": 267.5,
+        "y": 1006.5
+      },
+      "size": {
+        "width": 23.0,
+        "height": 23.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mockup]"
+    },
+    {
+      "id": "n-57",
+      "position": {
+        "x": 267.5,
+        "y": 1032.5
+      },
+      "size": {
+        "width": 24.034999997142858
+      },
+      "style": {
+        "fontSize": 12,
+        "textColor": "#333333",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><span>Cart</span></p>"
+    },
+    {
+      "id": "n-58",
+      "position": {
+        "x": 325.5,
+        "y": 1006.5
+      },
+      "size": {
+        "width": 18.0,
+        "height": 18.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mockup]"
+    },
+    {
+      "id": "n-59",
+      "position": {
+        "x": 326.5,
+        "y": 1032.5
+      },
+      "size": {
+        "width": 37.62
+      },
+      "style": {
+        "fontSize": 12,
+        "textColor": "#333333",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><span>Profile</span></p>"
+    },
+    {
+      "id": "n-60",
+      "position": {
+        "x": 1236.8460672732824,
+        "y": 704.2257460059831
+      },
+      "size": {
+        "width": 375.0,
+        "height": 1123.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "Living Room Furniture Product Listing Screen"
+    },
+    {
+      "id": "n-61",
+      "position": {
+        "x": 187.5,
+        "y": 939.5
+      },
+      "size": {
+        "width": 343.0,
+        "height": 48.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[input_button]"
+    },
+    {
+      "id": "n-62",
+      "position": {
+        "x": 187.5,
+        "y": 32.5
+      },
+      "size": {
+        "width": 375.0,
+        "height": 64.0
+      },
+      "style": {
+        "fillColor": "#f9f7f3",
+        "borderColor": "#e5e7eb",
+        "textColor": "#1a1a1a",
+        "fontSize": 28,
+        "fontFamily": "noto_sans",
+        "borderWidth": 0,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-63",
+      "position": {
+        "x": 29.5,
+        "y": 32.5
+      },
+      "size": {
+        "width": 27.0,
+        "height": 27.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mockup]"
+    },
+    {
+      "id": "n-64",
+      "position": {
+        "x": 93.5,
+        "y": 32.5
+      },
+      "size": {
+        "width": 83.01428571428572
+      },
+      "style": {
+        "fontSize": 20,
+        "textColor": "#333333",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong style=\"color:rgb(51,51,51)\">Homely</strong></p>"
+    },
+    {
+      "id": "n-65",
+      "position": {
+        "x": 310.5,
+        "y": 32.5
+      },
+      "size": {
+        "width": 20.0,
+        "height": 20.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mockup]"
+    },
+    {
+      "id": "n-66",
+      "position": {
+        "x": 347.5,
+        "y": 32.5
+      },
+      "size": {
+        "width": 23.0,
+        "height": 23.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mockup]"
+    },
+    {
+      "id": "n-67",
+      "position": {
+        "x": 187.5,
+        "y": 557.5
+      },
+      "size": {
+        "width": 375.0,
+        "height": 986.0
+      },
+      "style": {
+        "fillColor": "#e9e5d6",
+        "borderColor": "#e5e7eb",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "noto_sans",
+        "borderWidth": 0,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-68",
+      "position": {
+        "x": 143.5,
+        "y": 90.5
+      },
+      "size": {
+        "width": 253.3
+      },
+      "style": {
+        "fontSize": 20,
+        "textColor": "#333333",
+        "fontFamily": "georgia",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong style=\"color:rgb(51,51,51)\">Living Room Furniture</strong></p>"
+    },
+    {
+      "id": "n-69",
+      "position": {
+        "x": 93.5,
+        "y": 141.5
+      },
+      "size": {
+        "width": 154.0,
+        "height": 42.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[input_dropdown]"
+    },
+    {
+      "id": "n-70",
+      "position": {
+        "x": 268.5,
+        "y": 141.5
+      },
+      "size": {
+        "width": 182.0,
+        "height": 42.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[input_text]"
+    },
+    {
+      "id": "n-71",
+      "position": {
+        "x": 339.5,
+        "y": 140.5
+      },
+      "size": {
+        "width": 16.0,
+        "height": 16.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mockup]"
+    },
+    {
+      "id": "n-72",
+      "position": {
+        "x": 96.5,
+        "y": 314.5
+      },
+      "size": {
+        "width": 160.0,
+        "height": 272.0
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#e5e7eb",
+        "textColor": "#1a1a1a",
+        "fontSize": 28,
+        "fontFamily": "noto_sans",
+        "borderWidth": 0,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-73",
+      "position": {
+        "x": 96.5,
+        "y": 248.5
+      },
+      "size": {
+        "width": 160.0,
+        "height": 140.0
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ83pseA%3D/resources/images/3458764517258529806?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-74",
+      "position": {
+        "x": 167.5,
+        "y": 190.5
+      },
+      "size": {
+        "width": 8.0,
+        "height": 8.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[input_button]"
+    },
+    {
+      "id": "n-75",
+      "position": {
+        "x": 101.5,
+        "y": 340.5
+      },
+      "size": {
+        "width": 146.3
+      },
+      "style": {
+        "fontSize": 14,
+        "textColor": "#333333",
+        "fontFamily": "georgia",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong style=\"color:rgb(51,51,51)\">Modern Sectional</strong></p>"
+    },
+    {
+      "id": "n-76",
+      "position": {
+        "x": 98.5,
+        "y": 370.5
+      },
+      "size": {
+        "width": 139.99999999714285
+      },
+      "style": {
+        "fontSize": 12,
+        "textColor": "#333333",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><span>Contemporary L-shaped sofa with plush cushions</span></p>"
+    },
+    {
+      "id": "n-77",
+      "position": {
+        "x": 102.5,
+        "y": 406.5
+      },
+      "size": {
+        "width": 147.20000000000002
+      },
+      "style": {
+        "fontSize": 16,
+        "textColor": "#1a5f7a",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong style=\"color:rgb(26,95,122)\">$1,299</strong></p>"
+    },
+    {
+      "id": "n-78",
+      "position": {
+        "x": 275.5,
+        "y": 248.5
+      },
+      "size": {
+        "width": 160.0,
+        "height": 140.0
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ83pseA%3D/resources/images/3458764517258529807?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-79",
+      "position": {
+        "x": 347.5,
+        "y": 190.5
+      },
+      "size": {
+        "width": 8.0,
+        "height": 8.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[input_button]"
+    },
+    {
+      "id": "n-80",
+      "position": {
+        "x": 277.5,
+        "y": 350.5
+      },
+      "size": {
+        "width": 140.0
+      },
+      "style": {
+        "fontSize": 14,
+        "textColor": "#333333",
+        "fontFamily": "georgia",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong style=\"color:rgb(51,51,51)\">Velvet Accent Chair</strong></p>"
+    },
+    {
+      "id": "n-81",
+      "position": {
+        "x": 277.5,
+        "y": 390.5
+      },
+      "size": {
+        "width": 139.99999999714285
+      },
+      "style": {
+        "fontSize": 12,
+        "textColor": "#333333",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><span>Luxurious velvet with solid wood frame</span></p>"
+    },
+    {
+      "id": "n-82",
+      "position": {
+        "x": 281.5,
+        "y": 426.5
+      },
+      "size": {
+        "width": 147.20000000000002
+      },
+      "style": {
+        "fontSize": 16,
+        "textColor": "#1a5f7a",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong style=\"color:rgb(26,95,122)\">$449</strong></p>"
+    },
+    {
+      "id": "n-83",
+      "position": {
+        "x": 96.5,
+        "y": 592.5
+      },
+      "size": {
+        "width": 160.0,
+        "height": 252.0
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#e5e7eb",
+        "textColor": "#1a1a1a",
+        "fontSize": 28,
+        "fontFamily": "noto_sans",
+        "borderWidth": 0,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-84",
+      "position": {
+        "x": 96.5,
+        "y": 536.5
+      },
+      "size": {
+        "width": 160.0,
+        "height": 140.0
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ83pseA%3D/resources/images/3458764517258529808?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-85",
+      "position": {
+        "x": 167.5,
+        "y": 478.5
+      },
+      "size": {
+        "width": 8.0,
+        "height": 8.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[input_button]"
+    },
+    {
+      "id": "n-86",
+      "position": {
+        "x": 101.5,
+        "y": 628.5
+      },
+      "size": {
+        "width": 146.3
+      },
+      "style": {
+        "fontSize": 14,
+        "textColor": "#333333",
+        "fontFamily": "georgia",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong style=\"color:rgb(51,51,51)\">Coffee Table Set</strong></p>"
+    },
+    {
+      "id": "n-87",
+      "position": {
+        "x": 98.5,
+        "y": 658.5
+      },
+      "size": {
+        "width": 139.99999999714285
+      },
+      "style": {
+        "fontSize": 12,
+        "textColor": "#333333",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><span>Marble top with gold metal frame</span></p>"
+    },
+    {
+      "id": "n-88",
+      "position": {
+        "x": 102.5,
+        "y": 694.5
+      },
+      "size": {
+        "width": 147.20000000000002
+      },
+      "style": {
+        "fontSize": 16,
+        "textColor": "#1a5f7a",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong style=\"color:rgb(26,95,122)\">$329</strong></p>"
+    },
+    {
+      "id": "n-89",
+      "position": {
+        "x": 275.3,
+        "y": 592.5
+      },
+      "size": {
+        "width": 159.6,
+        "height": 252.0
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#e5e7eb",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "noto_sans",
+        "borderWidth": 0,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-90",
+      "position": {
+        "x": 275.5,
+        "y": 536.5
+      },
+      "size": {
+        "width": 160.0,
+        "height": 140.0
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ83pseA%3D/resources/images/3458764517258529809?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-91",
+      "position": {
+        "x": 347.5,
+        "y": 478.5
+      },
+      "size": {
+        "width": 8.0,
+        "height": 8.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[input_button]"
+    },
+    {
+      "id": "n-92",
+      "position": {
+        "x": 280.5,
+        "y": 628.5
+      },
+      "size": {
+        "width": 146.3
+      },
+      "style": {
+        "fontSize": 14,
+        "textColor": "#333333",
+        "fontFamily": "georgia",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong style=\"color:rgb(51,51,51)\">Floor Lamp</strong></p>"
+    },
+    {
+      "id": "n-93",
+      "position": {
+        "x": 277.5,
+        "y": 658.5
+      },
+      "size": {
+        "width": 139.99999999714285
+      },
+      "style": {
+        "fontSize": 12,
+        "textColor": "#333333",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><span>Brass finish with linen shade</span></p>"
+    },
+    {
+      "id": "n-94",
+      "position": {
+        "x": 281.5,
+        "y": 694.5
+      },
+      "size": {
+        "width": 147.20000000000002
+      },
+      "style": {
+        "fontSize": 16,
+        "textColor": "#1a5f7a",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong style=\"color:rgb(26,95,122)\">$189</strong></p>"
+    },
+    {
+      "id": "n-95",
+      "position": {
+        "x": 95.57500000000005,
+        "y": 860.5
+      },
+      "size": {
+        "width": 158.15000000000003,
+        "height": 252.0
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#e5e7eb",
+        "textColor": "#1a1a1a",
+        "fontSize": 28,
+        "fontFamily": "noto_sans",
+        "borderWidth": 0,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-96",
+      "position": {
+        "x": 96.5,
+        "y": 804.5
+      },
+      "size": {
+        "width": 160.0,
+        "height": 140.0
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ83pseA%3D/resources/images/3458764517258529810?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-97",
+      "position": {
+        "x": 167.5,
+        "y": 746.5
+      },
+      "size": {
+        "width": 8.0,
+        "height": 8.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[input_button]"
+    },
+    {
+      "id": "n-98",
+      "position": {
+        "x": 101.5,
+        "y": 896.5
+      },
+      "size": {
+        "width": 146.3
+      },
+      "style": {
+        "fontSize": 14,
+        "textColor": "#333333",
+        "fontFamily": "georgia",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong style=\"color:rgb(51,51,51)\">Throw Pillows</strong></p>"
+    },
+    {
+      "id": "n-99",
+      "position": {
+        "x": 98.5,
+        "y": 926.5
+      },
+      "size": {
+        "width": 139.99999999714285
+      },
+      "style": {
+        "fontSize": 12,
+        "textColor": "#333333",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><span>Set of 3 decorative cushions</span></p>"
+    },
+    {
+      "id": "n-100",
+      "position": {
+        "x": 102.5,
+        "y": 962.5
+      },
+      "size": {
+        "width": 147.20000000000002
+      },
+      "style": {
+        "fontSize": 16,
+        "textColor": "#1a5f7a",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong style=\"color:rgb(26,95,122)\">$39</strong></p>"
+    },
+    {
+      "id": "n-101",
+      "position": {
+        "x": 275.5,
+        "y": 860.5
+      },
+      "size": {
+        "width": 160.0,
+        "height": 252.0
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#e5e7eb",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "noto_sans",
+        "borderWidth": 0,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-102",
+      "position": {
+        "x": 275.5,
+        "y": 804.5
+      },
+      "size": {
+        "width": 160.0,
+        "height": 140.0
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ83pseA%3D/resources/images/3458764517258529811?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-103",
+      "position": {
+        "x": 347.5,
+        "y": 746.5
+      },
+      "size": {
+        "width": 8.0,
+        "height": 8.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[input_button]"
+    },
+    {
+      "id": "n-104",
+      "position": {
+        "x": 280.5,
+        "y": 896.5
+      },
+      "size": {
+        "width": 146.3
+      },
+      "style": {
+        "fontSize": 14,
+        "textColor": "#333333",
+        "fontFamily": "georgia",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong style=\"color:rgb(51,51,51)\">Area Rug</strong></p>"
+    },
+    {
+      "id": "n-105",
+      "position": {
+        "x": 280.5,
+        "y": 918.5
+      },
+      "size": {
+        "width": 146.29999999714286
+      },
+      "style": {
+        "fontSize": 12,
+        "textColor": "#333333",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><span>Geometric pattern, 5&#39;x7&#39;</span></p>"
+    },
+    {
+      "id": "n-106",
+      "position": {
+        "x": 281.5,
+        "y": 946.5
+      },
+      "size": {
+        "width": 147.20000000000002
+      },
+      "style": {
+        "fontSize": 16,
+        "textColor": "#1a5f7a",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong style=\"color:rgb(26,95,122)\">$259</strong></p>"
+    },
+    {
+      "id": "n-107",
+      "position": {
+        "x": 47.5,
+        "y": 1077.5
+      },
+      "size": {
+        "width": 23.0,
+        "height": 23.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mockup]"
+    },
+    {
+      "id": "n-108",
+      "position": {
+        "x": 47.5,
+        "y": 1103.5
+      },
+      "size": {
+        "width": 34.485
+      },
+      "style": {
+        "fontSize": 12,
+        "textColor": "#333333",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><span>Home</span></p>"
+    },
+    {
+      "id": "n-109",
+      "position": {
+        "x": 120.5,
+        "y": 1077.5
+      },
+      "size": {
+        "width": 20.0,
+        "height": 20.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mockup]"
+    },
+    {
+      "id": "n-110",
+      "position": {
+        "x": 121.5,
+        "y": 1103.5
+      },
+      "size": {
+        "width": 58.519999997142854
+      },
+      "style": {
+        "fontSize": 12,
+        "textColor": "#333333",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><span>Categories</span></p>"
+    },
+    {
+      "id": "n-111",
+      "position": {
+        "x": 202.5,
+        "y": 1077.5
+      },
+      "size": {
+        "width": 20.0,
+        "height": 20.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mockup]"
+    },
+    {
+      "id": "n-112",
+      "position": {
+        "x": 203.5,
+        "y": 1103.5
+      },
+      "size": {
+        "width": 52.24999999714286
+      },
+      "style": {
+        "fontSize": 12,
+        "textColor": "#333333",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><span>Favorites</span></p>"
+    },
+    {
+      "id": "n-113",
+      "position": {
+        "x": 267.5,
+        "y": 1077.5
+      },
+      "size": {
+        "width": 23.0,
+        "height": 23.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mockup]"
+    },
+    {
+      "id": "n-114",
+      "position": {
+        "x": 268.5,
+        "y": 1103.5
+      },
+      "size": {
+        "width": 24.034999997142858
+      },
+      "style": {
+        "fontSize": 12,
+        "textColor": "#333333",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><span>Cart</span></p>"
+    },
+    {
+      "id": "n-115",
+      "position": {
+        "x": 326.5,
+        "y": 1077.5
+      },
+      "size": {
+        "width": 18.0,
+        "height": 18.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mockup]"
+    },
+    {
+      "id": "n-116",
+      "position": {
+        "x": 327.5,
+        "y": 1103.5
+      },
+      "size": {
+        "width": 37.62
+      },
+      "style": {
+        "fontSize": 12,
+        "textColor": "#333333",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><span>Profile</span></p>"
+    },
+    {
+      "id": "n-117",
+      "position": {
+        "x": 1712.8460672732824,
+        "y": 700.2257460059831
+      },
+      "size": {
+        "width": 375.0,
+        "height": 1115.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "Product Detail Screen"
+    },
+    {
+      "id": "n-118",
+      "position": {
+        "x": 90.5,
+        "y": 771.5
+      },
+      "size": {
+        "width": 150.0,
+        "height": 232.0
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#e5e7eb",
+        "textColor": "#1a1a1a",
+        "fontSize": 28,
+        "fontFamily": "noto_sans",
+        "borderWidth": 0,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-119",
+      "position": {
+        "x": 256.5,
+        "y": 771.5
+      },
+      "size": {
+        "width": 150.0,
+        "height": 232.0
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#e5e7eb",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "noto_sans",
+        "borderWidth": 0,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-120",
+      "position": {
+        "x": 422.5,
+        "y": 771.5
+      },
+      "size": {
+        "width": 150.0,
+        "height": 232.0
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#e5e7eb",
+        "textColor": "#1a1a1a",
+        "fontSize": 28,
+        "fontFamily": "noto_sans",
+        "borderWidth": 0,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-121",
+      "position": {
+        "x": 275.3,
+        "y": 314.5
+      },
+      "size": {
+        "width": 159.6,
+        "height": 272.0
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#e5e7eb",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "noto_sans",
+        "borderWidth": 0,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-122",
+      "position": {
+        "x": 187.5,
+        "y": 32.5
+      },
+      "size": {
+        "width": 375.0,
+        "height": 64.0
+      },
+      "style": {
+        "fillColor": "#f9f7f3",
+        "borderColor": "#e5e7eb",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "noto_sans",
+        "borderWidth": 0,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-123",
+      "position": {
+        "x": 29.5,
+        "y": 32.5
+      },
+      "size": {
+        "width": 27.0,
+        "height": 27.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mockup]"
+    },
+    {
+      "id": "n-124",
+      "position": {
+        "x": 92.5,
+        "y": 32.5
+      },
+      "size": {
+        "width": 83.01428571428572
+      },
+      "style": {
+        "fontSize": 20,
+        "textColor": "#333333",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong style=\"color:rgb(51,51,51)\">Homely</strong></p>"
+    },
+    {
+      "id": "n-125",
+      "position": {
+        "x": 309.5,
+        "y": 32.5
+      },
+      "size": {
+        "width": 20.0,
+        "height": 20.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mockup]"
+    },
+    {
+      "id": "n-126",
+      "position": {
+        "x": 347.5,
+        "y": 32.5
+      },
+      "size": {
+        "width": 23.0,
+        "height": 23.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mockup]"
+    },
+    {
+      "id": "n-127",
+      "position": {
+        "x": 22.5,
+        "y": 82.5
+      },
+      "size": {
+        "width": 14.0,
+        "height": 14.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mockup]"
+    },
+    {
+      "id": "n-128",
+      "position": {
+        "x": 115.5,
+        "y": 84.5
+      },
+      "size": {
+        "width": 155.61142857142855
+      },
+      "style": {
+        "fontSize": 16,
+        "textColor": "#1a5f7a",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><span>Back to Living Room</span></p>"
+    },
+    {
+      "id": "n-129",
+      "position": {
+        "x": 200.5,
+        "y": 120.5
+      },
+      "size": {
+        "width": 369.4599999942857
+      },
+      "style": {
+        "fontSize": 24,
+        "textColor": "#333333",
+        "fontFamily": "georgia",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><span>Velvet Accent Chair</span></p>"
+    },
+    {
+      "id": "n-130",
+      "position": {
+        "x": 187.5,
+        "y": 273.5
+      },
+      "size": {
+        "width": 343.0,
+        "height": 250.0
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ83pseA%3D/resources/images/3458764517258529812?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-131",
+      "position": {
+        "x": 43.5,
+        "y": 428.5
+      },
+      "size": {
+        "width": 55.34285714285715
+      },
+      "style": {
+        "fontSize": 20,
+        "textColor": "#333333",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong style=\"color:rgb(51,51,51)\">$449</strong></p>"
+    },
+    {
+      "id": "n-132",
+      "position": {
+        "x": 122.5,
+        "y": 428.5
+      },
+      "size": {
+        "width": 88.825
+      },
+      "style": {
+        "fontSize": 14,
+        "textColor": "#666666",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><span>Free shipping</span></p>"
+    },
+    {
+      "id": "n-133",
+      "position": {
+        "x": 254.5,
+        "y": 428.5
+      },
+      "size": {
+        "width": 18.0,
+        "height": 18.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mockup]"
+    },
+    {
+      "id": "n-134",
+      "position": {
+        "x": 272.5,
+        "y": 428.5
+      },
+      "size": {
+        "width": 18.0,
+        "height": 18.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mockup]"
+    },
+    {
+      "id": "n-135",
+      "position": {
+        "x": 290.5,
+        "y": 428.5
+      },
+      "size": {
+        "width": 18.0,
+        "height": 18.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mockup]"
+    },
+    {
+      "id": "n-136",
+      "position": {
+        "x": 308.5,
+        "y": 428.5
+      },
+      "size": {
+        "width": 18.0,
+        "height": 18.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mockup]"
+    },
+    {
+      "id": "n-137",
+      "position": {
+        "x": 325.5,
+        "y": 428.5
+      },
+      "size": {
+        "width": 17.0,
+        "height": 17.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mockup]"
+    },
+    {
+      "id": "n-138",
+      "position": {
+        "x": 348.5,
+        "y": 428.5
+      },
+      "size": {
+        "width": 24.0
+      },
+      "style": {
+        "fontSize": 14,
+        "textColor": "#666666",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><span>4.8</span></p>"
+    },
+    {
+      "id": "n-139",
+      "position": {
+        "x": 195.5,
+        "y": 470.5
+      },
+      "size": {
+        "width": 360.64
+      },
+      "style": {
+        "fontSize": 16,
+        "textColor": "#333333",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><span>Select Color:</span></p>"
+    },
+    {
+      "id": "n-140",
+      "position": {
+        "x": 31.5,
+        "y": 510.5
+      },
+      "size": {
+        "width": 32.0,
+        "height": 32.0
+      },
+      "style": {
+        "fillColor": "#1a3a5f",
+        "borderColor": "#1a5f7a",
+        "textColor": "#1a1a1a",
+        "fontSize": 28,
+        "fontFamily": "noto_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-141",
+      "position": {
+        "x": 31.5,
+        "y": 510.5
+      },
+      "size": {
+        "width": 12.0,
+        "height": 12.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mockup]"
+    },
+    {
+      "id": "n-142",
+      "position": {
+        "x": 75.5,
+        "y": 510.5
+      },
+      "size": {
+        "width": 32.0,
+        "height": 32.0
+      },
+      "style": {
+        "fillColor": "#1a5f4c",
+        "borderColor": "#cccccc",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "noto_sans",
+        "borderWidth": 1,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-143",
+      "position": {
+        "x": 119.5,
+        "y": 510.5
+      },
+      "size": {
+        "width": 32.0,
+        "height": 32.0
+      },
+      "style": {
+        "fillColor": "#d57149",
+        "borderColor": "#cccccc",
+        "textColor": "#1a1a1a",
+        "fontSize": 28,
+        "fontFamily": "noto_sans",
+        "borderWidth": 1,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-144",
+      "position": {
+        "x": 195.5,
+        "y": 558.5
+      },
+      "size": {
+        "width": 360.64
+      },
+      "style": {
+        "fontSize": 16,
+        "textColor": "#333333",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><span>Description:</span></p>"
+    },
+    {
+      "id": "n-145",
+      "position": {
+        "x": 187.5,
+        "y": 618.5
+      },
+      "size": {
+        "width": 343.0
+      },
+      "style": {
+        "fontSize": 14,
+        "textColor": "#666666",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><span>This luxurious velvet accent chair adds elegance to any living space. Features plush cushioning, sturdy wooden legs, and premium upholstery that&#39;s both beautiful and durable.</span></p>"
+    },
+    {
+      "id": "n-146",
+      "position": {
+        "x": 187.5,
+        "y": 702.5
+      },
+      "size": {
+        "width": 343.0,
+        "height": 48.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[input_button]"
+    },
+    {
+      "id": "n-147",
+      "position": {
+        "x": 198.5,
+        "y": 764.5
+      },
+      "size": {
+        "width": 365.05
+      },
+      "style": {
+        "fontSize": 20,
+        "textColor": "#333333",
+        "fontFamily": "georgia",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><span>You might also like</span></p>"
+    },
+    {
+      "id": "n-148",
+      "position": {
+        "x": 90.5,
+        "y": 876.5
+      },
+      "size": {
+        "width": 150.0,
+        "height": 172.0
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#e5e7eb",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "noto_sans",
+        "borderWidth": 0,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-149",
+      "position": {
+        "x": 90.5,
+        "y": 852.5
+      },
+      "size": {
+        "width": 126.0,
+        "height": 100.0
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ83pseA%3D/resources/images/3458764517258529813?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-150",
+      "position": {
+        "x": 93.5,
+        "y": 920.5
+      },
+      "size": {
+        "width": 131.67
+      },
+      "style": {
+        "fontSize": 14,
+        "textColor": "#333333",
+        "fontFamily": "georgia",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><span>Matching Ottoman</span></p>"
+    },
+    {
+      "id": "n-151",
+      "position": {
+        "x": 93.5,
+        "y": 940.5
+      },
+      "size": {
+        "width": 131.67
+      },
+      "style": {
+        "fontSize": 14,
+        "textColor": "#1a5f7a",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong style=\"color:rgb(26,95,122)\">$199</strong></p>"
+    },
+    {
+      "id": "n-152",
+      "position": {
+        "x": 252.5,
+        "y": 876.5
+      },
+      "size": {
+        "width": 150.0,
+        "height": 172.0
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#e5e7eb",
+        "textColor": "#1a1a1a",
+        "fontSize": 28,
+        "fontFamily": "noto_sans",
+        "borderWidth": 0,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-153",
+      "position": {
+        "x": 252.5,
+        "y": 852.5
+      },
+      "size": {
+        "width": 126.0,
+        "height": 100.0
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ83pseA%3D/resources/images/3458764517258529814?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-154",
+      "position": {
+        "x": 255.5,
+        "y": 920.5
+      },
+      "size": {
+        "width": 131.67
+      },
+      "style": {
+        "fontSize": 14,
+        "textColor": "#333333",
+        "fontFamily": "georgia",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><span>Side Table</span></p>"
+    },
+    {
+      "id": "n-155",
+      "position": {
+        "x": 255.5,
+        "y": 940.5
+      },
+      "size": {
+        "width": 131.67
+      },
+      "style": {
+        "fontSize": 14,
+        "textColor": "#1a5f7a",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong style=\"color:rgb(26,95,122)\">$129</strong></p>"
+    },
+    {
+      "id": "n-156",
+      "position": {
+        "x": 414.5,
+        "y": 876.5
+      },
+      "size": {
+        "width": 150.0,
+        "height": 172.0
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#e5e7eb",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "noto_sans",
+        "borderWidth": 0,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-157",
+      "position": {
+        "x": 414.5,
+        "y": 852.5
+      },
+      "size": {
+        "width": 126.0,
+        "height": 100.0
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ83pseA%3D/resources/images/3458764517258529815?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-158",
+      "position": {
+        "x": 417.5,
+        "y": 920.5
+      },
+      "size": {
+        "width": 131.67
+      },
+      "style": {
+        "fontSize": 14,
+        "textColor": "#333333",
+        "fontFamily": "georgia",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><span>Throw Pillow</span></p>"
+    },
+    {
+      "id": "n-159",
+      "position": {
+        "x": 417.5,
+        "y": 940.5
+      },
+      "size": {
+        "width": 131.67
+      },
+      "style": {
+        "fontSize": 14,
+        "textColor": "#1a5f7a",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong style=\"color:rgb(26,95,122)\">$39</strong></p>"
+    },
+    {
+      "id": "n-160",
+      "position": {
+        "x": 45.5,
+        "y": 1069.5
+      },
+      "size": {
+        "width": 23.0,
+        "height": 23.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mockup]"
+    },
+    {
+      "id": "n-161",
+      "position": {
+        "x": 46.5,
+        "y": 1095.5
+      },
+      "size": {
+        "width": 34.485
+      },
+      "style": {
+        "fontSize": 12,
+        "textColor": "#333333",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><span>Home</span></p>"
+    },
+    {
+      "id": "n-162",
+      "position": {
+        "x": 119.5,
+        "y": 1069.5
+      },
+      "size": {
+        "width": 20.0,
+        "height": 20.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mockup]"
+    },
+    {
+      "id": "n-163",
+      "position": {
+        "x": 120.5,
+        "y": 1095.5
+      },
+      "size": {
+        "width": 58.519999997142854
+      },
+      "style": {
+        "fontSize": 12,
+        "textColor": "#333333",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><span>Categories</span></p>"
+    },
+    {
+      "id": "n-164",
+      "position": {
+        "x": 201.5,
+        "y": 1069.5
+      },
+      "size": {
+        "width": 20.0,
+        "height": 20.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mockup]"
+    },
+    {
+      "id": "n-165",
+      "position": {
+        "x": 202.5,
+        "y": 1095.5
+      },
+      "size": {
+        "width": 52.24999999714286
+      },
+      "style": {
+        "fontSize": 12,
+        "textColor": "#333333",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><span>Favorites</span></p>"
+    },
+    {
+      "id": "n-166",
+      "position": {
+        "x": 267.5,
+        "y": 1069.5
+      },
+      "size": {
+        "width": 23.0,
+        "height": 23.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mockup]"
+    },
+    {
+      "id": "n-167",
+      "position": {
+        "x": 267.5,
+        "y": 1095.5
+      },
+      "size": {
+        "width": 24.034999997142858
+      },
+      "style": {
+        "fontSize": 12,
+        "textColor": "#333333",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><span>Cart</span></p>"
+    },
+    {
+      "id": "n-168",
+      "position": {
+        "x": 325.5,
+        "y": 1069.5
+      },
+      "size": {
+        "width": 18.0,
+        "height": 18.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mockup]"
+    },
+    {
+      "id": "n-169",
+      "position": {
+        "x": 326.5,
+        "y": 1095.5
+      },
+      "size": {
+        "width": 37.62
+      },
+      "style": {
+        "fontSize": 12,
+        "textColor": "#333333",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><span>Profile</span></p>"
+    },
+    {
+      "id": "n-170",
+      "position": {
+        "x": 2186.8460672732826,
+        "y": 713.7257460059831
+      },
+      "size": {
+        "width": 375.0,
+        "height": 1140.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "Categories Screen"
+    },
+    {
+      "id": "n-171",
+      "position": {
+        "x": 275.5,
+        "y": 383.5
+      },
+      "size": {
+        "width": 166.0,
+        "height": 128.0
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#e5e7eb",
+        "textColor": "#1a1a1a",
+        "fontSize": 28,
+        "fontFamily": "noto_sans",
+        "borderWidth": 0,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-172",
+      "position": {
+        "x": 98.5,
+        "y": 523.5
+      },
+      "size": {
+        "width": 166.0,
+        "height": 128.0
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#e5e7eb",
+        "textColor": "#1a1a1a",
+        "fontSize": 28,
+        "fontFamily": "noto_sans",
+        "borderWidth": 0,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-173",
+      "position": {
+        "x": 275.5,
+        "y": 523.5
+      },
+      "size": {
+        "width": 166.0,
+        "height": 128.0
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#e5e7eb",
+        "textColor": "#1a1a1a",
+        "fontSize": 28,
+        "fontFamily": "noto_sans",
+        "borderWidth": 0,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-174",
+      "position": {
+        "x": 98.5,
+        "y": 383.5
+      },
+      "size": {
+        "width": 166.0,
+        "height": 128.0
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#e5e7eb",
+        "textColor": "#1a1a1a",
+        "fontSize": 28,
+        "fontFamily": "noto_sans",
+        "borderWidth": 0,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-175",
+      "position": {
+        "x": 187.5,
+        "y": 32.0
+      },
+      "size": {
+        "width": 375.0,
+        "height": 64.0
+      },
+      "style": {
+        "fillColor": "#f9f7f3",
+        "borderColor": "#e5e7eb",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "noto_sans",
+        "borderWidth": 0,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-176",
+      "position": {
+        "x": 29.5,
+        "y": 32.0
+      },
+      "size": {
+        "width": 27.0,
+        "height": 27.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mockup]"
+    },
+    {
+      "id": "n-177",
+      "position": {
+        "x": 93.5,
+        "y": 32.0
+      },
+      "size": {
+        "width": 83.01428571428572
+      },
+      "style": {
+        "fontSize": 20,
+        "textColor": "#333333",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong style=\"color:rgb(51,51,51)\">Homely</strong></p>"
+    },
+    {
+      "id": "n-178",
+      "position": {
+        "x": 310.5,
+        "y": 32.0
+      },
+      "size": {
+        "width": 20.0,
+        "height": 20.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mockup]"
+    },
+    {
+      "id": "n-179",
+      "position": {
+        "x": 347.5,
+        "y": 32.0
+      },
+      "size": {
+        "width": 23.0,
+        "height": 23.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mockup]"
+    },
+    {
+      "id": "n-180",
+      "position": {
+        "x": 201.5,
+        "y": 96.0
+      },
+      "size": {
+        "width": 369.4599999942857
+      },
+      "style": {
+        "fontSize": 24,
+        "textColor": "#333333",
+        "fontFamily": "georgia",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><span>Shop by Category</span></p>"
+    },
+    {
+      "id": "n-181",
+      "position": {
+        "x": 187.5,
+        "y": 174.0
+      },
+      "size": {
+        "width": 343.0,
+        "height": 8.0
+      },
+      "style": {
+        "fillColor": "#d4d4d4",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 28,
+        "fontFamily": "noto_sans",
+        "borderWidth": 1,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-182",
+      "position": {
+        "x": 59.5,
+        "y": 149.0
+      },
+      "size": {
+        "width": 86.0,
+        "height": 42.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[input_button]"
+    },
+    {
+      "id": "n-183",
+      "position": {
+        "x": 144.5,
+        "y": 149.0
+      },
+      "size": {
+        "width": 50.0
+      },
+      "style": {
+        "fontSize": 16,
+        "textColor": "#333333",
+        "fontFamily": "roboto",
+        "align": "center"
+      },
+      "visualKind": "text",
+      "title": "<p><strong>Decor</strong></p>"
+    },
+    {
+      "id": "n-184",
+      "position": {
+        "x": 231.5,
+        "y": 149.0
+      },
+      "size": {
+        "width": 65.0
+      },
+      "style": {
+        "fontSize": 16,
+        "textColor": "#333333",
+        "fontFamily": "roboto",
+        "align": "center"
+      },
+      "visualKind": "text",
+      "title": "<p><strong>Kitchen</strong></p>"
+    },
+    {
+      "id": "n-185",
+      "position": {
+        "x": 315.5,
+        "y": 149.0
+      },
+      "size": {
+        "width": 39.0
+      },
+      "style": {
+        "fontSize": 16,
+        "textColor": "#333333",
+        "fontFamily": "roboto",
+        "align": "center"
+      },
+      "visualKind": "text",
+      "title": "<p><strong>Bath</strong></p>"
+    },
+    {
+      "id": "n-186",
+      "position": {
+        "x": 187.5,
+        "y": 208.0
+      },
+      "size": {
+        "width": 343.0,
+        "height": 42.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[input_text]"
+    },
+    {
+      "id": "n-187",
+      "position": {
+        "x": 339.5,
+        "y": 207.0
+      },
+      "size": {
+        "width": 16.0,
+        "height": 16.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mockup]"
+    },
+    {
+      "id": "n-188",
+      "position": {
+        "x": 98.5,
+        "y": 374.0
+      },
+      "size": {
+        "width": 164.0,
+        "height": 258.0
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#e5e7eb",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "noto_sans",
+        "borderWidth": 0,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-189",
+      "position": {
+        "x": 98.5,
+        "y": 332.0
+      },
+      "size": {
+        "width": 140.0,
+        "height": 150.0
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ83pseA%3D/resources/images/3458764517258529816?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-190",
+      "position": {
+        "x": 102.5,
+        "y": 427.0
+      },
+      "size": {
+        "width": 147.20000000000002
+      },
+      "style": {
+        "fontSize": 16,
+        "textColor": "#333333",
+        "fontFamily": "georgia",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><span>Dining Chairs</span></p>"
+    },
+    {
+      "id": "n-191",
+      "position": {
+        "x": 101.5,
+        "y": 453.0
+      },
+      "size": {
+        "width": 146.3
+      },
+      "style": {
+        "fontSize": 14,
+        "textColor": "#333333",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><span>Set of 2</span></p>"
+    },
+    {
+      "id": "n-192",
+      "position": {
+        "x": 102.5,
+        "y": 479.0
+      },
+      "size": {
+        "width": 147.20000000000002
+      },
+      "style": {
+        "fontSize": 16,
+        "textColor": "#333333",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong style=\"color:rgb(51,51,51)\">$249</strong></p>"
+    },
+    {
+      "id": "n-193",
+      "position": {
+        "x": 277.5,
+        "y": 374.0
+      },
+      "size": {
+        "width": 164.0,
+        "height": 258.0
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#e5e7eb",
+        "textColor": "#1a1a1a",
+        "fontSize": 28,
+        "fontFamily": "noto_sans",
+        "borderWidth": 0,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-194",
+      "position": {
+        "x": 277.5,
+        "y": 332.0
+      },
+      "size": {
+        "width": 140.0,
+        "height": 150.0
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ83pseA%3D/resources/images/3458764517258529817?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-195",
+      "position": {
+        "x": 281.5,
+        "y": 427.0
+      },
+      "size": {
+        "width": 147.20000000000002
+      },
+      "style": {
+        "fontSize": 16,
+        "textColor": "#333333",
+        "fontFamily": "georgia",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><span>Bookcase</span></p>"
+    },
+    {
+      "id": "n-196",
+      "position": {
+        "x": 280.5,
+        "y": 453.0
+      },
+      "size": {
+        "width": 146.3
+      },
+      "style": {
+        "fontSize": 14,
+        "textColor": "#333333",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><span>5-shelf</span></p>"
+    },
+    {
+      "id": "n-197",
+      "position": {
+        "x": 281.5,
+        "y": 479.0
+      },
+      "size": {
+        "width": 147.20000000000002
+      },
+      "style": {
+        "fontSize": 16,
+        "textColor": "#333333",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong style=\"color:rgb(51,51,51)\">$189</strong></p>"
+    },
+    {
+      "id": "n-198",
+      "position": {
+        "x": 98.5,
+        "y": 648.0
+      },
+      "size": {
+        "width": 164.0,
+        "height": 258.0
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#e5e7eb",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "noto_sans",
+        "borderWidth": 0,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-199",
+      "position": {
+        "x": 98.5,
+        "y": 606.0
+      },
+      "size": {
+        "width": 140.0,
+        "height": 150.0
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ83pseA%3D/resources/images/3458764517258529818?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-200",
+      "position": {
+        "x": 102.5,
+        "y": 701.0
+      },
+      "size": {
+        "width": 147.20000000000002
+      },
+      "style": {
+        "fontSize": 16,
+        "textColor": "#333333",
+        "fontFamily": "georgia",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><span>Nightstand</span></p>"
+    },
+    {
+      "id": "n-201",
+      "position": {
+        "x": 101.5,
+        "y": 727.0
+      },
+      "size": {
+        "width": 146.3
+      },
+      "style": {
+        "fontSize": 14,
+        "textColor": "#333333",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><span>Walnut finish</span></p>"
+    },
+    {
+      "id": "n-202",
+      "position": {
+        "x": 102.5,
+        "y": 753.0
+      },
+      "size": {
+        "width": 147.20000000000002
+      },
+      "style": {
+        "fontSize": 16,
+        "textColor": "#333333",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong style=\"color:rgb(51,51,51)\">$129</strong></p>"
+    },
+    {
+      "id": "n-203",
+      "position": {
+        "x": 277.5,
+        "y": 648.0
+      },
+      "size": {
+        "width": 164.0,
+        "height": 258.0
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#e5e7eb",
+        "textColor": "#1a1a1a",
+        "fontSize": 28,
+        "fontFamily": "noto_sans",
+        "borderWidth": 0,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-204",
+      "position": {
+        "x": 277.5,
+        "y": 606.0
+      },
+      "size": {
+        "width": 140.0,
+        "height": 150.0
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ83pseA%3D/resources/images/3458764517258529819?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-205",
+      "position": {
+        "x": 281.5,
+        "y": 701.0
+      },
+      "size": {
+        "width": 147.20000000000002
+      },
+      "style": {
+        "fontSize": 16,
+        "textColor": "#333333",
+        "fontFamily": "georgia",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><span>Wardrobe</span></p>"
+    },
+    {
+      "id": "n-206",
+      "position": {
+        "x": 280.5,
+        "y": 727.0
+      },
+      "size": {
+        "width": 146.3
+      },
+      "style": {
+        "fontSize": 14,
+        "textColor": "#333333",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><span>3-door</span></p>"
+    },
+    {
+      "id": "n-207",
+      "position": {
+        "x": 281.5,
+        "y": 753.0
+      },
+      "size": {
+        "width": 147.20000000000002
+      },
+      "style": {
+        "fontSize": 16,
+        "textColor": "#333333",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong style=\"color:rgb(51,51,51)\">$499</strong></p>"
+    },
+    {
+      "id": "n-208",
+      "position": {
+        "x": 98.5,
+        "y": 922.0
+      },
+      "size": {
+        "width": 164.0,
+        "height": 258.0
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#e5e7eb",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "noto_sans",
+        "borderWidth": 0,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-209",
+      "position": {
+        "x": 98.5,
+        "y": 880.0
+      },
+      "size": {
+        "width": 140.0,
+        "height": 150.0
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ83pseA%3D/resources/images/3458764517258529820?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-210",
+      "position": {
+        "x": 102.5,
+        "y": 975.0
+      },
+      "size": {
+        "width": 147.20000000000002
+      },
+      "style": {
+        "fontSize": 16,
+        "textColor": "#333333",
+        "fontFamily": "georgia",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><span>Desk Chair</span></p>"
+    },
+    {
+      "id": "n-211",
+      "position": {
+        "x": 101.5,
+        "y": 1001.0
+      },
+      "size": {
+        "width": 146.3
+      },
+      "style": {
+        "fontSize": 14,
+        "textColor": "#333333",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><span>Ergonomic</span></p>"
+    },
+    {
+      "id": "n-212",
+      "position": {
+        "x": 102.5,
+        "y": 1027.0
+      },
+      "size": {
+        "width": 147.20000000000002
+      },
+      "style": {
+        "fontSize": 16,
+        "textColor": "#333333",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong style=\"color:rgb(51,51,51)\">$179</strong></p>"
+    },
+    {
+      "id": "n-213",
+      "position": {
+        "x": 277.5,
+        "y": 922.0
+      },
+      "size": {
+        "width": 164.0,
+        "height": 258.0
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#e5e7eb",
+        "textColor": "#1a1a1a",
+        "fontSize": 28,
+        "fontFamily": "noto_sans",
+        "borderWidth": 0,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-214",
+      "position": {
+        "x": 277.5,
+        "y": 880.0
+      },
+      "size": {
+        "width": 140.0,
+        "height": 150.0
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ83pseA%3D/resources/images/3458764517258529821?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-215",
+      "position": {
+        "x": 281.5,
+        "y": 975.0
+      },
+      "size": {
+        "width": 147.20000000000002
+      },
+      "style": {
+        "fontSize": 16,
+        "textColor": "#333333",
+        "fontFamily": "georgia",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><span>TV Stand</span></p>"
+    },
+    {
+      "id": "n-216",
+      "position": {
+        "x": 280.5,
+        "y": 1001.0
+      },
+      "size": {
+        "width": 146.3
+      },
+      "style": {
+        "fontSize": 14,
+        "textColor": "#333333",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><span>60-inch</span></p>"
+    },
+    {
+      "id": "n-217",
+      "position": {
+        "x": 281.5,
+        "y": 1027.0
+      },
+      "size": {
+        "width": 147.20000000000002
+      },
+      "style": {
+        "fontSize": 16,
+        "textColor": "#333333",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong style=\"color:rgb(51,51,51)\">$229</strong></p>"
+    },
+    {
+      "id": "n-218",
+      "position": {
+        "x": 47.5,
+        "y": 1094.0
+      },
+      "size": {
+        "width": 23.0,
+        "height": 23.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mockup]"
+    },
+    {
+      "id": "n-219",
+      "position": {
+        "x": 47.5,
+        "y": 1120.0
+      },
+      "size": {
+        "width": 34.485
+      },
+      "style": {
+        "fontSize": 12,
+        "textColor": "#333333",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><span>Home</span></p>"
+    },
+    {
+      "id": "n-220",
+      "position": {
+        "x": 120.5,
+        "y": 1094.0
+      },
+      "size": {
+        "width": 20.0,
+        "height": 20.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mockup]"
+    },
+    {
+      "id": "n-221",
+      "position": {
+        "x": 121.5,
+        "y": 1120.0
+      },
+      "size": {
+        "width": 58.519999997142854
+      },
+      "style": {
+        "fontSize": 12,
+        "textColor": "#333333",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><span>Categories</span></p>"
+    },
+    {
+      "id": "n-222",
+      "position": {
+        "x": 202.5,
+        "y": 1094.0
+      },
+      "size": {
+        "width": 20.0,
+        "height": 20.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mockup]"
+    },
+    {
+      "id": "n-223",
+      "position": {
+        "x": 203.5,
+        "y": 1120.0
+      },
+      "size": {
+        "width": 52.24999999714286
+      },
+      "style": {
+        "fontSize": 12,
+        "textColor": "#333333",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><span>Favorites</span></p>"
+    },
+    {
+      "id": "n-224",
+      "position": {
+        "x": 267.5,
+        "y": 1094.0
+      },
+      "size": {
+        "width": 23.0,
+        "height": 23.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mockup]"
+    },
+    {
+      "id": "n-225",
+      "position": {
+        "x": 268.5,
+        "y": 1120.0
+      },
+      "size": {
+        "width": 24.034999997142858
+      },
+      "style": {
+        "fontSize": 12,
+        "textColor": "#333333",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><span>Cart</span></p>"
+    },
+    {
+      "id": "n-226",
+      "position": {
+        "x": 326.5,
+        "y": 1094.0
+      },
+      "size": {
+        "width": 18.0,
+        "height": 18.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mockup]"
+    },
+    {
+      "id": "n-227",
+      "position": {
+        "x": 327.5,
+        "y": 1120.0
+      },
+      "size": {
+        "width": 37.62
+      },
+      "style": {
+        "fontSize": 12,
+        "textColor": "#333333",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><span>Profile</span></p>"
+    },
+    {
+      "id": "n-228",
+      "position": {
+        "x": 2662.8460672732826,
+        "y": 649.2257460059831
+      },
+      "size": {
+        "width": 375.0,
+        "height": 1009.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "Favorites Screen"
+    },
+    {
+      "id": "n-229",
+      "position": {
+        "x": 187.5,
+        "y": 31.5
+      },
+      "size": {
+        "width": 375.0,
+        "height": 64.0
+      },
+      "style": {
+        "fillColor": "#f9f7f3",
+        "borderColor": "#e5e7eb",
+        "textColor": "#1a1a1a",
+        "fontSize": 28,
+        "fontFamily": "noto_sans",
+        "borderWidth": 0,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-230",
+      "position": {
+        "x": 29.5,
+        "y": 31.5
+      },
+      "size": {
+        "width": 27.0,
+        "height": 27.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mockup]"
+    },
+    {
+      "id": "n-231",
+      "position": {
+        "x": 92.5,
+        "y": 31.5
+      },
+      "size": {
+        "width": 83.01428571428572
+      },
+      "style": {
+        "fontSize": 20,
+        "textColor": "#333333",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong style=\"color:rgb(51,51,51)\">Homely</strong></p>"
+    },
+    {
+      "id": "n-232",
+      "position": {
+        "x": 309.5,
+        "y": 31.5
+      },
+      "size": {
+        "width": 20.0,
+        "height": 20.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mockup]"
+    },
+    {
+      "id": "n-233",
+      "position": {
+        "x": 347.5,
+        "y": 31.5
+      },
+      "size": {
+        "width": 23.0,
+        "height": 23.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mockup]"
+    },
+    {
+      "id": "n-234",
+      "position": {
+        "x": 101.5,
+        "y": 95.5
+      },
+      "size": {
+        "width": 172.34285713714286
+      },
+      "style": {
+        "fontSize": 24,
+        "textColor": "#333333",
+        "fontFamily": "georgia",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong style=\"color:rgb(51,51,51)\">My Favorites</strong></p>"
+    },
+    {
+      "id": "n-235",
+      "position": {
+        "x": 336.5,
+        "y": 95.5
+      },
+      "size": {
+        "width": 48.07
+      },
+      "style": {
+        "fontSize": 14,
+        "textColor": "#1a5f7a",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><span>6 items</span></p>"
+    },
+    {
+      "id": "n-236",
+      "position": {
+        "x": 97.5,
+        "y": 239.5
+      },
+      "size": {
+        "width": 164.0,
+        "height": 224.0
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#e5e7eb",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "noto_sans",
+        "borderWidth": 0,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-237",
+      "position": {
+        "x": 97.5,
+        "y": 199.5
+      },
+      "size": {
+        "width": 140.0,
+        "height": 120.0
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ83pseA%3D/resources/images/3458764517258529822?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-238",
+      "position": {
+        "x": 149.5,
+        "y": 161.5
+      },
+      "size": {
+        "width": 18.0,
+        "height": 18.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mockup]"
+    },
+    {
+      "id": "n-239",
+      "position": {
+        "x": 101.5,
+        "y": 279.5
+      },
+      "size": {
+        "width": 147.20000000000002
+      },
+      "style": {
+        "fontSize": 16,
+        "textColor": "#333333",
+        "fontFamily": "georgia",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><span>Velvet Accent Chair</span></p>"
+    },
+    {
+      "id": "n-240",
+      "position": {
+        "x": 100.5,
+        "y": 303.5
+      },
+      "size": {
+        "width": 146.29999999714286
+      },
+      "style": {
+        "fontSize": 12,
+        "textColor": "#666666",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><span>Elegant curved design</span></p>"
+    },
+    {
+      "id": "n-241",
+      "position": {
+        "x": 101.5,
+        "y": 327.5
+      },
+      "size": {
+        "width": 147.20000000000002
+      },
+      "style": {
+        "fontSize": 16,
+        "textColor": "#1a5f7a",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong style=\"color:rgb(26,95,122)\">$449</strong></p>"
+    },
+    {
+      "id": "n-242",
+      "position": {
+        "x": 276.5,
+        "y": 239.5
+      },
+      "size": {
+        "width": 164.0,
+        "height": 224.0
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#e5e7eb",
+        "textColor": "#1a1a1a",
+        "fontSize": 28,
+        "fontFamily": "noto_sans",
+        "borderWidth": 0,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-243",
+      "position": {
+        "x": 276.5,
+        "y": 199.5
+      },
+      "size": {
+        "width": 140.0,
+        "height": 120.0
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ83pseA%3D/resources/images/3458764517258529823?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-244",
+      "position": {
+        "x": 329.5,
+        "y": 161.5
+      },
+      "size": {
+        "width": 18.0,
+        "height": 18.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mockup]"
+    },
+    {
+      "id": "n-245",
+      "position": {
+        "x": 280.5,
+        "y": 279.5
+      },
+      "size": {
+        "width": 147.20000000000002
+      },
+      "style": {
+        "fontSize": 16,
+        "textColor": "#333333",
+        "fontFamily": "georgia",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><span>Glass Coffee Table</span></p>"
+    },
+    {
+      "id": "n-246",
+      "position": {
+        "x": 279.5,
+        "y": 303.5
+      },
+      "size": {
+        "width": 146.29999999714286
+      },
+      "style": {
+        "fontSize": 12,
+        "textColor": "#666666",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><span>Modern with storage</span></p>"
+    },
+    {
+      "id": "n-247",
+      "position": {
+        "x": 280.5,
+        "y": 327.5
+      },
+      "size": {
+        "width": 147.20000000000002
+      },
+      "style": {
+        "fontSize": 16,
+        "textColor": "#1a5f7a",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong style=\"color:rgb(26,95,122)\">$329</strong></p>"
+    },
+    {
+      "id": "n-248",
+      "position": {
+        "x": 97.5,
+        "y": 479.5
+      },
+      "size": {
+        "width": 164.0,
+        "height": 224.0
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#e5e7eb",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "noto_sans",
+        "borderWidth": 0,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-249",
+      "position": {
+        "x": 97.5,
+        "y": 439.5
+      },
+      "size": {
+        "width": 140.0,
+        "height": 120.0
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ83pseA%3D/resources/images/3458764517258529824?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-250",
+      "position": {
+        "x": 149.5,
+        "y": 401.5
+      },
+      "size": {
+        "width": 18.0,
+        "height": 18.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mockup]"
+    },
+    {
+      "id": "n-251",
+      "position": {
+        "x": 101.5,
+        "y": 519.5
+      },
+      "size": {
+        "width": 147.20000000000002
+      },
+      "style": {
+        "fontSize": 16,
+        "textColor": "#333333",
+        "fontFamily": "georgia",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><span>Brass Floor Lamp</span></p>"
+    },
+    {
+      "id": "n-252",
+      "position": {
+        "x": 100.5,
+        "y": 543.5
+      },
+      "size": {
+        "width": 146.29999999714286
+      },
+      "style": {
+        "fontSize": 12,
+        "textColor": "#666666",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><span>Adjustable height</span></p>"
+    },
+    {
+      "id": "n-253",
+      "position": {
+        "x": 101.5,
+        "y": 567.5
+      },
+      "size": {
+        "width": 147.20000000000002
+      },
+      "style": {
+        "fontSize": 16,
+        "textColor": "#1a5f7a",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong style=\"color:rgb(26,95,122)\">$189</strong></p>"
+    },
+    {
+      "id": "n-254",
+      "position": {
+        "x": 276.5,
+        "y": 479.5
+      },
+      "size": {
+        "width": 164.0,
+        "height": 224.0
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#e5e7eb",
+        "textColor": "#1a1a1a",
+        "fontSize": 28,
+        "fontFamily": "noto_sans",
+        "borderWidth": 0,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-255",
+      "position": {
+        "x": 276.5,
+        "y": 439.5
+      },
+      "size": {
+        "width": 140.0,
+        "height": 120.0
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ83pseA%3D/resources/images/3458764517258529825?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-256",
+      "position": {
+        "x": 329.5,
+        "y": 401.5
+      },
+      "size": {
+        "width": 18.0,
+        "height": 18.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mockup]"
+    },
+    {
+      "id": "n-257",
+      "position": {
+        "x": 280.5,
+        "y": 519.5
+      },
+      "size": {
+        "width": 147.20000000000002
+      },
+      "style": {
+        "fontSize": 16,
+        "textColor": "#333333",
+        "fontFamily": "georgia",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><span>Throw Pillow Set</span></p>"
+    },
+    {
+      "id": "n-258",
+      "position": {
+        "x": 279.5,
+        "y": 543.5
+      },
+      "size": {
+        "width": 146.29999999714286
+      },
+      "style": {
+        "fontSize": 12,
+        "textColor": "#666666",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><span>Set of 3, mixed patterns</span></p>"
+    },
+    {
+      "id": "n-259",
+      "position": {
+        "x": 280.5,
+        "y": 567.5
+      },
+      "size": {
+        "width": 147.20000000000002
+      },
+      "style": {
+        "fontSize": 16,
+        "textColor": "#1a5f7a",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong style=\"color:rgb(26,95,122)\">$79</strong></p>"
+    },
+    {
+      "id": "n-260",
+      "position": {
+        "x": 97.5,
+        "y": 731.5
+      },
+      "size": {
+        "width": 164.0,
+        "height": 248.0
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#e5e7eb",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "noto_sans",
+        "borderWidth": 0,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-261",
+      "position": {
+        "x": 97.5,
+        "y": 679.5
+      },
+      "size": {
+        "width": 140.0,
+        "height": 120.0
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ83pseA%3D/resources/images/3458764517258529826?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-262",
+      "position": {
+        "x": 149.5,
+        "y": 641.5
+      },
+      "size": {
+        "width": 18.0,
+        "height": 18.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mockup]"
+    },
+    {
+      "id": "n-263",
+      "position": {
+        "x": 97.5,
+        "y": 771.5
+      },
+      "size": {
+        "width": 140.0
+      },
+      "style": {
+        "fontSize": 16,
+        "textColor": "#333333",
+        "fontFamily": "georgia",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><span>Geometric Area Rug</span></p>"
+    },
+    {
+      "id": "n-264",
+      "position": {
+        "x": 100.5,
+        "y": 807.5
+      },
+      "size": {
+        "width": 146.29999999714286
+      },
+      "style": {
+        "fontSize": 12,
+        "textColor": "#666666",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><span>5&#39; x 7&#39;, wool blend</span></p>"
+    },
+    {
+      "id": "n-265",
+      "position": {
+        "x": 101.5,
+        "y": 831.5
+      },
+      "size": {
+        "width": 147.20000000000002
+      },
+      "style": {
+        "fontSize": 16,
+        "textColor": "#1a5f7a",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong style=\"color:rgb(26,95,122)\">$259</strong></p>"
+    },
+    {
+      "id": "n-266",
+      "position": {
+        "x": 276.5,
+        "y": 731.5
+      },
+      "size": {
+        "width": 164.0,
+        "height": 248.0
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#e5e7eb",
+        "textColor": "#1a1a1a",
+        "fontSize": 28,
+        "fontFamily": "noto_sans",
+        "borderWidth": 0,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-267",
+      "position": {
+        "x": 276.5,
+        "y": 679.5
+      },
+      "size": {
+        "width": 140.0,
+        "height": 120.0
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ83pseA%3D/resources/images/3458764517258529827?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-268",
+      "position": {
+        "x": 329.5,
+        "y": 641.5
+      },
+      "size": {
+        "width": 18.0,
+        "height": 18.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mockup]"
+    },
+    {
+      "id": "n-269",
+      "position": {
+        "x": 276.5,
+        "y": 771.5
+      },
+      "size": {
+        "width": 140.0
+      },
+      "style": {
+        "fontSize": 16,
+        "textColor": "#333333",
+        "fontFamily": "georgia",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><span>Ceramic Table Lamp</span></p>"
+    },
+    {
+      "id": "n-270",
+      "position": {
+        "x": 279.5,
+        "y": 807.5
+      },
+      "size": {
+        "width": 146.29999999714286
+      },
+      "style": {
+        "fontSize": 12,
+        "textColor": "#666666",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><span>Textured finish</span></p>"
+    },
+    {
+      "id": "n-271",
+      "position": {
+        "x": 280.5,
+        "y": 831.5
+      },
+      "size": {
+        "width": 147.20000000000002
+      },
+      "style": {
+        "fontSize": 16,
+        "textColor": "#1a5f7a",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong style=\"color:rgb(26,95,122)\">$135</strong></p>"
+    },
+    {
+      "id": "n-272",
+      "position": {
+        "x": 187.5,
+        "y": 899.5
+      },
+      "size": {
+        "width": 343.0,
+        "height": 40.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[input_button]"
+    },
+    {
+      "id": "n-273",
+      "position": {
+        "x": 45.5,
+        "y": 962.5
+      },
+      "size": {
+        "width": 23.0,
+        "height": 23.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mockup]"
+    },
+    {
+      "id": "n-274",
+      "position": {
+        "x": 46.5,
+        "y": 988.5
+      },
+      "size": {
+        "width": 34.485
+      },
+      "style": {
+        "fontSize": 12,
+        "textColor": "#333333",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><span>Home</span></p>"
+    },
+    {
+      "id": "n-275",
+      "position": {
+        "x": 119.5,
+        "y": 962.5
+      },
+      "size": {
+        "width": 20.0,
+        "height": 20.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mockup]"
+    },
+    {
+      "id": "n-276",
+      "position": {
+        "x": 120.5,
+        "y": 988.5
+      },
+      "size": {
+        "width": 58.519999997142854
+      },
+      "style": {
+        "fontSize": 12,
+        "textColor": "#333333",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><span>Categories</span></p>"
+    },
+    {
+      "id": "n-277",
+      "position": {
+        "x": 201.5,
+        "y": 962.5
+      },
+      "size": {
+        "width": 20.0,
+        "height": 20.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mockup]"
+    },
+    {
+      "id": "n-278",
+      "position": {
+        "x": 202.5,
+        "y": 988.5
+      },
+      "size": {
+        "width": 52.24999999714286
+      },
+      "style": {
+        "fontSize": 12,
+        "textColor": "#1a5f7a",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><span>Favorites</span></p>"
+    },
+    {
+      "id": "n-279",
+      "position": {
+        "x": 267.5,
+        "y": 962.5
+      },
+      "size": {
+        "width": 23.0,
+        "height": 23.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mockup]"
+    },
+    {
+      "id": "n-280",
+      "position": {
+        "x": 267.5,
+        "y": 988.5
+      },
+      "size": {
+        "width": 24.034999997142858
+      },
+      "style": {
+        "fontSize": 12,
+        "textColor": "#333333",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><span>Cart</span></p>"
+    },
+    {
+      "id": "n-281",
+      "position": {
+        "x": 325.5,
+        "y": 962.5
+      },
+      "size": {
+        "width": 18.0,
+        "height": 18.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mockup]"
+    },
+    {
+      "id": "n-282",
+      "position": {
+        "x": 326.5,
+        "y": 988.5
+      },
+      "size": {
+        "width": 37.62
+      },
+      "style": {
+        "fontSize": 12,
+        "textColor": "#333333",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><span>Profile</span></p>"
+    },
+    {
+      "id": "n-283",
+      "position": {
+        "x": 275.1,
+        "y": 248.5
+      },
+      "size": {
+        "width": 160.0,
+        "height": 140.0
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ83pseA%3D/resources/images/3458764517258529807?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-284",
+      "position": {
+        "x": 277.1,
+        "y": 350.5
+      },
+      "size": {
+        "width": 140.0
+      },
+      "style": {
+        "fontSize": 14,
+        "textColor": "#333333",
+        "fontFamily": "georgia",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong style=\"color:rgb(51,51,51)\">Velvet Accent Chair</strong></p>"
+    },
+    {
+      "id": "n-285",
+      "position": {
+        "x": 277.1,
+        "y": 390.5
+      },
+      "size": {
+        "width": 139.99999999714285
+      },
+      "style": {
+        "fontSize": 12,
+        "textColor": "#333333",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><span>Luxurious velvet with solid wood frame</span></p>"
+    },
+    {
+      "id": "n-286",
+      "position": {
+        "x": 281.1,
+        "y": 426.5
+      },
+      "size": {
+        "width": 147.20000000000002
+      },
+      "style": {
+        "fontSize": 16,
+        "textColor": "#1a5f7a",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong style=\"color:rgb(26,95,122)\">$449</strong></p>"
+    },
+    {
+      "id": "n-287",
+      "position": {
+        "x": 264.90984386701933,
+        "y": 309.6231945638253
+      },
+      "size": {
+        "width": 39.8178176990777,
+        "height": 39.8178176990777
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ83pseA%3D/resources/images/3458764517258529828?format=preview&redirect=false"
+        }
+      },
+      "frameId": "f-0",
+      "visualKind": "image",
+      "title": ""
+    }
+  ],
+  "edges": [],
+  "annotations": [],
+  "_metadata": {
+    "extracted_at": "2026-02-23T12:43:03.024478",
+    "total_items": 291,
+    "total_connectors": 0,
+    "frames": 3,
+    "nodes": 288,
+    "edges": 0
+  },
+  "_template": {
+    "name": "mobile-app-prototype-ai-template",
+    "category": "miroverse",
+    "source": "miroverse",
+    "source_slug": "mobile-app-prototype-template-ai",
+    "source_board_id": "uXjVJ83pseA=",
+    "tags": [
+      "research & design",
+      "prototype",
+      "ai accelerated",
+      "wireframing & prototyping",
+      "wireframe",
+      "ui"
+    ],
+    "extracted_at": "2026-02-23T12:43:03.024540"
+  }
+}

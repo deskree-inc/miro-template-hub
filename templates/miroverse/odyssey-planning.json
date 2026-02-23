@@ -1,0 +1,662 @@
+{
+  "frames": [
+    {
+      "id": "f-0",
+      "title": "Plan A",
+      "position": {
+        "x": -120.33981796629473,
+        "y": 374.83498400522905
+      },
+      "size": {
+        "width": 573.764299385575,
+        "height": 1071.6265964710049
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-1",
+      "title": "Plan B",
+      "position": {
+        "x": 519.5114528913514,
+        "y": 374.83498400522905
+      },
+      "size": {
+        "width": 573.764299385575,
+        "height": 1071.6265964710049
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-2",
+      "title": "Blue sky",
+      "position": {
+        "x": 1159.2757522769261,
+        "y": 374.8349840052291
+      },
+      "size": {
+        "width": 573.764299385575,
+        "height": 1071.6265964710049
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-3",
+      "title": "Instructions",
+      "position": {
+        "x": -764.2332231586984,
+        "y": 123.75341928365225
+      },
+      "size": {
+        "width": 565.5060877719174,
+        "height": 569.4634670278513
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    }
+  ],
+  "nodes": [
+    {
+      "id": "n-0",
+      "position": {
+        "x": 493.6188137519267,
+        "y": 97.36952795303097
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "frameId": "f-0",
+      "visualKind": "shape",
+      "title": "[widgets_stack]"
+    },
+    {
+      "id": "n-1",
+      "position": {
+        "x": 82.50000000000006,
+        "y": 114.00000000000004
+      },
+      "size": {
+        "width": 149.04462140064732,
+        "height": 170.764691856018
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": ""
+    },
+    {
+      "id": "n-2",
+      "position": {
+        "x": 194.28586246888148,
+        "y": 64.21299779133165
+      },
+      "size": {
+        "width": 332.25614843
+      },
+      "style": {
+        "fontSize": 14,
+        "textColor": "#1a1a1a",
+        "fontFamily": "roobert_pro",
+        "align": "left"
+      },
+      "frameId": "f-0",
+      "visualKind": "text",
+      "title": "<p>How do you see your current role to evolve in the next few years? What do you expect will happen if you stay on this current path?</p>"
+    },
+    {
+      "id": "n-3",
+      "position": {
+        "x": 493.6188137519267,
+        "y": 97.36952795303097
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "frameId": "f-1",
+      "visualKind": "shape",
+      "title": "[widgets_stack]"
+    },
+    {
+      "id": "n-4",
+      "position": {
+        "x": 82.50000000000006,
+        "y": 114.00000000000004
+      },
+      "size": {
+        "width": 149.04462140064732,
+        "height": 170.764691856018
+      },
+      "style": {
+        "fillColor": "light_green",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": ""
+    },
+    {
+      "id": "n-5",
+      "position": {
+        "x": 194.28586246888148,
+        "y": 54.212997791331645
+      },
+      "size": {
+        "width": 332.25614843
+      },
+      "style": {
+        "fontSize": 14,
+        "textColor": "#1a1a1a",
+        "fontFamily": "roobert_pro",
+        "align": "left"
+      },
+      "frameId": "f-1",
+      "visualKind": "text",
+      "title": "<p>What if you couldn&#39;t have that version, what would you do instead?</p>"
+    },
+    {
+      "id": "n-6",
+      "position": {
+        "x": 493.6188137519267,
+        "y": 97.36952795303097
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "frameId": "f-2",
+      "visualKind": "shape",
+      "title": "[widgets_stack]"
+    },
+    {
+      "id": "n-7",
+      "position": {
+        "x": 82.50000000000006,
+        "y": 114.00000000000004
+      },
+      "size": {
+        "width": 149.04462140064732,
+        "height": 170.764691856018
+      },
+      "style": {
+        "fillColor": "dark_blue",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": ""
+    },
+    {
+      "id": "n-8",
+      "position": {
+        "x": 194.28586246888142,
+        "y": 64.21299779133165
+      },
+      "size": {
+        "width": 332.25614843
+      },
+      "style": {
+        "fontSize": 14,
+        "textColor": "#1a1a1a",
+        "fontFamily": "roobert_pro",
+        "align": "left"
+      },
+      "frameId": "f-2",
+      "visualKind": "text",
+      "title": "<p>This is for big thinking and no borders. What would you want your career to be, regardless and Plan A and B?</p>"
+    },
+    {
+      "id": "n-9",
+      "position": {
+        "x": -407.2219676590823,
+        "y": 933.6402479610874
+      },
+      "size": {
+        "width": 573.7642822265625,
+        "height": 275.959228515625
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[dynamic_poll]"
+    },
+    {
+      "id": "n-10",
+      "position": {
+        "x": -407.2219676590823,
+        "y": 1232.5994764767124
+      },
+      "size": {
+        "width": 573.7642822265625,
+        "height": 275.959228515625
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[dynamic_poll]"
+    },
+    {
+      "id": "n-11",
+      "position": {
+        "x": -407.2219676590823,
+        "y": 1841.3889733811725
+      },
+      "size": {
+        "width": 573.7642822265625,
+        "height": 275.959228515625
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[dynamic_poll]"
+    },
+    {
+      "id": "n-12",
+      "position": {
+        "x": 232.62930717018173,
+        "y": 933.6402479610872
+      },
+      "size": {
+        "width": 573.7642822265625,
+        "height": 275.959228515625
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[dynamic_poll]"
+    },
+    {
+      "id": "n-13",
+      "position": {
+        "x": 232.62930717018173,
+        "y": 1232.5994764767122
+      },
+      "size": {
+        "width": 573.7642822265625,
+        "height": 275.959228515625
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[dynamic_poll]"
+    },
+    {
+      "id": "n-14",
+      "position": {
+        "x": 232.62930717018173,
+        "y": 1841.3889733811723
+      },
+      "size": {
+        "width": 573.7642822265625,
+        "height": 275.959228515625
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[dynamic_poll]"
+    },
+    {
+      "id": "n-15",
+      "position": {
+        "x": 872.3936025841389,
+        "y": 933.6402479610872
+      },
+      "size": {
+        "width": 573.7642822265625,
+        "height": 275.959228515625
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[dynamic_poll]"
+    },
+    {
+      "id": "n-16",
+      "position": {
+        "x": 872.3936025841389,
+        "y": 1232.5994764767122
+      },
+      "size": {
+        "width": 573.7642822265625,
+        "height": 275.959228515625
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[dynamic_poll]"
+    },
+    {
+      "id": "n-17",
+      "position": {
+        "x": 872.3936025841389,
+        "y": 1841.3889733811723
+      },
+      "size": {
+        "width": 573.7642822265625,
+        "height": 275.959228515625
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[dynamic_poll]"
+    },
+    {
+      "id": "n-18",
+      "position": {
+        "x": 67.75232829705033,
+        "y": 142.6713820615223
+      },
+      "size": {
+        "width": 68.0
+      },
+      "style": {
+        "fontSize": 14,
+        "textColor": "#1a1a1a",
+        "fontFamily": "roobert_pro",
+        "align": "left"
+      },
+      "frameId": "f-0",
+      "visualKind": "text",
+      "title": "<p>Next year:</p>"
+    },
+    {
+      "id": "n-19",
+      "position": {
+        "x": 100.14230479851517,
+        "y": 594.4507713761652
+      },
+      "size": {
+        "width": 131.0
+      },
+      "style": {
+        "fontSize": 14,
+        "textColor": "#1a1a1a",
+        "fontFamily": "roobert_pro",
+        "align": "left"
+      },
+      "frameId": "f-0",
+      "visualKind": "text",
+      "title": "<p>Two years from now:</p>"
+    },
+    {
+      "id": "n-20",
+      "position": {
+        "x": 74.49240244347777,
+        "y": 135.36689838257234
+      },
+      "size": {
+        "width": 65.0
+      },
+      "style": {
+        "fontSize": 14,
+        "textColor": "#1a1a1a",
+        "fontFamily": "roobert_pro",
+        "align": "left"
+      },
+      "frameId": "f-1",
+      "visualKind": "text",
+      "title": "<p>Next year: </p>"
+    },
+    {
+      "id": "n-21",
+      "position": {
+        "x": 107.49240244347777,
+        "y": 587.1462876972153
+      },
+      "size": {
+        "width": 131.0
+      },
+      "style": {
+        "fontSize": 14,
+        "textColor": "#1a1a1a",
+        "fontFamily": "roobert_pro",
+        "align": "left"
+      },
+      "frameId": "f-1",
+      "visualKind": "text",
+      "title": "<p>Two years from now:</p>"
+    },
+    {
+      "id": "n-22",
+      "position": {
+        "x": 80.92131586119956,
+        "y": 135.3668983825723
+      },
+      "size": {
+        "width": 65.0
+      },
+      "style": {
+        "fontSize": 14,
+        "textColor": "#1a1a1a",
+        "fontFamily": "roobert_pro",
+        "align": "left"
+      },
+      "frameId": "f-2",
+      "visualKind": "text",
+      "title": "<p>Next year: </p>"
+    },
+    {
+      "id": "n-23",
+      "position": {
+        "x": 113.92131586119956,
+        "y": 587.1462876972153
+      },
+      "size": {
+        "width": 131.0
+      },
+      "style": {
+        "fontSize": 14,
+        "textColor": "#1a1a1a",
+        "fontFamily": "roobert_pro",
+        "align": "left"
+      },
+      "frameId": "f-2",
+      "visualKind": "text",
+      "title": "<p>Two years from now:</p>"
+    },
+    {
+      "id": "n-24",
+      "position": {
+        "x": 286.88214969278744,
+        "y": 304.21299779133165
+      },
+      "size": {
+        "width": 515.69265063
+      },
+      "style": {
+        "fontSize": 14,
+        "textColor": "#1a1a1a",
+        "fontFamily": "roobert_pro",
+        "align": "left"
+      },
+      "frameId": "f-3",
+      "visualKind": "text",
+      "title": "<p>This is a career development exercise based on <a href=\"https://designingyour.life/insights/the-magic-of-odysseys-prototyping-your-future-with-designing-your-life/\">Odyssey Planning from the Designing Your Life</a> book and template that also uses Miro Flows to help you progress forward. This is adapted to a career development scope.</p><p><br /></p><p>Each frame represents a plan for your career. The first is Plan A. This is the expected path, how things will go if you stay on your current trajectory.</p><p><br /></p><p>The second is Plan B. What would happen if you had to do something different from Plan A?<br /><br />The third is the Blue Sky path. What if you could have any path you want and limitations weren&#39;t a factor?</p><p><br /></p><p>On sticky notes, write details of the plan for the most immediate time frame and a few years later. Reflect on your sticky notes to answer the questions below each frame.</p><p><br /></p><p>When you&#39;re done, run the flow to generate summaries and next questions to contemplate. You can add any context you want to this board and connect it to the flow to enhance your summary and next steps. Thought starters of what to add:</p><p><br /></p><ol><li data-list=\"bullet\"><span class=\"ql-ui\"></span>Manager and peer feedback and reviews</li><li data-list=\"bullet\"><span class=\"ql-ui\"></span>DISC or 16 Personalities assessment results</li><li data-list=\"bullet\"><span class=\"ql-ui\"></span>Career role models and examples you aspire to<br /><br /><br /></li></ol>"
+    },
+    {
+      "id": "n-25",
+      "position": {
+        "x": -407.2219676590822,
+        "y": 1531.861019335279
+      },
+      "size": {
+        "width": 573.7642822265625,
+        "height": 275.959228515625
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[dynamic_poll]"
+    },
+    {
+      "id": "n-26",
+      "position": {
+        "x": 232.62932072622476,
+        "y": 1531.5587098422413
+      },
+      "size": {
+        "width": 573.7642822265625,
+        "height": 275.959228515625
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[dynamic_poll]"
+    },
+    {
+      "id": "n-27",
+      "position": {
+        "x": 872.393602584139,
+        "y": 1531.5587098422413
+      },
+      "size": {
+        "width": 573.7642822265625,
+        "height": 275.959228515625
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[dynamic_poll]"
+    },
+    {
+      "id": "n-28",
+      "position": {
+        "x": 1735.2720369828144,
+        "y": -162.77161868485263
+      },
+      "size": {
+        "width": 784.0,
+        "height": 1105.4399999999998
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "<h1></h1>"
+    }
+  ],
+  "edges": [],
+  "annotations": [],
+  "_metadata": {
+    "extracted_at": "2026-02-23T13:02:19.574425",
+    "total_items": 33,
+    "total_connectors": 0,
+    "frames": 4,
+    "nodes": 29,
+    "edges": 0
+  },
+  "_template": {
+    "name": "odyssey-planning",
+    "category": "miroverse",
+    "source": "miroverse",
+    "source_slug": "odyssey-planning",
+    "source_board_id": "uXjVGaq7CzY=",
+    "tags": [
+      "hr & recruitment",
+      "team building",
+      "ai accelerated",
+      "marketing",
+      "ai & transformation"
+    ],
+    "extracted_at": "2026-02-23T13:02:19.574543"
+  }
+}

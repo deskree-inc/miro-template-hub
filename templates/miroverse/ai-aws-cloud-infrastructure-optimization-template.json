@@ -1,0 +1,2335 @@
+{
+  "frames": [
+    {
+      "id": "f-0",
+      "title": "",
+      "position": {
+        "x": -5889.597789964868,
+        "y": -675.6712312750005
+      },
+      "size": {
+        "width": 285.21787596816216,
+        "height": 242.60361828186518
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-1",
+      "title": "",
+      "position": {
+        "x": -5889.597789964868,
+        "y": -979.2440441478957
+      },
+      "size": {
+        "width": 285.21787596816216,
+        "height": 301.4486663322117
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-2",
+      "title": "",
+      "position": {
+        "x": -4432.866034094588,
+        "y": -1310.9683773140014
+      },
+      "size": {
+        "width": 2466.5919678157547,
+        "height": 114.28571428571396
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-3",
+      "title": "",
+      "position": {
+        "x": -1866.2740662788328,
+        "y": -1310.9683773140014
+      },
+      "size": {
+        "width": 2466.5919678157547,
+        "height": 114.28571428571396
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-4",
+      "title": "",
+      "position": {
+        "x": 700.3179015369224,
+        "y": -1310.9683773140014
+      },
+      "size": {
+        "width": 2466.5919678157547,
+        "height": 114.28571428571396
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-5",
+      "title": "",
+      "position": {
+        "x": 3266.9098693526776,
+        "y": -1310.9683773140014
+      },
+      "size": {
+        "width": 2466.5919678157547,
+        "height": 114.28571428571396
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-6",
+      "title": "",
+      "position": {
+        "x": 5048.217962236904,
+        "y": -1310.9683773140014
+      },
+      "size": {
+        "width": 880.000000000002,
+        "height": 114.28571428571396
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    }
+  ],
+  "nodes": [
+    {
+      "id": "n-0",
+      "position": {
+        "x": 142.60893798408108,
+        "y": 157.05703907985978
+      },
+      "size": {
+        "width": 255.30801217142857
+      },
+      "style": {
+        "fontSize": 16,
+        "textColor": "#9a9994",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "frameId": "f-0",
+      "visualKind": "text",
+      "title": "<p>Import your current AWS architecture, connect services with diagramming tools and generate price estimates instantly with the help of the AWS Solution Architecture Sidekick.</p>"
+    },
+    {
+      "id": "n-1",
+      "position": {
+        "x": 38.17442380190562,
+        "y": 50.06858257078463
+      },
+      "size": {
+        "width": 46.06858257078507,
+        "height": 46.06858257078507
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ7nofDk%3D/resources/images/3458764517264540948?format=preview&redirect=false"
+        }
+      },
+      "frameId": "f-0",
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-2",
+      "position": {
+        "x": 143.22005953739756,
+        "y": 102.60440497549024
+      },
+      "size": {
+        "width": 254.41985252571425
+      },
+      "style": {
+        "fontSize": 32,
+        "textColor": "#1a1a1a",
+        "fontFamily": "roobert",
+        "align": "left"
+      },
+      "frameId": "f-1",
+      "visualKind": "text",
+      "title": "<p><strong>AWS Cloud Infrastructure Optimization</strong></p>"
+    },
+    {
+      "id": "n-3",
+      "position": {
+        "x": 142.60893798408108,
+        "y": 221.86790830209537
+      },
+      "size": {
+        "width": 249.9068553142857
+      },
+      "style": {
+        "fontSize": 16,
+        "textColor": "#9a9994",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "frameId": "f-1",
+      "visualKind": "text",
+      "title": "<p><span style=\"color:rgb(154,153,148)\">Visualize your current architecture, evaluate cost impact and al&#xfeff;ign around the most effective solution.</span></p>"
+    },
+    {
+      "id": "n-4",
+      "position": {
+        "x": -5889.597789964868,
+        "y": -434.97221331742
+      },
+      "size": {
+        "width": 319.6135623598179,
+        "height": 67.45091413437716
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[action_button]"
+    },
+    {
+      "id": "n-5",
+      "position": {
+        "x": -5889.566550815911,
+        "y": -498.05539090137427
+      },
+      "size": {
+        "width": 319.55108406189976,
+        "height": 67.43772877929703
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[action_button]"
+    },
+    {
+      "id": "n-6",
+      "position": {
+        "x": -5740.0,
+        "y": 51.51257009249821
+      },
+      "size": {
+        "width": 2540.4299498132887,
+        "height": 1105.73147686436
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "Reference Architecture"
+    },
+    {
+      "id": "n-7",
+      "position": {
+        "x": 713.0238402721266,
+        "y": 67.42857142857201
+      },
+      "size": {
+        "width": 1110.1877809028572
+      },
+      "style": {
+        "fontSize": 48,
+        "textColor": "#1a1a1a",
+        "fontFamily": "roobert",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p>Automated Security Response on AWS</p>"
+    },
+    {
+      "id": "n-8",
+      "position": {
+        "x": 480.2156640990038,
+        "y": 129.14285714286189
+      },
+      "size": {
+        "width": 644.5714285714286
+      },
+      "style": {
+        "fontSize": 24,
+        "textColor": "#1a1a1a",
+        "fontFamily": "roobert",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong>For the architecture description, refer to the </strong><a href=\"https://aws.amazon.com/solutions/implementations/automated-security-response-on-aws/\"><strong>full diagram</strong></a><strong>. </strong></p>"
+    },
+    {
+      "id": "n-9",
+      "position": {
+        "x": 565.7505770960529,
+        "y": 1044.017191150076
+      },
+      "size": {
+        "width": 630.8571428571428
+      },
+      "style": {
+        "fontSize": 16,
+        "textColor": "#9a9994",
+        "fontFamily": "roobert",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p>© 2024, Amazon Web Services, Inc. or its affiliates. All rights reserved.</p>"
+    },
+    {
+      "id": "n-10",
+      "position": {
+        "x": 170.079993832504,
+        "y": 1032.0602724105297
+      },
+      "size": {
+        "width": 112.48402366994038,
+        "height": 67.34240890766168
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ7nofDk%3D/resources/images/3458764517264540949?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-11",
+      "position": {
+        "x": 961.9299498132846,
+        "y": 564.8571428571481
+      },
+      "size": {
+        "width": 1607.9999999999984,
+        "height": 696.0000000000005
+      },
+      "style": {
+        "fillColor": "#FFFFFF",
+        "borderColor": "#000000",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-12",
+      "position": {
+        "x": 880.4950213393842,
+        "y": 359.6279063626009
+      },
+      "size": {
+        "width": 1256.0350000000035,
+        "height": 575.9999999999998
+      },
+      "style": {
+        "fillColor": "#FFFFFF",
+        "borderColor": "#000000",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-13",
+      "position": {
+        "x": 155.99999999997135,
+        "y": 384.3720936373919
+      },
+      "size": {
+        "width": 48.000000000000135,
+        "height": 48.000000000000135
+      },
+      "style": {
+        "fillColor": "#2c2e33",
+        "borderColor": "#1a1a1a",
+        "textColor": "#ffffff",
+        "fontSize": 24,
+        "fontFamily": "roobert",
+        "borderWidth": 1,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "circle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": "<p><strong>2</strong></p>"
+    },
+    {
+      "id": "n-14",
+      "position": {
+        "x": 131.99999999997135,
+        "y": 160.3720936373919
+      },
+      "size": {
+        "width": 96.0,
+        "height": 96.0
+      },
+      "style": {
+        "fillColor": "#FFFFFF",
+        "borderColor": "#000000",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-15",
+      "position": {
+        "x": 323.99999999997135,
+        "y": 280.3720936373919
+      },
+      "size": {
+        "width": 96.0,
+        "height": 96.0
+      },
+      "style": {
+        "fillColor": "#FFFFFF",
+        "borderColor": "#000000",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-16",
+      "position": {
+        "x": 561.4999999999714,
+        "y": 136.3720936373919
+      },
+      "size": {
+        "width": 96.0,
+        "height": 96.0
+      },
+      "style": {
+        "fillColor": "#FFFFFF",
+        "borderColor": "#000000",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-17",
+      "position": {
+        "x": 561.4999999999714,
+        "y": 424.3720936373919
+      },
+      "size": {
+        "width": 96.0,
+        "height": 96.0
+      },
+      "style": {
+        "fillColor": "#FFFFFF",
+        "borderColor": "#000000",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-18",
+      "position": {
+        "x": 827.9999999999714,
+        "y": 280.3720936373919
+      },
+      "size": {
+        "width": 96.0,
+        "height": 96.0
+      },
+      "style": {
+        "fillColor": "#FFFFFF",
+        "borderColor": "#000000",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-19",
+      "position": {
+        "x": 995.9999999999714,
+        "y": 472.3720936373919
+      },
+      "size": {
+        "width": 96.0,
+        "height": 96.0
+      },
+      "style": {
+        "fillColor": "#FFFFFF",
+        "borderColor": "#000000",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-20",
+      "position": {
+        "x": 995.9999999999714,
+        "y": 280.3720936373919
+      },
+      "size": {
+        "width": 96.0,
+        "height": 96.0
+      },
+      "style": {
+        "fillColor": "#FFFFFF",
+        "borderColor": "#000000",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-21",
+      "position": {
+        "x": 1163.999999999971,
+        "y": 472.3720936373919
+      },
+      "size": {
+        "width": 96.0,
+        "height": 96.0
+      },
+      "style": {
+        "fillColor": "#FFFFFF",
+        "borderColor": "#000000",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-22",
+      "position": {
+        "x": 1163.999999999971,
+        "y": 280.3720936373919
+      },
+      "size": {
+        "width": 96.0,
+        "height": 96.0
+      },
+      "style": {
+        "fillColor": "#FFFFFF",
+        "borderColor": "#000000",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-23",
+      "position": {
+        "x": 995.9999999999714,
+        "y": 112.37209363739191
+      },
+      "size": {
+        "width": 96.0,
+        "height": 96.0
+      },
+      "style": {
+        "fillColor": "#FFFFFF",
+        "borderColor": "#000000",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-24",
+      "position": {
+        "x": 1163.999999999971,
+        "y": 112.37209363739191
+      },
+      "size": {
+        "width": 96.0,
+        "height": 96.0
+      },
+      "style": {
+        "fillColor": "#FFFFFF",
+        "borderColor": "#000000",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-25",
+      "position": {
+        "x": 755.9999999999714,
+        "y": 192.3720936373919
+      },
+      "size": {
+        "width": 48.000000000000135,
+        "height": 48.000000000000135
+      },
+      "style": {
+        "fillColor": "#2c2e33",
+        "borderColor": "#1a1a1a",
+        "textColor": "#ffffff",
+        "fontSize": 24,
+        "fontFamily": "roobert",
+        "borderWidth": 1,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "circle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": "<p><strong>3</strong></p>"
+    },
+    {
+      "id": "n-26",
+      "position": {
+        "x": 1232.0350000000035,
+        "y": 392.3720936373919
+      },
+      "size": {
+        "width": 48.000000000000135,
+        "height": 48.000000000000135
+      },
+      "style": {
+        "fillColor": "#2c2e33",
+        "borderColor": "#1a1a1a",
+        "textColor": "#ffffff",
+        "fontSize": 24,
+        "fontFamily": "roobert",
+        "borderWidth": 1,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "circle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": "<p><strong>5</strong></p>"
+    },
+    {
+      "id": "n-27",
+      "position": {
+        "x": 137.71002133935144,
+        "y": 359.6279063626009
+      },
+      "size": {
+        "width": 202.4649999999952,
+        "height": 576.0000000000013
+      },
+      "style": {
+        "fillColor": "#FFFFFF",
+        "borderColor": "#000000",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-28",
+      "position": {
+        "x": 137.71002133935144,
+        "y": 167.62790636260092
+      },
+      "size": {
+        "width": 96.0,
+        "height": 96.0
+      },
+      "style": {
+        "fillColor": "#FFFFFF",
+        "borderColor": "#000000",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-29",
+      "position": {
+        "x": 137.71002133935144,
+        "y": 335.6279063626009
+      },
+      "size": {
+        "width": 96.0,
+        "height": 96.0
+      },
+      "style": {
+        "fillColor": "#FFFFFF",
+        "borderColor": "#000000",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-30",
+      "position": {
+        "x": 137.71002133935144,
+        "y": 503.6279063626009
+      },
+      "size": {
+        "width": 96.0,
+        "height": 96.0
+      },
+      "style": {
+        "fillColor": "#FFFFFF",
+        "borderColor": "#000000",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-31",
+      "position": {
+        "x": 209.71002133935144,
+        "y": 255.62790636260092
+      },
+      "size": {
+        "width": 48.000000000000135,
+        "height": 48.000000000000135
+      },
+      "style": {
+        "fillColor": "#2c2e33",
+        "borderColor": "#1a1a1a",
+        "textColor": "#ffffff",
+        "fontSize": 24,
+        "fontFamily": "roobert",
+        "borderWidth": 1,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "circle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": "<p><strong>1</strong></p>"
+    },
+    {
+      "id": "n-32",
+      "position": {
+        "x": 2152.4299498132846,
+        "y": 564.8571428571481
+      },
+      "size": {
+        "width": 696.0000000000069,
+        "height": 696.0000000000005
+      },
+      "style": {
+        "fillColor": "#FFFFFF",
+        "borderColor": "#000000",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-33",
+      "position": {
+        "x": 234.76750000000885,
+        "y": 359.62790636260274
+      },
+      "size": {
+        "width": 392.03500000001634,
+        "height": 575.9999999999998
+      },
+      "style": {
+        "fillColor": "#FFFFFF",
+        "borderColor": "#000000",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-34",
+      "position": {
+        "x": 104.03500000002447,
+        "y": 111.99999999999989
+      },
+      "size": {
+        "width": 96.0,
+        "height": 96.0
+      },
+      "style": {
+        "fillColor": "#FFFFFF",
+        "borderColor": "#000000",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-35",
+      "position": {
+        "x": 104.03500000002447,
+        "y": 279.9999999999999
+      },
+      "size": {
+        "width": 96.0,
+        "height": 96.0
+      },
+      "style": {
+        "fillColor": "#FFFFFF",
+        "borderColor": "#000000",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-36",
+      "position": {
+        "x": 296.03500000002447,
+        "y": 279.9999999999999
+      },
+      "size": {
+        "width": 96.0,
+        "height": 96.0
+      },
+      "style": {
+        "fillColor": "#FFFFFF",
+        "borderColor": "#000000",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-37",
+      "position": {
+        "x": 296.03500000002447,
+        "y": 431.9999999999999
+      },
+      "size": {
+        "width": 96.0,
+        "height": 96.0
+      },
+      "style": {
+        "fillColor": "#FFFFFF",
+        "borderColor": "#000000",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-38",
+      "position": {
+        "x": 368.03500000002447,
+        "y": 167.9999999999999
+      },
+      "size": {
+        "width": 48.000000000000135,
+        "height": 48.000000000000135
+      },
+      "style": {
+        "fillColor": "#2c2e33",
+        "borderColor": "#1a1a1a",
+        "textColor": "#ffffff",
+        "fontSize": 24,
+        "fontFamily": "roobert",
+        "borderWidth": 1,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "circle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": "<p><strong>4</strong></p>"
+    },
+    {
+      "id": "n-39",
+      "position": {
+        "x": 296.03500000002447,
+        "y": 111.99999999999989
+      },
+      "size": {
+        "width": 96.0,
+        "height": 96.0
+      },
+      "style": {
+        "fillColor": "#FFFFFF",
+        "borderColor": "#000000",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-40",
+      "position": {
+        "x": 556.0175000000088,
+        "y": 359.62790636260274
+      },
+      "size": {
+        "width": 202.4649999999952,
+        "height": 576.0000000000013
+      },
+      "style": {
+        "fillColor": "#FFFFFF",
+        "borderColor": "#000000",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-41",
+      "position": {
+        "x": 101.2324999999976,
+        "y": 92.37209363739811
+      },
+      "size": {
+        "width": 96.0,
+        "height": 96.0
+      },
+      "style": {
+        "fillColor": "#FFFFFF",
+        "borderColor": "#000000",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-42",
+      "position": {
+        "x": 101.2324999999976,
+        "y": 276.3720936373981
+      },
+      "size": {
+        "width": 96.0,
+        "height": 96.0
+      },
+      "style": {
+        "fillColor": "#FFFFFF",
+        "borderColor": "#000000",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-43",
+      "position": {
+        "x": 101.2324999999976,
+        "y": 460.3720936373981
+      },
+      "size": {
+        "width": 96.0,
+        "height": 96.0
+      },
+      "style": {
+        "fillColor": "#FFFFFF",
+        "borderColor": "#000000",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-44",
+      "position": {
+        "x": -5652.086992692837,
+        "y": -1174.887112466694
+      },
+      "size": {
+        "width": 2466.591967815755,
+        "height": 1044.918735152693
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "Current State of Architecture"
+    },
+    {
+      "id": "n-45",
+      "position": {
+        "x": 256.0487930148802,
+        "y": 213.7254570671887
+      },
+      "size": {
+        "width": 319.6135623598179,
+        "height": 67.45091413437716
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[action_button]"
+    },
+    {
+      "id": "n-46",
+      "position": {
+        "x": 565.3109960371712,
+        "y": 116.57142857143049
+      },
+      "size": {
+        "width": 938.1379684114285
+      },
+      "style": {
+        "fontSize": 32,
+        "textColor": "#1c1c1e",
+        "fontFamily": "roobert",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p>Bring in your current AWS Architecture using AWS Cloud View or build our your diagram using the reference below</p>"
+    },
+    {
+      "id": "n-47",
+      "position": {
+        "x": 330.77650393607087,
+        "y": 55.261358084490084
+      },
+      "size": {
+        "width": 469.0689842057143
+      },
+      "style": {
+        "fontSize": 24,
+        "textColor": "#1a1a1a",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-2",
+      "visualKind": "text",
+      "title": "<p><strong>Import your current AWS Architecture</strong></p>"
+    },
+    {
+      "id": "n-48",
+      "position": {
+        "x": 52.202107613674116,
+        "y": 52.20210761367444
+      },
+      "size": {
+        "width": 40.404215227348686,
+        "height": 40.404215227349596
+      },
+      "style": {
+        "fillColor": "#1c1c1e",
+        "borderColor": "#ffffff",
+        "textColor": "#ffffff",
+        "fontSize": 18,
+        "fontFamily": "roobert_pro",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "circle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-2",
+      "visualKind": "shape",
+      "title": "<p><strong>1</strong></p>"
+    },
+    {
+      "id": "n-49",
+      "position": {
+        "x": 664.7689978714241,
+        "y": 55.261358084489174
+      },
+      "size": {
+        "width": 1137.0539720742856
+      },
+      "style": {
+        "fontSize": 24,
+        "textColor": "#1a1a1a",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-3",
+      "visualKind": "text",
+      "title": "<p><strong>Use the AWS Solution Architecture Sidekick to find opportunities to improve your architecture</strong></p>"
+    },
+    {
+      "id": "n-50",
+      "position": {
+        "x": 52.202107613674116,
+        "y": 52.20210761367444
+      },
+      "size": {
+        "width": 40.404215227348686,
+        "height": 40.404215227349596
+      },
+      "style": {
+        "fillColor": "#1c1c1e",
+        "borderColor": "#ffffff",
+        "textColor": "#ffffff",
+        "fontSize": 18,
+        "fontFamily": "roobert_pro",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "circle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-3",
+      "visualKind": "shape",
+      "title": "<p><strong>2</strong></p>"
+    },
+    {
+      "id": "n-51",
+      "position": {
+        "x": -3107.5700501867104,
+        "y": -1174.887112466694
+      },
+      "size": {
+        "width": 2466.591967815756,
+        "height": 1044.9187351526925
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "Review your architecture"
+    },
+    {
+      "id": "n-52",
+      "position": {
+        "x": 255.7880124236151,
+        "y": 176.39968255919212
+      },
+      "size": {
+        "width": 359.99999999999955,
+        "height": 180.0
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 30,
+        "fontFamily": "roobert_pro",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": "<p>Copy your architecture from the previous diagram</p>"
+    },
+    {
+      "id": "n-53",
+      "position": {
+        "x": 612.700367645916,
+        "y": 373.0737572190028
+      },
+      "size": {
+        "width": 157.7685546875,
+        "height": 197.431640625
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[widgets_stack]"
+    },
+    {
+      "id": "n-54",
+      "position": {
+        "x": 79.86523482814987,
+        "y": 118.16516044330889
+      },
+      "size": {
+        "width": 368.15000000000003,
+        "height": 421.8
+      },
+      "style": {
+        "fillColor": "orange",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": ""
+    },
+    {
+      "id": "n-55",
+      "position": {
+        "x": 832.7003676459196,
+        "y": 373.0737572190028
+      },
+      "size": {
+        "width": 157.7685546875,
+        "height": 197.431640625
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[widgets_stack]"
+    },
+    {
+      "id": "n-56",
+      "position": {
+        "x": 79.86523482814987,
+        "y": 118.16516044330889
+      },
+      "size": {
+        "width": 368.15000000000003,
+        "height": 421.8
+      },
+      "style": {
+        "fillColor": "dark_green",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": ""
+    },
+    {
+      "id": "n-57",
+      "position": {
+        "x": 729.6127228682205,
+        "y": 176.39968255919212
+      },
+      "size": {
+        "width": 359.99999999999955,
+        "height": 180.0
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 30,
+        "fontFamily": "roobert_pro",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": "<p>Capture Problems and Opportunities suggested by the AI Sidekick</p>"
+    },
+    {
+      "id": "n-58",
+      "position": {
+        "x": 664.7689978714241,
+        "y": 55.261358084489174
+      },
+      "size": {
+        "width": 1137.0539720742856
+      },
+      "style": {
+        "fontSize": 24,
+        "textColor": "#1a1a1a",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-4",
+      "visualKind": "text",
+      "title": "<p><strong>Finalize your Target Architecture with inputs from AWS Solution Architecture Sidekick</strong></p>"
+    },
+    {
+      "id": "n-59",
+      "position": {
+        "x": 52.202107613674116,
+        "y": 52.20210761367444
+      },
+      "size": {
+        "width": 40.404215227348686,
+        "height": 40.404215227349596
+      },
+      "style": {
+        "fillColor": "#1c1c1e",
+        "borderColor": "#ffffff",
+        "textColor": "#ffffff",
+        "fontSize": 18,
+        "fontFamily": "roobert_pro",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "circle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-4",
+      "visualKind": "shape",
+      "title": "<p><strong>3</strong></p>"
+    },
+    {
+      "id": "n-60",
+      "position": {
+        "x": -532.9780823709552,
+        "y": -1222.8701319782413
+      },
+      "size": {
+        "width": 2466.591967815755,
+        "height": 1092.90175466424
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "Target Architecture"
+    },
+    {
+      "id": "n-61",
+      "position": {
+        "x": 276.242011834971,
+        "y": 224.38270207073992
+      },
+      "size": {
+        "width": 359.99999999999955,
+        "height": 180.0
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 30,
+        "fontFamily": "roobert_pro",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": "<p>Copy your architecture from the previous diagram</p>"
+    },
+    {
+      "id": "n-62",
+      "position": {
+        "x": 618.1081515711794,
+        "y": 236.0567767305506
+      },
+      "size": {
+        "width": 157.7685546875,
+        "height": 197.431640625
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[widgets_stack]"
+    },
+    {
+      "id": "n-63",
+      "position": {
+        "x": 79.86523482814987,
+        "y": 118.16516044330889
+      },
+      "size": {
+        "width": 368.15000000000003,
+        "height": 421.8
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": ""
+    },
+    {
+      "id": "n-64",
+      "position": {
+        "x": 664.7689978714241,
+        "y": 55.261358084489174
+      },
+      "size": {
+        "width": 1137.0539720742856
+      },
+      "style": {
+        "fontSize": 24,
+        "textColor": "#1a1a1a",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-5",
+      "visualKind": "text",
+      "title": "<p><strong>Optimize the costs of your target architecture using AWS Cost Calculator</strong></p>"
+    },
+    {
+      "id": "n-65",
+      "position": {
+        "x": 52.202107613674116,
+        "y": 52.20210761367444
+      },
+      "size": {
+        "width": 40.404215227348686,
+        "height": 40.404215227349596
+      },
+      "style": {
+        "fillColor": "#1c1c1e",
+        "borderColor": "#ffffff",
+        "textColor": "#ffffff",
+        "fontSize": 18,
+        "fontFamily": "roobert_pro",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "circle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-5",
+      "visualKind": "shape",
+      "title": "<p><strong>4</strong></p>"
+    },
+    {
+      "id": "n-66",
+      "position": {
+        "x": 2025.6138854448,
+        "y": -1174.8871124666948
+      },
+      "size": {
+        "width": 2474.591967815755,
+        "height": 1044.9187351526916
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "Cost Optimized Architecture"
+    },
+    {
+      "id": "n-67",
+      "position": {
+        "x": 167.89400621180516,
+        "y": 176.3996825591919
+      },
+      "size": {
+        "width": 255.78801242361442,
+        "height": 180.0
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 30,
+        "fontFamily": "roobert_pro",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-68",
+      "position": {
+        "x": 284.24201183496893,
+        "y": 176.3996825591919
+      },
+      "size": {
+        "width": 359.99999999999955,
+        "height": 180.0
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 30,
+        "fontFamily": "roobert_pro",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": "<p>Copy your architecture from the previous diagram</p>"
+    },
+    {
+      "id": "n-69",
+      "position": {
+        "x": 284.24201183496893,
+        "y": 302.0652669747767
+      },
+      "size": {
+        "width": 337.99999999999335,
+        "height": 71.33116883116743
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[action_button]"
+    },
+    {
+      "id": "n-70",
+      "position": {
+        "x": 596.2984556926713,
+        "y": 198.791056363832
+      },
+      "size": {
+        "width": 157.7685546875,
+        "height": 197.431640625
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[widgets_stack]"
+    },
+    {
+      "id": "n-71",
+      "position": {
+        "x": 79.86523482814987,
+        "y": 118.16516044330889
+      },
+      "size": {
+        "width": 368.15000000000003,
+        "height": 421.8
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": ""
+    },
+    {
+      "id": "n-72",
+      "position": {
+        "x": 664.7689978714235,
+        "y": 55.261358084489174
+      },
+      "size": {
+        "width": 1137.0539720742856
+      },
+      "style": {
+        "fontSize": 24,
+        "textColor": "#1a1a1a",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-6",
+      "visualKind": "text",
+      "title": "<p><strong>Document your plans to share out with teams and stakeholders</strong></p>"
+    },
+    {
+      "id": "n-73",
+      "position": {
+        "x": 52.20210761367446,
+        "y": 52.20210761367444
+      },
+      "size": {
+        "width": 40.404215227348686,
+        "height": 40.404215227349596
+      },
+      "style": {
+        "fillColor": "#1c1c1e",
+        "borderColor": "#ffffff",
+        "textColor": "#ffffff",
+        "fontSize": 18,
+        "fontFamily": "roobert_pro",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "circle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-6",
+      "visualKind": "shape",
+      "title": "<p><strong>5</strong></p>"
+    },
+    {
+      "id": "n-74",
+      "position": {
+        "x": 4668.217962236904,
+        "y": -1048.4874299075018
+      },
+      "size": {
+        "width": 784.0,
+        "height": 1105.4399999999998
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "<h1></h1><p></p>"
+    },
+    {
+      "id": "n-75",
+      "position": {
+        "x": 101.2324999999976,
+        "y": 96.00000000000063
+      },
+      "size": {
+        "width": 96.00000000000006,
+        "height": 96.00000000000001
+      },
+      "style": {
+        "fillColor": "#FFFFFF",
+        "borderColor": "#000000",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": ""
+    }
+  ],
+  "edges": [
+    {
+      "id": "e-0",
+      "sourceNodeId": "n-14",
+      "targetNodeId": "n-15",
+      "style": {
+        "lineStyle": "solid",
+        "arrowHead": "end",
+        "borderColor": "#333333",
+        "strokeWidth": "2.0",
+        "extra": {
+          "connectorShape": "elbowed",
+          "sourcePosition": "auto",
+          "targetPosition": "auto"
+        }
+      }
+    },
+    {
+      "id": "e-1",
+      "sourceNodeId": "n-15",
+      "targetNodeId": "n-16",
+      "style": {
+        "lineStyle": "solid",
+        "arrowHead": "end",
+        "borderColor": "#333333",
+        "strokeWidth": "2.0",
+        "extra": {
+          "connectorShape": "elbowed",
+          "sourcePosition": "auto",
+          "targetPosition": "auto"
+        }
+      }
+    },
+    {
+      "id": "e-2",
+      "sourceNodeId": "n-15",
+      "targetNodeId": "n-17",
+      "style": {
+        "lineStyle": "solid",
+        "arrowHead": "end",
+        "borderColor": "#333333",
+        "strokeWidth": "2.0",
+        "extra": {
+          "connectorShape": "elbowed",
+          "sourcePosition": "auto",
+          "targetPosition": "auto"
+        }
+      }
+    },
+    {
+      "id": "e-3",
+      "sourceNodeId": "n-16",
+      "targetNodeId": "n-18",
+      "style": {
+        "lineStyle": "solid",
+        "arrowHead": "end",
+        "borderColor": "#333333",
+        "strokeWidth": "2.0",
+        "extra": {
+          "connectorShape": "elbowed",
+          "sourcePosition": "auto",
+          "targetPosition": "auto"
+        }
+      }
+    },
+    {
+      "id": "e-4",
+      "sourceNodeId": "n-17",
+      "targetNodeId": "n-18",
+      "style": {
+        "lineStyle": "solid",
+        "arrowHead": "end",
+        "borderColor": "#333333",
+        "strokeWidth": "2.0",
+        "extra": {
+          "connectorShape": "elbowed",
+          "sourcePosition": "auto",
+          "targetPosition": "auto"
+        }
+      }
+    },
+    {
+      "id": "e-5",
+      "sourceNodeId": "n-18",
+      "targetNodeId": "n-19",
+      "style": {
+        "lineStyle": "solid",
+        "arrowHead": "end",
+        "borderColor": "#333333",
+        "strokeWidth": "2.0",
+        "extra": {
+          "connectorShape": "elbowed",
+          "sourcePosition": "auto",
+          "targetPosition": "auto"
+        }
+      }
+    },
+    {
+      "id": "e-6",
+      "sourceNodeId": "n-19",
+      "targetNodeId": "n-20",
+      "style": {
+        "lineStyle": "solid",
+        "arrowHead": "end",
+        "borderColor": "#333333",
+        "strokeWidth": "2.0",
+        "extra": {
+          "connectorShape": "elbowed",
+          "sourcePosition": "auto",
+          "targetPosition": "auto"
+        }
+      }
+    },
+    {
+      "id": "e-7",
+      "sourceNodeId": "n-20",
+      "targetNodeId": "n-23",
+      "style": {
+        "lineStyle": "solid",
+        "arrowHead": "end",
+        "borderColor": "#333333",
+        "strokeWidth": "2.0",
+        "extra": {
+          "connectorShape": "elbowed",
+          "sourcePosition": "auto",
+          "targetPosition": "auto"
+        }
+      }
+    },
+    {
+      "id": "e-8",
+      "sourceNodeId": "n-20",
+      "targetNodeId": "n-22",
+      "style": {
+        "lineStyle": "solid",
+        "arrowHead": "end",
+        "borderColor": "#333333",
+        "strokeWidth": "2.0",
+        "extra": {
+          "connectorShape": "elbowed",
+          "sourcePosition": "auto",
+          "targetPosition": "auto"
+        }
+      }
+    },
+    {
+      "id": "e-9",
+      "sourceNodeId": "n-22",
+      "targetNodeId": "n-21",
+      "style": {
+        "lineStyle": "solid",
+        "arrowHead": "end",
+        "borderColor": "#333333",
+        "strokeWidth": "2.0",
+        "extra": {
+          "connectorShape": "elbowed",
+          "sourcePosition": "auto",
+          "targetPosition": "auto"
+        }
+      }
+    },
+    {
+      "id": "e-10",
+      "sourceNodeId": "n-30",
+      "targetNodeId": "n-14",
+      "style": {
+        "lineStyle": "solid",
+        "arrowHead": "end",
+        "borderColor": "#333333",
+        "strokeWidth": "2.0",
+        "extra": {
+          "connectorShape": "elbowed",
+          "sourcePosition": "auto",
+          "targetPosition": "auto"
+        }
+      }
+    },
+    {
+      "id": "e-11",
+      "sourceNodeId": "n-30",
+      "targetNodeId": "n-15",
+      "style": {
+        "lineStyle": "solid",
+        "arrowHead": "end",
+        "borderColor": "#333333",
+        "strokeWidth": "2.0",
+        "extra": {
+          "connectorShape": "elbowed",
+          "sourcePosition": "auto",
+          "targetPosition": "auto"
+        }
+      }
+    },
+    {
+      "id": "e-12",
+      "sourceNodeId": "n-28",
+      "targetNodeId": "n-29",
+      "style": {
+        "lineStyle": "solid",
+        "arrowHead": "end",
+        "borderColor": "#333333",
+        "strokeWidth": "2.0",
+        "extra": {
+          "connectorShape": "elbowed",
+          "sourcePosition": "auto",
+          "targetPosition": "auto"
+        }
+      }
+    },
+    {
+      "id": "e-13",
+      "sourceNodeId": "n-29",
+      "targetNodeId": "n-30",
+      "style": {
+        "lineStyle": "solid",
+        "arrowHead": "end",
+        "borderColor": "#333333",
+        "strokeWidth": "3.0",
+        "extra": {
+          "connectorShape": "elbowed",
+          "sourcePosition": "auto",
+          "targetPosition": "auto"
+        }
+      }
+    },
+    {
+      "id": "e-14",
+      "sourceNodeId": "n-35",
+      "targetNodeId": "n-36",
+      "style": {
+        "lineStyle": "solid",
+        "arrowHead": "end",
+        "borderColor": "#333333",
+        "strokeWidth": "2.0",
+        "extra": {
+          "connectorShape": "elbowed",
+          "sourcePosition": "auto",
+          "targetPosition": "auto"
+        }
+      }
+    },
+    {
+      "id": "e-15",
+      "sourceNodeId": "n-34",
+      "targetNodeId": "n-35",
+      "style": {
+        "lineStyle": "solid",
+        "arrowHead": "end",
+        "borderColor": "#333333",
+        "strokeWidth": "2.0",
+        "extra": {
+          "connectorShape": "elbowed",
+          "sourcePosition": "auto",
+          "targetPosition": "auto"
+        }
+      }
+    },
+    {
+      "id": "e-16",
+      "sourceNodeId": "n-39",
+      "targetNodeId": "n-36",
+      "style": {
+        "lineStyle": "solid",
+        "arrowHead": "end",
+        "borderColor": "#333333",
+        "strokeWidth": "2.0",
+        "extra": {
+          "connectorShape": "elbowed",
+          "sourcePosition": "auto",
+          "targetPosition": "auto"
+        }
+      }
+    },
+    {
+      "id": "e-17",
+      "sourceNodeId": "n-24",
+      "targetNodeId": "n-34",
+      "style": {
+        "lineStyle": "solid",
+        "arrowHead": "end",
+        "borderColor": "#333333",
+        "strokeWidth": "2.0",
+        "extra": {
+          "connectorShape": "elbowed",
+          "sourcePosition": "auto",
+          "targetPosition": "auto"
+        }
+      }
+    },
+    {
+      "id": "e-18",
+      "sourceNodeId": "n-22",
+      "targetNodeId": "n-35",
+      "style": {
+        "lineStyle": "solid",
+        "arrowHead": "end",
+        "borderColor": "#333333",
+        "strokeWidth": "2.0",
+        "extra": {
+          "connectorShape": "elbowed",
+          "sourcePosition": "auto",
+          "targetPosition": "auto"
+        }
+      }
+    },
+    {
+      "id": "e-19",
+      "sourceNodeId": "n-36",
+      "targetNodeId": "n-41",
+      "style": {
+        "lineStyle": "solid",
+        "arrowHead": "end",
+        "borderColor": "#333333",
+        "strokeWidth": "2.0",
+        "extra": {
+          "connectorShape": "elbowed",
+          "sourcePosition": "auto",
+          "targetPosition": "auto"
+        }
+      }
+    },
+    {
+      "id": "e-20",
+      "sourceNodeId": "n-36",
+      "targetNodeId": "n-42",
+      "style": {
+        "lineStyle": "solid",
+        "arrowHead": "end",
+        "borderColor": "#333333",
+        "strokeWidth": "2.0",
+        "extra": {
+          "connectorShape": "elbowed",
+          "sourcePosition": "auto",
+          "targetPosition": "auto"
+        }
+      }
+    },
+    {
+      "id": "e-21",
+      "sourceNodeId": "n-36",
+      "targetNodeId": "n-43",
+      "style": {
+        "lineStyle": "solid",
+        "arrowHead": "end",
+        "borderColor": "#333333",
+        "strokeWidth": "2.0",
+        "extra": {
+          "connectorShape": "elbowed",
+          "sourcePosition": "auto",
+          "targetPosition": "auto"
+        }
+      }
+    },
+    {
+      "id": "e-22",
+      "sourceNodeId": "n-16",
+      "targetNodeId": "n-17",
+      "style": {
+        "lineStyle": "solid",
+        "arrowHead": "end",
+        "borderColor": "#333333",
+        "strokeWidth": "2.0",
+        "extra": {
+          "connectorShape": "elbowed",
+          "sourcePosition": "auto",
+          "targetPosition": "auto"
+        }
+      }
+    }
+  ],
+  "annotations": [],
+  "_metadata": {
+    "extracted_at": "2026-02-23T12:58:32.576903",
+    "total_items": 83,
+    "total_connectors": 23,
+    "frames": 7,
+    "nodes": 76,
+    "edges": 23
+  },
+  "_template": {
+    "name": "ai-aws-cloud-infrastructure-optimization-template",
+    "category": "miroverse",
+    "source": "miroverse",
+    "source_slug": "aws-cloud-infrastructure-optimization-template-ai",
+    "source_board_id": "uXjVJ7nofDk=",
+    "tags": [
+      "ai accelerated",
+      "cloud architecture diagrams",
+      "aws diagram",
+      "diagramming & mapping"
+    ],
+    "extracted_at": "2026-02-23T12:58:32.576954"
+  }
+}

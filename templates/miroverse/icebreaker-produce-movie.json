@@ -1,0 +1,981 @@
+{
+  "frames": [
+    {
+      "id": "f-0",
+      "title": "",
+      "position": {
+        "x": -6792.053494652306,
+        "y": -1803.7660343157186
+      },
+      "size": {
+        "width": 179.60833345029084,
+        "height": 144.96043675168966
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-1",
+      "title": "",
+      "position": {
+        "x": -6792.053494652306,
+        "y": -1617.1926032486833
+      },
+      "size": {
+        "width": 179.60833345029084,
+        "height": 144.96043675168966
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-2",
+      "title": "",
+      "position": {
+        "x": -6792.053494652306,
+        "y": -1438.7463031450552
+      },
+      "size": {
+        "width": 179.60833345029084,
+        "height": 144.96043675168966
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-3",
+      "title": "",
+      "position": {
+        "x": -6792.053494652306,
+        "y": -1260.300003041427
+      },
+      "size": {
+        "width": 179.60833345029084,
+        "height": 144.96043675168966
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-4",
+      "title": "",
+      "position": {
+        "x": -6792.053494652306,
+        "y": -1081.8537029377992
+      },
+      "size": {
+        "width": 179.60833345029084,
+        "height": 144.96043675168966
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-5",
+      "title": "",
+      "position": {
+        "x": -6792.053494652306,
+        "y": -903.8932661861094
+      },
+      "size": {
+        "width": 179.6083334502907,
+        "height": 144.96043675168966
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-6",
+      "title": "",
+      "position": {
+        "x": -7986.393640927468,
+        "y": 532.1177981388312
+      },
+      "size": {
+        "width": 179.60833345029084,
+        "height": 144.96043675168966
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-7",
+      "title": "",
+      "position": {
+        "x": -7986.393640927468,
+        "y": 718.6912292058664
+      },
+      "size": {
+        "width": 179.60833345029084,
+        "height": 144.96043675168966
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-8",
+      "title": "",
+      "position": {
+        "x": -7986.393640927468,
+        "y": 897.1375293094945
+      },
+      "size": {
+        "width": 179.60833345029084,
+        "height": 144.96043675168966
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-9",
+      "title": "",
+      "position": {
+        "x": -7986.393640927468,
+        "y": 1075.5838294131227
+      },
+      "size": {
+        "width": 179.60833345029084,
+        "height": 144.96043675168966
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-10",
+      "title": "",
+      "position": {
+        "x": -7986.393640927468,
+        "y": 1254.0301295167505
+      },
+      "size": {
+        "width": 179.60833345029084,
+        "height": 144.96043675168966
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-11",
+      "title": "",
+      "position": {
+        "x": -7986.393640927468,
+        "y": 1431.9905662684403
+      },
+      "size": {
+        "width": 179.6083334502907,
+        "height": 144.96043675168966
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    }
+  ],
+  "nodes": [
+    {
+      "id": "n-0",
+      "position": {
+        "x": -6167.2263552083,
+        "y": -1901.0941018160906
+      },
+      "size": {
+        "width": 686.6568482335693,
+        "height": 1059.7637581155855
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "<h1></h1>"
+    },
+    {
+      "id": "n-1",
+      "position": {
+        "x": 111.16429427382803,
+        "y": 72.48021837584483
+      },
+      "size": {
+        "width": 114.14648697237116,
+        "height": 130.78089964673683
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "stickyNote",
+      "title": ""
+    },
+    {
+      "id": "n-2",
+      "position": {
+        "x": 17.51601161659977,
+        "y": 18.102117043467246
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "frameId": "f-0",
+      "visualKind": "shape",
+      "title": "[people_sticker]"
+    },
+    {
+      "id": "n-3",
+      "position": {
+        "x": 111.16429427382803,
+        "y": 72.48021837584483
+      },
+      "size": {
+        "width": 114.14648697237116,
+        "height": 130.78089964673683
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-1",
+      "visualKind": "stickyNote",
+      "title": ""
+    },
+    {
+      "id": "n-4",
+      "position": {
+        "x": 17.51601161659977,
+        "y": 18.10214584948548
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "frameId": "f-1",
+      "visualKind": "shape",
+      "title": "[people_sticker]"
+    },
+    {
+      "id": "n-5",
+      "position": {
+        "x": 111.16429427382803,
+        "y": 72.48021837584483
+      },
+      "size": {
+        "width": 114.14648697237116,
+        "height": 130.78089964673683
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-2",
+      "visualKind": "stickyNote",
+      "title": ""
+    },
+    {
+      "id": "n-6",
+      "position": {
+        "x": 111.16429427382803,
+        "y": 72.48021837584483
+      },
+      "size": {
+        "width": 114.14648697237116,
+        "height": 130.78089964673683
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-3",
+      "visualKind": "stickyNote",
+      "title": ""
+    },
+    {
+      "id": "n-7",
+      "position": {
+        "x": 111.16429427382803,
+        "y": 72.48021837584483
+      },
+      "size": {
+        "width": 114.14648697237116,
+        "height": 130.78089964673683
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-4",
+      "visualKind": "stickyNote",
+      "title": ""
+    },
+    {
+      "id": "n-8",
+      "position": {
+        "x": 18.198830867932827,
+        "y": 21.87464204999432
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "frameId": "f-4",
+      "visualKind": "shape",
+      "title": "[people_sticker]"
+    },
+    {
+      "id": "n-9",
+      "position": {
+        "x": 111.16429427382796,
+        "y": 79.5699869283213
+      },
+      "size": {
+        "width": 114.14648697237116,
+        "height": 130.78089964673683
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-5",
+      "visualKind": "stickyNote",
+      "title": ""
+    },
+    {
+      "id": "n-10",
+      "position": {
+        "x": 17.516040422616186,
+        "y": 20.117943084565553
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "frameId": "f-3",
+      "visualKind": "shape",
+      "title": "[people_sticker]"
+    },
+    {
+      "id": "n-11",
+      "position": {
+        "x": 17.516040422616186,
+        "y": 18.102117043467246
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "frameId": "f-2",
+      "visualKind": "shape",
+      "title": "[people_sticker]"
+    },
+    {
+      "id": "n-12",
+      "position": {
+        "x": -6863.658859315535,
+        "y": -957.785475360531
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[people_sticker]"
+    },
+    {
+      "id": "n-13",
+      "position": {
+        "x": -7823.632823359199,
+        "y": -2556.3490991803355
+      },
+      "size": {
+        "width": 918.0777437234156
+      },
+      "style": {
+        "fontSize": 51,
+        "textColor": "#1a1a1a",
+        "fontFamily": "permanent_marker",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p>ICEBREAKER: Let&#39;s produce a Movie</p>"
+    },
+    {
+      "id": "n-14",
+      "position": {
+        "x": -6770.693367103623,
+        "y": -2072.316951648247
+      },
+      "size": {
+        "width": 546.198792185517
+      },
+      "style": {
+        "fontSize": 30,
+        "textColor": "#1a1a1a",
+        "fontFamily": "unknown",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p>Step 1: Add 1 element for the movie:</p><p><br /></p><p>Examples:</p><ol><li data-list=\"bullet\"><span class=\"ql-ui\"></span>A kitchen knife</li><li data-list=\"bullet\"><span class=\"ql-ui\"></span>A loud bang</li><li data-list=\"bullet\"><span class=\"ql-ui\"></span>Full moon night</li></ol>"
+    },
+    {
+      "id": "n-15",
+      "position": {
+        "x": -5879.055428578698,
+        "y": -2184.448117682468
+      },
+      "size": {
+        "width": 607.2402049893448
+      },
+      "style": {
+        "fontSize": 30,
+        "textColor": "#1a1a1a",
+        "fontFamily": "unknown",
+        "align": "center"
+      },
+      "visualKind": "text",
+      "title": "<p>Step 2: Create the Story</p>"
+    },
+    {
+      "id": "n-16",
+      "position": {
+        "x": -4648.156763641018,
+        "y": -2184.914120762421
+      },
+      "size": {
+        "width": 607.2402049893448
+      },
+      "style": {
+        "fontSize": 30,
+        "textColor": "#1a1a1a",
+        "fontFamily": "unknown",
+        "align": "center"
+      },
+      "visualKind": "text",
+      "title": "<p>Step 3: Create Marketing Content</p>"
+    },
+    {
+      "id": "n-17",
+      "position": {
+        "x": -6792.053494652306,
+        "y": -2350.996309781813
+      },
+      "size": {
+        "width": 184.01530787940493,
+        "height": 181.09442997655725
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[action_button]"
+    },
+    {
+      "id": "n-18",
+      "position": {
+        "x": -8223.737891244722,
+        "y": -2406.526647896924
+      },
+      "size": {
+        "width": 768.0,
+        "height": 1082.8799999999999
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "<h1>Instructions for Icebreaker: Create a Movie</h1><p>Put elements together into a cinematic masterpiece in this fun, creative team icebreaker! </p><p>This 3-step process will get everyone's creative juices flowing while building teamwork and presentation skills.</p><h2>Step 1: Add 1 Element for the Movie (10 minutes)</h2><p>Each team member will select a single element that must be featured in their movie concept.<br></p><p><strong>How to assign elements:</strong></p><ol><li data-list=\"bullet\">Fill your own sticky note with a movie element </li><li data-list=\"bullet\"><strong>Element examples:</strong><ol><li data-list=\"bullet\">A kitchen knife</li><li data-list=\"bullet\">A loud bang</li><li data-list=\"bullet\">Full moon night</li><li data-list=\"bullet\">An old photograph</li><li data-list=\"bullet\">A mysterious phone call</li></ol></li></ol><p></p><h2>Step 2: Create the Story (15 minutes)</h2><p>Participants develop together a storyline based entirely on their combined elements. <strong>Click <code>Run</code></strong> in the document from step 2, and see your movie creating live in the canvas.</p><h2>Step 3: Create Marketing Content (20 minutes)</h2><p>Transform your concept into promotional materials that would sell your movie to audiences.<br>Everything is done automatically once you kickstart step 2.</p><h2>Facilitator Tips</h2><p><strong>Preparation:</strong></p><ol><li data-list=\"bullet\">Assign each team member to a stick note.</li><li data-list=\"bullet\">Prepare a specific theme, if desired</li><li data-list=\"bullet\">Prepare examples of story elements, if desired.</li><li data-list=\"bullet\">You can also tweak the prompts in each component</li></ol><p><br><strong>During the Activity:</strong></p><ol><li data-list=\"bullet\">Use timers to avoid spending too much time on each step (5 minutes remaining, etc.)</li></ol>"
+    },
+    {
+      "id": "n-19",
+      "position": {
+        "x": -4576.704880218297,
+        "y": -1625.2051895793884
+      },
+      "size": {
+        "width": 1121.0724052792968,
+        "height": 630.6032279696045
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[video]"
+    },
+    {
+      "id": "n-20",
+      "position": {
+        "x": -4569.140544863012,
+        "y": -636.4746134828673
+      },
+      "size": {
+        "width": 896.8579242234375,
+        "height": 896.8579242234375
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJlvo7z4%3D/resources/images/0?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-21",
+      "position": {
+        "x": -3936.048030634324,
+        "y": -1138.7871535896074
+      },
+      "size": {
+        "width": 342.23284400995743,
+        "height": 342.23284400995743
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[stamp]"
+    },
+    {
+      "id": "n-22",
+      "position": {
+        "x": -8299.631732358637,
+        "y": -2630.9533056121445
+      },
+      "size": {
+        "width": 222.65463236149117,
+        "height": 222.65463236149117
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[stamp]"
+    },
+    {
+      "id": "n-23",
+      "position": {
+        "x": -5318.597981658056,
+        "y": -2112.4780937677506
+      },
+      "size": {
+        "width": 236.11878200517324,
+        "height": 236.11878200517324
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[stamp]"
+    },
+    {
+      "id": "n-24",
+      "position": {
+        "x": -7966.028478405804,
+        "y": 311.1009742665358
+      },
+      "size": {
+        "width": 220.33865849361973
+      },
+      "style": {
+        "fontSize": 51,
+        "textColor": "#1a1a1a",
+        "fontFamily": "permanent_marker",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p>EXample</p>"
+    },
+    {
+      "id": "n-25",
+      "position": {
+        "x": -7361.566501483464,
+        "y": 434.78973063845905
+      },
+      "size": {
+        "width": 686.6568482335693,
+        "height": 968.1861560093326
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "<h1>The Comet's Secret</h1><p>Luna was a curious child who loved fixing broken things. In her backyard workshop, she had built something special: a small spaceship with a glowing engine she made from old parts and dreams.</p><p>One night, a bright comet streaked across the sky. It was different from other comets. This one sparkled with colors Luna had never seen before—purple, green, and silver all mixed together. The comet seemed to be calling to her.</p><p>\"I have to follow it,\" Luna whispered.</p><p>She climbed into her spaceship and started the engine. It hummed to life, lifting her up past the clouds and into space. The stars twinkled around her like a million tiny lanterns lighting her way.</p><p>The comet moved fast, but Luna's engine was clever. It could sense where the comet wanted to go. As she flew closer, the comet's tail grew brighter and brighter. Then something amazing happened.</p><p>The comet opened a doorway.</p><p>Luna flew through it and gasped. She had entered an alternative dimension where everything was backwards and forwards at the same time. Stars here didn't just shine—they sang. The darkness was made of soft velvet that felt warm, not cold.</p><p>In this strange new place, the comet finally stopped. It wasn't just a comet at all. It was a messenger. The comet spoke without words, filling Luna's mind with pictures and feelings. It showed her that some things are impossible in one world but perfectly normal in another.</p><p>\"You can fix anything,\" the comet seemed to say, \"even broken dreams. Your engine brought you here because you believed it could.\"</p><p>Luna smiled. She understood. The engine worked because she never stopped being curious. The alternative dimension existed because she dared to follow something mysterious.</p><p>When the comet sent her home, Luna's spaceship glided back through the doorway. Space looked different now. The stars seemed friendlier, like they were all keeping the same wonderful secret.</p><p>Back in her yard, Luna looked up at the night sky. The comet was gone, but she knew it would return someday. And when it did, she'd be ready for another adventure.</p><p>Her little engine hummed quietly, already dreaming of the next impossible journey.</p>"
+    },
+    {
+      "id": "n-26",
+      "position": {
+        "x": 111.16429427382803,
+        "y": 72.48021837584483
+      },
+      "size": {
+        "width": 114.14648697237116,
+        "height": 130.78089964673683
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-6",
+      "visualKind": "stickyNote",
+      "title": "<p>Space</p>"
+    },
+    {
+      "id": "n-27",
+      "position": {
+        "x": 17.51601161659977,
+        "y": 18.102117043467246
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "frameId": "f-6",
+      "visualKind": "shape",
+      "title": "[people_sticker]"
+    },
+    {
+      "id": "n-28",
+      "position": {
+        "x": 111.16429427382803,
+        "y": 72.48021837584483
+      },
+      "size": {
+        "width": 114.14648697237116,
+        "height": 130.78089964673683
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-7",
+      "visualKind": "stickyNote",
+      "title": "<p>Stars</p>"
+    },
+    {
+      "id": "n-29",
+      "position": {
+        "x": 17.51601161659977,
+        "y": 18.10214584948548
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "frameId": "f-7",
+      "visualKind": "shape",
+      "title": "[people_sticker]"
+    },
+    {
+      "id": "n-30",
+      "position": {
+        "x": 111.16429427382803,
+        "y": 72.48021837584483
+      },
+      "size": {
+        "width": 114.14648697237116,
+        "height": 130.78089964673683
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-8",
+      "visualKind": "stickyNote",
+      "title": "<p>Child</p>"
+    },
+    {
+      "id": "n-31",
+      "position": {
+        "x": 111.16429427382803,
+        "y": 72.48021837584483
+      },
+      "size": {
+        "width": 114.14648697237116,
+        "height": 130.78089964673683
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-9",
+      "visualKind": "stickyNote",
+      "title": "<p>Engine</p>"
+    },
+    {
+      "id": "n-32",
+      "position": {
+        "x": 111.16429427382803,
+        "y": 72.48021837584483
+      },
+      "size": {
+        "width": 114.14648697237116,
+        "height": 130.78089964673683
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-10",
+      "visualKind": "stickyNote",
+      "title": "<p>Comet</p>"
+    },
+    {
+      "id": "n-33",
+      "position": {
+        "x": 18.198830867932827,
+        "y": 21.87464204999432
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "frameId": "f-10",
+      "visualKind": "shape",
+      "title": "[people_sticker]"
+    },
+    {
+      "id": "n-34",
+      "position": {
+        "x": 111.16429427382796,
+        "y": 79.5699869283213
+      },
+      "size": {
+        "width": 114.14648697237116,
+        "height": 130.78089964673683
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-11",
+      "visualKind": "stickyNote",
+      "title": "<p>Alternative dimension</p>"
+    },
+    {
+      "id": "n-35",
+      "position": {
+        "x": 17.516040422616186,
+        "y": 20.117943084565553
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "frameId": "f-9",
+      "visualKind": "shape",
+      "title": "[people_sticker]"
+    },
+    {
+      "id": "n-36",
+      "position": {
+        "x": 17.516040422616186,
+        "y": 18.102117043467246
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "frameId": "f-8",
+      "visualKind": "shape",
+      "title": "[people_sticker]"
+    },
+    {
+      "id": "n-37",
+      "position": {
+        "x": -8057.999005590698,
+        "y": 1378.0983570940186
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[people_sticker]"
+    },
+    {
+      "id": "n-38",
+      "position": {
+        "x": -5771.045026493461,
+        "y": 710.6786428751614
+      },
+      "size": {
+        "width": 1121.0724052792968,
+        "height": 630.6032279696045
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[video]"
+    },
+    {
+      "id": "n-39",
+      "position": {
+        "x": -5763.480691138176,
+        "y": 1699.4092189716825
+      },
+      "size": {},
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJlvo7z4%3D/resources/images/3458764517410442138?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-40",
+      "position": {
+        "x": -3503.3636003725524,
+        "y": -1058.3266292298554
+      },
+      "size": {
+        "width": 400.0,
+        "height": 400.0
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJlvo7z4%3D/resources/images/3458764517410442131?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    }
+  ],
+  "edges": [],
+  "annotations": [],
+  "_metadata": {
+    "extracted_at": "2026-02-23T13:03:13.277917",
+    "total_items": 53,
+    "total_connectors": 0,
+    "frames": 12,
+    "nodes": 41,
+    "edges": 0
+  },
+  "_template": {
+    "name": "icebreaker-produce-movie",
+    "category": "miroverse",
+    "source": "miroverse",
+    "source_slug": "icebreaker-produce-movie",
+    "source_board_id": "uXjVJlvo7z4=",
+    "tags": [
+      "icebreaker games",
+      "ai accelerated",
+      "facilitator"
+    ],
+    "extracted_at": "2026-02-23T13:03:13.277939"
+  }
+}

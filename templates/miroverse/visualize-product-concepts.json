@@ -1,0 +1,360 @@
+{
+  "frames": [
+    {
+      "id": "f-0",
+      "title": "Your Product",
+      "position": {
+        "x": 3030.1304815299213,
+        "y": 896.0375612350615
+      },
+      "size": {
+        "width": 859.0133203969134,
+        "height": 483.2424587535159
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-1",
+      "title": "Style References",
+      "position": {
+        "x": 3030.1304815299213,
+        "y": 1486.656288668444
+      },
+      "size": {
+        "width": 859.0133203969134,
+        "height": 483.2424587535159
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-2",
+      "title": "Location Reference",
+      "position": {
+        "x": 3030.1304815299213,
+        "y": 2077.275016101823
+      },
+      "size": {
+        "width": 859.0133203969134,
+        "height": 483.2424587535159
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-3",
+      "title": "",
+      "position": {
+        "x": 2176.397842481431,
+        "y": 1178.963951897869
+      },
+      "size": {
+        "width": 572.9059209934397,
+        "height": 1049.0952400791307
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    }
+  ],
+  "nodes": [
+    {
+      "id": "n-0",
+      "position": {
+        "x": 4507.4794611777015,
+        "y": 1486.656288668444
+      },
+      "size": {
+        "width": 1664.479913620278,
+        "height": 1664.479913620278
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ9sOLe4%3D/resources/images/3458764517390762688?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-1",
+      "position": {
+        "x": 429.5066601984567,
+        "y": 241.62122937675795
+      },
+      "size": {
+        "width": 268.36284226374397,
+        "height": 402.5442633956159
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ9sOLe4%3D/resources/images/3458764517390762689?format=preview&redirect=false"
+        }
+      },
+      "frameId": "f-0",
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-2",
+      "position": {
+        "x": 204.91148396576904,
+        "y": 232.00465233863125
+      },
+      "size": {
+        "width": 307.1832251645159,
+        "height": 366.8281238296799
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ9sOLe4%3D/resources/images/3458764517390762690?format=preview&redirect=false"
+        }
+      },
+      "frameId": "f-1",
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-3",
+      "position": {
+        "x": 669.3091834875727,
+        "y": 249.48999595178853
+      },
+      "size": {
+        "width": 268.362842263744,
+        "height": 401.79881105599446
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ9sOLe4%3D/resources/images/3458764517390762691?format=preview&redirect=false"
+        }
+      },
+      "frameId": "f-1",
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-4",
+      "position": {
+        "x": 407.62193410130425,
+        "y": 351.5879614547815
+      },
+      "size": {
+        "width": 141.6132119800989,
+        "height": 197.60288005000837
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ9sOLe4%3D/resources/images/3458764517390762692?format=preview&redirect=false"
+        }
+      },
+      "frameId": "f-1",
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-5",
+      "position": {
+        "x": 414.1351384306167,
+        "y": 241.62122937675795
+      },
+      "size": {
+        "width": 268.1913172064246,
+        "height": 402.28697580963694
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ9sOLe4%3D/resources/images/3458764517390762693?format=preview&redirect=false"
+        }
+      },
+      "frameId": "f-2",
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-6",
+      "position": {
+        "x": 286.45296049671987,
+        "y": 135.05832728805558
+      },
+      "size": {
+        "width": 442.9133714314285
+      },
+      "style": {
+        "fontSize": 46,
+        "textColor": "#0e0e0e",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-3",
+      "visualKind": "text",
+      "title": "<p><strong style=\"color:rgb(14,14,14)\">Visualize Product Concepts</strong></p>"
+    },
+    {
+      "id": "n-7",
+      "position": {
+        "x": 286.45296049672714,
+        "y": 782.3106175075902
+      },
+      "size": {
+        "width": 450.3989241942857
+      },
+      "style": {
+        "fontSize": 24,
+        "textColor": "#595959",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "frameId": "f-3",
+      "visualKind": "text",
+      "title": "<p>Drop in your product photo, add a few visual style cues — and optionally, a location.</p><p>Then run the flow to generate a high-quality concept image that captures the look &amp; feel you’re aiming for.</p><p><br /></p><p>Perfect for creative exploration, moodboarding, or kickstarting a design direction.</p>"
+    },
+    {
+      "id": "n-8",
+      "position": {
+        "x": 114.0570862755946,
+        "y": 282.4207754604806
+      },
+      "size": {
+        "width": 100.11417255114247,
+        "height": 114.70367508372102
+      },
+      "style": {
+        "fillColor": "gray",
+        "align": "center"
+      },
+      "frameId": "f-3",
+      "visualKind": "stickyNote",
+      "title": "<p><strong>Product Shot</strong></p>"
+    },
+    {
+      "id": "n-9",
+      "position": {
+        "x": 339.89675125109596,
+        "y": 405.82732954068
+      },
+      "size": {
+        "width": 202.7995683194608,
+        "height": 132.10943307667733
+      },
+      "style": {
+        "fillColor": "gray",
+        "align": "center"
+      },
+      "frameId": "f-3",
+      "visualKind": "stickyNote",
+      "title": "<p><strong> Concept Image</strong></p>"
+    },
+    {
+      "id": "n-10",
+      "position": {
+        "x": 114.0570862755946,
+        "y": 405.82732954068
+      },
+      "size": {
+        "width": 100.11417255114247,
+        "height": 114.70367508372102
+      },
+      "style": {
+        "fillColor": "gray",
+        "align": "center"
+      },
+      "frameId": "f-3",
+      "visualKind": "stickyNote",
+      "title": "<p><strong>Style References</strong></p>"
+    },
+    {
+      "id": "n-11",
+      "position": {
+        "x": 114.0570862755946,
+        "y": 518.2448136725918
+      },
+      "size": {
+        "width": 100.11417255114247,
+        "height": 114.70367508372102
+      },
+      "style": {
+        "fillColor": "gray",
+        "align": "center"
+      },
+      "frameId": "f-3",
+      "visualKind": "stickyNote",
+      "title": "<p><strong> Location</strong></p>"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e-0",
+      "sourceNodeId": "n-8",
+      "targetNodeId": "n-9",
+      "style": {
+        "lineStyle": "solid",
+        "arrowHead": "end",
+        "borderColor": "#6631d7",
+        "strokeWidth": "3.0",
+        "extra": {
+          "connectorShape": "elbowed",
+          "sourcePosition": "auto",
+          "targetPosition": "auto"
+        }
+      }
+    },
+    {
+      "id": "e-1",
+      "sourceNodeId": "n-10",
+      "targetNodeId": "n-9",
+      "style": {
+        "lineStyle": "solid",
+        "arrowHead": "end",
+        "borderColor": "#6631d7",
+        "strokeWidth": "3.0",
+        "extra": {
+          "connectorShape": "elbowed",
+          "sourcePosition": "auto",
+          "targetPosition": "auto"
+        }
+      }
+    },
+    {
+      "id": "e-2",
+      "sourceNodeId": "n-11",
+      "targetNodeId": "n-9",
+      "style": {
+        "lineStyle": "solid",
+        "arrowHead": "end",
+        "borderColor": "#6631d7",
+        "strokeWidth": "3.0",
+        "extra": {
+          "connectorShape": "elbowed",
+          "sourcePosition": "auto",
+          "targetPosition": "auto"
+        }
+      }
+    }
+  ],
+  "annotations": [],
+  "_metadata": {
+    "extracted_at": "2026-02-23T12:50:47.276698",
+    "total_items": 16,
+    "total_connectors": 3,
+    "frames": 4,
+    "nodes": 12,
+    "edges": 3
+  },
+  "_template": {
+    "name": "visualize-product-concepts",
+    "category": "miroverse",
+    "source": "miroverse",
+    "source_slug": "visualize-product-concepts",
+    "source_board_id": "uXjVJ9sOLe4=",
+    "tags": [
+      "ai accelerated",
+      "image creation"
+    ],
+    "extracted_at": "2026-02-23T12:50:47.276744"
+  }
+}

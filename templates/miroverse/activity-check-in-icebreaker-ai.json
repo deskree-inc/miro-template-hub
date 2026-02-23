@@ -1,0 +1,644 @@
+{
+  "frames": [
+    {
+      "id": "f-0",
+      "title": "",
+      "position": {
+        "x": -7285.908489262423,
+        "y": -3061.524877205739
+      },
+      "size": {
+        "width": 559.9999999999999,
+        "height": 465.4914591465341
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-1",
+      "title": "",
+      "position": {
+        "x": -6665.92390181355,
+        "y": -3124.2113563081884
+      },
+      "size": {
+        "width": 359.9691748977464,
+        "height": 340.1185009416347
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-2",
+      "title": "",
+      "position": {
+        "x": -3681.6937977169055,
+        "y": -3193.7125895769937
+      },
+      "size": {
+        "width": 359.9691748977464,
+        "height": 201.11603440402416
+      },
+      "style": {
+        "fillColor": "#f0f0f0"
+      }
+    },
+    {
+      "id": "f-3",
+      "title": "Create your cards",
+      "position": {
+        "x": -5173.808849765228,
+        "y": -2694.3448550948415
+      },
+      "size": {
+        "width": 2560.2609291988983,
+        "height": 1199.8515033683288
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-4",
+      "title": "",
+      "position": {
+        "x": -3161.724622819159,
+        "y": -3171.3542134510453
+      },
+      "size": {
+        "width": 359.9691748977464,
+        "height": 245.8327866559207
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-5",
+      "title": "Capture insights",
+      "position": {
+        "x": -2589.8494882785785,
+        "y": -2694.3448550948415
+      },
+      "size": {
+        "width": 719.7810941834146,
+        "height": 1199.8515033683288
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    }
+  ],
+  "nodes": [
+    {
+      "id": "n-0",
+      "position": {
+        "x": 280.0000000000027,
+        "y": 132.5714285714285
+      },
+      "size": {
+        "width": 432.0
+      },
+      "style": {
+        "fontSize": 48,
+        "textColor": "#1c1c1e",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-0",
+      "visualKind": "text",
+      "title": "<p><strong>Check-in Icebreaker</strong></p>"
+    },
+    {
+      "id": "n-1",
+      "position": {
+        "x": 279.99999999999994,
+        "y": 255.42857142857116
+      },
+      "size": {
+        "width": 432.0
+      },
+      "style": {
+        "fontSize": 24,
+        "textColor": "#595959",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "frameId": "f-0",
+      "visualKind": "text",
+      "title": "<p>Let AI come up with the visuals that reflect the state, then discuss.</p>"
+    },
+    {
+      "id": "n-2",
+      "position": {
+        "x": 54.00000133216321,
+        "y": 321.7142857142854
+      },
+      "size": {
+        "width": 452.00000000000006,
+        "height": 79.7772216796875
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "frameId": "f-0",
+      "visualKind": "shape",
+      "title": "[unknown]"
+    },
+    {
+      "id": "n-3",
+      "position": {
+        "x": 179.9845874488732,
+        "y": 143.8327866559206
+      },
+      "size": {
+        "width": 295.9691749028571
+      },
+      "style": {
+        "fontSize": 24,
+        "textColor": "#1a1a1a",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-1",
+      "visualKind": "text",
+      "title": "<p><strong>Edit the pre-written prompts to create stunning visuals</strong></p>"
+    },
+    {
+      "id": "n-4",
+      "position": {
+        "x": 179.9845874488732,
+        "y": 256.68992951306336
+      },
+      "size": {
+        "width": 295.96917489428574
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#595959",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "frameId": "f-1",
+      "visualKind": "text",
+      "title": "<p>Fill in the blanks in the prompt to create a picture that reflects your state. Modify your prompt as needed.</p>"
+    },
+    {
+      "id": "n-5",
+      "position": {
+        "x": 52.2021076136738,
+        "y": 52.20210761367423
+      },
+      "size": {
+        "width": 40.404215227348686,
+        "height": 40.404215227349596
+      },
+      "style": {
+        "fillColor": "#1c1c1e",
+        "borderColor": "#ffffff",
+        "textColor": "#ffffff",
+        "fontSize": 18,
+        "fontFamily": "unknown",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "circle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-1",
+      "visualKind": "shape",
+      "title": "<p><strong>1</strong></p>"
+    },
+    {
+      "id": "n-6",
+      "position": {
+        "x": 179.98458744887412,
+        "y": 130.54460583259555
+      },
+      "size": {
+        "width": 295.96917489428574
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#1a1a1a",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-2",
+      "visualKind": "text",
+      "title": "<p><strong>To modify the prompt, edit directly in the field above the image placeholder.</strong></p>"
+    },
+    {
+      "id": "n-7",
+      "position": {
+        "x": 64.24149563450774,
+        "y": 51.98658863058398
+      },
+      "size": {
+        "width": 64.48299126901536,
+        "height": 39.97317726116671
+      },
+      "style": {
+        "fillColor": "#1c1c1e",
+        "borderColor": "#ffffff",
+        "textColor": "#ffffff",
+        "fontSize": 14,
+        "fontFamily": "unknown",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-2",
+      "visualKind": "shape",
+      "title": "<p><strong>Tip </strong></p>"
+    },
+    {
+      "id": "n-8",
+      "position": {
+        "x": 456.1141350214634,
+        "y": 638.7828945413073
+      },
+      "size": {
+        "width": 848.228270042928,
+        "height": 1058.137217654043
+      },
+      "style": {
+        "fillColor": "#f0f0f0",
+        "borderColor": "#ffffff",
+        "textColor": "#6631d7",
+        "fontSize": 14,
+        "fontFamily": "unknown",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-3",
+      "visualKind": "shape",
+      "title": "<p></p>"
+    },
+    {
+      "id": "n-9",
+      "position": {
+        "x": 219.42857142857156,
+        "y": 54.85714285714289
+      },
+      "size": {
+        "width": 374.85714285714283
+      },
+      "style": {
+        "fontSize": 32,
+        "textColor": "#1a1a1a",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-3",
+      "visualKind": "text",
+      "title": "<p><strong>Create your state cards</strong></p>"
+    },
+    {
+      "id": "n-10",
+      "position": {
+        "x": 292.82539440083974,
+        "y": 227.40174868973816
+      },
+      "size": {
+        "width": 493.65078879857145
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#595959",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "frameId": "f-3",
+      "visualKind": "text",
+      "title": "<ol><li data-list=\"bullet\"><span class=\"ql-ui\"></span>Use the wheel to help you get started</li><li data-list=\"bullet\"><span class=\"ql-ui\"></span>Fill in the blanks in the prompt, and edit it as needed</li></ol>"
+    },
+    {
+      "id": "n-11",
+      "position": {
+        "x": 456.1141350214634,
+        "y": 711.1184262627687
+      },
+      "size": {
+        "width": 848.228270042928,
+        "height": 842.8082810969668
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ9VE0Rg%3D/resources/images/3458764517265062679?format=preview&redirect=false"
+        }
+      },
+      "frameId": "f-3",
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-12",
+      "position": {
+        "x": 1711.887378349936,
+        "y": 366.65837759165345
+      },
+      "size": {
+        "width": 480.2490338993084,
+        "height": 480.2490338993084
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ9VE0Rg%3D/resources/images/0?format=preview&redirect=false"
+        }
+      },
+      "frameId": "f-3",
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-13",
+      "position": {
+        "x": 1711.887378349936,
+        "y": 910.9074114909619
+      },
+      "size": {
+        "width": 480.2490338993084,
+        "height": 480.2490338993084
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ9VE0Rg%3D/resources/images/0?format=preview&redirect=false"
+        }
+      },
+      "frameId": "f-3",
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-14",
+      "position": {
+        "x": 2256.136412249244,
+        "y": 366.65837759165345
+      },
+      "size": {
+        "width": 480.2490338993083,
+        "height": 480.2490338993083
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ9VE0Rg%3D/resources/images/0?format=preview&redirect=false"
+        }
+      },
+      "frameId": "f-3",
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-15",
+      "position": {
+        "x": 2256.136412249244,
+        "y": 910.9074114909619
+      },
+      "size": {
+        "width": 480.2490338993084,
+        "height": 480.2490338993084
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ9VE0Rg%3D/resources/images/0?format=preview&redirect=false"
+        }
+      },
+      "frameId": "f-3",
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-16",
+      "position": {
+        "x": 1167.6383444506273,
+        "y": 366.658377591653
+      },
+      "size": {
+        "width": 480.2490338993087,
+        "height": 480.2490338993087
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ9VE0Rg%3D/resources/images/0?format=preview&redirect=false"
+        }
+      },
+      "frameId": "f-3",
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-17",
+      "position": {
+        "x": 1167.6383444506273,
+        "y": 910.9074114909616
+      },
+      "size": {
+        "width": 480.2490338993087,
+        "height": 480.2490338993087
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ9VE0Rg%3D/resources/images/0?format=preview&redirect=false"
+        }
+      },
+      "frameId": "f-3",
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-18",
+      "position": {
+        "x": 96.24149563450737,
+        "y": 161.70087434486913
+      },
+      "size": {
+        "width": 64.48299126901536,
+        "height": 39.97317726116671
+      },
+      "style": {
+        "fillColor": "#1c1c1e",
+        "borderColor": "#ffffff",
+        "textColor": "#ffffff",
+        "fontSize": 14,
+        "fontFamily": "unknown",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-3",
+      "visualKind": "shape",
+      "title": "<p><strong>Tip </strong></p>"
+    },
+    {
+      "id": "n-19",
+      "position": {
+        "x": 179.9845874488732,
+        "y": 109.54707237020625
+      },
+      "size": {
+        "width": 295.9691749028571
+      },
+      "style": {
+        "fontSize": 24,
+        "textColor": "#1a1a1a",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-4",
+      "visualKind": "text",
+      "title": "<p><strong>Discuss as a team</strong></p>"
+    },
+    {
+      "id": "n-20",
+      "position": {
+        "x": 179.9845874488732,
+        "y": 175.26135808449203
+      },
+      "size": {
+        "width": 295.96917489428574
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#595959",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "frameId": "f-4",
+      "visualKind": "text",
+      "title": "<p>Share reflections with one another, then capture insights and action items as needed</p>"
+    },
+    {
+      "id": "n-21",
+      "position": {
+        "x": 52.2021076136738,
+        "y": 52.20210761367423
+      },
+      "size": {
+        "width": 40.404215227348686,
+        "height": 40.404215227349596
+      },
+      "style": {
+        "fillColor": "#1c1c1e",
+        "borderColor": "#ffffff",
+        "textColor": "#ffffff",
+        "fontSize": 18,
+        "fontFamily": "unknown",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "circle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-4",
+      "visualKind": "shape",
+      "title": "<p><strong>1</strong></p>"
+    },
+    {
+      "id": "n-22",
+      "position": {
+        "x": 164.57142857142867,
+        "y": 54.857142857143
+      },
+      "size": {
+        "width": 265.1428571428571
+      },
+      "style": {
+        "fontSize": 32,
+        "textColor": "#1a1a1a",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-5",
+      "visualKind": "text",
+      "title": "<p><strong>Capture insights</strong></p>"
+    },
+    {
+      "id": "n-23",
+      "position": {
+        "x": 625.8399480060104,
+        "y": 113.88305237713996
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "frameId": "f-5",
+      "visualKind": "shape",
+      "title": "[widgets_stack]"
+    },
+    {
+      "id": "n-24",
+      "position": {
+        "x": 82.5,
+        "y": 114.0
+      },
+      "size": {
+        "width": 85.33588235294118,
+        "height": 97.77176470588236
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": ""
+    }
+  ],
+  "edges": [],
+  "annotations": [],
+  "_metadata": {
+    "extracted_at": "2026-02-23T12:56:50.733980",
+    "total_items": 31,
+    "total_connectors": 0,
+    "frames": 6,
+    "nodes": 25,
+    "edges": 0
+  },
+  "_template": {
+    "name": "activity-check-in-icebreaker-ai",
+    "category": "miroverse",
+    "source": "miroverse",
+    "source_slug": "activity-check-in-icebreaker-ai",
+    "source_board_id": "uXjVJ9VE0Rg=",
+    "tags": [
+      "meetings & workshops",
+      "ai accelerated"
+    ],
+    "extracted_at": "2026-02-23T12:56:50.734002"
+  }
+}

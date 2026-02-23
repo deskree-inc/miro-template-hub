@@ -1,0 +1,1253 @@
+{
+  "frames": [
+    {
+      "id": "f-0",
+      "title": "",
+      "position": {
+        "x": -2063.012087373041,
+        "y": -673.304903252867
+      },
+      "size": {
+        "width": 571.385025105114,
+        "height": 301.9168618791782
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-1",
+      "title": "",
+      "position": {
+        "x": -2063.012087373041,
+        "y": -98.13391891787438
+      },
+      "size": {
+        "width": 571.3850251051143,
+        "height": 611.0114490586993
+      },
+      "style": {
+        "fillColor": "#f0f0f0"
+      }
+    },
+    {
+      "id": "f-2",
+      "title": "",
+      "position": {
+        "x": -2063.012087373041,
+        "y": 557.5595856272539
+      },
+      "size": {
+        "width": 571.385025105114,
+        "height": 516.2125499053941
+      },
+      "style": {
+        "fillColor": "#f0f0f0"
+      }
+    },
+    {
+      "id": "f-3",
+      "title": "",
+      "position": {
+        "x": 920.0674869408126,
+        "y": -461.09598704103337
+      },
+      "size": {
+        "width": 571.385025105114,
+        "height": 516.2125499053941
+      },
+      "style": {
+        "fillColor": "#f0f0f0"
+      }
+    },
+    {
+      "id": "f-4",
+      "title": "",
+      "position": {
+        "x": -2063.012087373041,
+        "y": -2244.5815400169195
+      },
+      "size": {
+        "width": 571.385025105114,
+        "height": 301.9168618791782
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    }
+  ],
+  "nodes": [
+    {
+      "id": "n-0",
+      "position": {
+        "x": 234.8148893949267,
+        "y": 98.85714285714539
+      },
+      "size": {
+        "width": 381.6297787885714
+      },
+      "style": {
+        "fontSize": 48,
+        "textColor": "#1c1c1e",
+        "fontFamily": "roobert",
+        "align": "left"
+      },
+      "frameId": "f-0",
+      "visualKind": "text",
+      "title": "<p><strong>UML Sequence </strong></p><p>Diagram</p>"
+    },
+    {
+      "id": "n-1",
+      "position": {
+        "x": 277.99999999999386,
+        "y": 204.00000000000227
+      },
+      "size": {
+        "width": 468.0
+      },
+      "style": {
+        "fontSize": 24,
+        "textColor": "#595959",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "frameId": "f-0",
+      "visualKind": "text",
+      "title": "<p>Create a sequence diagram with AI or draw it from scratch using Miro Diagrams</p>"
+    },
+    {
+      "id": "n-2",
+      "position": {
+        "x": -1397.468872222014,
+        "y": -797.0042212314984
+      },
+      "size": {
+        "width": 1804.8200067095404,
+        "height": 1886.1259759539553
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "Diagram"
+    },
+    {
+      "id": "n-3",
+      "position": {
+        "x": 1263.9595520199541,
+        "y": -797.0042212314966
+      },
+      "size": {
+        "width": 784.0,
+        "height": 1105.4399999999998
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "<h1></h1>"
+    },
+    {
+      "id": "n-4",
+      "position": {
+        "x": 277.9999999999939,
+        "y": 380.9743191083778
+      },
+      "size": {
+        "width": 481.56524458354994
+      },
+      "style": {
+        "fontSize": 22,
+        "textColor": "#595959",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "frameId": "f-1",
+      "visualKind": "text",
+      "title": "<ol><li data-list=\"ordered\"><span class=\"ql-ui\"></span>In the prompt box, select UML Sequence as Diagram Type</li><li data-list=\"ordered\"><span class=\"ql-ui\"></span>Type in a prompt to describe the diagram you want to create</li><li data-list=\"ordered\"><span class=\"ql-ui\"></span>Click run</li><li data-list=\"ordered\"><span class=\"ql-ui\"></span>You can then go into focus mode and adjust the diagram as needed</li></ol>"
+    },
+    {
+      "id": "n-5",
+      "position": {
+        "x": 239.9077712052885,
+        "y": 205.61750053157516
+      },
+      "size": {
+        "width": 389.99576189832186
+      },
+      "style": {
+        "fontSize": 28,
+        "textColor": "#1a1a1a",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-1",
+      "visualKind": "text",
+      "title": "<p><strong>Use the prompt box to generate the diagram</strong></p>"
+    },
+    {
+      "id": "n-6",
+      "position": {
+        "x": 198.95190107886884,
+        "y": 89.21983446466379
+      },
+      "size": {
+        "width": 46.88962849523381,
+        "height": 46.88962849523381
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ7nmR6o%3D/resources/images/3458764517264344128?format=preview&redirect=false"
+        }
+      },
+      "frameId": "f-1",
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-7",
+      "position": {
+        "x": 209.19715211974523,
+        "y": 550.1715960859581
+      },
+      "size": {
+        "width": 328.574523722362
+      },
+      "style": {
+        "fontSize": 22,
+        "textColor": "#595959",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "frameId": "f-1",
+      "visualKind": "text",
+      "title": "<p><em>Adjust the prompt for best results</em></p>"
+    },
+    {
+      "id": "n-8",
+      "position": {
+        "x": 102.0227423127788,
+        "y": 81.7293889916848
+      },
+      "size": {
+        "width": 102.45722608337798,
+        "height": 61.87051944119157
+      },
+      "style": {
+        "fillColor": "#1c1c1e",
+        "borderColor": "#ffffff",
+        "textColor": "#ffffff",
+        "fontSize": 22,
+        "fontFamily": "roobert_pro",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-1",
+      "visualKind": "shape",
+      "title": "<p><strong>Tip </strong></p>"
+    },
+    {
+      "id": "n-9",
+      "position": {
+        "x": 271.57936433496803,
+        "y": 377.6534472892142
+      },
+      "size": {
+        "width": 481.56524458354994
+      },
+      "style": {
+        "fontSize": 22,
+        "textColor": "#595959",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "frameId": "f-2",
+      "visualKind": "text",
+      "title": "<ol><li data-list=\"ordered\"><span class=\"ql-ui\"></span>In the diagram toolbar, click on the two arrows to open focus mode</li><li data-list=\"ordered\"><span class=\"ql-ui\"></span>Edit the diagram as per your needs</li><li data-list=\"ordered\"><span class=\"ql-ui\"></span>Come back to Canvas</li></ol>"
+    },
+    {
+      "id": "n-10",
+      "position": {
+        "x": 271.579364334968,
+        "y": 226.0258560422842
+      },
+      "size": {
+        "width": 453.3389481585012
+      },
+      "style": {
+        "fontSize": 28,
+        "textColor": "#1a1a1a",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-2",
+      "visualKind": "text",
+      "title": "<p><strong>Use focus mode to create the diagram from scratch or to edit AI generated diagram</strong></p>"
+    },
+    {
+      "id": "n-11",
+      "position": {
+        "x": 102.0227423127788,
+        "y": 81.72938899168525
+      },
+      "size": {
+        "width": 102.45722608337798,
+        "height": 61.87051944119157
+      },
+      "style": {
+        "fillColor": "#1c1c1e",
+        "borderColor": "#ffffff",
+        "textColor": "#ffffff",
+        "fontSize": 22,
+        "fontFamily": "roobert_pro",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-2",
+      "visualKind": "shape",
+      "title": "<p><strong>Tip </strong></p>"
+    },
+    {
+      "id": "n-12",
+      "position": {
+        "x": 271.57936433496803,
+        "y": 393.52661268642964
+      },
+      "size": {
+        "width": 481.56524458354994
+      },
+      "style": {
+        "fontSize": 22,
+        "textColor": "#595959",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "frameId": "f-3",
+      "visualKind": "text",
+      "title": "<ol><li data-list=\"ordered\"><span class=\"ql-ui\"></span>Fill in the prompt on the doc to generate the type of technical documentation needed</li><li data-list=\"ordered\"><span class=\"ql-ui\"></span>Click on Run!</li><li data-list=\"ordered\"><span class=\"ql-ui\"></span>Your doc will be ready in minutes</li></ol>"
+    },
+    {
+      "id": "n-13",
+      "position": {
+        "x": 271.57936433496803,
+        "y": 226.0258560422842
+      },
+      "size": {
+        "width": 453.3389481585012
+      },
+      "style": {
+        "fontSize": 28,
+        "textColor": "#1a1a1a",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-3",
+      "visualKind": "text",
+      "title": "<p><strong>Connect the diagram to a doc to generate technical documents with AI</strong></p>"
+    },
+    {
+      "id": "n-14",
+      "position": {
+        "x": 102.0227423127788,
+        "y": 81.72938899168525
+      },
+      "size": {
+        "width": 102.45722608337798,
+        "height": 61.87051944119157
+      },
+      "style": {
+        "fillColor": "#1c1c1e",
+        "borderColor": "#ffffff",
+        "textColor": "#ffffff",
+        "fontSize": 22,
+        "fontFamily": "roobert_pro",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-3",
+      "visualKind": "shape",
+      "title": "<p><strong>Tip </strong></p>"
+    },
+    {
+      "id": "n-15",
+      "position": {
+        "x": 211.54620008606554,
+        "y": 81.72938899168707
+      },
+      "size": {
+        "width": 46.88962849523381,
+        "height": 46.88962849523381
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ7nmR6o%3D/resources/images/3458764517264344128?format=preview&redirect=false"
+        }
+      },
+      "frameId": "f-3",
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-16",
+      "position": {
+        "x": -1397.468872222014,
+        "y": -2395.5399709565086
+      },
+      "size": {
+        "width": 974.5774769436975,
+        "height": 969.8347143850078
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "Sequence Diagram"
+    },
+    {
+      "id": "n-17",
+      "position": {
+        "x": 368.0963541667006,
+        "y": 77.89560695003638
+      },
+      "size": {
+        "width": 168.0,
+        "height": 75.046875
+      },
+      "style": {
+        "fillColor": "#FFFFFF",
+        "borderColor": "#000000",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-18",
+      "position": {
+        "x": 124.0,
+        "y": 77.89560695003638
+      },
+      "size": {
+        "width": 168.0,
+        "height": 75.046875
+      },
+      "style": {
+        "fillColor": "#FFFFFF",
+        "borderColor": "#000000",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-19",
+      "position": {
+        "x": 612.1927083332994,
+        "y": 77.89560695003638
+      },
+      "size": {
+        "width": 168.0,
+        "height": 75.046875
+      },
+      "style": {
+        "fillColor": "#FFFFFF",
+        "borderColor": "#000000",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-20",
+      "position": {
+        "x": 124.0,
+        "y": 304.23625441753575
+      },
+      "size": {
+        "width": 30.0,
+        "height": 233.634419935038
+      },
+      "style": {
+        "fillColor": "#FFFFFF",
+        "borderColor": "#000000",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-21",
+      "position": {
+        "x": 368.0,
+        "y": 306.27505171903795
+      },
+      "size": {
+        "width": 30.0,
+        "height": 233.63441993504
+      },
+      "style": {
+        "fillColor": "#FFFFFF",
+        "borderColor": "#000000",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-22",
+      "position": {
+        "x": 610.75,
+        "y": 553.1028395311387
+      },
+      "size": {
+        "width": 30.0,
+        "height": 170.984166958715
+      },
+      "style": {
+        "fillColor": "#FFFFFF",
+        "borderColor": "#000000",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-23",
+      "position": {
+        "x": 850.5774769436975,
+        "y": 81.98947090043839
+      },
+      "size": {
+        "width": 168.0,
+        "height": 83.9789418008769
+      },
+      "style": {
+        "fillColor": "#FFFFFF",
+        "borderColor": "#000000",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-24",
+      "position": {
+        "x": 367.5,
+        "y": 802.8982604409339
+      },
+      "size": {
+        "width": 30.0,
+        "height": 233.627830549962
+      },
+      "style": {
+        "fillColor": "#FFFFFF",
+        "borderColor": "#000000",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-25",
+      "position": {
+        "x": 850.5774769436975,
+        "y": 803.0207991100269
+      },
+      "size": {
+        "width": 30.0,
+        "height": 233.627830549962
+      },
+      "style": {
+        "fillColor": "#FFFFFF",
+        "borderColor": "#000000",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-26",
+      "position": {
+        "x": 367.5,
+        "y": 554.5922616865373
+      },
+      "size": {
+        "width": 30.0,
+        "height": 170.984166958715
+      },
+      "style": {
+        "fillColor": "#FFFFFF",
+        "borderColor": "#000000",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-27",
+      "position": {
+        "x": 124.0,
+        "y": 554.594923010527
+      },
+      "size": {
+        "width": 30.0,
+        "height": 170.984166958715
+      },
+      "style": {
+        "fillColor": "#FFFFFF",
+        "borderColor": "#000000",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-28",
+      "position": {
+        "x": 124.0,
+        "y": 803.0207991100269
+      },
+      "size": {
+        "width": 30.0,
+        "height": 233.627830549962
+      },
+      "style": {
+        "fillColor": "#FFFFFF",
+        "borderColor": "#000000",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-29",
+      "position": {
+        "x": 610.75,
+        "y": 803.0207991100269
+      },
+      "size": {
+        "width": 30.0,
+        "height": 233.627830549962
+      },
+      "style": {
+        "fillColor": "#FFFFFF",
+        "borderColor": "#000000",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-30",
+      "position": {
+        "x": 234.8148893949267,
+        "y": 98.85714285714539
+      },
+      "size": {
+        "width": 381.6297787885714
+      },
+      "style": {
+        "fontSize": 48,
+        "textColor": "#1c1c1e",
+        "fontFamily": "roobert",
+        "align": "left"
+      },
+      "frameId": "f-4",
+      "visualKind": "text",
+      "title": "<p><strong>UML Sequence </strong></p><p>Diagram</p>"
+    },
+    {
+      "id": "n-31",
+      "position": {
+        "x": 277.99999999999386,
+        "y": 204.00000000000227
+      },
+      "size": {
+        "width": 468.0
+      },
+      "style": {
+        "fontSize": 24,
+        "textColor": "#595959",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "frameId": "f-4",
+      "visualKind": "text",
+      "title": "<p>Create a sequence diagram with AI or draw it from scratch using Miro Diagrams</p>"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e-0",
+      "sourceNodeId": "n-29",
+      "targetNodeId": "n-28",
+      "style": {
+        "lineStyle": "dashed",
+        "arrowHead": "end",
+        "borderColor": "#000000",
+        "strokeWidth": "1.0",
+        "extra": {
+          "connectorShape": "straight",
+          "sourcePosition": "auto",
+          "targetPosition": "auto"
+        }
+      },
+      "label": "<p>Provide delivery</p>"
+    },
+    {
+      "id": "e-1",
+      "sourceNodeId": "n-29",
+      "targetNodeId": "n-25",
+      "style": {
+        "lineStyle": "solid",
+        "arrowHead": "end",
+        "borderColor": "#000000",
+        "strokeWidth": "1.0",
+        "extra": {
+          "connectorShape": "straight",
+          "sourcePosition": "auto",
+          "targetPosition": "auto"
+        }
+      }
+    },
+    {
+      "id": "e-2",
+      "sourceNodeId": "n-24",
+      "targetNodeId": "n-29",
+      "style": {
+        "lineStyle": "solid",
+        "arrowHead": "end",
+        "borderColor": "#000000",
+        "strokeWidth": "1.0",
+        "extra": {
+          "connectorShape": "straight",
+          "sourcePosition": "auto",
+          "targetPosition": "auto"
+        }
+      },
+      "label": "<p>Order transfer</p>"
+    },
+    {
+      "id": "e-3",
+      "sourceNodeId": "n-24",
+      "targetNodeId": "n-29",
+      "style": {
+        "lineStyle": "solid",
+        "arrowHead": "none",
+        "borderColor": "#000000",
+        "strokeWidth": "1.0",
+        "extra": {
+          "connectorShape": "straight",
+          "sourcePosition": "auto",
+          "targetPosition": "auto"
+        }
+      },
+      "label": "<p>Transfer of user data</p>"
+    },
+    {
+      "id": "e-4",
+      "sourceNodeId": "n-22",
+      "targetNodeId": "n-29",
+      "style": {
+        "lineStyle": "dashed",
+        "arrowHead": "none",
+        "borderColor": "#000000",
+        "strokeWidth": "1.0",
+        "extra": {
+          "connectorShape": "straight",
+          "sourcePosition": "auto",
+          "targetPosition": "auto"
+        }
+      }
+    },
+    {
+      "id": "e-5",
+      "sourceNodeId": "n-27",
+      "targetNodeId": "n-28",
+      "style": {
+        "lineStyle": "dashed",
+        "arrowHead": "none",
+        "borderColor": "#000000",
+        "strokeWidth": "1.0",
+        "extra": {
+          "connectorShape": "straight",
+          "sourcePosition": "auto",
+          "targetPosition": "auto"
+        }
+      }
+    },
+    {
+      "id": "e-6",
+      "sourceNodeId": "n-25",
+      "targetNodeId": "n-28",
+      "style": {
+        "lineStyle": "dashed",
+        "arrowHead": "end",
+        "borderColor": "#000000",
+        "strokeWidth": "1.0",
+        "extra": {
+          "connectorShape": "straight",
+          "sourcePosition": "auto",
+          "targetPosition": "auto"
+        }
+      },
+      "label": "<p>Send special offers</p>"
+    },
+    {
+      "id": "e-7",
+      "sourceNodeId": "n-28",
+      "targetNodeId": "n-24",
+      "style": {
+        "lineStyle": "solid",
+        "arrowHead": "end",
+        "borderColor": "#000000",
+        "strokeWidth": "1.0",
+        "extra": {
+          "connectorShape": "straight",
+          "sourcePosition": "auto",
+          "targetPosition": "auto"
+        }
+      },
+      "label": "<p>Order with promo</p>"
+    },
+    {
+      "id": "e-8",
+      "sourceNodeId": "n-27",
+      "targetNodeId": "n-26",
+      "style": {
+        "lineStyle": "solid",
+        "arrowHead": "end",
+        "borderColor": "#000000",
+        "strokeWidth": "1.0",
+        "extra": {
+          "connectorShape": "straight",
+          "sourcePosition": "auto",
+          "targetPosition": "auto"
+        }
+      },
+      "label": "<p>Order</p>"
+    },
+    {
+      "id": "e-9",
+      "sourceNodeId": "n-26",
+      "targetNodeId": "n-27",
+      "style": {
+        "lineStyle": "dashed",
+        "arrowHead": "end",
+        "borderColor": "#000000",
+        "strokeWidth": "1.0",
+        "extra": {
+          "connectorShape": "straight",
+          "sourcePosition": "auto",
+          "targetPosition": "auto"
+        }
+      },
+      "label": "<p>Provide delivery</p>"
+    },
+    {
+      "id": "e-10",
+      "sourceNodeId": "n-20",
+      "targetNodeId": "n-27",
+      "style": {
+        "lineStyle": "dashed",
+        "arrowHead": "none",
+        "borderColor": "#000000",
+        "strokeWidth": "1.0",
+        "extra": {
+          "connectorShape": "straight",
+          "sourcePosition": "auto",
+          "targetPosition": "auto"
+        }
+      }
+    },
+    {
+      "id": "e-11",
+      "sourceNodeId": "n-26",
+      "targetNodeId": "n-24",
+      "style": {
+        "lineStyle": "dashed",
+        "arrowHead": "none",
+        "borderColor": "#000000",
+        "strokeWidth": "1.0",
+        "extra": {
+          "connectorShape": "elbowed",
+          "sourcePosition": "auto",
+          "targetPosition": "auto"
+        }
+      }
+    },
+    {
+      "id": "e-12",
+      "sourceNodeId": "n-26",
+      "targetNodeId": "n-22",
+      "style": {
+        "lineStyle": "solid",
+        "arrowHead": "end",
+        "borderColor": "#000000",
+        "strokeWidth": "1.0",
+        "extra": {
+          "connectorShape": "straight",
+          "sourcePosition": "auto",
+          "targetPosition": "auto"
+        }
+      },
+      "label": "<p>Order transfer</p>"
+    },
+    {
+      "id": "e-13",
+      "sourceNodeId": "n-22",
+      "targetNodeId": "n-26",
+      "style": {
+        "lineStyle": "dashed",
+        "arrowHead": "none",
+        "borderColor": "#000000",
+        "strokeWidth": "1.0",
+        "extra": {
+          "connectorShape": "straight",
+          "sourcePosition": "auto",
+          "targetPosition": "auto"
+        }
+      },
+      "label": "<p>Provide delivery</p>"
+    },
+    {
+      "id": "e-14",
+      "sourceNodeId": "n-21",
+      "targetNodeId": "n-26",
+      "style": {
+        "lineStyle": "dashed",
+        "arrowHead": "none",
+        "borderColor": "#000000",
+        "strokeWidth": "1.0",
+        "extra": {
+          "connectorShape": "elbowed",
+          "sourcePosition": "auto",
+          "targetPosition": "auto"
+        }
+      }
+    },
+    {
+      "id": "e-15",
+      "sourceNodeId": "n-23",
+      "targetNodeId": "n-25",
+      "style": {
+        "lineStyle": "dashed",
+        "arrowHead": "none",
+        "borderColor": "#000000",
+        "strokeWidth": "1.0",
+        "extra": {
+          "connectorShape": "straight",
+          "sourcePosition": "auto",
+          "targetPosition": "auto"
+        }
+      }
+    },
+    {
+      "id": "e-16",
+      "sourceNodeId": "n-19",
+      "targetNodeId": "n-22",
+      "style": {
+        "lineStyle": "dashed",
+        "arrowHead": "none",
+        "borderColor": "#000000",
+        "strokeWidth": "1.0",
+        "extra": {
+          "connectorShape": "straight",
+          "sourcePosition": "auto",
+          "targetPosition": "auto"
+        }
+      }
+    },
+    {
+      "id": "e-17",
+      "sourceNodeId": "n-20",
+      "targetNodeId": "n-21",
+      "style": {
+        "lineStyle": "solid",
+        "arrowHead": "end",
+        "borderColor": "#000000",
+        "strokeWidth": "1.0",
+        "extra": {
+          "connectorShape": "straight",
+          "sourcePosition": "auto",
+          "targetPosition": "auto"
+        }
+      },
+      "label": "<p>Order</p>"
+    },
+    {
+      "id": "e-18",
+      "sourceNodeId": "n-20",
+      "targetNodeId": "n-21",
+      "style": {
+        "lineStyle": "dashed",
+        "arrowHead": "start",
+        "borderColor": "#000000",
+        "strokeWidth": "1.0",
+        "extra": {
+          "connectorShape": "straight",
+          "sourcePosition": "auto",
+          "targetPosition": "auto"
+        }
+      },
+      "label": "<p>Provide promo</p>"
+    },
+    {
+      "id": "e-19",
+      "sourceNodeId": "n-21",
+      "targetNodeId": "n-20",
+      "style": {
+        "lineStyle": "dashed",
+        "arrowHead": "end",
+        "borderColor": "#000000",
+        "strokeWidth": "1.0",
+        "extra": {
+          "connectorShape": "straight",
+          "sourcePosition": "auto",
+          "targetPosition": "auto"
+        }
+      },
+      "label": "<p>Dinner</p>"
+    },
+    {
+      "id": "e-20",
+      "sourceNodeId": "n-20",
+      "targetNodeId": "n-21",
+      "style": {
+        "lineStyle": "solid",
+        "arrowHead": "end",
+        "borderColor": "#000000",
+        "strokeWidth": "1.0",
+        "extra": {
+          "connectorShape": "straight",
+          "sourcePosition": "auto",
+          "targetPosition": "auto"
+        }
+      },
+      "label": "<p>Payment</p>"
+    },
+    {
+      "id": "e-21",
+      "sourceNodeId": "n-20",
+      "targetNodeId": "n-21",
+      "style": {
+        "lineStyle": "solid",
+        "arrowHead": "end",
+        "borderColor": "#000000",
+        "strokeWidth": "1.0",
+        "extra": {
+          "connectorShape": "straight",
+          "sourcePosition": "auto",
+          "targetPosition": "auto"
+        }
+      },
+      "label": "<p>Feedback</p>"
+    },
+    {
+      "id": "e-22",
+      "sourceNodeId": "n-17",
+      "targetNodeId": "n-21",
+      "style": {
+        "lineStyle": "dashed",
+        "arrowHead": "none",
+        "borderColor": "#000000",
+        "strokeWidth": "1.0",
+        "extra": {
+          "connectorShape": "straight",
+          "sourcePosition": "auto",
+          "targetPosition": "auto"
+        }
+      }
+    },
+    {
+      "id": "e-23",
+      "sourceNodeId": "n-18",
+      "targetNodeId": "n-20",
+      "style": {
+        "lineStyle": "dashed",
+        "arrowHead": "none",
+        "borderColor": "#000000",
+        "strokeWidth": "1.0",
+        "extra": {
+          "connectorShape": "straight",
+          "sourcePosition": "auto",
+          "targetPosition": "auto"
+        }
+      }
+    }
+  ],
+  "annotations": [],
+  "_metadata": {
+    "extracted_at": "2026-02-23T12:59:00.475689",
+    "total_items": 37,
+    "total_connectors": 24,
+    "frames": 5,
+    "nodes": 32,
+    "edges": 24
+  },
+  "_template": {
+    "name": "uml-sequence-diagram-ai-template",
+    "category": "miroverse",
+    "source": "miroverse",
+    "source_slug": "uml-sequence-diagram-template-ai",
+    "source_board_id": "uXjVJ7nmR6o=",
+    "tags": [
+      "uml diagrams",
+      "ai accelerated",
+      "ux",
+      "diagramming & mapping",
+      "development"
+    ],
+    "extracted_at": "2026-02-23T12:59:00.475770"
+  }
+}

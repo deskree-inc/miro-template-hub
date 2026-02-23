@@ -1,0 +1,836 @@
+{
+  "frames": [
+    {
+      "id": "f-0",
+      "title": "Ice Breaker",
+      "position": {
+        "x": -7379.7336727861775,
+        "y": -3532.4506123377064
+      },
+      "size": {
+        "width": 1280.0047250038115,
+        "height": 720.073386337191
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-1",
+      "title": "",
+      "position": {
+        "x": -8851.705210185828,
+        "y": -3715.63016264916
+      },
+      "size": {
+        "width": 559.9999999999999,
+        "height": 353.7142857142841
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-2",
+      "title": "",
+      "position": {
+        "x": -8231.720622736955,
+        "y": -3769.570912178341
+      },
+      "size": {
+        "width": 359.9691748977464,
+        "height": 245.83278665592127
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-3",
+      "title": "",
+      "position": {
+        "x": -5261.961664014394,
+        "y": -3692.4778201612726
+      },
+      "size": {
+        "width": 359.9691748977464,
+        "height": 400.0189706900593
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-4",
+      "title": "Liked",
+      "position": {
+        "x": -4410.171659513597,
+        "y": -3532.5967584145947
+      },
+      "size": {
+        "width": 1279.6108341038494,
+        "height": 719.7810941834152
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-5",
+      "title": "Learned",
+      "position": {
+        "x": -3098.5608254097474,
+        "y": -3532.5967584145947
+      },
+      "size": {
+        "width": 1279.6108341038494,
+        "height": 719.7810941834152
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-6",
+      "title": "Lacked",
+      "position": {
+        "x": -4410.171659513597,
+        "y": -2780.815664231184
+      },
+      "size": {
+        "width": 1279.6108341038494,
+        "height": 719.7810941834152
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-7",
+      "title": "Longed for",
+      "position": {
+        "x": -3098.5608254097474,
+        "y": -2780.815664231184
+      },
+      "size": {
+        "width": 1279.6108341038494,
+        "height": 719.7810941834152
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-8",
+      "title": "",
+      "position": {
+        "x": -5261.961664014394,
+        "y": -3070.9390693341516
+      },
+      "size": {
+        "width": 359.9691748977464,
+        "height": 758.4668711098831
+      },
+      "style": {
+        "fillColor": "#f0f0f0"
+      }
+    },
+    {
+      "id": "f-9",
+      "title": "",
+      "position": {
+        "x": -2118.770820908949,
+        "y": -3769.570912178342
+      },
+      "size": {
+        "width": 359.9691748977464,
+        "height": 245.83278665592064
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    }
+  ],
+  "nodes": [
+    {
+      "id": "n-0",
+      "position": {
+        "x": 1186.0635424745865,
+        "y": 113.88307055305035
+      },
+      "size": {
+        "width": 127.05867978394025,
+        "height": 159.00128929416732
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "frameId": "f-0",
+      "visualKind": "shape",
+      "title": "[widgets_stack]"
+    },
+    {
+      "id": "n-1",
+      "position": {
+        "x": 79.86523482814987,
+        "y": 118.16516044330889
+      },
+      "size": {
+        "width": 85.33588235294118,
+        "height": 97.77176470588236
+      },
+      "style": {
+        "fillColor": "dark_blue",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": ""
+    },
+    {
+      "id": "n-2",
+      "position": {
+        "x": -1906.7862334600768,
+        "y": -3892.4873055063026
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[data_table_format]"
+    },
+    {
+      "id": "n-3",
+      "position": {
+        "x": 280.00000000000176,
+        "y": 132.57142857142827
+      },
+      "size": {
+        "width": 432.0
+      },
+      "style": {
+        "fontSize": 48,
+        "textColor": "#1c1c1e",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-1",
+      "visualKind": "text",
+      "title": "<p><strong>4 L&#39;s Retrospective</strong></p>"
+    },
+    {
+      "id": "n-4",
+      "position": {
+        "x": 279.99999999999994,
+        "y": 255.42857142857002
+      },
+      "size": {
+        "width": 432.0
+      },
+      "style": {
+        "fontSize": 24,
+        "textColor": "#595959",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "frameId": "f-1",
+      "visualKind": "text",
+      "title": "<p>Reflect on what your team liked, learned, lacked, and longed for.</p>"
+    },
+    {
+      "id": "n-5",
+      "position": {
+        "x": 179.9845874488732,
+        "y": 109.54707237020654
+      },
+      "size": {
+        "width": 295.9691749028571
+      },
+      "style": {
+        "fontSize": 24,
+        "textColor": "#1a1a1a",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-2",
+      "visualKind": "text",
+      "title": "<p><strong>Ice Breaker</strong></p>"
+    },
+    {
+      "id": "n-6",
+      "position": {
+        "x": 179.9845874488732,
+        "y": 175.26135808449231
+      },
+      "size": {
+        "width": 295.96917489428574
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#595959",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "frameId": "f-2",
+      "visualKind": "text",
+      "title": "<p>Let&#39;s start with a fun activity. If this sprint was an animal, what would it be?</p>"
+    },
+    {
+      "id": "n-7",
+      "position": {
+        "x": 52.2021076136738,
+        "y": 52.2021076136744
+      },
+      "size": {
+        "width": 40.404215227348686,
+        "height": 40.404215227349596
+      },
+      "style": {
+        "fillColor": "#1c1c1e",
+        "borderColor": "#ffffff",
+        "textColor": "#ffffff",
+        "fontSize": 18,
+        "fontFamily": "unknown",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "circle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-2",
+      "visualKind": "shape",
+      "title": "<p><strong>1</strong></p>"
+    },
+    {
+      "id": "n-8",
+      "position": {
+        "x": 264.0,
+        "y": 54.85714285714283
+      },
+      "size": {
+        "width": 464.0
+      },
+      "style": {
+        "fontSize": 32,
+        "textColor": "#1a1a1a",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-0",
+      "visualKind": "text",
+      "title": "<p><strong>If this sprint was an animal…</strong></p>"
+    },
+    {
+      "id": "n-9",
+      "position": {
+        "x": 179.9845874488732,
+        "y": 109.54707237020654
+      },
+      "size": {
+        "width": 295.9691749028571
+      },
+      "style": {
+        "fontSize": 24,
+        "textColor": "#1a1a1a",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-3",
+      "visualKind": "text",
+      "title": "<p><strong>4 Ls Retro Reflection</strong></p>"
+    },
+    {
+      "id": "n-10",
+      "position": {
+        "x": 179.9845874488732,
+        "y": 168.9848956032509
+      },
+      "size": {
+        "width": 295.96917489428574
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#595959",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "frameId": "f-3",
+      "visualKind": "text",
+      "title": "<p>Reflect on what your team liked, learned, lacked, and longed for.</p>"
+    },
+    {
+      "id": "n-11",
+      "position": {
+        "x": 52.2021076136738,
+        "y": 52.2021076136744
+      },
+      "size": {
+        "width": 40.404215227348686,
+        "height": 40.404215227349596
+      },
+      "style": {
+        "fillColor": "#1c1c1e",
+        "borderColor": "#ffffff",
+        "textColor": "#ffffff",
+        "fontSize": 18,
+        "fontFamily": "unknown",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "circle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-3",
+      "visualKind": "shape",
+      "title": "<p><strong>2</strong></p>"
+    },
+    {
+      "id": "n-12",
+      "position": {
+        "x": 21.99999882582634,
+        "y": 218.48298459001222
+      },
+      "size": {
+        "width": 315.96917724609375,
+        "height": 63.533935546875
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "frameId": "f-3",
+      "visualKind": "shape",
+      "title": "[unknown]"
+    },
+    {
+      "id": "n-13",
+      "position": {
+        "x": 179.9845874488732,
+        "y": 313.8778092005396
+      },
+      "size": {
+        "width": 339.8508871263032,
+        "height": 71.72177812730425
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "frameId": "f-3",
+      "visualKind": "shape",
+      "title": "[action_button]"
+    },
+    {
+      "id": "n-14",
+      "position": {
+        "x": 1185.6694213464218,
+        "y": 113.88281609030184
+      },
+      "size": {
+        "width": 127.05867978394025,
+        "height": 159.00128929416732
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "frameId": "f-4",
+      "visualKind": "shape",
+      "title": "[widgets_stack]"
+    },
+    {
+      "id": "n-15",
+      "position": {
+        "x": 79.86523482814987,
+        "y": 118.16516044330889
+      },
+      "size": {
+        "width": 85.33588235294118,
+        "height": 97.77176470588236
+      },
+      "style": {
+        "fillColor": "dark_blue",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": ""
+    },
+    {
+      "id": "n-16",
+      "position": {
+        "x": 469.18739612227756,
+        "y": 54.85714285714323
+      },
+      "size": {
+        "width": 874.3747922514285
+      },
+      "style": {
+        "fontSize": 32,
+        "textColor": "#1a1a1a",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-4",
+      "visualKind": "text",
+      "title": "<p><strong>What did the team like?</strong></p>"
+    },
+    {
+      "id": "n-17",
+      "position": {
+        "x": 1185.6694213464218,
+        "y": 113.88281609030184
+      },
+      "size": {
+        "width": 127.05867978394025,
+        "height": 159.00128929416732
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "frameId": "f-5",
+      "visualKind": "shape",
+      "title": "[widgets_stack]"
+    },
+    {
+      "id": "n-18",
+      "position": {
+        "x": 79.86523482814987,
+        "y": 118.16516044330889
+      },
+      "size": {
+        "width": 85.33588235294118,
+        "height": 97.77176470588236
+      },
+      "style": {
+        "fillColor": "yellow",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": ""
+    },
+    {
+      "id": "n-19",
+      "position": {
+        "x": 469.1873961222775,
+        "y": 54.85714285714323
+      },
+      "size": {
+        "width": 874.3747922514285
+      },
+      "style": {
+        "fontSize": 32,
+        "textColor": "#1a1a1a",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-5",
+      "visualKind": "text",
+      "title": "<p><strong>What did the team learn?</strong></p>"
+    },
+    {
+      "id": "n-20",
+      "position": {
+        "x": 1185.6694213464218,
+        "y": 113.88281609030184
+      },
+      "size": {
+        "width": 127.05867978394025,
+        "height": 159.00128929416732
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "frameId": "f-6",
+      "visualKind": "shape",
+      "title": "[widgets_stack]"
+    },
+    {
+      "id": "n-21",
+      "position": {
+        "x": 79.86523482814987,
+        "y": 118.16516044330889
+      },
+      "size": {
+        "width": 85.33588235294118,
+        "height": 97.77176470588236
+      },
+      "style": {
+        "fillColor": "light_pink",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": ""
+    },
+    {
+      "id": "n-22",
+      "position": {
+        "x": 469.18739612227756,
+        "y": 54.85714285714323
+      },
+      "size": {
+        "width": 874.3747922514285
+      },
+      "style": {
+        "fontSize": 32,
+        "textColor": "#1a1a1a",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-6",
+      "visualKind": "text",
+      "title": "<p><strong>What did the team lack?</strong></p>"
+    },
+    {
+      "id": "n-23",
+      "position": {
+        "x": 469.1873961222775,
+        "y": 54.85714285714323
+      },
+      "size": {
+        "width": 874.3747922514285
+      },
+      "style": {
+        "fontSize": 32,
+        "textColor": "#1a1a1a",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-7",
+      "visualKind": "text",
+      "title": "<p><strong>What did the team long for?</strong></p>"
+    },
+    {
+      "id": "n-24",
+      "position": {
+        "x": 1185.6694213464218,
+        "y": 113.88281609030184
+      },
+      "size": {
+        "width": 127.05867978394025,
+        "height": 159.00128929416732
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "frameId": "f-7",
+      "visualKind": "shape",
+      "title": "[widgets_stack]"
+    },
+    {
+      "id": "n-25",
+      "position": {
+        "x": 79.86523482814987,
+        "y": 118.16516044330889
+      },
+      "size": {
+        "width": 85.33588235294118,
+        "height": 97.77176470588236
+      },
+      "style": {
+        "fillColor": "dark_green",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": ""
+    },
+    {
+      "id": "n-26",
+      "position": {
+        "x": 32.0000000000031,
+        "y": 170.9884921351382
+      },
+      "size": {
+        "width": 295.9691748977406,
+        "height": 712.0417830873179
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "frameId": "f-8",
+      "visualKind": "shape",
+      "title": "[people]"
+    },
+    {
+      "id": "n-27",
+      "position": {
+        "x": 31.99999999999855,
+        "y": 32.00000000000006
+      },
+      "size": {
+        "width": 295.96914217215664,
+        "height": 134.5592271568754
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "frameId": "f-8",
+      "visualKind": "shape",
+      "title": "[dot_voting]"
+    },
+    {
+      "id": "n-28",
+      "position": {
+        "x": 179.9845874488732,
+        "y": 109.54707237020668
+      },
+      "size": {
+        "width": 295.9691749028571
+      },
+      "style": {
+        "fontSize": 24,
+        "textColor": "#1a1a1a",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-9",
+      "visualKind": "text",
+      "title": "<p><strong>AI Action plan</strong></p>"
+    },
+    {
+      "id": "n-29",
+      "position": {
+        "x": 179.9845874488732,
+        "y": 175.26135808449246
+      },
+      "size": {
+        "width": 295.96917489428574
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#595959",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "frameId": "f-9",
+      "visualKind": "text",
+      "title": "<p>Create an action plan based on the insights from this retro. Edit the prompt as needed.</p>"
+    },
+    {
+      "id": "n-30",
+      "position": {
+        "x": 52.2021076136738,
+        "y": 52.20210761367454
+      },
+      "size": {
+        "width": 40.404215227348686,
+        "height": 40.404215227349596
+      },
+      "style": {
+        "fillColor": "#1c1c1e",
+        "borderColor": "#ffffff",
+        "textColor": "#ffffff",
+        "fontSize": 18,
+        "fontFamily": "unknown",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "circle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-9",
+      "visualKind": "shape",
+      "title": "<p><strong>3</strong></p>"
+    },
+    {
+      "id": "n-31",
+      "position": {
+        "x": -6070.792282631393,
+        "y": -3380.487305506302
+      },
+      "size": {},
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ9V5ji4%3D/resources/images/3458764517268250558?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    }
+  ],
+  "edges": [],
+  "annotations": [],
+  "_metadata": {
+    "extracted_at": "2026-02-23T12:52:17.838555",
+    "total_items": 42,
+    "total_connectors": 0,
+    "frames": 10,
+    "nodes": 32,
+    "edges": 0
+  },
+  "_template": {
+    "name": "ai-4-l-s-retrospective-template",
+    "category": "miroverse",
+    "source": "miroverse",
+    "source_slug": "4-ls-retrospective-template-ai",
+    "source_board_id": "uXjVJ9V5ji4=",
+    "tags": [
+      "workshops",
+      "meetings & workshops",
+      "decision making",
+      "meetings",
+      "retrospective",
+      "planning",
+      "ai accelerated",
+      "agile",
+      "marketing",
+      "agile workflows"
+    ],
+    "extracted_at": "2026-02-23T12:52:17.838592"
+  }
+}

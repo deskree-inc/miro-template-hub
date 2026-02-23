@@ -1,0 +1,731 @@
+{
+  "frames": [
+    {
+      "id": "f-0",
+      "title": "Next steps",
+      "position": {
+        "x": 312.0096047172417,
+        "y": -276.3161980643713
+      },
+      "size": {
+        "width": 887.2892911370529,
+        "height": 902.5242475307722
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-1",
+      "title": "",
+      "position": {
+        "x": -2525.450448581664,
+        "y": -616.7267792381581
+      },
+      "size": {
+        "width": 285.21787596816216,
+        "height": 221.7030851831987
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-2",
+      "title": "",
+      "position": {
+        "x": 1100.0723500802546,
+        "y": -433.0105265427053
+      },
+      "size": {
+        "width": 624.0027109128413,
+        "height": 589.1355905741043
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-3",
+      "title": "",
+      "position": {
+        "x": -2100.7057655489575,
+        "y": -93.2578125
+      },
+      "size": {
+        "width": 359.9691748977464,
+        "height": 1268.6410186595149
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-4",
+      "title": "",
+      "position": {
+        "x": -347.0208971166244,
+        "y": -564.4180669810748
+      },
+      "size": {
+        "width": 359.9691748977464,
+        "height": 326.3205096973651
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    }
+  ],
+  "nodes": [
+    {
+      "id": "n-0",
+      "position": {
+        "x": -1275.8510042135438,
+        "y": -603.3177895722541
+      },
+      "size": {
+        "width": 1218.6252198586712,
+        "height": 248.52106451500632
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[kanban]"
+    },
+    {
+      "id": "n-1",
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "size": {
+        "width": 348.80149405614924,
+        "height": 65.40028013552798
+      },
+      "style": {
+        "borderColor": "#fac710"
+      },
+      "visualKind": "card",
+      "title": "<p><br /></p>",
+      "body": ""
+    },
+    {
+      "id": "n-2",
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "size": {
+        "width": 348.80149405614924,
+        "height": 65.40028013552798
+      },
+      "style": {
+        "borderColor": "#85b8ff"
+      },
+      "visualKind": "card",
+      "title": "<p><br /></p>",
+      "body": ""
+    },
+    {
+      "id": "n-3",
+      "position": {
+        "x": 97.77119657331798,
+        "y": 117.11967135753588
+      },
+      "size": {
+        "width": 157.7685546875,
+        "height": 197.431640625
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "frameId": "f-0",
+      "visualKind": "shape",
+      "title": "[widgets_stack]"
+    },
+    {
+      "id": "n-4",
+      "position": {
+        "x": 79.86523482814987,
+        "y": 118.16516044330889
+      },
+      "size": {
+        "width": 368.15000000000003,
+        "height": 421.8
+      },
+      "style": {
+        "fillColor": "yellow",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": ""
+    },
+    {
+      "id": "n-5",
+      "position": {
+        "x": -2622.506961732217,
+        "y": -466.69440789279247
+      },
+      "size": {
+        "width": 87.14285714285714
+      },
+      "style": {
+        "fontSize": 10,
+        "textColor": "#1a1a1a",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong>For this template</strong></p>"
+    },
+    {
+      "id": "n-6",
+      "position": {
+        "x": -2525.4504485816633,
+        "y": -365.7370495283401
+      },
+      "size": {
+        "width": 318.83087469180316,
+        "height": 67.28573654210132
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[action_button]"
+    },
+    {
+      "id": "n-7",
+      "position": {
+        "x": 143.22005953739756,
+        "y": 84.31869068978813
+      },
+      "size": {
+        "width": 254.41985252571425
+      },
+      "style": {
+        "fontSize": 32,
+        "textColor": "#1a1a1a",
+        "fontFamily": "roobert",
+        "align": "left"
+      },
+      "frameId": "f-1",
+      "visualKind": "text",
+      "title": "<p><strong>Sprint</strong></p><p><strong>Planning</strong></p>"
+    },
+    {
+      "id": "n-8",
+      "position": {
+        "x": 142.60893798408108,
+        "y": 163.2352266528087
+      },
+      "size": {
+        "width": 249.9068553142857
+      },
+      "style": {
+        "fontSize": 16,
+        "textColor": "#9a9994",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "frameId": "f-1",
+      "visualKind": "text",
+      "title": "<p><span style=\"color:rgb(154,153,148)\">Define, plan, and manage your next sprint with &#xfeff;your team.</span></p>"
+    },
+    {
+      "id": "n-9",
+      "position": {
+        "x": -2525.450448581664,
+        "y": -420.2041035410082
+      },
+      "size": {
+        "width": 318.8308746918053,
+        "height": 67.28573654210177
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[action_button]"
+    },
+    {
+      "id": "n-10",
+      "position": {
+        "x": 184.85370685809988,
+        "y": 44.77365835034425
+      },
+      "size": {
+        "width": 322.56777397714285
+      },
+      "style": {
+        "fontSize": 24,
+        "textColor": "#1a1a1a",
+        "fontFamily": "roobert",
+        "align": "left"
+      },
+      "frameId": "f-2",
+      "visualKind": "text",
+      "title": "<p><strong>Interactive Stickers</strong></p>"
+    },
+    {
+      "id": "n-11",
+      "position": {
+        "x": 238.61500252188915,
+        "y": 100.113352055804
+      },
+      "size": {
+        "width": 430.0903653142857
+      },
+      "style": {
+        "fontSize": 16,
+        "textColor": "#9a9994",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "frameId": "f-2",
+      "visualKind": "text",
+      "title": "<p>Use interactive stickers to quickly capture feedback, emotions, or alignment from your team</p>"
+    },
+    {
+      "id": "n-12",
+      "position": {
+        "x": 122.89754876797286,
+        "y": 250.81316137069803
+      },
+      "size": {
+        "width": 177.10380668844834,
+        "height": 177.10380668844834
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "frameId": "f-2",
+      "visualKind": "shape",
+      "title": "[stamp]"
+    },
+    {
+      "id": "n-13",
+      "position": {
+        "x": 312.00135545642155,
+        "y": 250.8131613706978
+      },
+      "size": {
+        "width": 177.1038066884487,
+        "height": 177.1038066884487
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "frameId": "f-2",
+      "visualKind": "shape",
+      "title": "[stamp]"
+    },
+    {
+      "id": "n-14",
+      "position": {
+        "x": 501.10516214487,
+        "y": 250.8131613706978
+      },
+      "size": {
+        "width": 177.10380668844869,
+        "height": 177.10380668844869
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "frameId": "f-2",
+      "visualKind": "shape",
+      "title": "[stamp]"
+    },
+    {
+      "id": "n-15",
+      "position": {
+        "x": 311.88887168835885,
+        "y": 439.9169680591483
+      },
+      "size": {
+        "width": 177.10380668844738,
+        "height": 177.10380668844738
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "frameId": "f-2",
+      "visualKind": "shape",
+      "title": "[stamp]"
+    },
+    {
+      "id": "n-16",
+      "position": {
+        "x": 500.99267837680753,
+        "y": 439.91696805914967
+      },
+      "size": {
+        "width": 177.1038066884502,
+        "height": 177.1038066884502
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "frameId": "f-2",
+      "visualKind": "shape",
+      "title": "[stamp]"
+    },
+    {
+      "id": "n-17",
+      "position": {
+        "x": 134.78506499990993,
+        "y": 447.20034306065736
+      },
+      "size": {
+        "width": 177.10380668844977,
+        "height": 177.10380668844977
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "frameId": "f-2",
+      "visualKind": "shape",
+      "title": "[stamp]"
+    },
+    {
+      "id": "n-18",
+      "position": {
+        "x": 264.4201947542364,
+        "y": 155.7474663881631
+      },
+      "size": {
+        "width": 133.43290608361607,
+        "height": 152.87790244756013
+      },
+      "style": {
+        "fillColor": "yellow",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "stickyNote",
+      "title": ""
+    },
+    {
+      "id": "n-19",
+      "position": {
+        "x": 109.13311610641892,
+        "y": 326.32050969736514
+      },
+      "size": {
+        "width": 133.43290608361607,
+        "height": 152.87790244756013
+      },
+      "style": {
+        "fillColor": "yellow",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "stickyNote",
+      "title": ""
+    },
+    {
+      "id": "n-20",
+      "position": {
+        "x": 268.4522005055795,
+        "y": 318.13855516929965
+      },
+      "size": {
+        "width": 133.43290608361607,
+        "height": 152.87790244756013
+      },
+      "style": {
+        "fillColor": "yellow",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "stickyNote",
+      "title": ""
+    },
+    {
+      "id": "n-21",
+      "position": {
+        "x": 179.9845874488732,
+        "y": 109.54707237020648
+      },
+      "size": {
+        "width": 295.9691749028571
+      },
+      "style": {
+        "fontSize": 24,
+        "textColor": "#1a1a1a",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-3",
+      "visualKind": "text",
+      "title": "<p><strong>Sprint backlog</strong></p>"
+    },
+    {
+      "id": "n-22",
+      "position": {
+        "x": 179.9845874488732,
+        "y": 252.40421522734982
+      },
+      "size": {
+        "width": 295.96917489428574
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#595959",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "frameId": "f-3",
+      "visualKind": "text",
+      "title": "<p>As a team, discuss items currently in progress and review the highest priority items in your backlog.</p><p><br /></p><p>Then, plan the scope for the next sprint by adding the cards or your Jira tickets to the Next Sprint in the Kanban. You can use Story points to align on effort and complexity.</p>"
+    },
+    {
+      "id": "n-23",
+      "position": {
+        "x": 52.2021076136738,
+        "y": 52.20210761367434
+      },
+      "size": {
+        "width": 40.404215227348686,
+        "height": 40.404215227349596
+      },
+      "style": {
+        "fillColor": "#1c1c1e",
+        "borderColor": "#ffffff",
+        "textColor": "#ffffff",
+        "fontSize": 18,
+        "fontFamily": "unknown",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "circle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-3",
+      "visualKind": "shape",
+      "title": "<p><strong>1</strong></p>"
+    },
+    {
+      "id": "n-24",
+      "position": {
+        "x": 32.000000000000824,
+        "y": 643.6082691974439
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "frameId": "f-3",
+      "visualKind": "shape",
+      "title": "[people]"
+    },
+    {
+      "id": "n-25",
+      "position": {
+        "x": 44.98482771974082,
+        "y": 416.97119684106474
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "frameId": "f-3",
+      "visualKind": "shape",
+      "title": "[estimates]"
+    },
+    {
+      "id": "n-26",
+      "position": {
+        "x": 179.9845874488732,
+        "y": 109.54707237020642
+      },
+      "size": {
+        "width": 295.9691749028571
+      },
+      "style": {
+        "fontSize": 24,
+        "textColor": "#1a1a1a",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-4",
+      "visualKind": "text",
+      "title": "<p><strong>Next steps</strong></p>"
+    },
+    {
+      "id": "n-27",
+      "position": {
+        "x": 179.9845874488732,
+        "y": 213.83278665592132
+      },
+      "size": {
+        "width": 295.96917489428574
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#595959",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "frameId": "f-4",
+      "visualKind": "text",
+      "title": "<p>Now that you have scoped your sprint, what are other action the team needs to take?</p><p><br /></p><p>Add them on stickies, discuss and decide.</p>"
+    },
+    {
+      "id": "n-28",
+      "position": {
+        "x": 52.2021076136738,
+        "y": 52.202107613674286
+      },
+      "size": {
+        "width": 40.404215227348686,
+        "height": 40.404215227349596
+      },
+      "style": {
+        "fillColor": "#1c1c1e",
+        "borderColor": "#ffffff",
+        "textColor": "#ffffff",
+        "fontSize": 18,
+        "fontFamily": "unknown",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "circle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-4",
+      "visualKind": "shape",
+      "title": "<p><strong>2</strong></p>"
+    },
+    {
+      "id": "n-29",
+      "position": {
+        "x": 1686.803385927566,
+        "y": -727.5783218297576
+      },
+      "size": {
+        "width": 784.0,
+        "height": 1105.4399999999998
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "<h1></h1>"
+    },
+    {
+      "id": "n-30",
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "size": {
+        "width": 348.80149405614924,
+        "height": 65.40028013552798
+      },
+      "style": {
+        "borderColor": "#6edb8c"
+      },
+      "visualKind": "card",
+      "title": "<p><br /></p>",
+      "body": ""
+    }
+  ],
+  "edges": [],
+  "annotations": [],
+  "_metadata": {
+    "extracted_at": "2026-02-23T12:43:27.878937",
+    "total_items": 36,
+    "total_connectors": 0,
+    "frames": 5,
+    "nodes": 31,
+    "edges": 0
+  },
+  "_template": {
+    "name": "ai-sprint-planning-template",
+    "category": "miroverse",
+    "source": "miroverse",
+    "source_slug": "sprint-planning-template-ai",
+    "source_board_id": "uXjVJ7hWtOI=",
+    "tags": [
+      "agile",
+      "sprint planning",
+      "agile workflows",
+      "ai accelerated"
+    ],
+    "extracted_at": "2026-02-23T12:43:27.878991"
+  }
+}

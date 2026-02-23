@@ -1,0 +1,1252 @@
+{
+  "frames": [
+    {
+      "id": "f-0",
+      "title": "",
+      "position": {
+        "x": 6051.789262947377,
+        "y": 81.51518001800332
+      },
+      "size": {
+        "width": 559.9999999999999,
+        "height": 510.982783435039
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-1",
+      "title": "",
+      "position": {
+        "x": 6671.77385039625,
+        "y": 329.5636293626395
+      },
+      "size": {
+        "width": 359.9691748977464,
+        "height": 1007.0796821243109
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-2",
+      "title": "Title",
+      "position": {
+        "x": 7243.648984936831,
+        "y": 186.06048146907972
+      },
+      "size": {
+        "width": 719.7810941834146,
+        "height": 720.0733863371913
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-3",
+      "title": "Hypothesis",
+      "position": {
+        "x": 7995.430079120245,
+        "y": 186.06048146908017
+      },
+      "size": {
+        "width": 719.7810941834146,
+        "height": 720.0733863371913
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-4",
+      "title": "Problems",
+      "position": {
+        "x": 8779.21117330366,
+        "y": 186.0604814690803
+      },
+      "size": {
+        "width": 719.7810941834146,
+        "height": 720.0733863371913
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-5",
+      "title": "Why now",
+      "position": {
+        "x": 9530.992267487074,
+        "y": 186.0604814690804
+      },
+      "size": {
+        "width": 719.7810941834146,
+        "height": 720.0733863371913
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-6",
+      "title": "Audience",
+      "position": {
+        "x": 10282.773361670488,
+        "y": 186.0604814690803
+      },
+      "size": {
+        "width": 719.7810941834146,
+        "height": 720.0733863371913
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-7",
+      "title": "",
+      "position": {
+        "x": 10982.64849621107,
+        "y": -63.91696122869769
+      },
+      "size": {
+        "width": 359.9691748977464,
+        "height": 220.11850094163526
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-8",
+      "title": "The solution",
+      "position": {
+        "x": 11834.438500711869,
+        "y": 466.26200357545883
+      },
+      "size": {
+        "width": 1279.6108341038528,
+        "height": 1280.4764305499484
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-9",
+      "title": "KPIs",
+      "position": {
+        "x": 12866.134464855502,
+        "y": 186.0604814690803
+      },
+      "size": {
+        "width": 719.7810941834146,
+        "height": 720.0733863371913
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-10",
+      "title": "",
+      "position": {
+        "x": 13566.009599396082,
+        "y": -63.91696122869769
+      },
+      "size": {
+        "width": 359.9691748977464,
+        "height": 220.11850094163526
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-11",
+      "title": "Questions",
+      "position": {
+        "x": 15800.884733936662,
+        "y": 186.0604814690803
+      },
+      "size": {
+        "width": 719.7810941834146,
+        "height": 720.0733863371913
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-12",
+      "title": "Concerns",
+      "position": {
+        "x": 16552.66582812008,
+        "y": 186.0604814690803
+      },
+      "size": {
+        "width": 719.7810941834146,
+        "height": 720.0733863371913
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-13",
+      "title": "",
+      "position": {
+        "x": 17124.540962660656,
+        "y": 277.66943243461617
+      },
+      "size": {
+        "width": 359.9691748977464,
+        "height": 903.2912882682632
+      },
+      "style": {
+        "fillColor": "#f0f0f0"
+      }
+    },
+    {
+      "id": "f-14",
+      "title": "",
+      "position": {
+        "x": 17644.510137558405,
+        "y": -38.20267551441202
+      },
+      "size": {
+        "width": 359.9691748977464,
+        "height": 271.54707237020654
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    }
+  ],
+  "nodes": [
+    {
+      "id": "n-0",
+      "position": {
+        "x": 13777.994186844957,
+        "y": -173.97621169951537
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[data_table_format]"
+    },
+    {
+      "id": "n-1",
+      "position": {
+        "x": 17856.49472500728,
+        "y": -173.97621169951526
+      },
+      "size": {
+        "width": 784.0,
+        "height": 1105.4399999999998
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "<h1></h1>"
+    },
+    {
+      "id": "n-2",
+      "position": {
+        "x": 280.0000000000027,
+        "y": 98.28571428571445
+      },
+      "size": {
+        "width": 432.0
+      },
+      "style": {
+        "fontSize": 48,
+        "textColor": "#1c1c1e",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-0",
+      "visualKind": "text",
+      "title": "<p><strong>Project Review</strong></p>"
+    },
+    {
+      "id": "n-3",
+      "position": {
+        "x": 279.99999999999994,
+        "y": 204.00000000000023
+      },
+      "size": {
+        "width": 432.0
+      },
+      "style": {
+        "fontSize": 24,
+        "textColor": "#595959",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "frameId": "f-0",
+      "visualKind": "text",
+      "title": "<p>Showcase the solution, gather feedback, &amp; build shared confidence in your direction.</p>"
+    },
+    {
+      "id": "n-4",
+      "position": {
+        "x": 54.00000133216321,
+        "y": 287.4285103934153
+      },
+      "size": {
+        "width": 452.00000000000006,
+        "height": 79.7772216796875
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "frameId": "f-0",
+      "visualKind": "shape",
+      "title": "[unknown]"
+    },
+    {
+      "id": "n-5",
+      "position": {
+        "x": 54.0000013321623,
+        "y": 367.2056100027901
+      },
+      "size": {
+        "width": 452.00000000000006,
+        "height": 79.7772216796875
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "frameId": "f-0",
+      "visualKind": "shape",
+      "title": "[unknown]"
+    },
+    {
+      "id": "n-6",
+      "position": {
+        "x": 179.9845874488732,
+        "y": 109.54707237020637
+      },
+      "size": {
+        "width": 295.9691749028571
+      },
+      "style": {
+        "fontSize": 24,
+        "textColor": "#1a1a1a",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-1",
+      "visualKind": "text",
+      "title": "<p><strong>Problem to solve</strong></p>"
+    },
+    {
+      "id": "n-7",
+      "position": {
+        "x": 179.9845874488732,
+        "y": 188.11850094163515
+      },
+      "size": {
+        "width": 295.96917489428574
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#595959",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "frameId": "f-1",
+      "visualKind": "text",
+      "title": "<p>Start with a hypothesis and problem description, then explain the Why and Why Now of the project.</p>"
+    },
+    {
+      "id": "n-8",
+      "position": {
+        "x": 52.2021076136738,
+        "y": 52.20210761367423
+      },
+      "size": {
+        "width": 40.404215227348686,
+        "height": 40.404215227349596
+      },
+      "style": {
+        "fillColor": "#1c1c1e",
+        "borderColor": "#ffffff",
+        "textColor": "#ffffff",
+        "fontSize": 18,
+        "fontFamily": "unknown",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "circle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-1",
+      "visualKind": "shape",
+      "title": "<p><strong>1</strong></p>"
+    },
+    {
+      "id": "n-9",
+      "position": {
+        "x": 32.00000000000219,
+        "y": 271.5470723702066
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "frameId": "f-1",
+      "visualKind": "shape",
+      "title": "[people]"
+    },
+    {
+      "id": "n-10",
+      "position": {
+        "x": 32.00000000000128,
+        "y": 859.0254513449592
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "frameId": "f-1",
+      "visualKind": "shape",
+      "title": "[dot_voting]"
+    },
+    {
+      "id": "n-11",
+      "position": {
+        "x": 359.8905470917068,
+        "y": 344.4871285166497
+      },
+      "size": {
+        "width": 655.7810941942856
+      },
+      "style": {
+        "fontSize": 32,
+        "textColor": "#1c1c1e",
+        "fontFamily": "noto_sans",
+        "align": "center"
+      },
+      "frameId": "f-2",
+      "visualKind": "text",
+      "title": "<p><strong>Your title goes here</strong></p>"
+    },
+    {
+      "id": "n-12",
+      "position": {
+        "x": 88.57142857142821,
+        "y": 44.857142857142776
+      },
+      "size": {
+        "width": 120.85714285714286
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#595959",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-2",
+      "visualKind": "text",
+      "title": "<p>Project name</p>"
+    },
+    {
+      "id": "n-13",
+      "position": {
+        "x": 51.97688154551702,
+        "y": 99.69116725980314
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "frameId": "f-2",
+      "visualKind": "shape",
+      "title": "[people_sticker]"
+    },
+    {
+      "id": "n-14",
+      "position": {
+        "x": 142.38233451960764,
+        "y": 99.69116725980314
+      },
+      "size": {
+        "width": 120.85714285714286
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#595959",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-2",
+      "visualKind": "text",
+      "title": "<p>Author names</p>"
+    },
+    {
+      "id": "n-15",
+      "position": {
+        "x": 94.99999999999795,
+        "y": 675.2162434800483
+      },
+      "size": {
+        "width": 126.00000000000001
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#595959",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-2",
+      "visualKind": "text",
+      "title": "<p>Date.date.date</p>"
+    },
+    {
+      "id": "n-16",
+      "position": {
+        "x": 163.94527354585148,
+        "y": 199.20240745431
+      },
+      "size": {
+        "width": 263.8905470914286
+      },
+      "style": {
+        "fontSize": 24,
+        "textColor": "#1c1c1e",
+        "fontFamily": "noto_sans",
+        "align": "right"
+      },
+      "frameId": "f-3",
+      "visualKind": "text",
+      "title": "<p>By doing</p>"
+    },
+    {
+      "id": "n-17",
+      "position": {
+        "x": 94.99999999999795,
+        "y": 675.2162434800483
+      },
+      "size": {
+        "width": 126.00000000000001
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#595959",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-3",
+      "visualKind": "text",
+      "title": "<p>Date.date.date</p>"
+    },
+    {
+      "id": "n-18",
+      "position": {
+        "x": 454.390547091705,
+        "y": 204.91669316859554
+      },
+      "size": {
+        "width": 189.0,
+        "height": 123.12
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-3",
+      "visualKind": "stickyNote",
+      "title": "<p>[ these actions ]</p>"
+    },
+    {
+      "id": "n-19",
+      "position": {
+        "x": 163.94527354585148,
+        "y": 354.3224074543099
+      },
+      "size": {
+        "width": 263.8905470914286
+      },
+      "style": {
+        "fontSize": 24,
+        "textColor": "#1c1c1e",
+        "fontFamily": "noto_sans",
+        "align": "right"
+      },
+      "frameId": "f-3",
+      "visualKind": "text",
+      "title": "<p>for</p>"
+    },
+    {
+      "id": "n-20",
+      "position": {
+        "x": 454.390547091705,
+        "y": 360.03669316859543
+      },
+      "size": {
+        "width": 189.0,
+        "height": 123.12
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-3",
+      "visualKind": "stickyNote",
+      "title": "<p>[ these users ]</p>"
+    },
+    {
+      "id": "n-21",
+      "position": {
+        "x": 163.94527354585148,
+        "y": 509.4424074543098
+      },
+      "size": {
+        "width": 263.8905470914286
+      },
+      "style": {
+        "fontSize": 24,
+        "textColor": "#1c1c1e",
+        "fontFamily": "noto_sans",
+        "align": "right"
+      },
+      "frameId": "f-3",
+      "visualKind": "text",
+      "title": "<p>then</p>"
+    },
+    {
+      "id": "n-22",
+      "position": {
+        "x": 454.390547091705,
+        "y": 515.1566931685953
+      },
+      "size": {
+        "width": 189.0,
+        "height": 123.12
+      },
+      "style": {
+        "fillColor": "light_yellow",
+        "align": "center"
+      },
+      "frameId": "f-3",
+      "visualKind": "stickyNote",
+      "title": "<p>[ this will happen ]</p>"
+    },
+    {
+      "id": "n-23",
+      "position": {
+        "x": 88.57142857142821,
+        "y": 44.857142857143
+      },
+      "size": {
+        "width": 113.14285714285715
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#595959",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-3",
+      "visualKind": "text",
+      "title": "<p>Project name</p>"
+    },
+    {
+      "id": "n-24",
+      "position": {
+        "x": 625.8399419473737,
+        "y": 113.88307055305029
+      },
+      "size": {
+        "width": 127.05867978394025,
+        "height": 159.00128929416732
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "frameId": "f-4",
+      "visualKind": "shape",
+      "title": "[widgets_stack]"
+    },
+    {
+      "id": "n-25",
+      "position": {
+        "x": 79.86523482814987,
+        "y": 118.16516044330889
+      },
+      "size": {
+        "width": 85.33588235294118,
+        "height": 97.77176470588236
+      },
+      "style": {
+        "fillColor": "dark_blue",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": ""
+    },
+    {
+      "id": "n-26",
+      "position": {
+        "x": 625.8399419473737,
+        "y": 113.88307055305029
+      },
+      "size": {
+        "width": 127.05867978394025,
+        "height": 159.00128929416732
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "frameId": "f-5",
+      "visualKind": "shape",
+      "title": "[widgets_stack]"
+    },
+    {
+      "id": "n-27",
+      "position": {
+        "x": 79.86523482814987,
+        "y": 118.16516044330889
+      },
+      "size": {
+        "width": 85.33588235294118,
+        "height": 97.77176470588236
+      },
+      "style": {
+        "fillColor": "yellow",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": ""
+    },
+    {
+      "id": "n-28",
+      "position": {
+        "x": 625.8399419473737,
+        "y": 113.88307055305029
+      },
+      "size": {
+        "width": 127.05867978394025,
+        "height": 159.00128929416732
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "frameId": "f-6",
+      "visualKind": "shape",
+      "title": "[widgets_stack]"
+    },
+    {
+      "id": "n-29",
+      "position": {
+        "x": 79.86523482814987,
+        "y": 118.16516044330889
+      },
+      "size": {
+        "width": 85.33588235294118,
+        "height": 97.77176470588236
+      },
+      "style": {
+        "fillColor": "dark_green",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": ""
+    },
+    {
+      "id": "n-30",
+      "position": {
+        "x": 179.9845874488732,
+        "y": 109.54707237020642
+      },
+      "size": {
+        "width": 295.9691749028571
+      },
+      "style": {
+        "fontSize": 24,
+        "textColor": "#1a1a1a",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-7",
+      "visualKind": "text",
+      "title": "<p><strong>Solution</strong></p>"
+    },
+    {
+      "id": "n-31",
+      "position": {
+        "x": 179.9845874488732,
+        "y": 162.40421522734954
+      },
+      "size": {
+        "width": 295.96917489428574
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#595959",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "frameId": "f-7",
+      "visualKind": "text",
+      "title": "<p>Work out solution options and success metrics (KPIs).</p>"
+    },
+    {
+      "id": "n-32",
+      "position": {
+        "x": 52.2021076136738,
+        "y": 52.202107613674286
+      },
+      "size": {
+        "width": 40.404215227348686,
+        "height": 40.404215227349596
+      },
+      "style": {
+        "fillColor": "#1c1c1e",
+        "borderColor": "#ffffff",
+        "textColor": "#ffffff",
+        "fontSize": 18,
+        "fontFamily": "unknown",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "circle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-7",
+      "visualKind": "shape",
+      "title": "<p><strong>1</strong></p>"
+    },
+    {
+      "id": "n-33",
+      "position": {
+        "x": 304.0000000000001,
+        "y": 54.85714285714289
+      },
+      "size": {
+        "width": 544.0
+      },
+      "style": {
+        "fontSize": 32,
+        "textColor": "#1a1a1a",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-8",
+      "visualKind": "text",
+      "title": "<p><strong>The solution &amp; options considered</strong></p>"
+    },
+    {
+      "id": "n-34",
+      "position": {
+        "x": 625.8399419473737,
+        "y": 113.88307055305029
+      },
+      "size": {
+        "width": 127.05867978394025,
+        "height": 159.00128929416732
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "frameId": "f-9",
+      "visualKind": "shape",
+      "title": "[widgets_stack]"
+    },
+    {
+      "id": "n-35",
+      "position": {
+        "x": 79.86523482814987,
+        "y": 118.16516044330889
+      },
+      "size": {
+        "width": 85.33588235294118,
+        "height": 97.77176470588236
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": ""
+    },
+    {
+      "id": "n-36",
+      "position": {
+        "x": 179.9845874488732,
+        "y": 109.54707237020642
+      },
+      "size": {
+        "width": 295.9691749028571
+      },
+      "style": {
+        "fontSize": 24,
+        "textColor": "#1a1a1a",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-10",
+      "visualKind": "text",
+      "title": "<p><strong>Next steps</strong></p>"
+    },
+    {
+      "id": "n-37",
+      "position": {
+        "x": 179.9845874488732,
+        "y": 162.40421522734954
+      },
+      "size": {
+        "width": 295.96917489428574
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#595959",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "frameId": "f-10",
+      "visualKind": "text",
+      "title": "<p>Make a high-level plan and gather open questions and concerns.</p>"
+    },
+    {
+      "id": "n-38",
+      "position": {
+        "x": 52.2021076136738,
+        "y": 52.202107613674286
+      },
+      "size": {
+        "width": 40.404215227348686,
+        "height": 40.404215227349596
+      },
+      "style": {
+        "fillColor": "#1c1c1e",
+        "borderColor": "#ffffff",
+        "textColor": "#ffffff",
+        "fontSize": 18,
+        "fontFamily": "unknown",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "circle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-10",
+      "visualKind": "shape",
+      "title": "<p><strong>3</strong></p>"
+    },
+    {
+      "id": "n-39",
+      "position": {
+        "x": 625.8399419473737,
+        "y": 113.88307055305029
+      },
+      "size": {
+        "width": 127.05867978394025,
+        "height": 159.00128929416732
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "frameId": "f-11",
+      "visualKind": "shape",
+      "title": "[widgets_stack]"
+    },
+    {
+      "id": "n-40",
+      "position": {
+        "x": 79.86523482814987,
+        "y": 118.16516044330889
+      },
+      "size": {
+        "width": 85.33588235294118,
+        "height": 97.77176470588236
+      },
+      "style": {
+        "fillColor": "light_blue",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": ""
+    },
+    {
+      "id": "n-41",
+      "position": {
+        "x": 625.8399419473737,
+        "y": 113.88307055305029
+      },
+      "size": {
+        "width": 127.05867978394025,
+        "height": 159.00128929416732
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "frameId": "f-12",
+      "visualKind": "shape",
+      "title": "[widgets_stack]"
+    },
+    {
+      "id": "n-42",
+      "position": {
+        "x": 79.86523482814987,
+        "y": 118.16516044330889
+      },
+      "size": {
+        "width": 85.33588235294118,
+        "height": 97.77176470588236
+      },
+      "style": {
+        "fillColor": "light_pink",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": ""
+    },
+    {
+      "id": "n-43",
+      "position": {
+        "x": 64.24149563450774,
+        "y": 51.98658863058387
+      },
+      "size": {
+        "width": 64.48299126901536,
+        "height": 39.97317726116671
+      },
+      "style": {
+        "fillColor": "#1c1c1e",
+        "borderColor": "#ffffff",
+        "textColor": "#ffffff",
+        "fontSize": 14,
+        "fontFamily": "unknown",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-13",
+      "visualKind": "shape",
+      "title": "<p><strong>Tip </strong></p>"
+    },
+    {
+      "id": "n-44",
+      "position": {
+        "x": 32.00000000000128,
+        "y": 103.97317726116722
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "frameId": "f-13",
+      "visualKind": "shape",
+      "title": "[dot_voting]"
+    },
+    {
+      "id": "n-45",
+      "position": {
+        "x": 32.00000000000128,
+        "y": 252.0274980358875
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "frameId": "f-13",
+      "visualKind": "shape",
+      "title": "[poll]"
+    },
+    {
+      "id": "n-46",
+      "position": {
+        "x": 179.9845874488732,
+        "y": 109.5470723702064
+      },
+      "size": {
+        "width": 295.9691749028571
+      },
+      "style": {
+        "fontSize": 24,
+        "textColor": "#1a1a1a",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-14",
+      "visualKind": "text",
+      "title": "<p><strong>AI Summary</strong></p>"
+    },
+    {
+      "id": "n-47",
+      "position": {
+        "x": 179.9845874488732,
+        "y": 188.11850094163518
+      },
+      "size": {
+        "width": 295.96917489428574
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#595959",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "frameId": "f-14",
+      "visualKind": "text",
+      "title": "<p>Create a summary of the review using AI. Adjust the prompt on the document to suit your needs and click &#34;Run&#34; when you&#39;re ready.</p>"
+    },
+    {
+      "id": "n-48",
+      "position": {
+        "x": 52.2021076136738,
+        "y": 52.20210761367426
+      },
+      "size": {
+        "width": 40.404215227348686,
+        "height": 40.404215227349596
+      },
+      "style": {
+        "fillColor": "#1c1c1e",
+        "borderColor": "#ffffff",
+        "textColor": "#ffffff",
+        "fontSize": 18,
+        "fontFamily": "unknown",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "circle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-14",
+      "visualKind": "shape",
+      "title": "<p><strong>4</strong></p>"
+    }
+  ],
+  "edges": [],
+  "annotations": [],
+  "_metadata": {
+    "extracted_at": "2026-02-23T13:08:57.093412",
+    "total_items": 64,
+    "total_connectors": 0,
+    "frames": 15,
+    "nodes": 49,
+    "edges": 0
+  },
+  "_template": {
+    "name": "project-review-ai-template",
+    "category": "miroverse",
+    "source": "miroverse",
+    "source_slug": "project-review-template-ai",
+    "source_board_id": "uXjVJ9Vi0vg=",
+    "tags": [
+      "change management",
+      "meetings & workshops",
+      "year in review",
+      "project management",
+      "planning",
+      "documentation",
+      "ai accelerated",
+      "project charter",
+      "strategy & planning",
+      "process & workflow"
+    ],
+    "extracted_at": "2026-02-23T13:08:57.093448"
+  }
+}

@@ -1,0 +1,925 @@
+{
+  "frames": [
+    {
+      "id": "f-0",
+      "title": "",
+      "position": {
+        "x": -2851.2973850498834,
+        "y": 1238.7545609288868
+      },
+      "size": {
+        "width": 559.9999999999999,
+        "height": 265.1428571428563
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-1",
+      "title": "",
+      "position": {
+        "x": -2231.3127976010105,
+        "y": 1456.8974180717448
+      },
+      "size": {
+        "width": 359.96917489774637,
+        "height": 701.4285714285714
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-2",
+      "title": "Reference Image(s)",
+      "position": {
+        "x": -1506.9281857380747,
+        "y": 1618.5831567715218
+      },
+      "size": {
+        "width": 1024.800048828125,
+        "height": 1024.800048828125
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-3",
+      "title": "Copy of Frame",
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "size": {
+        "width": 1280.0,
+        "height": 732.0
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    }
+  ],
+  "nodes": [
+    {
+      "id": "n-0",
+      "position": {
+        "x": 280.00000000000176,
+        "y": 132.57142857142816
+      },
+      "size": {
+        "width": 432.0
+      },
+      "style": {
+        "fontSize": 48,
+        "textColor": "#1c1c1e",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-0",
+      "visualKind": "text",
+      "title": "<p><strong>Color Palette Extractor</strong></p>"
+    },
+    {
+      "id": "n-1",
+      "position": {
+        "x": 210.18669506254753,
+        "y": 160.85714285714351
+      },
+      "size": {
+        "width": 235.56495966857142
+      },
+      "style": {
+        "fontSize": 24,
+        "textColor": "#1a1a1a",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-1",
+      "visualKind": "text",
+      "title": "<p><strong>Add your images</strong></p>"
+    },
+    {
+      "id": "n-2",
+      "position": {
+        "x": 210.18669506254753,
+        "y": 239.42857142857218
+      },
+      "size": {
+        "width": 235.56495966428574
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#595959",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "frameId": "f-1",
+      "visualKind": "text",
+      "title": "<p>Drop your favorite images here — we’ll turn them into a color palette and create a slide for you to share.</p>"
+    },
+    {
+      "id": "n-3",
+      "position": {
+        "x": 52.202107613673775,
+        "y": 161.9163933279612
+      },
+      "size": {
+        "width": 40.404215227348686,
+        "height": 40.404215227349596
+      },
+      "style": {
+        "fillColor": "#1c1c1e",
+        "borderColor": "#ffffff",
+        "textColor": "#ffffff",
+        "fontSize": 18,
+        "fontFamily": "unknown",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "circle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-1",
+      "visualKind": "shape",
+      "title": "<p><strong>1</strong></p>"
+    },
+    {
+      "id": "n-4",
+      "position": {
+        "x": 210.18669506254753,
+        "y": 359.14285714285796
+      },
+      "size": {
+        "width": 235.56495966857142
+      },
+      "style": {
+        "fontSize": 24,
+        "textColor": "#1a1a1a",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-1",
+      "visualKind": "text",
+      "title": "<p><strong>Extract color palette</strong></p>"
+    },
+    {
+      "id": "n-5",
+      "position": {
+        "x": 210.18669506254753,
+        "y": 442.0000000000011
+      },
+      "size": {
+        "width": 235.56495966428574
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#595959",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "frameId": "f-1",
+      "visualKind": "text",
+      "title": "<p>Adjust the example color palette table to match your requirements.</p>"
+    },
+    {
+      "id": "n-6",
+      "position": {
+        "x": 52.202107613673775,
+        "y": 343.05925047081854
+      },
+      "size": {
+        "width": 40.404215227348686,
+        "height": 40.404215227349596
+      },
+      "style": {
+        "fillColor": "#1c1c1e",
+        "borderColor": "#ffffff",
+        "textColor": "#ffffff",
+        "fontSize": 18,
+        "fontFamily": "unknown",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "circle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-1",
+      "visualKind": "shape",
+      "title": "<p><strong>2</strong></p>"
+    },
+    {
+      "id": "n-7",
+      "position": {
+        "x": 179.9845874488741,
+        "y": 54.857142857143515
+      },
+      "size": {
+        "width": 295.9691749028571
+      },
+      "style": {
+        "fontSize": 32,
+        "textColor": "#1c1c1e",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-1",
+      "visualKind": "text",
+      "title": "<p><strong>How to</strong></p>"
+    },
+    {
+      "id": "n-8",
+      "position": {
+        "x": 210.18669506254753,
+        "y": 548.8571428571438
+      },
+      "size": {
+        "width": 235.56495966857142
+      },
+      "style": {
+        "fontSize": 24,
+        "textColor": "#1a1a1a",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-1",
+      "visualKind": "text",
+      "title": "<p><strong>Generate a color palette</strong></p>"
+    },
+    {
+      "id": "n-9",
+      "position": {
+        "x": 52.202107613673775,
+        "y": 532.7735361851044
+      },
+      "size": {
+        "width": 40.404215227348686,
+        "height": 40.404215227349596
+      },
+      "style": {
+        "fillColor": "#1c1c1e",
+        "borderColor": "#ffffff",
+        "textColor": "#ffffff",
+        "fontSize": 18,
+        "fontFamily": "unknown",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "circle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-1",
+      "visualKind": "shape",
+      "title": "<p><strong>3</strong></p>"
+    },
+    {
+      "id": "n-10",
+      "position": {
+        "x": 210.18669506254753,
+        "y": 630.8571428571431
+      },
+      "size": {
+        "width": 235.56495966428574
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#595959",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "frameId": "f-1",
+      "visualKind": "text",
+      "title": "<p>Write a detailed prompt describing your desired color palette.</p>"
+    },
+    {
+      "id": "n-11",
+      "position": {
+        "x": 422.6719970703125,
+        "y": 480.4000244140625
+      },
+      "size": {
+        "width": 179.4560546875,
+        "height": 64.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "frameId": "f-2",
+      "visualKind": "shape",
+      "title": "[unknown]"
+    },
+    {
+      "id": "n-12",
+      "position": {
+        "x": 197.94561018279296,
+        "y": 269.6721114172051
+      },
+      "size": {
+        "width": 295.8364183092543,
+        "height": 443.7546274638815
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ9sCY2I%3D/resources/images/3458764517251601020?format=preview&redirect=false"
+        }
+      },
+      "frameId": "f-2",
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-13",
+      "position": {
+        "x": -834.5281613240122,
+        "y": 1106.1831323574593
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[data_table_format]"
+    },
+    {
+      "id": "n-14",
+      "position": {
+        "x": 566.4718386759878,
+        "y": 1106.1831323574593
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "Color palette"
+    },
+    {
+      "id": "n-15",
+      "position": {
+        "x": 673.9428571428572,
+        "y": 70.0
+      },
+      "size": {
+        "width": 419.8857142714286
+      },
+      "style": {
+        "fontSize": 60,
+        "textColor": "#232220",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "frameId": "f-3",
+      "visualKind": "text",
+      "title": "<p><strong style=\"color:rgb(35,34,32)\">Color Palette</strong></p>"
+    },
+    {
+      "id": "n-16",
+      "position": {
+        "x": 438.0,
+        "y": 228.0
+      },
+      "size": {
+        "width": 128.0,
+        "height": 128.0
+      },
+      "style": {
+        "fillColor": "#1e6b33",
+        "borderColor": "#e5e7eb",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "noto_sans",
+        "borderWidth": 0,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-3",
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-17",
+      "position": {
+        "x": 442.31857142857143,
+        "y": 324.0
+      },
+      "size": {
+        "width": 106.63714285714285
+      },
+      "style": {
+        "fontSize": 24,
+        "textColor": "#232220",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "frameId": "f-3",
+      "visualKind": "text",
+      "title": "<p><strong>#1E6B33</strong></p>"
+    },
+    {
+      "id": "n-18",
+      "position": {
+        "x": 441.645,
+        "y": 362.0
+      },
+      "size": {
+        "width": 133.29000000000002
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#232220",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "frameId": "f-3",
+      "visualKind": "text",
+      "title": "RGB 30, 107, 51"
+    },
+    {
+      "id": "n-19",
+      "position": {
+        "x": 441.47964285714284,
+        "y": 386.92857142857133
+      },
+      "size": {
+        "width": 108.95928571285715
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#232220",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "frameId": "f-3",
+      "visualKind": "text",
+      "title": "<p>Forest Green</p>"
+    },
+    {
+      "id": "n-20",
+      "position": {
+        "x": 640.0,
+        "y": 228.0
+      },
+      "size": {
+        "width": 128.0,
+        "height": 128.0
+      },
+      "style": {
+        "fillColor": "#e8b396",
+        "borderColor": "#e5e7eb",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "noto_sans",
+        "borderWidth": 0,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-3",
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-21",
+      "position": {
+        "x": 643.3185714285714,
+        "y": 324.0
+      },
+      "size": {
+        "width": 106.63714285714285
+      },
+      "style": {
+        "fontSize": 24,
+        "textColor": "#232220",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "frameId": "f-3",
+      "visualKind": "text",
+      "title": "<p><strong>#E8B396</strong></p>"
+    },
+    {
+      "id": "n-22",
+      "position": {
+        "x": 643.7525,
+        "y": 362.0
+      },
+      "size": {
+        "width": 155.5049999957143
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#232220",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "frameId": "f-3",
+      "visualKind": "text",
+      "title": "RGB 232, 179, 150"
+    },
+    {
+      "id": "n-23",
+      "position": {
+        "x": 644.2814285714286,
+        "y": 390.0
+      },
+      "size": {
+        "width": 156.5628571414286
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#232220",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "frameId": "f-3",
+      "visualKind": "text",
+      "title": "Salmon Terracotta"
+    },
+    {
+      "id": "n-24",
+      "position": {
+        "x": 841.0,
+        "y": 228.0
+      },
+      "size": {
+        "width": 128.0,
+        "height": 128.0
+      },
+      "style": {
+        "fillColor": "#232220",
+        "borderColor": "#e5e7eb",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "noto_sans",
+        "borderWidth": 0,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-3",
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-25",
+      "position": {
+        "x": 845.2414285714285,
+        "y": 324.0
+      },
+      "size": {
+        "width": 104.48285713714284
+      },
+      "style": {
+        "fontSize": 24,
+        "textColor": "#232220",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "frameId": "f-3",
+      "visualKind": "text",
+      "title": "<p><strong>#232220</strong></p>"
+    },
+    {
+      "id": "n-26",
+      "position": {
+        "x": 844.3557142857143,
+        "y": 362.0
+      },
+      "size": {
+        "width": 122.71142856857145
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#232220",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "frameId": "f-3",
+      "visualKind": "text",
+      "title": "RGB 35, 34, 32"
+    },
+    {
+      "id": "n-27",
+      "position": {
+        "x": 844.8846428571428,
+        "y": 390.0
+      },
+      "size": {
+        "width": 123.76928571428573
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#232220",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "frameId": "f-3",
+      "visualKind": "text",
+      "title": "Deep Charcoal"
+    },
+    {
+      "id": "n-28",
+      "position": {
+        "x": 438.0,
+        "y": 516.0
+      },
+      "size": {
+        "width": 128.0,
+        "height": 128.0
+      },
+      "style": {
+        "fillColor": "#5a5743",
+        "borderColor": "#e5e7eb",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "noto_sans",
+        "borderWidth": 0,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-3",
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-29",
+      "position": {
+        "x": 441.85714285714283,
+        "y": 612.0
+      },
+      "size": {
+        "width": 107.71428570857142
+      },
+      "style": {
+        "fontSize": 24,
+        "textColor": "#232220",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "frameId": "f-3",
+      "visualKind": "text",
+      "title": "<p><strong>#5A5743</strong></p>"
+    },
+    {
+      "id": "n-30",
+      "position": {
+        "x": 441.35571428571427,
+        "y": 650.0
+      },
+      "size": {
+        "width": 122.71142856857145
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#232220",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "frameId": "f-3",
+      "visualKind": "text",
+      "title": "RGB 90, 87, 67"
+    },
+    {
+      "id": "n-31",
+      "position": {
+        "x": 441.6532142857143,
+        "y": 678.0
+      },
+      "size": {
+        "width": 115.30642857428572
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#232220",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "frameId": "f-3",
+      "visualKind": "text",
+      "title": "Olive Shadow"
+    },
+    {
+      "id": "n-32",
+      "position": {
+        "x": 639.0,
+        "y": 516.0
+      },
+      "size": {
+        "width": 128.0,
+        "height": 128.0
+      },
+      "style": {
+        "fillColor": "#d9c2a9",
+        "borderColor": "#e5e7eb",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "noto_sans",
+        "borderWidth": 0,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-3",
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-33",
+      "position": {
+        "x": 642.4728571428572,
+        "y": 612.0
+      },
+      "size": {
+        "width": 110.94571427999998
+      },
+      "style": {
+        "fontSize": 24,
+        "textColor": "#232220",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "frameId": "f-3",
+      "visualKind": "text",
+      "title": "<p><strong>#D9C2A9</strong></p>"
+    },
+    {
+      "id": "n-34",
+      "position": {
+        "x": 643.7525,
+        "y": 650.0
+      },
+      "size": {
+        "width": 155.5049999957143
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#232220",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "frameId": "f-3",
+      "visualKind": "text",
+      "title": "RGB 217, 194, 169"
+    },
+    {
+      "id": "n-35",
+      "position": {
+        "x": 642.3060714285714,
+        "y": 678.0
+      },
+      "size": {
+        "width": 102.61214285142857
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#232220",
+        "fontFamily": "roboto",
+        "align": "left"
+      },
+      "frameId": "f-3",
+      "visualKind": "text",
+      "title": "Warm Beige"
+    },
+    {
+      "id": "n-36",
+      "position": {
+        "x": 814.2157729375172,
+        "y": 548.8571428571436
+      },
+      "size": {
+        "width": 310.17544235940915,
+        "height": 465.14266025925383
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ9sCY2I%3D/resources/images/3458764517270671951?format=preview&redirect=false"
+        }
+      },
+      "frameId": "f-2",
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-37",
+      "position": {
+        "x": 380.85607331829306,
+        "y": 809.6269610964343
+      },
+      "size": {
+        "width": 235.56495967039766,
+        "height": 353.34743950559647
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ9sCY2I%3D/resources/images/3458764517270671958?format=preview&redirect=false"
+        }
+      },
+      "frameId": "f-2",
+      "visualKind": "image",
+      "title": ""
+    }
+  ],
+  "edges": [
+    {
+      "id": "e-0",
+      "sourceNodeId": "n-3",
+      "targetNodeId": "n-6",
+      "style": {
+        "lineStyle": "dotted",
+        "arrowHead": "none",
+        "borderColor": "#b0b0b0",
+        "strokeWidth": "2.0",
+        "extra": {
+          "connectorShape": "curved",
+          "sourcePosition": "auto",
+          "targetPosition": "auto"
+        }
+      }
+    },
+    {
+      "id": "e-1",
+      "sourceNodeId": "n-6",
+      "targetNodeId": "n-9",
+      "style": {
+        "lineStyle": "dotted",
+        "arrowHead": "none",
+        "borderColor": "#b0b0b0",
+        "strokeWidth": "2.0",
+        "extra": {
+          "connectorShape": "curved",
+          "sourcePosition": "auto",
+          "targetPosition": "auto"
+        }
+      }
+    }
+  ],
+  "annotations": [],
+  "_metadata": {
+    "extracted_at": "2026-02-23T13:24:26.655660",
+    "total_items": 42,
+    "total_connectors": 2,
+    "frames": 4,
+    "nodes": 38,
+    "edges": 2
+  },
+  "_template": {
+    "name": "color-palette-extractor",
+    "category": "miroverse",
+    "source": "miroverse",
+    "source_slug": "color-palette-extractor",
+    "source_board_id": "uXjVJ9sCY2I=",
+    "tags": [
+      "ai accelerated",
+      "research & design",
+      "image creation"
+    ],
+    "extracted_at": "2026-02-23T13:24:26.655676"
+  }
+}

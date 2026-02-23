@@ -1,0 +1,1485 @@
+{
+  "frames": [
+    {
+      "id": "f-0",
+      "title": "",
+      "position": {
+        "x": -4680.124820132267,
+        "y": -352.07880681089523
+      },
+      "size": {
+        "width": 285.21787596816216,
+        "height": 221.70308518319962
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-1",
+      "title": "",
+      "position": {
+        "x": -2230.4915716161704,
+        "y": -125.25038444271672
+      },
+      "size": {
+        "width": 590.8732100741998,
+        "height": 1102.0000000000043
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-2",
+      "title": "",
+      "position": {
+        "x": 513.3234250259679,
+        "y": -437.64837047374954
+      },
+      "size": {
+        "width": 552.5594184316612,
+        "height": 477.2041541339411
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-3",
+      "title": "",
+      "position": {
+        "x": 1741.4555534785263,
+        "y": -125.25050011215922
+      },
+      "size": {
+        "width": 579.7273681147293,
+        "height": 1102.0000000000032
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-4",
+      "title": "",
+      "position": {
+        "x": -3625.2022682040847,
+        "y": -438.66062672903195
+      },
+      "size": {
+        "width": 406.5136718503515,
+        "height": 475.1795154273732
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-5",
+      "title": "",
+      "position": {
+        "x": -4680.124820132267,
+        "y": -585.4326204069314
+      },
+      "size": {
+        "width": 285.21787596816216,
+        "height": 181.63565426758043
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-6",
+      "title": "",
+      "position": {
+        "x": -4073.984760674525,
+        "y": -541.0998396877624
+      },
+      "size": {
+        "width": 359.9691748977464,
+        "height": 270.30108950991325
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-7",
+      "title": "",
+      "position": {
+        "x": -2966.612462382195,
+        "y": -541.0999027857636
+      },
+      "size": {
+        "width": 359.9691748977464,
+        "height": 270.30108950991325
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-8",
+      "title": "",
+      "position": {
+        "x": -1504.774491729071,
+        "y": -437.64839675947064
+      },
+      "size": {
+        "width": 359.9691748977464,
+        "height": 477.2041015625007
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-9",
+      "title": "",
+      "position": {
+        "x": 1224.7790832534206,
+        "y": -556.9494747215351
+      },
+      "size": {
+        "width": 359.9691748977464,
+        "height": 238.6020507812507
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-10",
+      "title": "",
+      "position": {
+        "x": 2591.859828196104,
+        "y": -541.0999553572049
+      },
+      "size": {
+        "width": 359.9691748977464,
+        "height": 270.30108950991325
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-11",
+      "title": "",
+      "position": {
+        "x": 3973.616428448222,
+        "y": -541.0999553572049
+      },
+      "size": {
+        "width": 359.9691748977464,
+        "height": 270.30108950991325
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    }
+  ],
+  "nodes": [
+    {
+      "id": "n-0",
+      "position": {
+        "x": 184.46546577598286,
+        "y": 48.285714285722975
+      },
+      "size": {
+        "width": 336.26057714285713
+      },
+      "style": {
+        "fontSize": 32,
+        "textColor": "#1a1a1a",
+        "fontFamily": "roobert",
+        "align": "left"
+      },
+      "frameId": "f-1",
+      "visualKind": "text",
+      "title": "<p>Sprint updates</p>"
+    },
+    {
+      "id": "n-1",
+      "position": {
+        "x": -2644.6015264986836,
+        "y": 356.0670214587442
+      },
+      "size": {
+        "width": 165.408203125,
+        "height": 206.990966796875
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[widgets_stack]"
+    },
+    {
+      "id": "n-2",
+      "position": {
+        "x": 49.67386953886118,
+        "y": 140.2113896008127
+      },
+      "size": {
+        "width": 124.05571956394749,
+        "height": 142.13419125919611
+      },
+      "style": {
+        "fillColor": "light_pink",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": ""
+    },
+    {
+      "id": "n-3",
+      "position": {
+        "x": 142.79413860358875,
+        "y": 159.4828571428709
+      },
+      "size": {
+        "width": 255.30801217142857
+      },
+      "style": {
+        "fontSize": 16,
+        "textColor": "#9a9994",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "frameId": "f-0",
+      "visualKind": "text",
+      "title": "<p>Use tags on sprint goals to indicate status. To keep a history, take a screenshot at the end of standup, drag kanban over to next day.</p>"
+    },
+    {
+      "id": "n-4",
+      "position": {
+        "x": 38.17442380190562,
+        "y": 50.068582570786475
+      },
+      "size": {
+        "width": 46.06858257078507,
+        "height": 46.06858257078507
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ7gUpyg%3D/resources/images/3458764517264202082?format=preview&redirect=false"
+        }
+      },
+      "frameId": "f-0",
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-5",
+      "position": {
+        "x": 142.4553525588973,
+        "y": 160.14181471895552
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "frameId": "f-2",
+      "visualKind": "shape",
+      "title": "[widgets_stack]"
+    },
+    {
+      "id": "n-6",
+      "position": {
+        "x": 85.26571136030067,
+        "y": 98.323655627103
+      },
+      "size": {
+        "width": 212.93,
+        "height": 243.96
+      },
+      "style": {
+        "fillColor": "dark_blue",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": ""
+    },
+    {
+      "id": "n-7",
+      "position": {
+        "x": 146.39019641132217,
+        "y": 173.11064603080968
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "frameId": "f-3",
+      "visualKind": "shape",
+      "title": "[widgets_stack]"
+    },
+    {
+      "id": "n-8",
+      "position": {
+        "x": 108.19802386776931,
+        "y": 82.00001525878906
+      },
+      "size": {
+        "width": 162.62576124307145,
+        "height": 186.32499278100647
+      },
+      "style": {
+        "fillColor": "yellow",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": ""
+    },
+    {
+      "id": "n-9",
+      "position": {
+        "x": 206.1302885686358,
+        "y": 48.285714285722634
+      },
+      "size": {
+        "width": 336.26057714285713
+      },
+      "style": {
+        "fontSize": 32,
+        "textColor": "#1a1a1a",
+        "fontFamily": "roobert",
+        "align": "left"
+      },
+      "frameId": "f-4",
+      "visualKind": "text",
+      "title": "<p>Who will run standup?</p>"
+    },
+    {
+      "id": "n-10",
+      "position": {
+        "x": 9.667057581851708,
+        "y": 71.48752014702987
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "frameId": "f-4",
+      "visualKind": "shape",
+      "title": "[spinner]"
+    },
+    {
+      "id": "n-11",
+      "position": {
+        "x": 4191.996783547133,
+        "y": -676.250500112161
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[alignment_scale]"
+    },
+    {
+      "id": "n-12",
+      "position": {
+        "x": -2644.6015264986836,
+        "y": -112.02015325895923
+      },
+      "size": {
+        "width": 165.408203125,
+        "height": 206.9910888671875
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[widgets_stack]"
+    },
+    {
+      "id": "n-13",
+      "position": {
+        "x": 100.0005645751968,
+        "y": 56.85954969492035
+      },
+      "size": {
+        "width": 124.05571956394749,
+        "height": 142.13419125919611
+      },
+      "style": {
+        "fillColor": "orange",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": ""
+    },
+    {
+      "id": "n-14",
+      "position": {
+        "x": -2644.6015264986836,
+        "y": 116.79655336798965
+      },
+      "size": {
+        "width": 165.408203125,
+        "height": 206.9912109375
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[widgets_stack]"
+    },
+    {
+      "id": "n-15",
+      "position": {
+        "x": 100.00000000000134,
+        "y": 95.25628140703513
+      },
+      "size": {
+        "width": 124.05571956394749,
+        "height": 142.13419125919611
+      },
+      "style": {
+        "fillColor": "dark_green",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": ""
+    },
+    {
+      "id": "n-16",
+      "position": {
+        "x": -2644.6015264986836,
+        "y": -569.6534403168546
+      },
+      "size": {
+        "width": 165.408203125,
+        "height": 206.9910888671875
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[widgets_stack]"
+    },
+    {
+      "id": "n-17",
+      "position": {
+        "x": -2644.6015264986836,
+        "y": -340.8367967879069
+      },
+      "size": {
+        "width": 165.408203125,
+        "height": 206.9910888671875
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[widgets_stack]"
+    },
+    {
+      "id": "n-18",
+      "position": {
+        "x": 60.000000000002025,
+        "y": 82.0000228881836
+      },
+      "size": {
+        "width": 124.05571956394749,
+        "height": 142.13419125919611
+      },
+      "style": {
+        "fillColor": "yellow",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": ""
+    },
+    {
+      "id": "n-19",
+      "position": {
+        "x": 102.70701470904804,
+        "y": 91.0694592004784
+      },
+      "size": {
+        "width": 212.93,
+        "height": 243.96
+      },
+      "style": {
+        "fillColor": "dark_blue",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": ""
+    },
+    {
+      "id": "n-20",
+      "position": {
+        "x": -4777.181333282821,
+        "y": -202.1459032031264
+      },
+      "size": {
+        "width": 87.14285714285714
+      },
+      "style": {
+        "fontSize": 10,
+        "textColor": "#1a1a1a",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong>For this template</strong></p>"
+    },
+    {
+      "id": "n-21",
+      "position": {
+        "x": -4680.124820132267,
+        "y": -155.65559885134212
+      },
+      "size": {
+        "width": 318.8308746918035,
+        "height": 67.28573654210139
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[action_button]"
+    },
+    {
+      "id": "n-22",
+      "position": {
+        "x": -4680.124820132267,
+        "y": -101.18854483867767
+      },
+      "size": {
+        "width": 318.83087469180316,
+        "height": 67.28573654210132
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[action_button]"
+    },
+    {
+      "id": "n-23",
+      "position": {
+        "x": 143.22005953739756,
+        "y": 66.03297640407305
+      },
+      "size": {
+        "width": 254.41985252571425
+      },
+      "style": {
+        "fontSize": 32,
+        "textColor": "#1a1a1a",
+        "fontFamily": "roobert",
+        "align": "left"
+      },
+      "frameId": "f-5",
+      "visualKind": "text",
+      "title": "<p><strong>Daily Standup</strong></p>"
+    },
+    {
+      "id": "n-24",
+      "position": {
+        "x": 142.60893798408108,
+        "y": 126.10601217115146
+      },
+      "size": {
+        "width": 249.9068553142857
+      },
+      "style": {
+        "fontSize": 16,
+        "textColor": "#9a9994",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "frameId": "f-5",
+      "visualKind": "text",
+      "title": "<p><span style=\"color:rgb(154,153,148)\">Run a quick check-in to plan the day&#39;s work</span></p>"
+    },
+    {
+      "id": "n-25",
+      "position": {
+        "x": -4680.124820132267,
+        "y": -45.74799475063287
+      },
+      "size": {
+        "width": 318.8308746918037,
+        "height": 67.28573654210142
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[action_button]"
+    },
+    {
+      "id": "n-26",
+      "position": {
+        "x": 2821.0495610869966,
+        "y": -676.2505001121606
+      },
+      "size": {
+        "width": 784.0,
+        "height": 1105.4399999999998
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "<h1></h1>"
+    },
+    {
+      "id": "n-27",
+      "position": {
+        "x": 171.66812808665637,
+        "y": 105.54707237020648
+      },
+      "size": {
+        "width": 279.33625616571425
+      },
+      "style": {
+        "fontSize": 24,
+        "textColor": "#1a1a1a",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-6",
+      "visualKind": "text",
+      "title": "<p><strong>Choose a leader</strong></p>"
+    },
+    {
+      "id": "n-28",
+      "position": {
+        "x": 179.9845874488732,
+        "y": 156.40421522735005
+      },
+      "size": {
+        "width": 295.96917489428574
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#595959",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "frameId": "f-6",
+      "visualKind": "text",
+      "title": "<p>Choose a team member at random who will run this standup session.</p>"
+    },
+    {
+      "id": "n-29",
+      "position": {
+        "x": 52.20210761367562,
+        "y": 52.20210761367525
+      },
+      "size": {
+        "width": 40.404215227348686,
+        "height": 40.404215227349596
+      },
+      "style": {
+        "fillColor": "#1c1c1e",
+        "borderColor": "#ffffff",
+        "textColor": "#ffffff",
+        "fontSize": 18,
+        "fontFamily": "roobert_pro",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "circle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-6",
+      "visualKind": "shape",
+      "title": "<p><strong>1</strong></p>"
+    },
+    {
+      "id": "n-30",
+      "position": {
+        "x": 171.66812808665637,
+        "y": 105.54707237020648
+      },
+      "size": {
+        "width": 279.33625616571425
+      },
+      "style": {
+        "fontSize": 24,
+        "textColor": "#1a1a1a",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-7",
+      "visualKind": "text",
+      "title": "<p><strong>Capture updates</strong></p>"
+    },
+    {
+      "id": "n-31",
+      "position": {
+        "x": 179.9845874488732,
+        "y": 169.26135808449317
+      },
+      "size": {
+        "width": 295.96917489428574
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#595959",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "frameId": "f-7",
+      "visualKind": "text",
+      "title": "<p>Grab a sticky to summarize updates that are important to  share with the team.</p>"
+    },
+    {
+      "id": "n-32",
+      "position": {
+        "x": 52.20210761367562,
+        "y": 52.20210761367525
+      },
+      "size": {
+        "width": 40.404215227348686,
+        "height": 40.404215227349596
+      },
+      "style": {
+        "fillColor": "#1c1c1e",
+        "borderColor": "#ffffff",
+        "textColor": "#ffffff",
+        "fontSize": 18,
+        "fontFamily": "roobert_pro",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "circle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-7",
+      "visualKind": "shape",
+      "title": "<p><strong>2</strong></p>"
+    },
+    {
+      "id": "n-33",
+      "position": {
+        "x": 171.66812808665637,
+        "y": 105.54707237020637
+      },
+      "size": {
+        "width": 279.33625616571425
+      },
+      "style": {
+        "fontSize": 24,
+        "textColor": "#1a1a1a",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-8",
+      "visualKind": "text",
+      "title": "<p><strong>Organize work items</strong></p>"
+    },
+    {
+      "id": "n-34",
+      "position": {
+        "x": 179.9845874488732,
+        "y": 194.9756437987802
+      },
+      "size": {
+        "width": 295.96917489428574
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#595959",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "frameId": "f-8",
+      "visualKind": "text",
+      "title": "<p>Make work status visible by moving items in the kanban board. Capture any blockers that need to be discussed. Anything else can be added to the parking lot for later.</p>"
+    },
+    {
+      "id": "n-35",
+      "position": {
+        "x": 52.20210761367562,
+        "y": 52.20210761367514
+      },
+      "size": {
+        "width": 40.404215227348686,
+        "height": 40.404215227349596
+      },
+      "style": {
+        "fillColor": "#1c1c1e",
+        "borderColor": "#ffffff",
+        "textColor": "#ffffff",
+        "fontSize": 18,
+        "fontFamily": "roobert_pro",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "circle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-8",
+      "visualKind": "shape",
+      "title": "<p><strong>3</strong></p>"
+    },
+    {
+      "id": "n-36",
+      "position": {
+        "x": 159.65400608707787,
+        "y": 396.2566172191558
+      },
+      "size": {
+        "width": 255.30801217142857
+      },
+      "style": {
+        "fontSize": 16,
+        "textColor": "#9a9994",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "frameId": "f-8",
+      "visualKind": "text",
+      "title": "<p>Hint: Search for people and drag their avatar onto a kanban card in order to assign work items</p>"
+    },
+    {
+      "id": "n-37",
+      "position": {
+        "x": 171.66812808665637,
+        "y": 105.54707237020638
+      },
+      "size": {
+        "width": 279.33625616571425
+      },
+      "style": {
+        "fontSize": 24,
+        "textColor": "#1a1a1a",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-9",
+      "visualKind": "text",
+      "title": "<p><strong>Draft next steps</strong></p>"
+    },
+    {
+      "id": "n-38",
+      "position": {
+        "x": 179.9845874488732,
+        "y": 156.40421522735085
+      },
+      "size": {
+        "width": 295.96917489428574
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#595959",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "frameId": "f-9",
+      "visualKind": "text",
+      "title": "<p>Notes will be summarized in a document.</p>"
+    },
+    {
+      "id": "n-39",
+      "position": {
+        "x": 52.20210761367562,
+        "y": 52.20210761367515
+      },
+      "size": {
+        "width": 40.404215227348686,
+        "height": 40.404215227349596
+      },
+      "style": {
+        "fillColor": "#1c1c1e",
+        "borderColor": "#ffffff",
+        "textColor": "#ffffff",
+        "fontSize": 18,
+        "fontFamily": "roobert_pro",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "circle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-9",
+      "visualKind": "shape",
+      "title": "<p><strong>4</strong></p>"
+    },
+    {
+      "id": "n-40",
+      "position": {
+        "x": 171.66812808665637,
+        "y": 105.54707237020648
+      },
+      "size": {
+        "width": 279.33625616571425
+      },
+      "style": {
+        "fontSize": 24,
+        "textColor": "#1a1a1a",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-10",
+      "visualKind": "text",
+      "title": "<p><strong>Summarize</strong></p>"
+    },
+    {
+      "id": "n-41",
+      "position": {
+        "x": 179.9845874488732,
+        "y": 169.26135808449385
+      },
+      "size": {
+        "width": 295.96917489428574
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#595959",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "frameId": "f-10",
+      "visualKind": "text",
+      "title": "<p>Click Run and Miro AI will help gather a quick summary of next steps.</p>"
+    },
+    {
+      "id": "n-42",
+      "position": {
+        "x": 52.20210761367562,
+        "y": 52.20210761367525
+      },
+      "size": {
+        "width": 40.404215227348686,
+        "height": 40.404215227349596
+      },
+      "style": {
+        "fillColor": "#1c1c1e",
+        "borderColor": "#ffffff",
+        "textColor": "#ffffff",
+        "fontSize": 18,
+        "fontFamily": "roobert_pro",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "circle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-10",
+      "visualKind": "shape",
+      "title": "<p><strong>4</strong></p>"
+    },
+    {
+      "id": "n-43",
+      "position": {
+        "x": 171.66812808665637,
+        "y": 105.54707237020648
+      },
+      "size": {
+        "width": 279.33625616571425
+      },
+      "style": {
+        "fontSize": 24,
+        "textColor": "#1a1a1a",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-11",
+      "visualKind": "text",
+      "title": "<p><strong>Temperature check</strong></p>"
+    },
+    {
+      "id": "n-44",
+      "position": {
+        "x": 179.9845874488732,
+        "y": 156.40421522735096
+      },
+      "size": {
+        "width": 295.96917489428574
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#595959",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "frameId": "f-11",
+      "visualKind": "text",
+      "title": "<p>Share how you feel before finishing today&#39;s standup.</p>"
+    },
+    {
+      "id": "n-45",
+      "position": {
+        "x": 52.20210761367562,
+        "y": 52.202107613675366
+      },
+      "size": {
+        "width": 40.404215227348686,
+        "height": 40.404215227349596
+      },
+      "style": {
+        "fillColor": "#1c1c1e",
+        "borderColor": "#ffffff",
+        "textColor": "#ffffff",
+        "fontSize": 18,
+        "fontFamily": "roobert_pro",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "circle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-11",
+      "visualKind": "shape",
+      "title": "<p><strong>5</strong></p>"
+    },
+    {
+      "id": "n-46",
+      "position": {
+        "x": -1749.3150951982448,
+        "y": 342.77406045849216
+      },
+      "size": {
+        "width": 295.96917489428574
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#1a1a1a",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong>Drag sticky notes into kanban</strong></p>"
+    },
+    {
+      "id": "n-47",
+      "position": {
+        "x": -1871.101860493909,
+        "y": 293.7148099876747
+      },
+      "size": {
+        "width": 78.44845501585309,
+        "height": 51.82509136961629
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[stamp]"
+    },
+    {
+      "id": "n-48",
+      "position": {
+        "x": -1749.3150951982448,
+        "y": 377.40732252284556
+      },
+      "size": {
+        "width": 295.9691749
+      },
+      "style": {
+        "fontSize": 14,
+        "textColor": "#1a1a1a",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p>Did you know? Sticky notes can be dragged into Docs, Tables, Kanban and Timeline!</p>"
+    },
+    {
+      "id": "n-49",
+      "position": {
+        "x": -390.67657497403434,
+        "y": -125.25044754071791
+      },
+      "size": {
+        "width": 1118.0000000000039,
+        "height": 1102.0000000000039
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[kanban]"
+    },
+    {
+      "id": "n-50",
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "size": {
+        "width": 320.00000000000114,
+        "height": 60.00000000000021
+      },
+      "style": {
+        "borderColor": "#da0063"
+      },
+      "visualKind": "card",
+      "title": "",
+      "body": ""
+    },
+    {
+      "id": "n-51",
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "size": {
+        "width": 320.00000000000114,
+        "height": 60.00000000000021
+      },
+      "style": {
+        "borderColor": "#da0063"
+      },
+      "visualKind": "card",
+      "title": "",
+      "body": ""
+    },
+    {
+      "id": "n-52",
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "size": {
+        "width": 320.00000000000114,
+        "height": 88.00000000000031
+      },
+      "style": {
+        "borderColor": "#2dc75c"
+      },
+      "visualKind": "card",
+      "title": "",
+      "body": ""
+    },
+    {
+      "id": "n-53",
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "size": {
+        "width": 320.00000000000114,
+        "height": 88.00000000000031
+      },
+      "style": {
+        "borderColor": "#8f7fee"
+      },
+      "visualKind": "card",
+      "title": "",
+      "body": ""
+    },
+    {
+      "id": "n-54",
+      "position": {
+        "x": -1254.4492257280808,
+        "y": -676.2504475407206
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[people]"
+    },
+    {
+      "id": "n-55",
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "size": {
+        "width": 320.00000000000114,
+        "height": 88.00000000000031
+      },
+      "style": {
+        "borderColor": "#8f7fee"
+      },
+      "visualKind": "card",
+      "title": "<p><br /></p>",
+      "body": ""
+    },
+    {
+      "id": "n-56",
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "size": {
+        "width": 320.00000000000114,
+        "height": 88.00000000000031
+      },
+      "style": {
+        "borderColor": "#659df2"
+      },
+      "visualKind": "card",
+      "title": "",
+      "body": ""
+    },
+    {
+      "id": "n-57",
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "size": {
+        "width": 320.00000000000114,
+        "height": 60.00000000000021
+      },
+      "style": {
+        "borderColor": "#da0063"
+      },
+      "visualKind": "card",
+      "title": "",
+      "body": ""
+    },
+    {
+      "id": "n-58",
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "size": {
+        "width": 320.00000000000114,
+        "height": 88.00000000000031
+      },
+      "style": {
+        "borderColor": "#fac710"
+      },
+      "visualKind": "card",
+      "title": "",
+      "body": ""
+    },
+    {
+      "id": "n-59",
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "size": {
+        "width": 320.00000000000114,
+        "height": 88.00000000000031
+      },
+      "style": {
+        "borderColor": "#fac710"
+      },
+      "visualKind": "card",
+      "title": "",
+      "body": ""
+    },
+    {
+      "id": "n-60",
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "size": {
+        "width": 320.00000000000114,
+        "height": 88.00000000000031
+      },
+      "style": {
+        "borderColor": "#fac710"
+      },
+      "visualKind": "card",
+      "title": "",
+      "body": ""
+    },
+    {
+      "id": "n-61",
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "size": {
+        "width": 320.00000000000114,
+        "height": 60.00000000000021
+      },
+      "style": {
+        "borderColor": "#da0063"
+      },
+      "visualKind": "card",
+      "title": "",
+      "body": ""
+    },
+    {
+      "id": "n-62",
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "size": {
+        "width": 320.00000000000114,
+        "height": 88.00000000000031
+      },
+      "style": {
+        "borderColor": "#2dc75c"
+      },
+      "visualKind": "card",
+      "title": "",
+      "body": ""
+    },
+    {
+      "id": "n-63",
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "size": {
+        "width": 320.00000000000114,
+        "height": 88.00000000000031
+      },
+      "style": {
+        "borderColor": "#659df2"
+      },
+      "visualKind": "card",
+      "title": "",
+      "body": ""
+    },
+    {
+      "id": "n-64",
+      "position": {
+        "x": 56.92731277722558,
+        "y": 327.6851886477265
+      },
+      "size": {
+        "width": 60.15037593984944,
+        "height": 68.57142857142837
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ7gUpyg%3D/resources/images/3458764517264202083?format=preview&redirect=false"
+        }
+      },
+      "frameId": "f-8",
+      "visualKind": "image",
+      "title": ""
+    }
+  ],
+  "edges": [],
+  "annotations": [],
+  "_metadata": {
+    "extracted_at": "2026-02-23T12:46:59.389185",
+    "total_items": 77,
+    "total_connectors": 0,
+    "frames": 12,
+    "nodes": 65,
+    "edges": 0
+  },
+  "_template": {
+    "name": "daily-stand-up-meeting-ai-template",
+    "category": "miroverse",
+    "source": "miroverse",
+    "source_slug": "daily-stand-up-meeting-template-ai",
+    "source_board_id": "uXjVJ7gUpyg=",
+    "tags": [
+      "agile workflows",
+      "meetings",
+      "ai accelerated",
+      "agile",
+      "scrum",
+      "daily stand-up",
+      "daily schedule templates"
+    ],
+    "extracted_at": "2026-02-23T12:46:59.389221"
+  }
+}

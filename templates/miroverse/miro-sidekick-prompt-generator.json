@@ -1,0 +1,555 @@
+{
+  "frames": [
+    {
+      "id": "f-0",
+      "title": "",
+      "position": {
+        "x": 4717.81074569034,
+        "y": -2722.712983339334
+      },
+      "size": {
+        "width": 559.9999999999999,
+        "height": 333.71428571428515
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-1",
+      "title": "",
+      "position": {
+        "x": 5337.795333139213,
+        "y": -2779.510875725659
+      },
+      "size": {
+        "width": 359.9691748977464,
+        "height": 220.11850094163538
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-2",
+      "title": "",
+      "position": {
+        "x": 5324.93281095382,
+        "y": -1440.246643607852
+      },
+      "size": {
+        "width": 359.9691748977464,
+        "height": 192.97564379877772
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-3",
+      "title": "",
+      "position": {
+        "x": 6833.764508036959,
+        "y": -2762.368018582802
+      },
+      "size": {
+        "width": 359.9691748977464,
+        "height": 254.40421522734894
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-4",
+      "title": "",
+      "position": {
+        "x": 8376.981678186865,
+        "y": -2736.6537328685167
+      },
+      "size": {
+        "width": 359.9691748977464,
+        "height": 305.83278665592
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-5",
+      "title": "",
+      "position": {
+        "x": 9872.95085308461,
+        "y": -2749.510875725659
+      },
+      "size": {
+        "width": 359.9691748977464,
+        "height": 280.11850094163594
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    }
+  ],
+  "nodes": [
+    {
+      "id": "n-0",
+      "position": {
+        "x": 280.00000000000176,
+        "y": 166.85714285714258
+      },
+      "size": {
+        "width": 432.0
+      },
+      "style": {
+        "fontSize": 48,
+        "textColor": "#1c1c1e",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-0",
+      "visualKind": "text",
+      "title": "<p><strong>Miro Sidekick Prompt Generator</strong></p>"
+    },
+    {
+      "id": "n-1",
+      "position": {
+        "x": 179.9845874488723,
+        "y": 109.54707237020625
+      },
+      "size": {
+        "width": 295.9691749028571
+      },
+      "style": {
+        "fontSize": 24,
+        "textColor": "#1a1a1a",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-1",
+      "visualKind": "text",
+      "title": "<p><strong>Your Sidekick</strong></p>"
+    },
+    {
+      "id": "n-2",
+      "position": {
+        "x": 179.9845874488732,
+        "y": 162.40421522734937
+      },
+      "size": {
+        "width": 295.96917489428574
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#595959",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "frameId": "f-1",
+      "visualKind": "text",
+      "title": "<p>Add a short description of the Sidekick you&#39;d like to build.</p>"
+    },
+    {
+      "id": "n-3",
+      "position": {
+        "x": 52.2021076136738,
+        "y": 52.202107613674116
+      },
+      "size": {
+        "width": 40.404215227348686,
+        "height": 40.404215227349596
+      },
+      "style": {
+        "fillColor": "#1c1c1e",
+        "borderColor": "#ffffff",
+        "textColor": "#ffffff",
+        "fontSize": 18,
+        "fontFamily": "unknown",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "circle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-1",
+      "visualKind": "shape",
+      "title": "<p><strong>1</strong></p>"
+    },
+    {
+      "id": "n-4",
+      "position": {
+        "x": 5509.170586400609,
+        "y": -1444.7490044624608
+      },
+      "size": {
+        "width": 784.0,
+        "height": 5142.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "<h1>Sidekick Prompting Guidelines</h1><p></p><h1><strong><span style=\"color:#000000;\">How to write a Sidekick prompt</span></strong></h1><h2><strong><span style=\"color:#000000;\">What is a Sidekick?</span></strong></h2><p><span style=\"color:#000000;\">Sidekicks are AI-powered collaborators designed to excel at specific jobs within your workflow. Each one acts as both copilot and expert consultant, helping you tackle everything from writing PRDs and mapping user journeys to creating social content and analyzing competitors—all within the context of your canvas. Sidekicks provide focused AI-human partnership for deep, individual work that then becomes part of your team's shared workspace.</span></p><h3><strong>Why Sidekicks?&nbsp;</strong></h3><p><span style=\"color:#000000;\">Sidekicks let you scale specialized expertise across your team, organization, or the entire Miro community through the Miroverse. They're your always-available collaborators that:</span></p><ol><li data-list=\"bullet\"><span style=\"color:#000000;\"><strong>Provide expert perspectives </strong>when you're stuck or need a second opinion</span></li><li data-list=\"bullet\"><span style=\"color:#000000;\"><strong>Coach towards better outcomes </strong>with sharper thinking and clearer communication</span></li><li data-list=\"bullet\"><span style=\"color:#000000;\"><strong>Maintain standards and consistency</strong> without slowing down your creative flow</span></li><li data-list=\"bullet\"><span style=\"color:#000000;\"><strong>Inject fun and fresh ideas</strong> into routine work</span></li><li data-list=\"bullet\"><span style=\"color:#000000;\"><strong>Do one thing exceptionally well</strong> — focused experts&nbsp;</span></li><li data-list=\"bullet\"><span style=\"color:#000000;\"><strong>Handle the grunt work</strong> so you can focus on strategic thinking</span></li></ol><h2><strong><span style=\"color:#000000;\">Sidekick examples</span></strong></h2><h3><strong><span style=\"color:#000000;\">Research Synthesis Sidekick</span></strong></h3><p><span style=\"color:#000000;\">Instantly digests walls of sticky notes and transcripts into razor-sharp themes with evidence attached. Teams stop wasting hours debating what users said and start focusing on what to build next. → See example system prompt</span></p><h3><strong><span style=\"color:#000000;\">Roadmap Prioritization Sidekick</span></strong></h3><p><span style=\"color:#000000;\">Filters your backlog through your company's strategy and scoring model. No more political horse-trading — every decision is tied back to strategic pillars, forcing teams to prioritize what really matters. → See example system prompt</span></p><h3><strong><span style=\"color:#000000;\">Design Critique Sidekick</span></strong></h3><p><span style=\"color:#000000;\">Brings the eye of a seasoned design lead into every sketch. Surfaces accessibility gaps, brand missteps, and UX risks before they harden. Every designer suddenly has a built-in coach that makes their work sharper. → See example system prompt</span></p><h3><strong><span style=\"color:#000000;\">Tech Debt Action Sidekick</span></strong></h3><p><span style=\"color:#000000;\">Turns messy bug lists into compelling, structured proposals that map directly to engineering OKRs. Tech debt shifts from \"invisible drag\" to visible business case that leaders can't ignore. → See example system prompt</span></p><h3><strong><span style=\"color:#000000;\">Action Figure Sidekick</span></strong></h3><p><span style=\"color:#000000;\">Morphs team headshots into superhero busts with comic-book backdrops. Depict your team as the superheroes they already are — a playful way to celebrate milestones or spotlight achievements. → See example system prompt</span></p><h2><strong><span style=\"color:#000000;\">Writing a good Sidekick prompt</span></strong></h2><p><span style=\"color:#000000;\">A well-crafted prompt transforms your Sidekick into a focused expert that knows exactly how to help your team. With the right structure, you can create AI collaborators that speak your language, understand your workflow, and deliver consistently useful results that move work forward.</span></p><p><span style=\"color:#000000;\">👉 <strong>Role &amp; voice</strong> → <strong>Task &amp; Output</strong> → <strong>Inputs </strong>→ <strong>Guardrails</strong> → <strong>Reference Files&nbsp;</strong></span></p><p><em><span style=\"color:#000000;\">These are the essential elements of a strong prompt. Not every Sidekick needs all five (Reference Files are optional), but the strongest ones cover at least the first four.</span></em></p><h3><strong><span style=\"color:#000000;\">1) Role and voice</span></strong></h3><p><strong><span style=\"color:#000000;\">Who is the Sidekick? How does it communicate?</span></strong></p><p><strong><span style=\"color:#000000;\">How to define effective voice:</span></strong></p><ol><li data-list=\"bullet\"><span style=\"color:#000000;\">Start with the job; What expertise does this role bring? (seasoned researcher, strategic coach, detail-oriented critic)</span></li><li data-list=\"bullet\"><span style=\"color:#000000;\">Match the context: Encouraging for brainstorming work, formal for compliance work, direct for feedback, ruthless to fluff for strategy and specs etc.&nbsp;</span></li><li data-list=\"bullet\"><span style=\"color:#000000;\">Be specific: \"Supportive but pushes for clarity\" beats \"helpful and friendly\"</span></li><li data-list=\"bullet\"><span style=\"color:#000000;\">Make it memorable and distinct so the Sidekick feels unique, not generic</span></li></ol><p><strong><span style=\"color:#000000;\">Strong example:&nbsp;</span></strong></p><p><span style=\"color:#000000;\">\"You are a sharp-eyed synthesis researcher who cuts through noise to find signal in messy data. You speak directly but never dismissively, exposing hard truths that teams need to hear. You won't tolerate ambiguity—every output must be crisp, sharp, and brutally clear. You push for evidence-based decisions and aren't afraid to call out when findings contradict assumptions.\"</span></p><p><strong><span style=\"color:#000000;\">Weak example:&nbsp;</span></strong></p><p><span style=\"color:#000000;\">\"You are a helpful research assistant who provides support.\"</span></p><h3><strong><span style=\"color:#000000;\">2) Task and output</span></strong></h3><p><strong><span style=\"color:#000000;\">What's the Sidekick's job? What form should outputs take?</span></strong></p><p><strong><span style=\"color:#000000;\">How to define clear scope:</span></strong></p><ol><li data-list=\"bullet\"><span style=\"color:#000000;\">Lead with the specific job: \"Synthesize interview data\" not \"help with research\"</span></li><li data-list=\"bullet\"><span style=\"color:#000000;\">Specify the formats: Table, stickies, diagram, doc etc. And forbid irrelevant formats to avoid drift.</span></li><li data-list=\"bullet\"><span style=\"color:#000000;\">Define quality standards: Concise vs detailed, structured vs freeform</span></li><li data-list=\"bullet\"><span style=\"color:#000000;\">Specify what to preserve: Exact quotes, terminology, speaker attribution</span></li><li data-list=\"bullet\"><span style=\"color:#000000;\">Specify what to surface: Patterns, contradictions, gaps, tensions</span></li></ol><p><strong><span style=\"color:#000000;\">Strong example:</span></strong></p><p><span style=\"color:#000000;\">\"Transform interview transcripts into insight themes. Output format: Table with columns [Theme | Supporting Quotes | Frequency | Team Notes]. Be concise and structured. Preserve exact quote wording. Surface contradictions and recurring pain points. Add 'Research Gaps' section for unclear areas. Never create essays, presentations, or strategic recommendations.\"</span></p><p><strong><span style=\"color:#000000;\">Weak example:</span></strong></p><p><span style=\"color:#000000;\">\"Analyze research and provide useful insights.\"</span></p><h3><strong><span style=\"color:#000000;\">3) Inputs&nbsp;</span></strong></h3><p><strong><span style=\"color:#000000;\">What does the Sidekick need to work?</span></strong></p><p><strong><span style=\"color:#000000;\">How to set clear input expectations/Guidance:</span></strong></p><ol><li data-list=\"bullet\"><span style=\"color:#000000;\">Specify what content types you need (interview notes, feedback, sketches, strategy docs, etc.)</span></li><li data-list=\"bullet\"><span style=\"color:#000000;\">Define behavior if no input is provided (ask the user, don't hallucinate)</span></li><li data-list=\"bullet\"><span style=\"color:#000000;\">Remember: users provide content either by selecting it on the board or typing/pasting it in chat</span></li></ol><p><strong><span style=\"color:#000000;\">Strong example:</span></strong></p><p><span style=\"color:#000000;\">\"You need interview transcripts, user feedback, or research notes to work effectively. Users can select relevant sticky notes/content on the board or paste content directly in chat. If no content is provided, ask the user to supply it. If inputs are incomplete or unclear, flag what's missing rather than making assumptions. Link every theme to supporting evidence—never invent quotes or generalize without direct support.\"</span></p><p><strong><span style=\"color:#000000;\">Weak example:</span></strong></p><p><span style=\"color:#000000;\">\"You work with various types of research data that users provide.\"</span></p><h3><strong><span style=\"color:#000000;\">4) Guardrails</span></strong></h3><p><strong><span style=\"color:#000000;\">What must the Sidekick never do?</span></strong></p><p><strong><span style=\"color:#000000;\">How to set boundaries/restrictions:</span></strong></p><ol><li data-list=\"bullet\"><span style=\"color:#000000;\">Ban the common mistakes this Sidekick type is most at risk of making</span></li><li data-list=\"bullet\"><span style=\"color:#000000;\">Keep scope narrow and relevant (avoid generic boilerplate)</span></li><li data-list=\"bullet\"><span style=\"color:#000000;\">Focus on behaviors that break trust: invention, distortion, scope creep</span></li></ol><p><strong><span style=\"color:#000000;\">Strong example:</span></strong></p><p><span style=\"color:#000000;\">\"Never invent quotes, paraphrase in ways that change meaning, or create themes without evidence. Never hide ambiguity—flag it instead. Never propose strategic recommendations unless explicitly asked. Never switch formats; stick to the specified table or sticky notes.\"</span></p><p><strong><span style=\"color:#000000;\">Weak example:</span></strong></p><p><span style=\"color:#000000;\">\"Don't make things up or go off-topic.\"</span></p><h3><strong><span style=\"color:#000000;\">5) Reference files (Optional)</span></strong></h3><p><strong><span style=\"color:#000000;\">How to give your Sidekick specialized knowledge</span></strong></p><p><span style=\"color:#000000;\">Reference files are optional documents you can upload when creating the sidekick (templates, brand guidelines, strategy docs, etc.). Only the text content from these files is used — images, charts, or other visual elements are ignored. If included, they become part of the sidekick's knowledge and shape how it works.</span></p><p><strong><span style=\"color:#000000;\">How to use files effectively:</span></strong></p><ol><li data-list=\"bullet\"><span style=\"color:#000000;\">Use for consistency: Great for terminology, categories, formats, and tone</span></li><li data-list=\"bullet\"><span style=\"color:#000000;\">Treat them as authoritative: Files override general knowledge—your brand guide beats generic advice</span></li><li data-list=\"bullet\"><span style=\"color:#000000;\">Reference them explicitly in your prompt: Tell the Sidekick exactly how to apply each file</span></li><li data-list=\"bullet\"><span style=\"color:#000000;\">Never ask users about files: The Sidekick should just know and use them automatically</span></li><li data-list=\"bullet\"><span style=\"color:#000000;\">Highlight the total size and format constraints: max 10 MB combined file size; supported formats are PDF, TXT, CSV, and MD</span></li></ol><p><strong><span style=\"color:#000000;\">Examples of files and how to reference them in the prompt:</span></strong></p><p><strong><span style=\"color:#000000;\">Brand guidelines:</span></strong></p><p><span style=\"color:#000000;\">\"Follow the voice and style rules in the attached Brand Guidelines for all copy.\"</span></p><p><strong><span style=\"color:#000000;\">Research report template:</span></strong></p><p><span style=\"color:#000000;\">\"Use the structure from the attached Report Template for all findings.\"</span></p><p><strong><span style=\"color:#000000;\">Company strategy doc:</span></strong></p><p><span style=\"color:#000000;\">\"Align all recommendations with the strategic priorities in the attached Strategy Document.\"</span></p><p><strong><span style=\"color:#000000;\">Research taxonomy:</span></strong></p><p><span style=\"color:#000000;\">\"Classify insights using categories from the attached Research Taxonomy. Only create new categories if none apply.\"</span></p><h2><strong><span style=\"color:#000000;\">Quick test</span></strong></h2><p><strong><span style=\"color:#000000;\">Validate before you publish</span></strong></p><p><span style=\"color:#000000;\">Test with 2-3 real examples from your workflow (messy data, not perfect samples):</span></p><ol><li data-list=\"bullet\"><span style=\"color:#000000;\">Format: Does it stick to your specified output?</span></li><li data-list=\"bullet\"><span style=\"color:#000000;\">Voice: Does it sound like the expert you defined?</span></li><li data-list=\"bullet\"><span style=\"color:#000000;\">Edge cases: How does it handle missing or conflicting inputs?</span></li></ol><h2><br><strong><span style=\"color:#000000;\">Recap</span></strong></h2><p><span style=\"color:#000000;\">A great Sidekick prompt covers: 👉 <strong>Role &amp; voice</strong> → <strong>Tasks &amp; output</strong> → <strong>Inputs </strong>→ <strong>Guardrails</strong> → <strong>Reference files</strong></span></p><p><span style=\"color:#000000;\">Get these elements right, and your Sidekicks will be:</span></p><ol><li data-list=\"bullet\"><span style=\"color:#000000;\"><strong>Clear</strong> — users know what to expect</span></li><li data-list=\"bullet\"><span style=\"color:#000000;\"><strong>Consistent</strong> — outputs are structured and repeatable</span></li><li data-list=\"bullet\"><span style=\"color:#000000;\"><strong>Trustworthy</strong> — grounded in input, not hallucinations</span></li><li data-list=\"bullet\"><span style=\"color:#000000;\"><strong>Engaging</strong> — distinct voices that cut through noise</span></li><li data-list=\"bullet\"><span style=\"color:#000000;\"><strong>Scalable</strong> — expertise you can share across teams, orgs, or the Miroverse</span></li></ol><p><span style=\"color:#000000;\">⚡ <strong>Pro tip:</strong> Keep the prompt short, sharp, and imaginative. If you need a page of \"never be vague, don't write long paragraphs, always demand evidence\" rules just to keep it in line, you probably haven't nailed the role or task yet. A strong persona like \"ruthless synthesis researcher\" acts like natural guardrails — it tells the sidekick how to behave across many situations without endless explicit instructions. A weak example: \"You are a helpful AI assistant that analyzes data\" needs tons of rules because it's too generic to guide behavior.</span></p><p></p><p></p><p><strong><span style=\"color:#000000;\">Putting it all together:</span></strong></p><p><em><span style=\"color:#000000;\">You are a sharp-eyed synthesis researcher who cuts through noise to find signal in messy data. You speak directly but never dismissively, exposing hard truths that teams need to hear. You won't tolerate ambiguity—every output must be crisp, sharp, and brutally clear. You push for evidence-based decisions and aren't afraid to call out when findings contradict assumptions.</span></em></p><p><em><span style=\"color:#000000;\">Transform interview transcripts into insight themes. Output format: Table with columns [Theme | Supporting Quotes | Frequency | Team Notes]. Be concise and structured. Preserve exact quote wording. Surface contradictions and recurring pain points. Add 'Research Gaps' section for unclear areas. Never create essays, presentations, or strategic recommendations.</span></em></p><p><em><span style=\"color:#000000;\">You need interview transcripts, user feedback, or research notes to work effectively. Users can select relevant sticky notes/content on the board or paste content directly in chat. If no content is provided, ask the user to supply it. If inputs are incomplete or unclear, flag what's missing rather than making assumptions. Link every theme to supporting evidence—never invent quotes or generalize without direct support.</span></em></p><p><br></p><p></p>"
+    },
+    {
+      "id": "n-5",
+      "position": {
+        "x": 5549.779920588087,
+        "y": -2889.570126196477
+      },
+      "size": {
+        "width": 783.9999999999991,
+        "height": 1105.4399999999985
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "<h1>Your Miro sidekick</h1><p></p><p><strong>Name of the sidekick:</strong></p><p></p><p></p><p><strong><span style=\"color:#000000;\">1) Role and voice</span></strong> </p><p>Agile Coach with deep knowledge in all relevant frameworks, pragmatic, slightly sarcastic, but in a friendly way</p><p></p><h3><strong><span style=\"color:#000000;\">2) Task and output</span></strong></h3><p>Concise, short, thoughtful observations and advice, keeping it fun but provoking thought</p><p></p><h3><strong><span style=\"color:#000000;\">3) Inputs&nbsp;</span></strong></h3><p></p><p></p><p></p><h3><strong><span style=\"color:#000000;\">4) Guardrails</span></strong></h3><p></p><p></p><p></p><h3><strong><span style=\"color:#000000;\">5) Reference file</span></strong></h3><p></p>"
+    },
+    {
+      "id": "n-6",
+      "position": {
+        "x": 8588.966265635738,
+        "y": -2889.570126196477
+      },
+      "size": {
+        "width": 784.0,
+        "height": 2498.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "<h1></h1>"
+    },
+    {
+      "id": "n-7",
+      "position": {
+        "x": 7045.749095485833,
+        "y": -2889.570126196477
+      },
+      "size": {
+        "width": 831.24799525216,
+        "height": 2595.5294545628667
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "<h1></h1>"
+    },
+    {
+      "id": "n-8",
+      "position": {
+        "x": 179.9845874488723,
+        "y": 126.68992951306343
+      },
+      "size": {
+        "width": 295.9691749028571
+      },
+      "style": {
+        "fontSize": 24,
+        "textColor": "#1a1a1a",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-2",
+      "visualKind": "text",
+      "title": "<p><strong>Sidekick prompting guidelines</strong></p>"
+    },
+    {
+      "id": "n-9",
+      "position": {
+        "x": 52.2021076136738,
+        "y": 52.20210761367419
+      },
+      "size": {
+        "width": 40.404215227348686,
+        "height": 40.404215227349596
+      },
+      "style": {
+        "fillColor": "#1c1c1e",
+        "borderColor": "#ffffff",
+        "textColor": "#ffffff",
+        "fontSize": 18,
+        "fontFamily": "unknown",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "circle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-2",
+      "visualKind": "shape",
+      "title": "<p><strong>2</strong></p>"
+    },
+    {
+      "id": "n-10",
+      "position": {
+        "x": 179.9845874488723,
+        "y": 126.68992951306349
+      },
+      "size": {
+        "width": 295.9691749028571
+      },
+      "style": {
+        "fontSize": 24,
+        "textColor": "#1a1a1a",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-3",
+      "visualKind": "text",
+      "title": "<p><strong>Your Sidekick Instruction</strong></p>"
+    },
+    {
+      "id": "n-11",
+      "position": {
+        "x": 179.9845874488732,
+        "y": 196.68992951306348
+      },
+      "size": {
+        "width": 295.96917489428574
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#595959",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "frameId": "f-3",
+      "visualKind": "text",
+      "title": "<p>Review the full prompt and use it for your Sidekick as its Instruction.</p>"
+    },
+    {
+      "id": "n-12",
+      "position": {
+        "x": 52.2021076136738,
+        "y": 52.202107613674016
+      },
+      "size": {
+        "width": 40.404215227348686,
+        "height": 40.404215227349596
+      },
+      "style": {
+        "fillColor": "#1c1c1e",
+        "borderColor": "#ffffff",
+        "textColor": "#ffffff",
+        "fontSize": 18,
+        "fontFamily": "unknown",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "circle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-3",
+      "visualKind": "shape",
+      "title": "<p><strong>3</strong></p>"
+    },
+    {
+      "id": "n-13",
+      "position": {
+        "x": 179.9845874488732,
+        "y": 126.6899295130637
+      },
+      "size": {
+        "width": 295.9691749028571
+      },
+      "style": {
+        "fontSize": 24,
+        "textColor": "#1a1a1a",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-4",
+      "visualKind": "text",
+      "title": "<p><strong>Knowledge file suggestions</strong></p>"
+    },
+    {
+      "id": "n-14",
+      "position": {
+        "x": 179.9845874488732,
+        "y": 222.40421522734948
+      },
+      "size": {
+        "width": 295.96917489428574
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#595959",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "frameId": "f-4",
+      "visualKind": "text",
+      "title": "<p>Based on your instruction, here are some suggestions for additional context you can provide for your Sidekick as knowledge files.</p>"
+    },
+    {
+      "id": "n-15",
+      "position": {
+        "x": 52.2021076136738,
+        "y": 52.20210761367423
+      },
+      "size": {
+        "width": 40.404215227348686,
+        "height": 40.404215227349596
+      },
+      "style": {
+        "fillColor": "#1c1c1e",
+        "borderColor": "#ffffff",
+        "textColor": "#ffffff",
+        "fontSize": 18,
+        "fontFamily": "unknown",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "circle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-4",
+      "visualKind": "shape",
+      "title": "<p><strong>4</strong></p>"
+    },
+    {
+      "id": "n-16",
+      "position": {
+        "x": 179.9845874488732,
+        "y": 126.68992951306387
+      },
+      "size": {
+        "width": 295.9691749028571
+      },
+      "style": {
+        "fontSize": 24,
+        "textColor": "#1a1a1a",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-5",
+      "visualKind": "text",
+      "title": "<p><strong>Create your Sidekick in Miro</strong></p>"
+    },
+    {
+      "id": "n-17",
+      "position": {
+        "x": 179.9845874488732,
+        "y": 209.547072370207
+      },
+      "size": {
+        "width": 295.96917489428574
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#595959",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "frameId": "f-5",
+      "visualKind": "text",
+      "title": "<p>Follow these steps in this tutorial to create your own Sidekicks in Miro.</p>"
+    },
+    {
+      "id": "n-18",
+      "position": {
+        "x": 52.2021076136738,
+        "y": 52.2021076136744
+      },
+      "size": {
+        "width": 40.404215227348686,
+        "height": 40.404215227349596
+      },
+      "style": {
+        "fillColor": "#1c1c1e",
+        "borderColor": "#ffffff",
+        "textColor": "#ffffff",
+        "fontSize": 18,
+        "fontFamily": "unknown",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "circle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-5",
+      "visualKind": "shape",
+      "title": "<p><strong>5</strong></p>"
+    },
+    {
+      "id": "n-19",
+      "position": {
+        "x": 9995.815902000002,
+        "y": -1891.3242199832885
+      },
+      "size": {
+        "width": 605.6992727285281,
+        "height": 1289.2553147184574
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJDtpv30%3D/resources/images/3458764517257703216?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    }
+  ],
+  "edges": [],
+  "annotations": [],
+  "_metadata": {
+    "extracted_at": "2026-02-23T13:08:09.754033",
+    "total_items": 26,
+    "total_connectors": 0,
+    "frames": 6,
+    "nodes": 20,
+    "edges": 0
+  },
+  "_template": {
+    "name": "miro-sidekick-prompt-generator",
+    "category": "miroverse",
+    "source": "miroverse",
+    "source_slug": "miro-sidekick-prompt-generator-ai",
+    "source_board_id": "uXjVJDtpv30=",
+    "tags": [
+      "productivity hacks",
+      "ai accelerated"
+    ],
+    "extracted_at": "2026-02-23T13:08:09.754105"
+  }
+}

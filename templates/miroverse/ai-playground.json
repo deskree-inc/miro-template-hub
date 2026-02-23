@@ -1,0 +1,2475 @@
+{
+  "frames": [
+    {
+      "id": "f-0",
+      "title": "Idea",
+      "position": {
+        "x": -10668.479047912253,
+        "y": -1190.3132302998056
+      },
+      "size": {
+        "width": 915.0448189477595,
+        "height": 763.6883205099397
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-1",
+      "title": "",
+      "position": {
+        "x": -11273.322154338277,
+        "y": 901.9959424338485
+      },
+      "size": {
+        "width": 3724.290021277875,
+        "height": 1984.3738487953058
+      },
+      "style": {
+        "fillColor": "#ffdd33"
+      }
+    },
+    {
+      "id": "f-2",
+      "title": "",
+      "position": {
+        "x": -11733.15847161583,
+        "y": -3615.839820571549
+      },
+      "size": {
+        "width": 2221.5826480831693,
+        "height": 863.6883205099377
+      },
+      "style": {
+        "fillColor": "#ffdd33"
+      }
+    }
+  ],
+  "nodes": [
+    {
+      "id": "n-0",
+      "position": {
+        "x": -10697.313558977647,
+        "y": -1983.0380544292748
+      },
+      "size": {
+        "width": 101.85629063218937,
+        "height": 101.85629063218977
+      },
+      "style": {
+        "fillColor": "#1c1c1e",
+        "borderColor": "#ffffff",
+        "textColor": "#ffffff",
+        "fontSize": 28,
+        "fontFamily": "unknown",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "circle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": "<p><strong>2</strong></p>"
+    },
+    {
+      "id": "n-1",
+      "position": {
+        "x": -9962.626937988896,
+        "y": -1628.497794078095
+      },
+      "size": {
+        "width": 551.4497942895564,
+        "height": 777.5442099482744
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "<h1></h1>"
+    },
+    {
+      "id": "n-2",
+      "position": {
+        "x": 457.52240947387975,
+        "y": 381.84416025496984
+      },
+      "size": {
+        "width": 789.1540178657143
+      },
+      "style": {
+        "fontSize": 36,
+        "textColor": "#e7e7e7",
+        "fontFamily": "roobert",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "text",
+      "title": "<p><strong style=\"background-color:transparent\">Add your idea here</strong></p>"
+    },
+    {
+      "id": "n-3",
+      "position": {
+        "x": 155.76657971888847,
+        "y": 202.20196854729346
+      },
+      "size": {
+        "width": 214.0232699042484,
+        "height": 245.21259064406348
+      },
+      "style": {
+        "fillColor": "dark_green",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "stickyNote",
+      "title": "<p><strong>EnergyEye </strong>- Home sensor that monitors electricity usage of individual appliances. App provides personalized tips to reduce consumption, predicts bills, and gamifies conservation efforts.</p>"
+    },
+    {
+      "id": "n-4",
+      "position": {
+        "x": -10734.972600774636,
+        "y": -1774.3897890956373
+      },
+      "size": {
+        "width": 461.00562988966334,
+        "height": 315.44024003508434
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#1c1c1e",
+        "textColor": "#1a1a1a",
+        "fontSize": 48,
+        "fontFamily": "bangers",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "cloud"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": "<p>Pick your favorite PRODUCT IDEA</p>"
+    },
+    {
+      "id": "n-5",
+      "position": {
+        "x": -9433.437583077906,
+        "y": -1746.788171373667
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[paint]"
+    },
+    {
+      "id": "n-6",
+      "position": {
+        "x": -9429.153313710442,
+        "y": -1688.8098526208269
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[paint]"
+    },
+    {
+      "id": "n-7",
+      "position": {
+        "x": -8052.3065692213895,
+        "y": -2531.2779251132242
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "Slides"
+    },
+    {
+      "id": "n-8",
+      "position": {
+        "x": -8791.568923975468,
+        "y": -1595.1105944607111
+      },
+      "size": {
+        "width": 461.00562988966294,
+        "height": 461.00562988966294
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ8NWvL8%3D/resources/images/0?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-9",
+      "position": {
+        "x": -8452.082681000335,
+        "y": -912.8122990061674
+      },
+      "size": {
+        "width": 461.00562988966124,
+        "height": 461.00562988966124
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ8NWvL8%3D/resources/images/0?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-10",
+      "position": {
+        "x": -9030.085495945164,
+        "y": -1018.2341740061638
+      },
+      "size": {
+        "width": 461.0056298896622,
+        "height": 461.0056298896622
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ8NWvL8%3D/resources/images/0?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-11",
+      "position": {
+        "x": -8052.3065692213895,
+        "y": -974.2385032479322
+      },
+      "size": {
+        "width": 1633.2549902662147,
+        "height": 1012.1698123313868
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "Prototype"
+    },
+    {
+      "id": "n-12",
+      "position": {
+        "x": -11049.975415719466,
+        "y": -541.8800024511056
+      },
+      "size": {
+        "width": 99.99999999999999,
+        "height": 114.57286432160802
+      },
+      "style": {
+        "fillColor": "gray",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "PlantPal - Smart plant pot that measures soil moisture, sunlight, and nutrients. App provides care schedules, identifies plant diseases from photos, and connects to a marketplace for plant supplies."
+    },
+    {
+      "id": "n-13",
+      "position": {
+        "x": -10899.975415719466,
+        "y": -671.9945857844389
+      },
+      "size": {
+        "width": 99.99999999999999,
+        "height": 114.57286432160802
+      },
+      "style": {
+        "fillColor": "dark_green",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "SleepSync - Bedside device that analyzes room temperature, humidity, noise levels, and light. App provides personalized sleep insights, customized soundscapes, and suggests environmental adjustments for optimal rest."
+    },
+    {
+      "id": "n-14",
+      "position": {
+        "x": -10773.626457386134,
+        "y": -708.0310441177721
+      },
+      "size": {
+        "width": 99.99999999999999,
+        "height": 114.57286432160802
+      },
+      "style": {
+        "fillColor": "cyan",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "WasteWise - Smart kitchen bin that scans barcodes as you discard items. App builds shopping lists based on consumption patterns, tracks expiration dates, and suggests recipes to minimize food waste."
+    },
+    {
+      "id": "n-15",
+      "position": {
+        "x": -10661.813957386134,
+        "y": -682.3539607844389
+      },
+      "size": {
+        "width": 99.99999999999999,
+        "height": 114.57286432160802
+      },
+      "style": {
+        "fillColor": "violet",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "PetPulse - Collar attachment that monitors pet activity, location, and vital signs. App creates a social network for neighborhood pets, provides behavioral insights, and connects to local vets for telemedicine."
+    },
+    {
+      "id": "n-16",
+      "position": {
+        "x": -10979.975415719466,
+        "y": -392.3071381294976
+      },
+      "size": {
+        "width": 99.99999999999999,
+        "height": 114.57286432160802
+      },
+      "style": {
+        "fillColor": "light_green",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "MoodMirror - Smart mirror that captures facial expressions and posture. App tracks emotional patterns over time, suggests personalized well-being activities, and connects to mental health resources."
+    },
+    {
+      "id": "n-17",
+      "position": {
+        "x": -10915.475415719466,
+        "y": -545.2081536236349
+      },
+      "size": {
+        "width": 99.99999999999999,
+        "height": 114.57286432160802
+      },
+      "style": {
+        "fillColor": "green",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "HydroTrack - Water bottle with embedded sensors that measure consumption, water quality, and hydration needs. App gamifies hydration goals and suggests personalized intake based on activity and weather."
+    },
+    {
+      "id": "n-18",
+      "position": {
+        "x": -10780.975415719466,
+        "y": -582.9529191177721
+      },
+      "size": {
+        "width": 99.99999999999999,
+        "height": 114.57286432160802
+      },
+      "style": {
+        "fillColor": "orange",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "CookCoach - Kitchen scale that identifies ingredients by weight and appearance. App suggests recipe modifications based on available ingredients, dietary restrictions, and skill level."
+    },
+    {
+      "id": "n-19",
+      "position": {
+        "x": -10592.1056240528,
+        "y": -557.4217214628309
+      },
+      "size": {
+        "width": 99.99999999999999,
+        "height": 114.57286432160802
+      },
+      "style": {
+        "fillColor": "blue",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "FitFloor - Pressure-sensitive floor mat that analyzes gait, balance, and workout form. App provides personalized exercise routines, tracks progress, and offers real-time form corrections."
+    },
+    {
+      "id": "n-20",
+      "position": {
+        "x": -10862.975415719466,
+        "y": -418.4112524511056
+      },
+      "size": {
+        "width": 99.99999999999999,
+        "height": 114.57286432160802
+      },
+      "style": {
+        "fillColor": "light_pink",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "MedMinder - Medication dispenser with biometric verification. App manages prescriptions, provides medication information, tracks adherence, and coordinates refills with pharmacies."
+    },
+    {
+      "id": "n-21",
+      "position": {
+        "x": -10745.975415719466,
+        "y": -458.15083578443887
+      },
+      "size": {
+        "width": 99.99999999999999,
+        "height": 114.57286432160802
+      },
+      "style": {
+        "fillColor": "dark_blue",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "ScentScape - Programmable aroma diffuser that creates custom scent profiles. App lets users design personal fragrances, schedule mood-enhancing scents, and share creations with a community."
+    },
+    {
+      "id": "n-22",
+      "position": {
+        "x": -10610.1837490528,
+        "y": -418.4112524511056
+      },
+      "size": {
+        "width": 99.99999999999999,
+        "height": 114.57286432160802
+      },
+      "style": {
+        "fillColor": "light_blue",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "TextileTech - Fabric analyzer that identifies materials, quality, and care requirements when shopping. App builds a virtual closet, suggests outfit combinations, and tracks clothing sustainability metrics."
+    },
+    {
+      "id": "n-23",
+      "position": {
+        "x": -11049.975415719466,
+        "y": -691.4528667727136
+      },
+      "size": {
+        "width": 99.99999999999999,
+        "height": 114.57286432160802
+      },
+      "style": {
+        "fillColor": "yellow",
+        "align": "center"
+      },
+      "visualKind": "stickyNote",
+      "title": "<p><strong>Ideas to try</strong></p>"
+    },
+    {
+      "id": "n-24",
+      "position": {
+        "x": 174.19474955439557,
+        "y": 493.78644202717015
+      },
+      "size": {
+        "width": 124.95859689990225,
+        "height": 143.1686436843101
+      },
+      "style": {
+        "fillColor": "cyan",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "stickyNote",
+      "title": "<p><strong>Social element for roommates and partners</strong></p>"
+    },
+    {
+      "id": "n-25",
+      "position": {
+        "x": 346.22903488338227,
+        "y": 548.0729003605036
+      },
+      "size": {
+        "width": 124.95859689990225,
+        "height": 143.1686436843101
+      },
+      "style": {
+        "fillColor": "blue",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "stickyNote",
+      "title": "<p><strong>Integrations with smart devices</strong></p>"
+    },
+    {
+      "id": "n-26",
+      "position": {
+        "x": -11762.811724532914,
+        "y": -2790.816270657845
+      },
+      "size": {
+        "width": 484.75074262689424,
+        "height": 325.91168469385394
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#1c1c1e",
+        "textColor": "#1a1a1a",
+        "fontSize": 48,
+        "fontFamily": "bangers",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "cloud"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": "<p>Brainstorm PRODUCT ideas with a sidekick</p>"
+    },
+    {
+      "id": "n-27",
+      "position": {
+        "x": -9737.565129609548,
+        "y": -1887.3846255306576
+      },
+      "size": {
+        "width": 461.005629889661,
+        "height": 315.4402400350845
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#1c1c1e",
+        "textColor": "#1a1a1a",
+        "fontSize": 48,
+        "fontFamily": "bangers",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "cloud"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": "<p>Run the flow to make it real!</p>"
+    },
+    {
+      "id": "n-28",
+      "position": {
+        "x": -11291.160114756662,
+        "y": -2742.1950856358885
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[paint]"
+    },
+    {
+      "id": "n-29",
+      "position": {
+        "x": -11320.506746814302,
+        "y": -2757.9654443571035
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[paint]"
+    },
+    {
+      "id": "n-30",
+      "position": {
+        "x": -9315.56942459995,
+        "y": -1880.4705522626855
+      },
+      "size": {
+        "width": 366.73978788
+      },
+      "style": {
+        "fontSize": 24,
+        "textColor": "#222428",
+        "fontFamily": "roobert",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong style=\"background-color:transparent\">Hit run,</strong><span style=\"background-color:transparent\"> and watch your idea transform into a complete concept: creative brief, visual mockup, and working prototype.</span></p>"
+    },
+    {
+      "id": "n-31",
+      "position": {
+        "x": -10559.313548498012,
+        "y": -1618.9078820560799
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[paint]"
+    },
+    {
+      "id": "n-32",
+      "position": {
+        "x": -10556.858408417185,
+        "y": -1585.682871679769
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[paint]"
+    },
+    {
+      "id": "n-33",
+      "position": {
+        "x": -10296.655020183322,
+        "y": -1784.5216483702582
+      },
+      "size": {
+        "width": 342.61618709142857
+      },
+      "style": {
+        "fontSize": 24,
+        "textColor": "#222428",
+        "fontFamily": "roobert",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p>From the brainstormed ideas, choose your favorite and add it to the frame. You can always add your own flavor to it too!</p>"
+    },
+    {
+      "id": "n-34",
+      "position": {
+        "x": -11020.386992529777,
+        "y": -2716.517795733246
+      },
+      "size": {
+        "width": 402.10577043428566
+      },
+      "style": {
+        "fontSize": 24,
+        "textColor": "#222428",
+        "fontFamily": "roobert",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><span style=\"background-color:transparent\">Click the button to launch a brainstorming Sidekick and start a chat. You can work with the Sidekick to brainstorm ideas!</span></p>"
+    },
+    {
+      "id": "n-35",
+      "position": {
+        "x": -9737.565129609548,
+        "y": -2126.670866929275
+      },
+      "size": {
+        "width": 101.85629063218937,
+        "height": 101.85629063218977
+      },
+      "style": {
+        "fillColor": "#1c1c1e",
+        "borderColor": "#ffffff",
+        "textColor": "#ffffff",
+        "fontSize": 28,
+        "fontFamily": "unknown",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "circle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": "<p><strong>3</strong></p>"
+    },
+    {
+      "id": "n-36",
+      "position": {
+        "x": -11552.403561035562,
+        "y": -2678.788573627013
+      },
+      "size": {
+        "width": 101.85629063218937,
+        "height": 101.85629063218977
+      },
+      "style": {
+        "fillColor": "#1c1c1e",
+        "borderColor": "#ffffff",
+        "textColor": "#ffffff",
+        "fontSize": 28,
+        "fontFamily": "unknown",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "circle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": "<p><strong>1</strong></p>"
+    },
+    {
+      "id": "n-37",
+      "position": {
+        "x": -9215.028212369103,
+        "y": -447.11516588702625
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[data_table_format]"
+    },
+    {
+      "id": "n-38",
+      "position": {
+        "x": -8052.3065692213895,
+        "y": 621.2989562090281
+      },
+      "size": {
+        "width": 1200.0,
+        "height": 700.0
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "Diagram"
+    },
+    {
+      "id": "n-39",
+      "position": {
+        "x": 841.1593981257292,
+        "y": 1379.9102420234617
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "frameId": "f-1",
+      "visualKind": "shape",
+      "title": "[paint]"
+    },
+    {
+      "id": "n-40",
+      "position": {
+        "x": 871.4606433324261,
+        "y": 1367.8668549947274
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "frameId": "f-1",
+      "visualKind": "shape",
+      "title": "[paint]"
+    },
+    {
+      "id": "n-41",
+      "position": {
+        "x": 933.9323279164009,
+        "y": 1566.0412597168202
+      },
+      "size": {
+        "width": 90.76885276938285,
+        "height": 479.37300368830313
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ8NWvL8%3D/resources/images/3458764517273235072?format=preview&redirect=false"
+        }
+      },
+      "frameId": "f-1",
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-42",
+      "position": {
+        "x": 862.0119572381136,
+        "y": 725.3584945813908
+      },
+      "size": {
+        "width": 616.2334590228505,
+        "height": 269.05080470629565
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ8NWvL8%3D/resources/images/3458764517273235073?format=preview&redirect=false"
+        }
+      },
+      "frameId": "f-1",
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-43",
+      "position": {
+        "x": 1316.025888839159,
+        "y": 1723.5897315789193
+      },
+      "size": {
+        "width": 364.7734973243324,
+        "height": 212.44144990897914
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ8NWvL8%3D/resources/images/3458764517273235076?format=preview&redirect=false"
+        }
+      },
+      "frameId": "f-1",
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-44",
+      "position": {
+        "x": 1772.0983402975298,
+        "y": 1492.900745300134
+      },
+      "size": {
+        "width": 537.5048088085714
+      },
+      "style": {
+        "fontSize": 36,
+        "textColor": "#222428",
+        "fontFamily": "roobert",
+        "align": "left"
+      },
+      "frameId": "f-1",
+      "visualKind": "text",
+      "title": "<p><span style=\"color:rgb(34,36,40);background-color:transparent\">Each Sidekick in the library, has unique expertise, ready to help move your work forward.</span></p>"
+    },
+    {
+      "id": "n-45",
+      "position": {
+        "x": 904.5885567388705,
+        "y": 762.9240986362
+      },
+      "size": {
+        "width": 53.187575502544334,
+        "height": 53.187575502544334
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ8NWvL8%3D/resources/images/3458764517273235077?format=preview&redirect=false"
+        }
+      },
+      "frameId": "f-1",
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-46",
+      "position": {
+        "x": 3423.736321911153,
+        "y": 1000.0633917186987
+      },
+      "size": {
+        "width": 282.5799771383872,
+        "height": 283.6523042272602
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#e7c932",
+        "textColor": "#1a1a1a",
+        "fontSize": 11,
+        "fontFamily": "roobert_pro",
+        "borderWidth": 1,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-1",
+      "visualKind": "shape",
+      "title": "<p><br /></p><p></p>"
+    },
+    {
+      "id": "n-47",
+      "position": {
+        "x": 3326.1924756589806,
+        "y": 1080.6437315456187
+      },
+      "size": {
+        "width": 57.01924346479036,
+        "height": 17.55983192746406
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ8NWvL8%3D/resources/images/3458764517273235079?format=preview&redirect=false"
+        }
+      },
+      "frameId": "f-1",
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-48",
+      "position": {
+        "x": 3421.5072624129434,
+        "y": 1106.9513835921443
+      },
+      "size": {
+        "width": 247.64881696714286
+      },
+      "style": {
+        "fontSize": 19,
+        "textColor": "#1a1a1a",
+        "fontFamily": "roobert_pro",
+        "align": "left"
+      },
+      "frameId": "f-1",
+      "visualKind": "text",
+      "title": "<p>Mobile App Prototype</p>"
+    },
+    {
+      "id": "n-49",
+      "position": {
+        "x": 3423.736321911155,
+        "y": 964.8731434850032
+      },
+      "size": {
+        "width": 253.27212632046894,
+        "height": 183.82654329711457
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ8NWvL8%3D/resources/images/3458764517273235080?format=preview&redirect=false"
+        }
+      },
+      "frameId": "f-1",
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-50",
+      "position": {
+        "x": 3104.838167564266,
+        "y": 1000.0633917186987
+      },
+      "size": {
+        "width": 282.5799771383872,
+        "height": 283.6523042272602
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#e7c932",
+        "textColor": "#1a1a1a",
+        "fontSize": 11,
+        "fontFamily": "roobert_pro",
+        "borderWidth": 1,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-1",
+      "visualKind": "shape",
+      "title": "<p><br /></p><p></p>"
+    },
+    {
+      "id": "n-51",
+      "position": {
+        "x": 3007.2943213120907,
+        "y": 1080.6437315456187
+      },
+      "size": {
+        "width": 57.01924346479036,
+        "height": 17.55983192746406
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ8NWvL8%3D/resources/images/3458764517273235079?format=preview&redirect=false"
+        }
+      },
+      "frameId": "f-1",
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-52",
+      "position": {
+        "x": 3102.6091080660563,
+        "y": 1106.9513835921443
+      },
+      "size": {
+        "width": 247.64881696714286
+      },
+      "style": {
+        "fontSize": 19,
+        "textColor": "#1a1a1a",
+        "fontFamily": "roobert_pro",
+        "align": "left"
+      },
+      "frameId": "f-1",
+      "visualKind": "text",
+      "title": "<p>Research Insights Synthesis</p>"
+    },
+    {
+      "id": "n-53",
+      "position": {
+        "x": 3104.838167564266,
+        "y": 964.8731434850032
+      },
+      "size": {
+        "width": 253.2721263204689,
+        "height": 183.82654329711454
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ8NWvL8%3D/resources/images/3458764517273235081?format=preview&redirect=false"
+        }
+      },
+      "frameId": "f-1",
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-54",
+      "position": {
+        "x": 2153.1789961595787,
+        "y": 654.7669147579708
+      },
+      "size": {
+        "width": 282.5799771383872,
+        "height": 283.6523042272602
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#e7c932",
+        "textColor": "#1a1a1a",
+        "fontSize": 11,
+        "fontFamily": "roobert_pro",
+        "borderWidth": 1,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-1",
+      "visualKind": "shape",
+      "title": "<p><br /></p><p></p>"
+    },
+    {
+      "id": "n-55",
+      "position": {
+        "x": 2353.025644696016,
+        "y": 351.0832400183539
+      },
+      "size": {
+        "width": 682.2732742200001
+      },
+      "style": {
+        "fontSize": 36,
+        "textColor": "#1c1c1e",
+        "fontFamily": "roobert_pro",
+        "align": "left"
+      },
+      "frameId": "f-1",
+      "visualKind": "text",
+      "title": "<p>Explore how your team can transform their daily work—facilitating workshops, analyzing research, and mapping customer journeys.</p>"
+    },
+    {
+      "id": "n-56",
+      "position": {
+        "x": 3418.535355351154,
+        "y": 812.1937615660989
+      },
+      "size": {
+        "width": 282.57997713838654,
+        "height": 31.201389389001044
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "roobert_pro",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 0.0
+      },
+      "frameId": "f-1",
+      "visualKind": "shape",
+      "title": "<p><strong><u><a href=\"https://miro.com/app/dashboard/?tpTemplate&#61;3fc32b66-6287-4d1e-9612-19e1baf77a14&amp;isCustom&#61;false&amp;share_link_id&#61;721233524839\">Link</a></u></strong></p>"
+    },
+    {
+      "id": "n-57",
+      "position": {
+        "x": 3104.838167564266,
+        "y": 812.1937615660989
+      },
+      "size": {
+        "width": 282.5799771383873,
+        "height": 31.201389389001044
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "roobert_pro",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 0.0
+      },
+      "frameId": "f-1",
+      "visualKind": "shape",
+      "title": "<p><strong><u><a href=\"https://miro.com/app/dashboard/?tpTemplate&#61;d09c7f23-2baa-46d6-ada6-784401ee8463&amp;isCustom&#61;false&amp;share_link_id&#61;582014189936\">Link</a></u></strong></p>"
+    },
+    {
+      "id": "n-58",
+      "position": {
+        "x": 2786.987227159072,
+        "y": 812.1937615660989
+      },
+      "size": {
+        "width": 282.57997713838694,
+        "height": 31.201389389001044
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "roobert_pro",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 0.0
+      },
+      "frameId": "f-1",
+      "visualKind": "shape",
+      "title": "<p><strong><u><a href=\"https://miro.com/app/dashboard/?tpTemplate&#61;9becb7eb-1799-41ac-b052-7e705d762d25&amp;isCustom&#61;false&amp;share_link_id&#61;225467216670\">Link</a></u></strong></p>"
+    },
+    {
+      "id": "n-59",
+      "position": {
+        "x": 2471.7312205085937,
+        "y": 812.1937615660989
+      },
+      "size": {
+        "width": 276.92693491776936,
+        "height": 31.201389389001044
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "roobert_pro",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 0.0
+      },
+      "frameId": "f-1",
+      "visualKind": "shape",
+      "title": "<p><strong><u><a href=\"https://miro.com/app/dashboard/?tpTemplate&#61;cb64b346-7e2e-4e8a-8ae2-ed409b939434&amp;isCustom&#61;false&amp;share_link_id&#61;757927130424\">Link</a></u></strong></p>"
+    },
+    {
+      "id": "n-60",
+      "position": {
+        "x": 2153.1789961595787,
+        "y": 812.1937615660989
+      },
+      "size": {
+        "width": 282.57997713838654,
+        "height": 31.201389389001044
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "roobert_pro",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 0.0
+      },
+      "frameId": "f-1",
+      "visualKind": "shape",
+      "title": "<p><strong><u><a href=\"https://miro.com/app/dashboard/?tpTemplate&#61;80d5288b-706b-497a-bf18-bc5ae9911eb4&amp;isCustom&#61;false&amp;share_link_id&#61;852564171743\">Link</a></u></strong></p>"
+    },
+    {
+      "id": "n-61",
+      "position": {
+        "x": 2153.1789961595796,
+        "y": 1157.490238526827
+      },
+      "size": {
+        "width": 282.579977138387,
+        "height": 31.201389389001044
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "roobert_pro",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 0.0
+      },
+      "frameId": "f-1",
+      "visualKind": "shape",
+      "title": "<p><strong><u><a href=\"https://miro.com/app/dashboard/?tpTemplate&#61;817030eb-521e-45fb-a471-91b8c16e0c06&amp;isCustom&#61;false&amp;share_link_id&#61;524834024824\">Link</a></u></strong></p>"
+    },
+    {
+      "id": "n-62",
+      "position": {
+        "x": 2470.5441386131624,
+        "y": 1157.490238526827
+      },
+      "size": {
+        "width": 282.5799771383874,
+        "height": 31.201389389001044
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "roobert_pro",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 0.0
+      },
+      "frameId": "f-1",
+      "visualKind": "shape",
+      "title": "<p><strong><u><a href=\"https://miro.com/app/dashboard/?tpTemplate&#61;76cc1026-70ad-4ac6-9d87-60e3500e959f&amp;isCustom&#61;false&amp;share_link_id&#61;606348008783\">Link</a></u></strong></p>"
+    },
+    {
+      "id": "n-63",
+      "position": {
+        "x": 2787.5556714553104,
+        "y": 1157.490238526827
+      },
+      "size": {
+        "width": 281.4430885459093,
+        "height": 31.201389389001044
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "roobert_pro",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 0.0
+      },
+      "frameId": "f-1",
+      "visualKind": "shape",
+      "title": "<p><strong><u><a href=\"https://miro.com/app/dashboard/?tpTemplate&#61;2f50cc1a-a2fd-40cb-ae7c-3d4a338e9cf0&amp;isCustom&#61;false&amp;share_link_id&#61;883511179428\">Link</a></u></strong></p>"
+    },
+    {
+      "id": "n-64",
+      "position": {
+        "x": 3105.6537941503675,
+        "y": 1157.490238526827
+      },
+      "size": {
+        "width": 282.57997713838654,
+        "height": 31.201389389001044
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "roobert_pro",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 0.0
+      },
+      "frameId": "f-1",
+      "visualKind": "shape",
+      "title": "<p><strong><u><a href=\"https://miro.com/app/dashboard/?tpTemplate&#61;530ab8a8-d383-42e0-aaa4-42272b95f67e&amp;isCustom&#61;false&amp;share_link_id&#61;557180979039\">Link</a></u></strong></p>"
+    },
+    {
+      "id": "n-65",
+      "position": {
+        "x": 3425.031863123456,
+        "y": 1157.4902385268233
+      },
+      "size": {
+        "width": 282.57997713838654,
+        "height": 31.201389389001044
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "roobert_pro",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 0.0
+      },
+      "frameId": "f-1",
+      "visualKind": "shape",
+      "title": "<p><strong><u><a href=\"https://miro.com/app/dashboard/?tpTemplate&#61;0ce16670-68c4-4d27-b402-743666f5ad55&amp;isCustom&#61;false&amp;share_link_id&#61;381586755064\">Link</a></u></strong></p>"
+    },
+    {
+      "id": "n-66",
+      "position": {
+        "x": 3450.2897524156297,
+        "y": 441.0340878125479
+      },
+      "size": {
+        "width": 229.47311612943525,
+        "height": 47.358659972465624
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 20,
+        "fontFamily": "roobert_pro",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "right",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 0.0
+      },
+      "frameId": "f-1",
+      "visualKind": "shape",
+      "title": "<p><strong><u><a href=\"https://miro.com/app/dashboard/?templatesPickerPreselectedCategory&#61;ai_accelerated\">All templates</a></u></strong></p>"
+    },
+    {
+      "id": "n-67",
+      "position": {
+        "x": 2055.6351499074053,
+        "y": 735.3472545848907
+      },
+      "size": {
+        "width": 57.01924346479036,
+        "height": 17.55983192746406
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ8NWvL8%3D/resources/images/3458764517273235079?format=preview&redirect=false"
+        }
+      },
+      "frameId": "f-1",
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-68",
+      "position": {
+        "x": 2153.761902332055,
+        "y": 760.9406209171306
+      },
+      "size": {
+        "width": 253.27274832
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#1a1a1a",
+        "fontFamily": "roobert_pro",
+        "align": "left"
+      },
+      "frameId": "f-1",
+      "visualKind": "text",
+      "title": "<p>Marketing Product Visualizer</p>"
+    },
+    {
+      "id": "n-69",
+      "position": {
+        "x": 2153.1789961595796,
+        "y": 619.5766665242753
+      },
+      "size": {
+        "width": 253.2721263204689,
+        "height": 183.82654329711454
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ8NWvL8%3D/resources/images/3458764517273235090?format=preview&redirect=false"
+        }
+      },
+      "frameId": "f-1",
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-70",
+      "position": {
+        "x": 2471.261523920364,
+        "y": 654.7669147579708
+      },
+      "size": {
+        "width": 282.5799771383872,
+        "height": 283.6523042272602
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#e7c932",
+        "textColor": "#1a1a1a",
+        "fontSize": 11,
+        "fontFamily": "roobert_pro",
+        "borderWidth": 1,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-1",
+      "visualKind": "shape",
+      "title": "<p><br /></p><p></p>"
+    },
+    {
+      "id": "n-71",
+      "position": {
+        "x": 2373.7176776681918,
+        "y": 735.3472545848907
+      },
+      "size": {
+        "width": 57.01924346479036,
+        "height": 17.55983192746406
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ8NWvL8%3D/resources/images/3458764517273235079?format=preview&redirect=false"
+        }
+      },
+      "frameId": "f-1",
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-72",
+      "position": {
+        "x": 2469.0324644221546,
+        "y": 761.6549066314163
+      },
+      "size": {
+        "width": 247.64881696714286
+      },
+      "style": {
+        "fontSize": 19,
+        "textColor": "#1a1a1a",
+        "fontFamily": "roobert_pro",
+        "align": "left"
+      },
+      "frameId": "f-1",
+      "visualKind": "text",
+      "title": "<p>Feature Specs &amp; Tasks</p>"
+    },
+    {
+      "id": "n-73",
+      "position": {
+        "x": 2471.261523920366,
+        "y": 619.5766665242753
+      },
+      "size": {
+        "width": 253.2721263204689,
+        "height": 183.82654329711454
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ8NWvL8%3D/resources/images/3458764517273235091?format=preview&redirect=false"
+        }
+      },
+      "frameId": "f-1",
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-74",
+      "position": {
+        "x": 2786.987227159072,
+        "y": 654.7669147579708
+      },
+      "size": {
+        "width": 282.5799771383872,
+        "height": 283.6523042272602
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#e7c932",
+        "textColor": "#1a1a1a",
+        "fontSize": 11,
+        "fontFamily": "roobert_pro",
+        "borderWidth": 1,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-1",
+      "visualKind": "shape",
+      "title": "<p><br /></p><p></p>"
+    },
+    {
+      "id": "n-75",
+      "position": {
+        "x": 2689.443380906898,
+        "y": 735.3472545848907
+      },
+      "size": {
+        "width": 57.01924346479036,
+        "height": 17.55983192746406
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ8NWvL8%3D/resources/images/3458764517273235079?format=preview&redirect=false"
+        }
+      },
+      "frameId": "f-1",
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-76",
+      "position": {
+        "x": 2784.7581676608625,
+        "y": 761.6549066314163
+      },
+      "size": {
+        "width": 247.64881696714286
+      },
+      "style": {
+        "fontSize": 19,
+        "textColor": "#1a1a1a",
+        "fontFamily": "roobert_pro",
+        "align": "left"
+      },
+      "frameId": "f-1",
+      "visualKind": "text",
+      "title": "<p>Roadmap Planning</p>"
+    },
+    {
+      "id": "n-77",
+      "position": {
+        "x": 2786.987227159072,
+        "y": 619.5766665242753
+      },
+      "size": {
+        "width": 253.2721263204689,
+        "height": 183.82654329711454
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ8NWvL8%3D/resources/images/3458764517273235092?format=preview&redirect=false"
+        }
+      },
+      "frameId": "f-1",
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-78",
+      "position": {
+        "x": 3104.838167564266,
+        "y": 654.7669147579708
+      },
+      "size": {
+        "width": 282.5799771383872,
+        "height": 283.6523042272602
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#e7c932",
+        "textColor": "#1a1a1a",
+        "fontSize": 11,
+        "fontFamily": "roobert_pro",
+        "borderWidth": 1,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-1",
+      "visualKind": "shape",
+      "title": "<p><br /></p><p></p>"
+    },
+    {
+      "id": "n-79",
+      "position": {
+        "x": 3007.2943213120907,
+        "y": 735.3472545848907
+      },
+      "size": {
+        "width": 57.01924346479036,
+        "height": 17.55983192746406
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ8NWvL8%3D/resources/images/3458764517273235079?format=preview&redirect=false"
+        }
+      },
+      "frameId": "f-1",
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-80",
+      "position": {
+        "x": 3102.6091080660563,
+        "y": 761.6549066314163
+      },
+      "size": {
+        "width": 247.64881696714286
+      },
+      "style": {
+        "fontSize": 19,
+        "textColor": "#1a1a1a",
+        "fontFamily": "roobert_pro",
+        "align": "left"
+      },
+      "frameId": "f-1",
+      "visualKind": "text",
+      "title": "<p>Flowchart</p>"
+    },
+    {
+      "id": "n-81",
+      "position": {
+        "x": 3104.838167564266,
+        "y": 619.5766665242753
+      },
+      "size": {
+        "width": 253.27212632046894,
+        "height": 183.82654329711454
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ8NWvL8%3D/resources/images/3458764517273235093?format=preview&redirect=false"
+        }
+      },
+      "frameId": "f-1",
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-82",
+      "position": {
+        "x": 3423.736321911153,
+        "y": 654.7669147579708
+      },
+      "size": {
+        "width": 282.5799771383872,
+        "height": 283.6523042272602
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#e7c932",
+        "textColor": "#1a1a1a",
+        "fontSize": 11,
+        "fontFamily": "roobert_pro",
+        "borderWidth": 1,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-1",
+      "visualKind": "shape",
+      "title": "<p><br /></p><p></p>"
+    },
+    {
+      "id": "n-83",
+      "position": {
+        "x": 3326.1924756589806,
+        "y": 735.3472545848907
+      },
+      "size": {
+        "width": 57.01924346479036,
+        "height": 17.55983192746406
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ8NWvL8%3D/resources/images/3458764517273235079?format=preview&redirect=false"
+        }
+      },
+      "frameId": "f-1",
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-84",
+      "position": {
+        "x": 3421.5072624129434,
+        "y": 761.6549066314163
+      },
+      "size": {
+        "width": 247.64881696714286
+      },
+      "style": {
+        "fontSize": 19,
+        "textColor": "#1a1a1a",
+        "fontFamily": "roobert_pro",
+        "align": "left"
+      },
+      "frameId": "f-1",
+      "visualKind": "text",
+      "title": "<p>4L&#39;s Retrospective</p>"
+    },
+    {
+      "id": "n-85",
+      "position": {
+        "x": 3423.736321911155,
+        "y": 619.5766665242753
+      },
+      "size": {
+        "width": 253.27212632046897,
+        "height": 183.82654329711457
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ8NWvL8%3D/resources/images/3458764517273235094?format=preview&redirect=false"
+        }
+      },
+      "frameId": "f-1",
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-86",
+      "position": {
+        "x": 2153.1789961595787,
+        "y": 1000.0633917186987
+      },
+      "size": {
+        "width": 282.5799771383872,
+        "height": 283.6523042272602
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#e7c932",
+        "textColor": "#1a1a1a",
+        "fontSize": 11,
+        "fontFamily": "roobert_pro",
+        "borderWidth": 1,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-1",
+      "visualKind": "shape",
+      "title": "<p><br /></p><p></p>"
+    },
+    {
+      "id": "n-87",
+      "position": {
+        "x": 2055.6351499074053,
+        "y": 1080.6437315456187
+      },
+      "size": {
+        "width": 57.01924346479036,
+        "height": 17.55983192746406
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ8NWvL8%3D/resources/images/3458764517273235079?format=preview&redirect=false"
+        }
+      },
+      "frameId": "f-1",
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-88",
+      "position": {
+        "x": 2150.949936661369,
+        "y": 1106.9513835921443
+      },
+      "size": {
+        "width": 247.64881696714286
+      },
+      "style": {
+        "fontSize": 19,
+        "textColor": "#1a1a1a",
+        "fontFamily": "roobert_pro",
+        "align": "left"
+      },
+      "frameId": "f-1",
+      "visualKind": "text",
+      "title": "<p>Feedback Synthesizer</p>"
+    },
+    {
+      "id": "n-89",
+      "position": {
+        "x": 2153.1789961595796,
+        "y": 964.8731434850032
+      },
+      "size": {
+        "width": 253.2721263204689,
+        "height": 183.82654329711454
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ8NWvL8%3D/resources/images/3458764517273235095?format=preview&redirect=false"
+        }
+      },
+      "frameId": "f-1",
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-90",
+      "position": {
+        "x": 2470.5441386131624,
+        "y": 1000.0633917186987
+      },
+      "size": {
+        "width": 282.5799771383872,
+        "height": 283.6523042272602
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#e7c932",
+        "textColor": "#1a1a1a",
+        "fontSize": 11,
+        "fontFamily": "roobert_pro",
+        "borderWidth": 1,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-1",
+      "visualKind": "shape",
+      "title": "<p><br /></p><p></p>"
+    },
+    {
+      "id": "n-91",
+      "position": {
+        "x": 2373.000292360989,
+        "y": 1080.6437315456187
+      },
+      "size": {
+        "width": 57.01924346479036,
+        "height": 17.55983192746406
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ8NWvL8%3D/resources/images/3458764517273235079?format=preview&redirect=false"
+        }
+      },
+      "frameId": "f-1",
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-92",
+      "position": {
+        "x": 2468.315079114953,
+        "y": 1106.9513835921443
+      },
+      "size": {
+        "width": 247.64881696714286
+      },
+      "style": {
+        "fontSize": 19,
+        "textColor": "#1a1a1a",
+        "fontFamily": "roobert_pro",
+        "align": "left"
+      },
+      "frameId": "f-1",
+      "visualKind": "text",
+      "title": "<p>Product Brief Brainstorm</p>"
+    },
+    {
+      "id": "n-93",
+      "position": {
+        "x": 2470.5441386131633,
+        "y": 964.8731434850032
+      },
+      "size": {
+        "width": 253.2721263204689,
+        "height": 183.82654329711454
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ8NWvL8%3D/resources/images/3458764517273235096?format=preview&redirect=false"
+        }
+      },
+      "frameId": "f-1",
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-94",
+      "position": {
+        "x": 2786.987227159072,
+        "y": 1000.0633917186987
+      },
+      "size": {
+        "width": 282.5799771383872,
+        "height": 283.6523042272602
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#e7c932",
+        "textColor": "#1a1a1a",
+        "fontSize": 11,
+        "fontFamily": "roobert_pro",
+        "borderWidth": 1,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-1",
+      "visualKind": "shape",
+      "title": "<p><br /></p><p></p>"
+    },
+    {
+      "id": "n-95",
+      "position": {
+        "x": 2689.443380906898,
+        "y": 1080.6437315456187
+      },
+      "size": {
+        "width": 57.01924346479036,
+        "height": 17.55983192746406
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ8NWvL8%3D/resources/images/3458764517273235079?format=preview&redirect=false"
+        }
+      },
+      "frameId": "f-1",
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-96",
+      "position": {
+        "x": 2784.7581676608625,
+        "y": 1106.9513835921443
+      },
+      "size": {
+        "width": 247.64881696714286
+      },
+      "style": {
+        "fontSize": 19,
+        "textColor": "#1a1a1a",
+        "fontFamily": "roobert_pro",
+        "align": "left"
+      },
+      "frameId": "f-1",
+      "visualKind": "text",
+      "title": "<p>Idea Multiplier</p>"
+    },
+    {
+      "id": "n-97",
+      "position": {
+        "x": 2786.987227159072,
+        "y": 964.8731434850032
+      },
+      "size": {
+        "width": 253.2721263204689,
+        "height": 183.82654329711454
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ8NWvL8%3D/resources/images/3458764517273235097?format=preview&redirect=false"
+        }
+      },
+      "frameId": "f-1",
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-98",
+      "position": {
+        "x": 574.1611432086429,
+        "y": 523.4902306718294
+      },
+      "size": {
+        "width": 461.005629889661,
+        "height": 315.4402400350845
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#1c1c1e",
+        "textColor": "#1a1a1a",
+        "fontSize": 48,
+        "fontFamily": "bangers",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "cloud"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-1",
+      "visualKind": "shape",
+      "title": "<p>Keep flowing</p>"
+    },
+    {
+      "id": "n-99",
+      "position": {
+        "x": 1070.20896517834,
+        "y": 1197.966319686981
+      },
+      "size": {
+        "width": 461.005629889661,
+        "height": 315.4402400350845
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#1c1c1e",
+        "textColor": "#1a1a1a",
+        "fontSize": 48,
+        "fontFamily": "bangers",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "cloud"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-1",
+      "visualKind": "shape",
+      "title": "<p>MEET More sidekicks</p>"
+    },
+    {
+      "id": "n-100",
+      "position": {
+        "x": 1294.8219167680172,
+        "y": 1472.580303269899
+      },
+      "size": {
+        "width": 313.7855649359296,
+        "height": 205.21231263189958
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ8NWvL8%3D/resources/images/3458764517333898065?format=preview&redirect=false"
+        }
+      },
+      "frameId": "f-1",
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-101",
+      "position": {
+        "x": 1308.5755398421852,
+        "y": 1576.696481350295
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "frameId": "f-1",
+      "visualKind": "shape",
+      "title": "[paint]"
+    },
+    {
+      "id": "n-102",
+      "position": {
+        "x": 1321.827831484282,
+        "y": 1606.488852830812
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "frameId": "f-1",
+      "visualKind": "shape",
+      "title": "[paint]"
+    },
+    {
+      "id": "n-103",
+      "position": {
+        "x": 574.1611432086429,
+        "y": 1493.1517318413253
+      },
+      "size": {
+        "width": 537.5048088085714
+      },
+      "style": {
+        "fontSize": 36,
+        "textColor": "#222428",
+        "fontFamily": "roobert",
+        "align": "left"
+      },
+      "frameId": "f-1",
+      "visualKind": "text",
+      "title": "<p><span style=\"color:rgb(34,36,40);background-color:transparent\">Chat with Sidekicks and work together using the context of your canvas.</span></p>"
+    },
+    {
+      "id": "n-104",
+      "position": {
+        "x": 1170.4858498610356,
+        "y": 495.0832400183539
+      },
+      "size": {
+        "width": 622.0153996457143
+      },
+      "style": {
+        "fontSize": 36,
+        "textColor": "#222428",
+        "fontFamily": "roobert",
+        "align": "left"
+      },
+      "frameId": "f-1",
+      "visualKind": "text",
+      "title": "<p><span style=\"background-color:transparent;color:rgb(34,36,40)\">Extend this flow with more formats and prompts. Drag an AI connector line to try it out.</span></p>"
+    },
+    {
+      "id": "n-105",
+      "position": {
+        "x": 777.8204724095731,
+        "y": 126.20532171639877
+      },
+      "size": {
+        "width": 1407.3461545371429
+      },
+      "style": {
+        "fontSize": 96,
+        "textColor": "#2c2e33",
+        "fontFamily": "bangers",
+        "align": "left"
+      },
+      "frameId": "f-1",
+      "visualKind": "text",
+      "title": "<p>Here&#39;s what you can try next:</p>"
+    },
+    {
+      "id": "n-106",
+      "position": {
+        "x": 1862.1450106389375,
+        "y": 812.1937615660989
+      },
+      "size": {
+        "width": 461.005629889661,
+        "height": 315.4402400350845
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#1c1c1e",
+        "textColor": "#1a1a1a",
+        "fontSize": 48,
+        "fontFamily": "bangers",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "cloud"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-1",
+      "visualKind": "shape",
+      "title": "<p>Explore templates</p>"
+    },
+    {
+      "id": "n-107",
+      "position": {
+        "x": 1662.8961897190966,
+        "y": 671.5340837973571
+      },
+      "size": {
+        "width": 172.01123453724676,
+        "height": 172.01123453724676
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "frameId": "f-1",
+      "visualKind": "shape",
+      "title": "[stamp]"
+    },
+    {
+      "id": "n-108",
+      "position": {
+        "x": 668.3904617112612,
+        "y": 431.84416025496887
+      },
+      "size": {
+        "width": 1336.7809234225235,
+        "height": 763.6883205099377
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJ8NWvL8%3D/resources/images/3458764517273235063?format=preview&redirect=false"
+        }
+      },
+      "frameId": "f-2",
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-109",
+      "position": {
+        "x": 1647.447560735277,
+        "y": 400.28166025496887
+      },
+      "size": {
+        "width": 863.4412431085714
+      },
+      "style": {
+        "fontSize": 96,
+        "textColor": "#2c2e33",
+        "fontFamily": "bangers",
+        "align": "left"
+      },
+      "frameId": "f-2",
+      "visualKind": "text",
+      "title": "<p>Getting started:</p><p>how to build a product concept With MIRO AI</p>"
+    },
+    {
+      "id": "n-110",
+      "position": {
+        "x": -11462.52402396512,
+        "y": -2875.9790363375846
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[unknown]"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e-0",
+      "sourceNodeId": "n-0",
+      "targetNodeId": "n-35",
+      "style": {
+        "lineStyle": "dotted",
+        "arrowHead": "none",
+        "borderColor": "#333333",
+        "strokeWidth": "3.0",
+        "extra": {
+          "connectorShape": "curved",
+          "sourcePosition": "auto",
+          "targetPosition": "auto"
+        }
+      }
+    },
+    {
+      "id": "e-1",
+      "sourceNodeId": "n-36",
+      "targetNodeId": "n-0",
+      "style": {
+        "lineStyle": "dotted",
+        "arrowHead": "none",
+        "borderColor": "#333333",
+        "strokeWidth": "3.0",
+        "extra": {
+          "connectorShape": "curved",
+          "sourcePosition": "auto",
+          "targetPosition": "auto"
+        }
+      }
+    }
+  ],
+  "annotations": [],
+  "_metadata": {
+    "extracted_at": "2026-02-23T12:42:24.805131",
+    "total_items": 114,
+    "total_connectors": 2,
+    "frames": 3,
+    "nodes": 111,
+    "edges": 2
+  },
+  "_template": {
+    "name": "ai-playground",
+    "category": "miroverse",
+    "source": "miroverse",
+    "source_slug": "ai-playground",
+    "source_board_id": "uXjVJ8NWvL8=",
+    "tags": [
+      "ai accelerated"
+    ],
+    "extracted_at": "2026-02-23T12:42:24.805257"
+  }
+}

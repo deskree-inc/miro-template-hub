@@ -1,0 +1,1497 @@
+{
+  "frames": [],
+  "nodes": [
+    {
+      "id": "n-0",
+      "position": {
+        "x": 3942.5381814921034,
+        "y": 759.9625265532859
+      },
+      "size": {
+        "width": 1269.7013168721767,
+        "height": 1597.320583968315
+      },
+      "style": {
+        "fillColor": "#c6dcff",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 37,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 0.3
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-1",
+      "position": {
+        "x": 2879.9259592590256,
+        "y": 759.9625265532859
+      },
+      "size": {
+        "width": 775.5231275939786,
+        "height": 1597.320583968315
+      },
+      "style": {
+        "fillColor": "#c6dcff",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 37,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 0.3
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-2",
+      "position": {
+        "x": 2064.402831665047,
+        "y": 759.9625265532859
+      },
+      "size": {
+        "width": 775.5231275939786,
+        "height": 1597.320583968315
+      },
+      "style": {
+        "fillColor": "#c6dcff",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 37,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 0.3
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-3",
+      "position": {
+        "x": 3382.3290775623213,
+        "y": 381.80497658946695
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[data_table_format]"
+    },
+    {
+      "id": "n-4",
+      "position": {
+        "x": 2567.8374967891095,
+        "y": 381.80497658946695
+      },
+      "size": {
+        "width": 580.8779722477984,
+        "height": 819.0379408693957
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "<h1></h1>"
+    },
+    {
+      "id": "n-5",
+      "position": {
+        "x": 1153.1443625520965,
+        "y": 135.29553757903278
+      },
+      "size": {
+        "width": 826.1656046290004,
+        "height": 388.23635803084306
+      },
+      "style": {
+        "fillColor": "#659df2",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 37,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 0.7
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-6",
+      "position": {
+        "x": 813.6675403294322,
+        "y": 81.5892015072998
+      },
+      "size": {
+        "width": 191.07236690811152,
+        "height": 68.4675981420733
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[user_card]"
+    },
+    {
+      "id": "n-7",
+      "position": {
+        "x": 1044.7399072375433,
+        "y": 81.5892015072998
+      },
+      "size": {
+        "width": 191.07236690811152,
+        "height": 68.4675981420733
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[user_card]"
+    },
+    {
+      "id": "n-8",
+      "position": {
+        "x": 1275.812274145655,
+        "y": 81.5892015072998
+      },
+      "size": {
+        "width": 191.07236690811152,
+        "height": 68.4675981420733
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[user_card]"
+    },
+    {
+      "id": "n-9",
+      "position": {
+        "x": 813.6675403294322,
+        "y": 169.05679964937306
+      },
+      "size": {
+        "width": 191.07236690811152,
+        "height": 68.4675981420733
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[user_card]"
+    },
+    {
+      "id": "n-10",
+      "position": {
+        "x": 1044.7399072375433,
+        "y": 169.05679964937306
+      },
+      "size": {
+        "width": 191.07236690811152,
+        "height": 68.4675981420733
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[user_card]"
+    },
+    {
+      "id": "n-11",
+      "position": {
+        "x": 1275.812274145655,
+        "y": 169.05679964937306
+      },
+      "size": {
+        "width": 191.07236690811152,
+        "height": 68.4675981420733
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[user_card]"
+    },
+    {
+      "id": "n-12",
+      "position": {
+        "x": 1140.2760906915996,
+        "y": -37.42400599154797
+      },
+      "size": {
+        "width": 653.2171007243347,
+        "height": 158.0991564060724
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 37,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-13",
+      "position": {
+        "x": 1178.1646330543558,
+        "y": -57.37545317878329
+      },
+      "size": {
+        "width": 375.45166304158994
+      },
+      "style": {
+        "fontSize": 41,
+        "textColor": "#595959",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><span style=\"color:rgb(89,89,89)\">Meeting Title</span></p>"
+    },
+    {
+      "id": "n-14",
+      "position": {
+        "x": 1123.5912577934291,
+        "y": -11.84596697458818
+      },
+      "size": {
+        "width": 266.30491251517753
+      },
+      "style": {
+        "fontSize": 21,
+        "textColor": "#595959",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong style=\"color:rgb(89,89,89)\">D</strong><strong>escription &amp; Cadence</strong></p>"
+    },
+    {
+      "id": "n-15",
+      "position": {
+        "x": 927.737373602868,
+        "y": -37.42400599154797
+      },
+      "size": {
+        "width": 111.66837489496218,
+        "height": 111.66837489496218
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[stamp]"
+    },
+    {
+      "id": "n-16",
+      "position": {
+        "x": 1878.1942585567826,
+        "y": -32.0173264732494
+      },
+      "size": {
+        "width": 239.94156736570665,
+        "height": 40.3427189973224
+      },
+      "style": {
+        "fillColor": "#659df2",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 18,
+        "fontFamily": "noto_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-17",
+      "position": {
+        "x": 1873.4300765564371,
+        "y": -37.69458849432823
+      },
+      "size": {
+        "width": 239.94156736570665,
+        "height": 40.3427189973224
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#ffffff",
+        "textColor": "#659df2",
+        "fontSize": 18,
+        "fontFamily": "noto_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": "<p><span style=\"color:rgb(101,157,242)\">01 M</span>eeting Transcript</p>"
+    },
+    {
+      "id": "n-18",
+      "position": {
+        "x": 1579.7317177699956,
+        "y": -564.6868108562528
+      },
+      "size": {
+        "width": 1638.1965896332194,
+        "height": 496.592499594815
+      },
+      "style": {
+        "fillColor": "#659df2",
+        "borderColor": "#ffffff",
+        "textColor": "#9a9994",
+        "fontSize": 43,
+        "fontFamily": "open_sans",
+        "borderWidth": 24,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 0.4
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-19",
+      "position": {
+        "x": 1559.1598550542062,
+        "y": -580.201581546399
+      },
+      "size": {
+        "width": 1638.1965896332194,
+        "height": 496.5924995948149
+      },
+      "style": {
+        "fillColor": "#659df2",
+        "borderColor": "#ffffff",
+        "textColor": "#9a9994",
+        "fontSize": 43,
+        "fontFamily": "open_sans",
+        "borderWidth": 24,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-20",
+      "position": {
+        "x": 1711.254040560911,
+        "y": -693.7600640006594
+      },
+      "size": {
+        "width": 953.0223225363131
+      },
+      "style": {
+        "fontSize": 78,
+        "textColor": "#ffffff",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong>AI Meeting Notes</strong></p>"
+    },
+    {
+      "id": "n-21",
+      "position": {
+        "x": 1755.0630575160408,
+        "y": -558.3364840151744
+      },
+      "size": {
+        "width": 1040.6403564500229
+      },
+      "style": {
+        "fontSize": 29,
+        "textColor": "#ffffff",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong style=\"color:rgb(255,255,255)\">Objective: </strong><span style=\"color:rgb(255,255,255)\">Don&#39;t spend money on other tools to collect AI meeting notes. Use this Miro flow to upload your meeting transcript and immediately generate meeting notes along with action items in a trackable table.</span></p>"
+    },
+    {
+      "id": "n-22",
+      "position": {
+        "x": 1323.1644531644538,
+        "y": -428.6204362419467
+      },
+      "size": {
+        "width": 176.8431477453289,
+        "height": 45.48850622901607
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#e6e6e6",
+        "textColor": "#1a1a1a",
+        "fontSize": 17,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-23",
+      "position": {
+        "x": 1266.5169101802103,
+        "y": -428.6204362419467
+      },
+      "size": {
+        "width": 24.28487358425351,
+        "height": 24.28487358425351
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mockup]"
+    },
+    {
+      "id": "n-24",
+      "position": {
+        "x": 1344.6326998797035,
+        "y": -428.6204362419467
+      },
+      "size": {
+        "width": 96.44508321842571
+      },
+      "style": {
+        "fontSize": 22,
+        "textColor": "#1a1a1a",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong>1-5 min</strong></p>"
+    },
+    {
+      "id": "n-25",
+      "position": {
+        "x": 981.9241227116313,
+        "y": -596.2779896416155
+      },
+      "size": {
+        "width": 287.81398234860706,
+        "height": 287.81398234860706
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[stamp]"
+    },
+    {
+      "id": "n-26",
+      "position": {
+        "x": 2685.4725664575985,
+        "y": -32.0173264732494
+      },
+      "size": {
+        "width": 235.27013933698234,
+        "height": 40.3427189973224
+      },
+      "style": {
+        "fillColor": "#659df2",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 18,
+        "fontFamily": "noto_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-27",
+      "position": {
+        "x": 2680.8011384288743,
+        "y": -37.69458849432823
+      },
+      "size": {
+        "width": 235.27013933698234,
+        "height": 40.3427189973224
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#ffffff",
+        "textColor": "#659df2",
+        "fontSize": 18,
+        "fontFamily": "noto_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": "<p><span style=\"color:rgb(101,157,242)\">02 AI M</span>eeting Notes</p>"
+    },
+    {
+      "id": "n-28",
+      "position": {
+        "x": 3546.985920138775,
+        "y": -32.01732647324937
+      },
+      "size": {
+        "width": 324.60918691280415,
+        "height": 40.3427189973224
+      },
+      "style": {
+        "fillColor": "#659df2",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 18,
+        "fontFamily": "noto_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-29",
+      "position": {
+        "x": 3540.5406123814905,
+        "y": -37.6945884943282
+      },
+      "size": {
+        "width": 324.60918691280415,
+        "height": 40.3427189973224
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#ffffff",
+        "textColor": "#659df2",
+        "fontSize": 18,
+        "fontFamily": "noto_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": "<p><span style=\"color:rgb(101,157,242)\">03 A</span>ction Items &amp; Key Decisions</p>"
+    },
+    {
+      "id": "n-30",
+      "position": {
+        "x": 3196.481269867359,
+        "y": 233.97036821176337
+      },
+      "size": {
+        "width": 104.40899833748192,
+        "height": 39.97757806476477
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 9,
+        "fontFamily": "open_sans",
+        "borderWidth": 20,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-31",
+      "position": {
+        "x": 3211.278751384559,
+        "y": 242.60818181958564
+      },
+      "size": {
+        "width": 47.457069049730464
+      },
+      "style": {
+        "fontSize": 5,
+        "textColor": "#595959",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><span style=\"color:rgb(89,89,89)\">C</span>lick &#34;run&#34; to start the AI Flow</p>"
+    },
+    {
+      "id": "n-32",
+      "position": {
+        "x": 3177.7923117887617,
+        "y": 222.44984972139983
+      },
+      "size": {
+        "width": 27.274127183465335,
+        "height": 27.274127183465335
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[stamp]"
+    },
+    {
+      "id": "n-33",
+      "position": {
+        "x": 2035.5136218001676,
+        "y": 96.53331035832846
+      },
+      "size": {
+        "width": 554.5802938524763,
+        "height": 145.0469785820892
+      },
+      "style": {
+        "fillColor": "#659df2",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 28,
+        "fontFamily": "open_sans",
+        "borderWidth": 20,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-34",
+      "position": {
+        "x": 2096.483691123754,
+        "y": 96.53331035832848
+      },
+      "size": {
+        "width": 360.78377794235735
+      },
+      "style": {
+        "fontSize": 15,
+        "textColor": "#ffffff",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p>Start here by pasting in your meeting transcript into the Miro Doc below. This will help the AI learn about the meeting to generate notes and action items in future steps</p>"
+    },
+    {
+      "id": "n-35",
+      "position": {
+        "x": 1847.4569197334017,
+        "y": 96.53331035832846
+      },
+      "size": {
+        "width": 109.22206871421551
+      },
+      "style": {
+        "fontSize": 44,
+        "textColor": "#ffffff",
+        "fontFamily": "open_sans",
+        "align": "center"
+      },
+      "visualKind": "text",
+      "title": "<p>01</p>"
+    },
+    {
+      "id": "n-36",
+      "position": {
+        "x": 2840.456215686622,
+        "y": 96.53331035832848
+      },
+      "size": {
+        "width": 554.5802938524763,
+        "height": 145.0469785820892
+      },
+      "style": {
+        "fillColor": "#659df2",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 28,
+        "fontFamily": "open_sans",
+        "borderWidth": 20,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-37",
+      "position": {
+        "x": 2901.4262850102073,
+        "y": 96.53331035832848
+      },
+      "size": {
+        "width": 360.78377794235735
+      },
+      "style": {
+        "fontSize": 15,
+        "textColor": "#ffffff",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p>Click run below and Miro&#39;s AI will take your meeting transcript and transform it into digestible meeting notes for you and your team. </p>"
+    },
+    {
+      "id": "n-38",
+      "position": {
+        "x": 2652.399513619856,
+        "y": 96.53331035832848
+      },
+      "size": {
+        "width": 109.22206871421551
+      },
+      "style": {
+        "fontSize": 44,
+        "textColor": "#ffffff",
+        "fontFamily": "open_sans",
+        "align": "center"
+      },
+      "visualKind": "text",
+      "title": "<p>02</p>"
+    },
+    {
+      "id": "n-39",
+      "position": {
+        "x": 3655.526165851327,
+        "y": 96.53331035832846
+      },
+      "size": {
+        "width": 554.5802938524763,
+        "height": 145.0469785820892
+      },
+      "style": {
+        "fillColor": "#659df2",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 28,
+        "fontFamily": "open_sans",
+        "borderWidth": 20,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-40",
+      "position": {
+        "x": 3716.4962351749123,
+        "y": 96.53331035832848
+      },
+      "size": {
+        "width": 360.78377794235735
+      },
+      "style": {
+        "fontSize": 15,
+        "textColor": "#ffffff",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p>Key decisions and action items from the meeting will be documented in the table. Come back to this table to add more items and track the status of your action items.</p>"
+    },
+    {
+      "id": "n-41",
+      "position": {
+        "x": 3467.469463784561,
+        "y": 96.53331035832846
+      },
+      "size": {
+        "width": 109.22206871421551
+      },
+      "style": {
+        "fontSize": 44,
+        "textColor": "#ffffff",
+        "fontFamily": "open_sans",
+        "align": "center"
+      },
+      "visualKind": "text",
+      "title": "<p>03</p>"
+    },
+    {
+      "id": "n-42",
+      "position": {
+        "x": 4492.049422182497,
+        "y": 21.745455561662368
+      },
+      "size": {
+        "width": 336.02014965337906,
+        "height": 61.46537643338921
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 19,
+        "fontFamily": "noto_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": "<p></p>"
+    },
+    {
+      "id": "n-43",
+      "position": {
+        "x": 4521.24988737184,
+        "y": 38.746254507038316
+      },
+      "size": {
+        "width": 225.42055274075832
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#305bab",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong style=\"color:rgb(48,91,171)\">Cyborg Action (You &#43; AI)</strong></p>"
+    },
+    {
+      "id": "n-44",
+      "position": {
+        "x": 3207.491086885421,
+        "y": -4.190132786130846
+      },
+      "size": {
+        "width": 194.75255409516552,
+        "height": 60.42801226330621
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 19,
+        "fontFamily": "noto_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-45",
+      "position": {
+        "x": 3237.2095909749846,
+        "y": 13.671822951649943
+      },
+      "size": {
+        "width": 85.87449628219365
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#8f7fee",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong style=\"color:rgb(143,127,238)\">AI Action</strong></p>"
+    },
+    {
+      "id": "n-46",
+      "position": {
+        "x": 3158.5508240389195,
+        "y": -33.77530499970007
+      },
+      "size": {
+        "width": 75.92885297301162,
+        "height": 75.92885297301162
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[stamp]"
+    },
+    {
+      "id": "n-47",
+      "position": {
+        "x": 2372.3256471377013,
+        "y": 8.204601683155431
+      },
+      "size": {
+        "width": 249.3563717554792,
+        "height": 61.46537643338921
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 19,
+        "fontFamily": "noto_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": "<p></p>"
+    },
+    {
+      "id": "n-48",
+      "position": {
+        "x": 2305.0095423905245,
+        "y": -27.434722057251662
+      },
+      "size": {
+        "width": 87.5018623732673,
+        "height": 87.5018623732673
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[stamp]"
+    },
+    {
+      "id": "n-49",
+      "position": {
+        "x": 2400.096117916323,
+        "y": 24.448315322689695
+      },
+      "size": {
+        "width": 135.52068944533684
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#bd0a0a",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong style=\"color:rgb(189,10,10)\">Human Action</strong></p>"
+    },
+    {
+      "id": "n-50",
+      "position": {
+        "x": 4373.230992298575,
+        "y": -42.41310974126759
+      },
+      "size": {
+        "width": 80.56314095162669,
+        "height": 80.56314095162669
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[stamp]"
+    },
+    {
+      "id": "n-51",
+      "position": {
+        "x": 2805.972857755173,
+        "y": -468.3719267557283
+      },
+      "size": {
+        "width": 460.3218651746781,
+        "height": 211.78157387033517
+      },
+      "style": {
+        "fillColor": "#c6dcff",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 15,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 0.5
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-52",
+      "position": {
+        "x": 2793.327001347722,
+        "y": -482.4835295004766
+      },
+      "size": {
+        "width": 460.3218651746781,
+        "height": 211.78157387033517
+      },
+      "style": {
+        "fillColor": "#659df2",
+        "borderColor": "#ffffff",
+        "textColor": "#1a1a1a",
+        "fontSize": 15,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 0.5
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-53",
+      "position": {
+        "x": 2817.376075383023,
+        "y": -500.83025898029405
+      },
+      "size": {
+        "width": 186.80398524218208
+      },
+      "style": {
+        "fontSize": 15,
+        "textColor": "#ffffff",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p>Senior Product Manager</p>"
+    },
+    {
+      "id": "n-54",
+      "position": {
+        "x": 2850.174856821758,
+        "y": -533.0502404591457
+      },
+      "size": {
+        "width": 252.40154811853918
+      },
+      "style": {
+        "fontSize": 33,
+        "textColor": "#ffffff",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong>Daiana Kaplan</strong></p>"
+    },
+    {
+      "id": "n-55",
+      "position": {
+        "x": 2804.4612206533448,
+        "y": -428.5436009947923
+      },
+      "size": {
+        "width": 377.4632636324211
+      },
+      "style": {
+        "fontSize": 10,
+        "textColor": "#ffffff",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p>Hey, thanks for checking out this board. I hope it&#39;s useful to you in your everyday work. Make sure to check out my other templates on the Miroverse!</p>"
+    },
+    {
+      "id": "n-56",
+      "position": {
+        "x": 2664.5809944692655,
+        "y": -508.23707750323524
+      },
+      "size": {
+        "width": 97.70281126773435,
+        "height": 97.70281126773435
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJAY4Bgk%3D/resources/images/3458764517235830606?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-57",
+      "position": {
+        "x": 2748.943737932913,
+        "y": -465.4117827715645
+      },
+      "size": {
+        "width": 49.9393103408488,
+        "height": 12.052221804393026
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#e6e6e6",
+        "textColor": "#1a1a1a",
+        "fontSize": 4,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": "<p><br /></p>"
+    },
+    {
+      "id": "n-58",
+      "position": {
+        "x": 2733.1078483698484,
+        "y": -465.4117827715645
+      },
+      "size": {
+        "width": 6.43429972080223,
+        "height": 6.43429972080223
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[mockup]"
+    },
+    {
+      "id": "n-59",
+      "position": {
+        "x": 2756.2006869019633,
+        "y": -465.4117827715645
+      },
+      "size": {
+        "width": 31.775603059477092
+      },
+      "style": {
+        "fontSize": 5,
+        "textColor": "#1a1a1a",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong style=\"color:rgb(26,26,26)\"><a href=\"https://www.linkedin.com/in/daianakaplan/\">LinkedIn</a></strong></p>"
+    },
+    {
+      "id": "n-60",
+      "position": {
+        "x": 2806.8559255756436,
+        "y": -465.4117827715645
+      },
+      "size": {
+        "width": 55.33218634723067,
+        "height": 12.052221804393026
+      },
+      "style": {
+        "fillColor": "#ffffff",
+        "borderColor": "#e6e6e6",
+        "textColor": "#1a1a1a",
+        "fontSize": 4,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "visualKind": "shape",
+      "title": "<p><br /></p>"
+    },
+    {
+      "id": "n-61",
+      "position": {
+        "x": 2812.9149291529466,
+        "y": -465.4117827715645
+      },
+      "size": {
+        "width": 34.772588281443596
+      },
+      "style": {
+        "fontSize": 5,
+        "textColor": "#1a1a1a",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "visualKind": "text",
+      "title": "<p><strong style=\"color:rgb(26,26,26)\"><a href=\"https://miro.com/miroverse/profile/daiana-kaplan/?social&#61;copy-link?social&#61;copy-link?social&#61;copy-link?social&#61;copy-link\">Miroverse</a></strong></p>"
+    },
+    {
+      "id": "n-62",
+      "position": {
+        "x": 2788.5613731457415,
+        "y": -465.4117827715645
+      },
+      "size": {
+        "width": 6.331727158430386,
+        "height": 6.331727158430386
+      },
+      "style": {
+        "extra": {
+          "url": "https://api.miro.com/v2/boards/uXjVJAY4Bgk%3D/resources/images/3458764517235830605?format=preview&redirect=false"
+        }
+      },
+      "visualKind": "image",
+      "title": ""
+    },
+    {
+      "id": "n-63",
+      "position": {
+        "x": 1758.2234748739297,
+        "y": 381.80497658946695
+      },
+      "size": {
+        "width": 616.9419231467763,
+        "height": 869.8881116369544
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "<h1>Paste transcript here:</h1>"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e-0",
+      "sourceNodeId": "n-30",
+      "targetNodeId": "n-1",
+      "style": {
+        "lineStyle": "solid",
+        "arrowHead": "end",
+        "borderColor": "#333333",
+        "strokeWidth": "2.0",
+        "extra": {
+          "connectorShape": "curved",
+          "sourcePosition": "auto",
+          "targetPosition": "auto"
+        }
+      }
+    }
+  ],
+  "annotations": [],
+  "_metadata": {
+    "extracted_at": "2026-02-23T13:08:40.782837",
+    "total_items": 64,
+    "total_connectors": 1,
+    "frames": 0,
+    "nodes": 64,
+    "edges": 1
+  },
+  "_template": {
+    "name": "ai-meeting-notes",
+    "category": "miroverse",
+    "source": "miroverse",
+    "source_slug": "ai-meeting-notes",
+    "source_board_id": "uXjVJAY4Bgk=",
+    "tags": [
+      "meetings & workshops",
+      "project management",
+      "ai accelerated",
+      "agile",
+      "ai & transformation"
+    ],
+    "extracted_at": "2026-02-23T13:08:40.782888"
+  }
+}

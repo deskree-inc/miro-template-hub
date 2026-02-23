@@ -1,0 +1,451 @@
+{
+  "frames": [
+    {
+      "id": "f-0",
+      "title": "User Stories",
+      "position": {
+        "x": -723.6846020042522,
+        "y": -519.4592895507812
+      },
+      "size": {
+        "width": 1024.800048828123,
+        "height": 1024.800048828125
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-1",
+      "title": "",
+      "position": {
+        "x": -1448.0692138671868,
+        "y": -747.4794560528871
+      },
+      "size": {
+        "width": 359.96917489774637,
+        "height": 568.7597158239136
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-2",
+      "title": "",
+      "position": {
+        "x": -2068.0538013160594,
+        "y": -837.8593139648438
+      },
+      "size": {
+        "width": 559.9999999999999,
+        "height": 388.0000000000005
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    }
+  ],
+  "nodes": [
+    {
+      "id": "n-0",
+      "position": {
+        "x": 512.4000244140615,
+        "y": 512.4000244140625
+      },
+      "size": {
+        "width": 960.8000488281225,
+        "height": 960.8000488281277
+      },
+      "style": {
+        "fillColor": "#c6dcff",
+        "borderColor": "#659df2",
+        "textColor": "#1a1a1a",
+        "fontSize": 34,
+        "fontFamily": "roobert_pro",
+        "borderWidth": 2,
+        "borderStyle": "dotted",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-0",
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-1",
+      "position": {
+        "x": 595.893554687499,
+        "y": 659.3815743582591
+      },
+      "size": {
+        "width": 166.9873046875,
+        "height": 63.89404296875
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "frameId": "f-0",
+      "visualKind": "shape",
+      "title": "[unknown]"
+    },
+    {
+      "id": "n-2",
+      "position": {
+        "x": 428.906494140624,
+        "y": 659.3815743582591
+      },
+      "size": {
+        "width": 166.987060546875,
+        "height": 63.89404296875
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "frameId": "f-0",
+      "visualKind": "shape",
+      "title": "[unknown]"
+    },
+    {
+      "id": "n-3",
+      "position": {
+        "x": 261.919189453124,
+        "y": 659.3815743582591
+      },
+      "size": {
+        "width": 166.9873046875,
+        "height": 63.89404296875
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "frameId": "f-0",
+      "visualKind": "shape",
+      "title": "[unknown]"
+    },
+    {
+      "id": "n-4",
+      "position": {
+        "x": 512.4000244140615,
+        "y": 416.4530029296875
+      },
+      "size": {
+        "width": 320.0,
+        "height": 111.0
+      },
+      "style": {
+        "borderColor": "#305bab"
+      },
+      "frameId": "f-0",
+      "visualKind": "card",
+      "title": "<p>US 1146 — Enable Google Account Login</p>",
+      "body": "<p><strong>User Story:</strong> </p><p>As a first-time user, I want to sign up for the product using my Google account, so that I can start using the core features immediately without creating a new password.</p><p><br /></p><p><strong>Acceptance Criteria:</strong></p><ol><li data-list=\"bullet\"><span class=\"ql-ui\"></span>The user is presented with a &#34;Sign in with Google&#34; button on the login screen.</li><li data-list=\"bullet\"><span class=\"ql-ui\"></span>Selecting the button successfully creates an account and logs the user in on the first attempt.</li><li data-list=\"bullet\"><span class=\"ql-ui\"></span>The system automatically pulls the user&#39;s name and email from the Google profile.</li><li data-list=\"bullet\"><span class=\"ql-ui\"></span>The user is directed to the main product dashboard upon successful login.</li></ol>"
+    },
+    {
+      "id": "n-5",
+      "position": {
+        "x": 512.4000244140615,
+        "y": 311.1428571428569
+      },
+      "size": {
+        "width": 421.71428571428567
+      },
+      "style": {
+        "fontSize": 24,
+        "textColor": "#305bab",
+        "fontFamily": "unknown",
+        "align": "left"
+      },
+      "frameId": "f-0",
+      "visualKind": "text",
+      "title": "<p><strong>Add your story from another board</strong></p>"
+    },
+    {
+      "id": "n-6",
+      "position": {
+        "x": 512.4000244140615,
+        "y": 613.6672886439728
+      },
+      "size": {
+        "width": 534.8571428571428
+      },
+      "style": {
+        "fontSize": 24,
+        "textColor": "#305bab",
+        "fontFamily": "unknown",
+        "align": "center"
+      },
+      "frameId": "f-0",
+      "visualKind": "text",
+      "title": "<p><strong>Or add them directly from your tracking app</strong></p>"
+    },
+    {
+      "id": "n-7",
+      "position": {
+        "x": 210.18669506254753,
+        "y": 160.8571428571433
+      },
+      "size": {
+        "width": 235.56495966857142
+      },
+      "style": {
+        "fontSize": 24,
+        "textColor": "#1a1a1a",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-1",
+      "visualKind": "text",
+      "title": "<p><strong>Add context</strong></p>"
+    },
+    {
+      "id": "n-8",
+      "position": {
+        "x": 210.18669506254753,
+        "y": 239.42857142857173
+      },
+      "size": {
+        "width": 235.56495966428574
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#595959",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "frameId": "f-1",
+      "visualKind": "text",
+      "title": "<p>Drop your User Stories, Acceptance Criteria, or any detailed functional requirement into the frame.</p>"
+    },
+    {
+      "id": "n-9",
+      "position": {
+        "x": 52.202107613673775,
+        "y": 161.91639332796075
+      },
+      "size": {
+        "width": 40.404215227348686,
+        "height": 40.404215227349596
+      },
+      "style": {
+        "fillColor": "#1c1c1e",
+        "borderColor": "#ffffff",
+        "textColor": "#ffffff",
+        "fontSize": 18,
+        "fontFamily": "unknown",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "circle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-1",
+      "visualKind": "shape",
+      "title": "<p><strong>1</strong></p>"
+    },
+    {
+      "id": "n-10",
+      "position": {
+        "x": 210.18669506254753,
+        "y": 342.00000000000017
+      },
+      "size": {
+        "width": 235.56495966857142
+      },
+      "style": {
+        "fontSize": 24,
+        "textColor": "#1a1a1a",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-1",
+      "visualKind": "text",
+      "title": "<p><strong>Run the prompt</strong></p>"
+    },
+    {
+      "id": "n-11",
+      "position": {
+        "x": 210.18669506254753,
+        "y": 446.28571428571394
+      },
+      "size": {
+        "width": 235.56495966428574
+      },
+      "style": {
+        "fontSize": 18,
+        "textColor": "#595959",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "frameId": "f-1",
+      "visualKind": "text",
+      "title": "<p>Click Run above the table to generate a comprehensive, ready-to-execute list of Positive, Negative, and Boundary Test Cases automatically.</p>"
+    },
+    {
+      "id": "n-12",
+      "position": {
+        "x": 52.202107613673775,
+        "y": 343.05925047081763
+      },
+      "size": {
+        "width": 40.404215227348686,
+        "height": 40.404215227349596
+      },
+      "style": {
+        "fillColor": "#1c1c1e",
+        "borderColor": "#ffffff",
+        "textColor": "#ffffff",
+        "fontSize": 18,
+        "fontFamily": "unknown",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "circle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-1",
+      "visualKind": "shape",
+      "title": "<p><strong>2</strong></p>"
+    },
+    {
+      "id": "n-13",
+      "position": {
+        "x": 179.9845874488741,
+        "y": 54.85714285714329
+      },
+      "size": {
+        "width": 295.9691749028571
+      },
+      "style": {
+        "fontSize": 32,
+        "textColor": "#1c1c1e",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-1",
+      "visualKind": "text",
+      "title": "<p><strong>How to</strong></p>"
+    },
+    {
+      "id": "n-14",
+      "position": {
+        "x": 280.00000000000176,
+        "y": 132.5714285714287
+      },
+      "size": {
+        "width": 432.0
+      },
+      "style": {
+        "fontSize": 48,
+        "textColor": "#1c1c1e",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-2",
+      "visualKind": "text",
+      "title": "<p><strong>QA Test Case Generator</strong></p>"
+    },
+    {
+      "id": "n-15",
+      "position": {
+        "x": 279.9999999999995,
+        "y": 272.57142857142867
+      },
+      "size": {
+        "width": 432.0
+      },
+      "style": {
+        "fontSize": 24,
+        "textColor": "#595959",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "frameId": "f-2",
+      "visualKind": "text",
+      "title": "<p>Ideal for accelerating the QA planning phase and ensuring full coverage for every new feature.</p>"
+    },
+    {
+      "id": "n-16",
+      "position": {
+        "x": -51.284577590190565,
+        "y": -1031.8593139648438
+      },
+      "size": {},
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "[data_table_format]"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e-0",
+      "sourceNodeId": "n-9",
+      "targetNodeId": "n-12",
+      "style": {
+        "lineStyle": "dotted",
+        "arrowHead": "none",
+        "borderColor": "#b0b0b0",
+        "strokeWidth": "2.0",
+        "extra": {
+          "connectorShape": "curved",
+          "sourcePosition": "auto",
+          "targetPosition": "auto"
+        }
+      }
+    }
+  ],
+  "annotations": [],
+  "_metadata": {
+    "extracted_at": "2026-02-23T12:59:46.153987",
+    "total_items": 20,
+    "total_connectors": 1,
+    "frames": 3,
+    "nodes": 17,
+    "edges": 1
+  },
+  "_template": {
+    "name": "test-case-generator-qa",
+    "category": "miroverse",
+    "source": "miroverse",
+    "source_slug": "test-case-generator-qa-ai",
+    "source_board_id": "uXjVJ5ojPh8=",
+    "tags": [
+      "strategy & planning",
+      "agile workflows",
+      "ai accelerated"
+    ],
+    "extracted_at": "2026-02-23T12:59:46.154037"
+  }
+}

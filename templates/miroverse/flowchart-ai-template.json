@@ -1,0 +1,812 @@
+{
+  "frames": [
+    {
+      "id": "f-0",
+      "title": "",
+      "position": {
+        "x": -3460.581462640135,
+        "y": -1071.130278279214
+      },
+      "size": {
+        "width": 571.385025105114,
+        "height": 301.9168618791782
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-1",
+      "title": "",
+      "position": {
+        "x": -3460.5814626401343,
+        "y": 766.9907637353471
+      },
+      "size": {
+        "width": 571.3850251051143,
+        "height": 611.0114490586993
+      },
+      "style": {
+        "fillColor": "#f0f0f0"
+      }
+    },
+    {
+      "id": "f-2",
+      "title": "",
+      "position": {
+        "x": -3460.5814626401348,
+        "y": 217.02964487316822
+      },
+      "size": {
+        "width": 571.385025105114,
+        "height": 301.9168618791782
+      },
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": "f-3",
+      "title": "",
+      "position": {
+        "x": -3460.5814626401348,
+        "y": -674.7087243717519
+      },
+      "size": {
+        "width": 571.385025105114,
+        "height": 383.53839157420936
+      },
+      "style": {
+        "fillColor": "#f0f0f0"
+      }
+    }
+  ],
+  "nodes": [
+    {
+      "id": "n-0",
+      "position": {
+        "x": -2880.9954761802665,
+        "y": 66.07121393357909
+      },
+      "size": {
+        "width": 784.0,
+        "height": 1105.4399999999998
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-1",
+      "position": {
+        "x": -1742.3349825422147,
+        "y": 66.07121393357909
+      },
+      "size": {
+        "width": 2112.1652872311533,
+        "height": 685.3197854007343
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "Flowchart Diagram"
+    },
+    {
+      "id": "n-2",
+      "position": {
+        "x": 234.8148893949267,
+        "y": 71.42857142857383
+      },
+      "size": {
+        "width": 381.6297787885714
+      },
+      "style": {
+        "fontSize": 48,
+        "textColor": "#1c1c1e",
+        "fontFamily": "roobert",
+        "align": "left"
+      },
+      "frameId": "f-0",
+      "visualKind": "text",
+      "title": "<p><strong>Flowchart</strong></p>"
+    },
+    {
+      "id": "n-3",
+      "position": {
+        "x": 394.99999999999886,
+        "y": 186.45980469770848
+      },
+      "size": {
+        "width": 702.0
+      },
+      "style": {
+        "fontSize": 36,
+        "textColor": "#595959",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "frameId": "f-0",
+      "visualKind": "text",
+      "title": "<p>Create a flowchart using</p><p>Miro Diagrams</p>"
+    },
+    {
+      "id": "n-4",
+      "position": {
+        "x": 239.9077712052885,
+        "y": 226.0258560422817
+      },
+      "size": {
+        "width": 389.99576189832186
+      },
+      "style": {
+        "fontSize": 28,
+        "textColor": "#1a1a1a",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-1",
+      "visualKind": "text",
+      "title": "<p><strong>Use a documented process or flow as an input to create a visual flowchart</strong></p>"
+    },
+    {
+      "id": "n-5",
+      "position": {
+        "x": 102.0227423127788,
+        "y": 81.7293889916848
+      },
+      "size": {
+        "width": 102.45722608337798,
+        "height": 61.87051944119157
+      },
+      "style": {
+        "fillColor": "#1c1c1e",
+        "borderColor": "#ffffff",
+        "textColor": "#ffffff",
+        "fontSize": 22,
+        "fontFamily": "roobert_pro",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-1",
+      "visualKind": "shape",
+      "title": "<p><strong>Tip </strong></p>"
+    },
+    {
+      "id": "n-6",
+      "position": {
+        "x": 267.2181627370108,
+        "y": 427.4956178327893
+      },
+      "size": {
+        "width": 481.56524458354994
+      },
+      "style": {
+        "fontSize": 22,
+        "textColor": "#595959",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "frameId": "f-1",
+      "visualKind": "text",
+      "title": "<ol><li data-list=\"ordered\"><span class=\"ql-ui\"></span>Bring the documented process that you want to visualize into the document</li><li data-list=\"ordered\"><span class=\"ql-ui\"></span>Describe any other details you want in the  prompt box</li><li data-list=\"ordered\"><span class=\"ql-ui\"></span>Hit run to generate your flowchart</li><li data-list=\"ordered\"><span class=\"ql-ui\"></span>Adjust the diagram as needed and add colors and styling</li></ol>"
+    },
+    {
+      "id": "n-7",
+      "position": {
+        "x": 190.72280230419898,
+        "y": 567.5744362702239
+      },
+      "size": {
+        "width": 328.574523722362
+      },
+      "style": {
+        "fontSize": 22,
+        "textColor": "#595959",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "frameId": "f-1",
+      "visualKind": "text",
+      "title": "<p><em>Adjust the prompt for best results</em></p>"
+    },
+    {
+      "id": "n-8",
+      "position": {
+        "x": -2866.753165172033,
+        "y": -1222.0887092188032
+      },
+      "size": {
+        "width": 2207.0137048134147,
+        "height": 685.319785400734
+      },
+      "style": {
+        "fillColor": "#F5F5F5",
+        "borderColor": "#CCCCCC",
+        "textColor": "#1a1a1a",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": "Flowchart Diagram"
+    },
+    {
+      "id": "n-9",
+      "position": {
+        "x": 171.03366333796293,
+        "y": 330.2063148962499
+      },
+      "size": {
+        "width": 262.06732667592587,
+        "height": 131.03366630422926
+      },
+      "style": {
+        "fillColor": "#FFFFFF",
+        "borderColor": "#000000",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-10",
+      "position": {
+        "x": 554.6162670740741,
+        "y": 330.2063148962499
+      },
+      "size": {
+        "width": 262.06732667592587,
+        "height": 131.03366630422198
+      },
+      "style": {
+        "fillColor": "#FFFFFF",
+        "borderColor": "#000000",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-11",
+      "position": {
+        "x": 924.68359375,
+        "y": 330.20631489624265
+      },
+      "size": {
+        "width": 262.06732667592587,
+        "height": 131.03366630422926
+      },
+      "style": {
+        "fillColor": "#FFFFFF",
+        "borderColor": "#000000",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-12",
+      "position": {
+        "x": 1259.717257087963,
+        "y": 330.20631489624265
+      },
+      "size": {
+        "width": 192.0,
+        "height": 178.75429520828246
+      },
+      "style": {
+        "fillColor": "#FFFFFF",
+        "borderColor": "#000000",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-13",
+      "position": {
+        "x": 1514.0751391759259,
+        "y": 105.51683315211466
+      },
+      "size": {
+        "width": 262.06732667592587,
+        "height": 131.03366630422926
+      },
+      "style": {
+        "fillColor": "#FFFFFF",
+        "borderColor": "#000000",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-14",
+      "position": {
+        "x": 1594.7509204259259,
+        "y": 330.2063148962499
+      },
+      "size": {
+        "width": 262.06732667592587,
+        "height": 131.03366630422198
+      },
+      "style": {
+        "fillColor": "#FFFFFF",
+        "borderColor": "#000000",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-15",
+      "position": {
+        "x": 1594.7509204259259,
+        "y": 579.8029522486197
+      },
+      "size": {
+        "width": 262.06732667592587,
+        "height": 131.03366630422926
+      },
+      "style": {
+        "fillColor": "#FFFFFF",
+        "borderColor": "#000000",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-16",
+      "position": {
+        "x": 1236.11328125,
+        "y": 579.8029522486197
+      },
+      "size": {
+        "width": 262.06732667592587,
+        "height": 131.03366630422926
+      },
+      "style": {
+        "fillColor": "#FFFFFF",
+        "borderColor": "#000000",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-17",
+      "position": {
+        "x": 1941.1316238931904,
+        "y": 105.51683315211466
+      },
+      "size": {
+        "width": 262.06732667592587,
+        "height": 131.03366630422198
+      },
+      "style": {
+        "fillColor": "#FFFFFF",
+        "borderColor": "#000000",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-18",
+      "position": {
+        "x": 1941.1316238931904,
+        "y": 334.8488651032623
+      },
+      "size": {
+        "width": 262.06732667592587,
+        "height": 131.03366630422926
+      },
+      "style": {
+        "fillColor": "#FFFFFF",
+        "borderColor": "#000000",
+        "textColor": "#1a1a1a",
+        "fontSize": 14,
+        "fontFamily": "open_sans",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "rectangle"
+        }
+      },
+      "visualKind": "shape",
+      "title": ""
+    },
+    {
+      "id": "n-19",
+      "position": {
+        "x": 234.8148893949267,
+        "y": 71.42857142857383
+      },
+      "size": {
+        "width": 381.6297787885714
+      },
+      "style": {
+        "fontSize": 48,
+        "textColor": "#1c1c1e",
+        "fontFamily": "roobert",
+        "align": "left"
+      },
+      "frameId": "f-2",
+      "visualKind": "text",
+      "title": "<p><strong>Flowchart</strong></p>"
+    },
+    {
+      "id": "n-20",
+      "position": {
+        "x": 394.99999999999886,
+        "y": 190.04281682169767
+      },
+      "size": {
+        "width": 702.0
+      },
+      "style": {
+        "fontSize": 36,
+        "textColor": "#595959",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "frameId": "f-2",
+      "visualKind": "text",
+      "title": "<p>Create a flowchart with AI and </p><p>iterate and style it using </p><p>Miro Diagrams</p>"
+    },
+    {
+      "id": "n-21",
+      "position": {
+        "x": 245.79201021781432,
+        "y": 234.75411925565064
+      },
+      "size": {
+        "width": 389.99576189832186
+      },
+      "style": {
+        "fontSize": 28,
+        "textColor": "#1a1a1a",
+        "fontFamily": "noto_sans",
+        "align": "left"
+      },
+      "frameId": "f-3",
+      "visualKind": "text",
+      "title": "<p><strong>Use the prompt to create a flowchart with AI and then you can iterate on it and style it as needed</strong></p>"
+    },
+    {
+      "id": "n-22",
+      "position": {
+        "x": 102.02274231277897,
+        "y": 81.72938899168471
+      },
+      "size": {
+        "width": 102.45722608337798,
+        "height": 61.87051944119157
+      },
+      "style": {
+        "fillColor": "#1c1c1e",
+        "borderColor": "#ffffff",
+        "textColor": "#ffffff",
+        "fontSize": 22,
+        "fontFamily": "roobert_pro",
+        "borderWidth": 2,
+        "borderStyle": "normal",
+        "align": "center",
+        "verticalAlign": "middle",
+        "extra": {
+          "shape": "round_rectangle"
+        },
+        "fillOpacity": 1.0
+      },
+      "frameId": "f-3",
+      "visualKind": "shape",
+      "title": "<p><strong>Tip </strong></p>"
+    },
+    {
+      "id": "n-23",
+      "position": {
+        "x": 215.08139113227094,
+        "y": 344.44894224992083
+      },
+      "size": {
+        "width": 328.574523722362
+      },
+      "style": {
+        "fontSize": 22,
+        "textColor": "#595959",
+        "fontFamily": "open_sans",
+        "align": "left"
+      },
+      "frameId": "f-3",
+      "visualKind": "text",
+      "title": "<p><em>Adjust the prompt for best results</em></p>"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e-0",
+      "sourceNodeId": "n-17",
+      "targetNodeId": "n-18",
+      "style": {
+        "lineStyle": "solid",
+        "arrowHead": "end",
+        "borderColor": "#333333",
+        "strokeWidth": "2.0",
+        "extra": {
+          "connectorShape": "elbowed",
+          "sourcePosition": "auto",
+          "targetPosition": "auto"
+        }
+      }
+    },
+    {
+      "id": "e-1",
+      "sourceNodeId": "n-13",
+      "targetNodeId": "n-17",
+      "style": {
+        "lineStyle": "solid",
+        "arrowHead": "end",
+        "borderColor": "#333333",
+        "strokeWidth": "2.0",
+        "extra": {
+          "connectorShape": "elbowed",
+          "sourcePosition": "auto",
+          "targetPosition": "auto"
+        }
+      }
+    },
+    {
+      "id": "e-2",
+      "sourceNodeId": "n-15",
+      "targetNodeId": "n-16",
+      "style": {
+        "lineStyle": "solid",
+        "arrowHead": "end",
+        "borderColor": "#333333",
+        "strokeWidth": "2.0",
+        "extra": {
+          "connectorShape": "elbowed",
+          "sourcePosition": "auto",
+          "targetPosition": "auto"
+        }
+      }
+    },
+    {
+      "id": "e-3",
+      "sourceNodeId": "n-16",
+      "targetNodeId": "n-11",
+      "style": {
+        "lineStyle": "solid",
+        "arrowHead": "end",
+        "borderColor": "#333333",
+        "strokeWidth": "2.0",
+        "extra": {
+          "connectorShape": "elbowed",
+          "sourcePosition": "auto",
+          "targetPosition": "auto"
+        }
+      }
+    },
+    {
+      "id": "e-4",
+      "sourceNodeId": "n-14",
+      "targetNodeId": "n-15",
+      "style": {
+        "lineStyle": "solid",
+        "arrowHead": "end",
+        "borderColor": "#333333",
+        "strokeWidth": "2.0",
+        "extra": {
+          "connectorShape": "elbowed",
+          "sourcePosition": "auto",
+          "targetPosition": "auto"
+        }
+      }
+    },
+    {
+      "id": "e-5",
+      "sourceNodeId": "n-12",
+      "targetNodeId": "n-14",
+      "style": {
+        "lineStyle": "solid",
+        "arrowHead": "end",
+        "borderColor": "#333333",
+        "strokeWidth": "2.0",
+        "extra": {
+          "connectorShape": "elbowed",
+          "sourcePosition": "auto",
+          "targetPosition": "auto"
+        }
+      },
+      "label": "<p>No</p>"
+    },
+    {
+      "id": "e-6",
+      "sourceNodeId": "n-12",
+      "targetNodeId": "n-13",
+      "style": {
+        "lineStyle": "solid",
+        "arrowHead": "end",
+        "borderColor": "#333333",
+        "strokeWidth": "2.0",
+        "extra": {
+          "connectorShape": "elbowed",
+          "sourcePosition": "auto",
+          "targetPosition": "auto"
+        }
+      },
+      "label": "<p>Yes</p>"
+    },
+    {
+      "id": "e-7",
+      "sourceNodeId": "n-11",
+      "targetNodeId": "n-12",
+      "style": {
+        "lineStyle": "solid",
+        "arrowHead": "end",
+        "borderColor": "#333333",
+        "strokeWidth": "2.0",
+        "extra": {
+          "connectorShape": "elbowed",
+          "sourcePosition": "auto",
+          "targetPosition": "auto"
+        }
+      }
+    },
+    {
+      "id": "e-8",
+      "sourceNodeId": "n-10",
+      "targetNodeId": "n-11",
+      "style": {
+        "lineStyle": "solid",
+        "arrowHead": "end",
+        "borderColor": "#333333",
+        "strokeWidth": "2.0",
+        "extra": {
+          "connectorShape": "elbowed",
+          "sourcePosition": "auto",
+          "targetPosition": "auto"
+        }
+      }
+    },
+    {
+      "id": "e-9",
+      "sourceNodeId": "n-9",
+      "targetNodeId": "n-10",
+      "style": {
+        "lineStyle": "solid",
+        "arrowHead": "end",
+        "borderColor": "#333333",
+        "strokeWidth": "2.0",
+        "extra": {
+          "connectorShape": "elbowed",
+          "sourcePosition": "auto",
+          "targetPosition": "auto"
+        }
+      }
+    }
+  ],
+  "annotations": [],
+  "_metadata": {
+    "extracted_at": "2026-02-23T12:25:27.151930",
+    "total_items": 28,
+    "total_connectors": 10,
+    "frames": 4,
+    "nodes": 24,
+    "edges": 10
+  },
+  "_template": {
+    "name": "flowchart-ai-template",
+    "category": "miroverse",
+    "source": "miroverse",
+    "source_slug": "flowchart-template-ai",
+    "source_board_id": "uXjVJ7niMZg=",
+    "tags": [
+      "education"
+    ],
+    "extracted_at": "2026-02-23T12:25:27.151982"
+  }
+}
